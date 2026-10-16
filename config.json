@@ -1,15 +1,18 @@
 {
-  "mailto": "wujimmy2015@gmail.com",
-  "days_back": 30,
-  "keep_days": 90,
-  "max_per_journal": 50,
   "journals": [
-    { "name": "Journal of Public Administration Research and Theory", "issn": "1477-9803" },
-    { "name": "Public Administration Review", "issn": "1540-6210" },
-    { "name": "Public Management Review", "issn": "1471-9045" },
-    { "name": "International Public Management Journal", "issn": "1559-3169" },
-    { "name": "Review of Public Personnel Administration", "issn": "1552-759X" },
-    { "name": "Public Administration", "issn": "1467-9299" },
-    { "name": "The American Review of Public Administration", "issn": "1552-3357" }
-  ]
+    {"name": "Poultry Science", "issn": "1525-3171"},
+    {"name": "British Poultry Science", "issn": "1466-1799"},
+    {"name": "Animal Genetics", "issn": "1365-2052"},
+    {"name": "Genetics Selection Evolution", "issn": "1297-9686"},
+    {"name": "Journal of Animal Science and Biotechnology", "issn": "2049-1891"},
+    {"name": "Journal of Animal Breeding and Genetics", "issn": "1439-0388"},
+    {"name": "Animal Biotechnology", "issn": "1532-2378"},
+    {"name": "Journal of Dairy Science", "issn": "1525-3198"},
+    {"name": "World's Poultry Science Journal", "issn": "1743-4777"},
+    {"name": "Animal", "issn": "1751-732X"},
+    {"name": "Animals", "issn": "2076-2615"},
+    {"name": "Poultry", "issn": "2674-1164"}
+  ],
+  "days_back": 30,
+  "retention_days": 90
 }
