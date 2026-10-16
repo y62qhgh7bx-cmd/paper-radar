@@ -1,4 +1,8 @@
 {
+  "mailto": "88trunk-escrow@icloud.com",
+  "days_back": 30,
+  "keep_days": 90,
+  "max_per_journal": 50,
   "journals": [
     {"name": "Poultry Science", "issn": "1525-3171"},
     {"name": "British Poultry Science", "issn": "1466-1799"},
@@ -12,7 +16,5 @@
     {"name": "Animal", "issn": "1751-732X"},
     {"name": "Animals", "issn": "2076-2615"},
     {"name": "Poultry", "issn": "2674-1164"}
-  ],
-  "days_back": 30,
-  "retention_days": 90
+  ]
 }
