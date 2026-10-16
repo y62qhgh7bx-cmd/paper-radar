@@ -23,7 +23,7 @@ API = "https://api.crossref.org/journals/{issn}/works"
 # Optional abstract translation via the Gemini API. If GEMINI_API_KEY is unset
 # (e.g. local runs), translation is skipped and the site still works.
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-flash-lite-latest"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 
