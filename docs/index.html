@@ -79,6 +79,7 @@
     <button data-filter="star">⭐ Read Later</button>
     <button data-filter="hot">🔥 Top</button>
     <input id="search" type="search" placeholder="Search title / author / journal…">
+    <button id="sync-btn" title="GitHub cross-device sync settings">⚙️ Sync</button>
   </div>
 </header>
 <main id="list"><p class="empty">Loading…</p></main>
@@ -88,6 +89,7 @@
 const PROXY_PREFIX = "https://proxyiub.uits.iu.edu/login?url=";
 
 const LS_KEY = "paper-radar-marks";
+const TOKEN_KEY = "paper-radar-gh-token";
 let marks = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
 let papers = [], filter = "all", query = "";
 
@@ -97,7 +99,77 @@ function toggle(doi, key) {
   marks[doi] = mark(doi);
   marks[doi][key] = !marks[doi][key];
   save(); render();
+  pushMarksToGitHub();
 }
+
+// --- Cross-device sync via GitHub (same pattern as the user's media-tracker project):
+// marks are PUT to a marks.json file in this repo using a Personal Access Token the
+// user enters once per device. The token itself only ever lives in that device's
+// localStorage and is sent directly to api.github.com, never to any other server.
+function getToken() { return localStorage.getItem(TOKEN_KEY) || ""; }
+const GH_OWNER = location.hostname.split(".")[0];
+const GH_REPO = (location.pathname.split("/").filter(Boolean)[0]) || "paper-radar";
+const GH_API = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/marks.json`;
+let marksSha = null;
+let syncChain = Promise.resolve();
+
+function b64encode(str) { return btoa(unescape(encodeURIComponent(str))); }
+function b64decode(str) { return decodeURIComponent(escape(atob(str))); }
+
+async function fetchRemoteMarks() {
+  const token = getToken();
+  if (!token) return;
+  try {
+    const resp = await fetch(GH_API, { headers: { Authorization: `token ${token}` } });
+    if (resp.status === 200) {
+      const data = await resp.json();
+      marksSha = data.sha;
+      marks = JSON.parse(b64decode(data.content));
+      save();
+    } else if (resp.status === 404) {
+      marksSha = null; // marks.json doesn't exist yet; first push will create it
+    } else {
+      console.warn("GitHub sync: fetch failed", resp.status);
+    }
+  } catch (e) { console.warn("GitHub sync: fetch error", e); }
+}
+
+function pushMarksToGitHub() {
+  const token = getToken();
+  if (!token) return;
+  syncChain = syncChain.then(async () => {
+    try {
+      const body = { message: "update marks", content: b64encode(JSON.stringify(marks)) };
+      if (marksSha) body.sha = marksSha;
+      const resp = await fetch(GH_API, {
+        method: "PUT",
+        headers: { Authorization: `token ${token}`, "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+      });
+      if (resp.ok) {
+        const data = await resp.json();
+        marksSha = data.content.sha;
+      } else if (resp.status === 409) {
+        // sha mismatch (another device pushed first): re-fetch then retry once
+        await fetchRemoteMarks();
+        marks = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
+      } else {
+        console.warn("GitHub sync: push failed", resp.status, await resp.text());
+      }
+    } catch (e) { console.warn("GitHub sync: push error", e); }
+  });
+}
+
+document.getElementById("sync-btn").onclick = () => {
+  const current = getToken();
+  const input = prompt(
+    "輸入 GitHub Personal Access Token（需有本repo的 Contents 讀寫權限），留空並確定可清除：",
+    current
+  );
+  if (input === null) return;
+  localStorage.setItem(TOKEN_KEY, input.trim());
+  if (input.trim()) { fetchRemoteMarks().then(render); }
+};
 
 function esc(s) {
   return s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -130,6 +202,7 @@ function render() {
         <span>${esc(p.journal)}</span><span>${p.date}</span>
       </div>
       <div class="title"><a href="${p.url}" target="_blank" rel="noopener">${esc(p.title)}</a></div>
+      ${p.title_zh ? `<div class="title zh" style="font-size:13px;color:#666;margin:-2px 0 4px;">${esc(p.title_zh)}</div>` : ""}
       <div class="authors">${esc(p.authors.slice(0, 6).join(", "))}${p.authors.length > 6 ? " et al." : ""}</div>
       ${p.abstract ? `<div class="abstract" onclick="this.classList.toggle('open')">${esc(p.abstract)}</div>` : ""}
       ${p.abstract_zh ? `<div class="abstract zh" style="display:none" onclick="this.classList.toggle('open')">${esc(p.abstract_zh)}</div>` : ""}
@@ -146,18 +219,20 @@ function render() {
   }).join("");
 }
 
-document.querySelectorAll(".controls button").forEach(b => {
+document.querySelectorAll(".controls button[data-filter]").forEach(b => {
   b.onclick = () => {
-    document.querySelectorAll(".controls button").forEach(x => x.classList.remove("active"));
+    document.querySelectorAll(".controls button[data-filter]").forEach(x => x.classList.remove("active"));
     b.classList.add("active");
     filter = b.dataset.filter; render();
   };
 });
 document.getElementById("search").oninput = e => { query = e.target.value; render(); };
 
-fetch("papers.json?t=" + Date.now())
-  .then(r => r.json())
-  .then(data => {
+Promise.all([
+  fetch("papers.json?t=" + Date.now()).then(r => r.json()),
+  fetchRemoteMarks(),
+])
+  .then(([data]) => {
     papers = data.papers;
     document.getElementById("updated").textContent =
       "Updated: " + data.updated.slice(0, 16).replace("T", " ") + " UTC · " + papers.length + " papers";
