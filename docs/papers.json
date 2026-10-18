@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:49:16+00:00",
+ "updated": "2026-10-18T23:57:41+00:00",
  "papers": [
   {
    "doi": "10.1111/jbg.70080",
@@ -1110,6 +1110,35 @@
     "broiler"
    ],
    "abstract_zh": "本研究旨在評估肉雞餵食 10 種大豆粕（SBM）之標準化礦物質可用率（SMAs），並基於化學特性建立與驗證預測模式。總共 308 隻初始體重相近的肉雞（22 日齡）被隨機分配至 11 個飲食組，每組 7 個重複籠，每籠 4 隻肉雞。在 26 日齡時，肉雞限時 4 小時攝食無礦物質飼糧或 10 種試驗大豆粕配製飼糧。隨後進行 52 小時的糞便收集以測定 SMA。利用其中 9 種大豆粕的數據透過逐步迴歸建立 SMA 預測模式，剩餘的 10 分之 1 大豆粕則隨機用於驗證模式的準確性。大豆粕來源會影響肉雞的 SMA（p < 0.02）。錳（Mn）的標準化可用率（SA）最低，為 30.4%，而鈣（Ca）的 SA 最高，為 66.2%。本研究根據化學特性建立了肉雞大豆粕中鉀（K）、鈣、磷（P）、鋅（Zn）、錳和銅（Cu）等 6 種 SA 的預測模式，其 $R^2$ 值介於 0.487 至 0.964 之間（p < 0.04）。標準化鈣可用率的預測模式具有最佳的配適度（$R^2 = 0.964$，p < 0.001）。相對地，標準化銅可用率的預測模式表現最差（$R^2 = 0.487$，p = 0.037）。除鋅和錳外，鈣、磷、鉀和銅的預測 SA 與實測值大致一致。綜上所述，本研究中所建構的預測模式可作為快速預測肉雞大豆粕中鈣、磷、鉀和銅之 SA 的可靠工具。"
+  },
+  {
+   "doi": "10.1002/age.70225",
+   "title": "A Nelore Cattle Structural Variant Catalog",
+   "abstract": "Structural variants (SVs) contribute more nucleotide divergence between mammalian genomes than single nucleotide polymorphisms, yet no population‐scale, long‐read‐validated SV catalog has been available for Bos indicus cattle. Nelore, the most numerically important indicine breed worldwide, diverges substantially from the taurine‐derived reference genome used for most bovine SV discovery, leaving its structural variation largely uncharacterized. Long‐read sequencing of 20 Nelore bulls with two complementary callers (Sniffles2, SVIM) yielded 82 581 dual‐caller concordant SVs, of which 74 222 insertions and deletions passed independent read‐based validation. Ensembl VEP annotation identified 561 HIGH‐impact variants (0.75% of the catalog) across 7040 protein‐coding genes. Only 22 894 SVs (30.7%), including 147 of 561 HIGH‐impact variants (26.2%), could be tagged by an existing BovineHD SNP ( r 2 ≥ 0.8), showing that routine array genotyping captures a minority of this variation. Intersection with an indicine‐ancestry SNP map identified 6114 SVs (8.2%) enriched in Bos indicus , including 61 HIGH‐impact variants overlapping genes with plausible roles in immune/inflammatory defense and oxidative‐stress response, providing a resource and candidate variant set for genomic selection and tropical‐adaptation studies in indicine cattle.",
+   "authors": [
+    "Thales de Lima Silva",
+    "Alexander S. Leonard",
+    "Pablo Augusto de Souza Fonseca",
+    "Haroldo Henrique de R. Neves",
+    "Alexandre M. Ruiz",
+    "Lucas Tassoni Andrietta",
+    "Gerardo A. Fernandes Júnior",
+    "Júlio Cesar de C. Balieiro",
+    "Hubert Pausch",
+    "Roberto Carvalheiro",
+    "Ricardo Vieira Ventura"
+   ],
+   "journal": "Animal Genetics",
+   "url": "https://doi.org/10.1002/age.70225",
+   "date": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "score": 10.0,
+   "matched": [
+    "cattle",
+    "bovine",
+    "genomic selection"
+   ],
+   "abstract_zh": "相較於單核苷酸多型性，結構變異（SVs）對哺乳動物基因組間的核苷酸差異貢獻更大，然而過去一直缺乏針對印度牛（Bos indicus）的群體規模、長讀長驗證之結構變異目錄。內羅爾牛（Nelore）是全球數量最重要的印度牛品種，與多數牛隻結構變異發現所使用的牛屬參考基因組（源自歐亞牛）存在顯著分化，導致其結構變異在很大程度上仍未被充分解析。本研究對20頭內羅爾公牛進行長讀長定序，並結合兩種互補的呼叫軟體（Sniffles2、SVIM），共得出82,581個雙軟體一致的結構變異，其中74,222個插入與刪除通過了獨立的基於讀長的驗證。Ensembl VEP註釋在7,040個蛋白質編碼基因中識別出561個高影響（HIGH-impact）變異（佔目錄的0.75%）。僅有22,894個結構變異（30.7%）——包含561個高影響變異中的147個（26.2%）——可被現有的BovineHD SNP晶片標記（$r^2 \\ge 0.8$），顯示常規晶片基因型分型僅能捕捉此類變異的一小部分。透過與印度牛祖先成分SNP圖譜交集，識別出6114個在印度牛中顯著富集的結構變異（8.2%），其中包括61個高影響變異，這些變異與在免疫/發炎防禦及氧化壓力反應中具有合理功能的基因重疊，為印度牛的基因體選育與熱帶適應研究提供了資源與候選變異集。"
   },
   {
    "doi": "10.3390/poultry5050066",
@@ -2287,6 +2316,24 @@
    "abstract_zh": "布魯氏菌病是由布魯氏菌屬引起、具有全球重要性的人畜共通傳染病，對畜牧業的可持續發展構成重大阻礙，並威脅公共衛生安全。傳統的布魯氏菌病防控策略存在根本上的侷限性，包括細菌培養耗時且伴隨生物安全風險，以及血清學檢測難以區分自然感染與疫苗誘導免疫。透過基因分型方法準確區分疫苗株與野生型菌株仍是一大挑戰。此外，現行實務依賴人工通報與經驗判斷，缺乏即時數據支援。因此，這些挑戰可能妨礙早期檢測並降低大規模篩檢的效率，導致疫情追蹤不夠精準，無法滿足現代畜牧生產對快速診斷、智慧化防控的實際需求。近年來，人工智慧（AI）與機器學習（ML）技術已廣泛應用於獸醫微生物學領域，為布魯氏菌病的防控提供了新穎的技術途徑。本文綜述了人工智慧在布魯氏菌病快速診斷、布魯氏菌基因體分析與抗生素抗藥性預測、流行病學風險預警以及藥物和疫苗開發應用方面的最新研究進展。我們進一步分析了人工智慧在布魯氏菌病研究中的現有限制，包括高品質標註數據集的匱乏、模型可解釋性不足，以及現場轉化與實施效率低下。本文對基於人工智慧的布魯氏菌病智慧化防控系統的未來發展進行了展望，為人工智慧技術的基礎研究與臨床應用提供了理論參考與創新視角。據我們所知，這是第一篇整合布魯氏菌病全鏈條防控中人工智慧應用，並提出人工智慧驅動之布魯氏菌病智慧化管理概念框架的綜述文獻。"
   },
   {
+   "doi": "10.3390/ani16203253",
+   "title": "From Microbiome Associations to Deployable Precision Probiotics in Animals: A Critical Narrative Review and Proposed Causal Evidence Framework for Next-Generation Probiotic Development",
+   "abstract": "Next-generation probiotics (NGPs) are promoted as precision tools for animal health, yet the term is often applied to uncommon taxa before causality, safety and target-species efficacy are established. This critical narrative review reframes animal NGPs as a development pathway rather than a taxonomic category. A structured PubMed search was last run on 14 September 2026 with a publication date cutoff of 1 September 2026 and was supplemented by citation tracing and targeted searches of authoritative sources. From the screened literature, 45 representative and conceptually informative sources were purposively selected for the final narrative synthesis; the review was not intended to provide systematic or exhaustive coverage. The detailed synthesis focused on terrestrial farm and companion animals, whereas equine, rabbit and aquaculture studies were treated as boundary evidence. We evaluate how strain-resolved metagenomics, culturomics, metatranscriptomics, metaproteomics, metabolomics, host transcriptomics, machine learning, metabolic modeling and perturbation systems can move discovery beyond association. Studies across animal sectors show many biomarkers but limited causal validation, strain tracking, formulation data, multisite trials and ecological safety assessment. We propose an author-developed conceptual framework comprising a cumulative evidence ladder, from reproducible associations to field-ready deployment, and the ANIMAL-NGP reporting checklist (Animal endotype, Native ecological fit, Identity and genomic safety, Mechanism, Administration and manufacturing, and Longitudinal validation). These tools are intended to align claims with evidence and require prospective application and external validation. Multi-omics should therefore function as an evidence-navigation system, not as a substitute for causality.",
+   "authors": [
+    "Shang-Tse Ho",
+    "Ming-Ju Chen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203253",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "score": 1.0,
+   "matched": [
+    "rabbit"
+   ],
+   "abstract_zh": "新一代益生菌（NGPs）被推廣為促進動物健康的精準工具，然而在確立其因果關係、安全性與標的物種效用之前，此術語往往就被應用於罕見的分類群。本篇批判性敘述性文獻回顧將動物新一代益生菌重新界定為一條發展途徑，而非一個分類學範疇。結構化 PubMed 檢索最後於 2026 年 9 月 14 日執行，出版日期截止至 2026 年 9 月 1 日，並輔以引文追蹤及對權威來源的針對性檢索。從篩選出的文獻中，有目的性地選出 45 篇具代表性且具概念性資訊的來源進行最終的敘述性綜合；本回顧並非旨在提供系統性或全面性的涵蓋。詳細的綜合分析聚焦於陸生家畜與伴侶動物，而馬、兔及水產養殖的研究則被視為邊界證據。我們評估了菌株解析巨基因體學、培養體學、巨轉錄體學、巨蛋白質體學、代謝體學、宿主轉錄體學、機器學習、代謝建模與擾動系統如何能推動發現超越單純的相關性。跨動物領域的研究顯示，許多生物標記但有限的因果驗證、菌株追蹤、配方數據、多中心試驗與生態安全性評估。我們提出了一個由作者發展的概念框架，包含一個從可重複的相關性到可現場部署的累積證據階梯，以及 ANIMAL-NGP 報告檢核表（動物內表現型 [Endotype]、原生生態適應性 [Native ecological fit]、身分與基因體安全性 [Identity and genomic safety]、機制 [Mechanism]、給藥與製造 [Administration and manufacturing]、以及縱向驗證 [Longitudinal validation]）。這些工具旨在使宣稱與證據一致，並需要前瞻性應用與外部驗證。因此，多體學應作為一個證據導航系統，而非因果關係的替代品。"
+  },
+  {
    "doi": "10.3390/ani16203252",
    "title": "Association Between Body Condition Score and Early Radiographic Osteotomy Healing Following Tibial Plateau Leveling Osteotomy in Dogs: A Retrospective Study",
    "abstract": "Body condition may be associated with postoperative orthopedic outcomes, but its relationship with early radiographic osteotomy healing following tibial plateau leveling osteotomy (TPLO) remains unclear. This retrospective study evaluated the association between preoperative body condition score (BCS) and early radiographic outcomes after TPLO for canine cranial cruciate ligament disease. Seventy-six stifles from 68 dogs with eligible radiographs obtained 42–70 days postoperatively were included. Radiographic osteotomy healing was assessed using a TPLO-specific modified Radiographic Union Scale for Tibial fractures (mRUST), and tibial plateau angle (TPA) was measured preoperatively, immediately postoperatively, and at follow-up. Seventy-one stifles were evaluable for mRUST and 72 for follow-up TPA. Higher BCS was associated with lower mRUST after adjustment for age, body weight, and follow-up interval (β = −0.433 per BCS point; 95% CI, −0.565 to −0.301; p &lt; 0.001). Higher BCS was also associated with a modestly greater postoperative TPA change in the prespecified secondary analysis (β = +0.340° per BCS point; 95% CI, 0.021–0.659; p = 0.037). Higher preoperative BCS was associated with lower early radiographic osteotomy healing scores and a greater increase in TPA during follow-up after TPLO.",
@@ -2305,24 +2352,6 @@
     "disease"
    ],
    "abstract_zh": "體態可能與術後骨科預后相關，但其與脛骨高原平整術（TPLO）後早期放射學截骨癒合的關係仍不清楚。本回顧性研究評估術前體態評分（BCS）與犬隻前十字韌帶疾病接受TPLO後早期放射學預后之間的關聯。納入了68隻犬的76個膝關節，其具備術後42至70天獲得的合格X光片。使用TPLO專用的改良式脛骨骨折癒合評分量表（mRUST）評估放射學截骨癒合情況，並在術前、術後立即及追蹤時測量脛骨高原角（TPA）。76個膝關節中有71個可評估mRUST，72個可評估追蹤TPA。在調整年齡、體重和追蹤間隔後，較高的BCS與較低的mRUST相關（每個BCS分點之 $\\beta = -0.433$；95% CI, $-0.565$ 至 $-0.301$；$p < 0.001$）。在預先指定的次要分析中，較高的BCS亦與較大的術後TPA變化幅度輕度相關（每個BCS分點之 $\\beta = +0.340^\\circ$；95% CI, $0.021$ 至 $0.659$；$p = 0.037$）。較高的術前BCS與TPLO後較低的早期放射學截骨癒合評分以及追蹤期間較大的TPA增加量相關。"
-  },
-  {
-   "doi": "10.3390/ani16203253",
-   "title": "From Microbiome Associations to Deployable Precision Probiotics in Animals: A Critical Narrative Review and Proposed Causal Evidence Framework for Next-Generation Probiotic Development",
-   "abstract": "Next-generation probiotics (NGPs) are promoted as precision tools for animal health, yet the term is often applied to uncommon taxa before causality, safety and target-species efficacy are established. This critical narrative review reframes animal NGPs as a development pathway rather than a taxonomic category. A structured PubMed search was last run on 14 September 2026 with a publication date cutoff of 1 September 2026 and was supplemented by citation tracing and targeted searches of authoritative sources. From the screened literature, 45 representative and conceptually informative sources were purposively selected for the final narrative synthesis; the review was not intended to provide systematic or exhaustive coverage. The detailed synthesis focused on terrestrial farm and companion animals, whereas equine, rabbit and aquaculture studies were treated as boundary evidence. We evaluate how strain-resolved metagenomics, culturomics, metatranscriptomics, metaproteomics, metabolomics, host transcriptomics, machine learning, metabolic modeling and perturbation systems can move discovery beyond association. Studies across animal sectors show many biomarkers but limited causal validation, strain tracking, formulation data, multisite trials and ecological safety assessment. We propose an author-developed conceptual framework comprising a cumulative evidence ladder, from reproducible associations to field-ready deployment, and the ANIMAL-NGP reporting checklist (Animal endotype, Native ecological fit, Identity and genomic safety, Mechanism, Administration and manufacturing, and Longitudinal validation). These tools are intended to align claims with evidence and require prospective application and external validation. Multi-omics should therefore function as an evidence-navigation system, not as a substitute for causality.",
-   "authors": [
-    "Shang-Tse Ho",
-    "Ming-Ju Chen"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203253",
-   "date": "2026-10-16",
-   "first_seen": "2026-10-16",
-   "score": 1.0,
-   "matched": [
-    "rabbit"
-   ],
-   "abstract_zh": "新一代益生菌（NGPs）被推廣為促進動物健康的精準工具，然而在確立其因果關係、安全性與標的物種效用之前，此術語往往就被應用於罕見的分類群。本篇批判性敘述性文獻回顧將動物新一代益生菌重新界定為一條發展途徑，而非一個分類學範疇。結構化 PubMed 檢索最後於 2026 年 9 月 14 日執行，出版日期截止至 2026 年 9 月 1 日，並輔以引文追蹤及對權威來源的針對性檢索。從篩選出的文獻中，有目的性地選出 45 篇具代表性且具概念性資訊的來源進行最終的敘述性綜合；本回顧並非旨在提供系統性或全面性的涵蓋。詳細的綜合分析聚焦於陸生家畜與伴侶動物，而馬、兔及水產養殖的研究則被視為邊界證據。我們評估了菌株解析巨基因體學、培養體學、巨轉錄體學、巨蛋白質體學、代謝體學、宿主轉錄體學、機器學習、代謝建模與擾動系統如何能推動發現超越單純的相關性。跨動物領域的研究顯示，許多生物標記但有限的因果驗證、菌株追蹤、配方數據、多中心試驗與生態安全性評估。我們提出了一個由作者發展的概念框架，包含一個從可重複的相關性到可現場部署的累積證據階梯，以及 ANIMAL-NGP 報告檢核表（動物內表現型 [Endotype]、原生生態適應性 [Native ecological fit]、身分與基因體安全性 [Identity and genomic safety]、機制 [Mechanism]、給藥與製造 [Administration and manufacturing]、以及縱向驗證 [Longitudinal validation]）。這些工具旨在使宣稱與證據一致，並需要前瞻性應用與外部驗證。因此，多體學應作為一個證據導航系統，而非因果關係的替代品。"
   },
   {
    "doi": "10.1002/age.70205",
@@ -2826,6 +2855,27 @@
    "abstract_zh": "貓隻在轉換至陌生環境（例如進入收容所）的過程中，可能會經歷生理壓力。為了對貓隻進行非侵入性壓力評估，本研究利用液相層析串聯質譜儀（LC/MS/MS）結合吉拉德試劑T（Girard's reagent T）衍生化技術，對糞便糖皮質激素代謝物進行了定量分析。研究針對五種分析物：三種糖皮質激素（皮質醇、皮質酮及可體松）及其糞便代謝物 11β-羥基本膽烷醇酮（11β-hydroxyetiocholanolone）與 11-氧代本膽烷醇酮（11-oxoetiocholanolone）。35隻收容於動物福利中心的貓隻被分為較短收容組（入住未滿2週，n = 16）或較長收容組（入住2週或以上，n = 19）。三種母體糖皮質激素在所有樣本中皆未檢測出波峰，而兩種代謝物則在 35 個樣本中的 28 個被檢測到，且在較短與較長收容組中均呈高度相關（分別為 $\\rho = 0.9316$ 及 $\\rho = 0.9699$）。這兩種代謝物在較短收容組中的濃度均顯著較高（分別為 $p = 0.0036$ 及 $p = 0.0029$），而按性別或絕育狀態分組則未檢測到顯著差異。在培養實驗中，48小時內的濃度變化（$\\le 0.12\\text{ ng/mg}$）小於組間差異（$1.70\\text{–}2.16\\text{ ng/mg}$）。這些研究結果表明，這兩種代謝物具備作為收容所入住相關壓力潛在生物標記的潛力，且其測量方法可能為監測收容貓壓力提供一種實用且非侵入性的方法。"
   },
   {
+   "doi": "10.3390/ani16203231",
+   "title": "Comparative Bioaccumulation of Mineral Elements in Soft Tissues, Shells, and Pearls of Sinohyriopsis cumingii (Lea, 1852) Cultured for Non-Nucleated, Visceral Mass-Nucleated, and Mantle-Nucleated Pearls",
+   "abstract": "The triangle sail mussel Sinohyriopsis cumingii (Lea, 1852) is the world’s leading producer of freshwater pearls. Mineral elements are key components of pearls and affect pearl quality, but their bioaccumulation patterns in the soft tissues, shells, and pearls of this species remain unclear. Inductively coupled plasma mass spectrometry was used to compare the bioaccumulation of essential major elements (Na, Mg, K, Ca), essential trace elements (Cr, Mn, Fe, Co, Ni, Cu, Zn, Se, Mo), and non-essential elements (Al, As, Sr, Ag, Cd, Ba, Tl, Pb) in the soft tissues, shells, and pearls of S. cumingii cultured for non-nucleated, visceral mass-nucleated, and mantle-nucleated pearls. Mg, K, Mn, Zn, and Ba were significantly more concentrated in soft tissues than in shells or pearls, whereas Ca and Sr showed the opposite trend (p &lt; 0.05). Principal component analysis based on Zn, Ca, Mg, Sr, and Mn separated soft tissues from shells and pearls, while a second component based on Mo, Fe, Co, and Ni distinguished non-nucleated from visceral mass-nucleated and mantle-nucleated pearl mussels. Ca–Sr and Sr–Ba were consistently positively correlated in soft tissues across all three culture types (p &lt; 0.05). Notably, Na was frequently involved in negative correlations between tissues: in mussels cultured for non-nucleated pearls, shell Na was negatively correlated with soft tissue K and pearl Na with soft tissue Ba (p &lt; 0.05); in those cultured for visceral mass-nucleated pearls, soft tissue Na was negatively correlated with pearl Mn and Zn (p &lt; 0.05); and in those cultured for mantle-nucleated pearls, pearl Na was negatively correlated with shell Zn (p &lt; 0.05). Collectively, these findings elucidate mineral element bioaccumulation in pearl-producing S. cumingii.",
+   "authors": [
+    "Ibrahim Bah",
+    "Mengying Gu",
+    "Meiyi Wang",
+    "Haibo Li",
+    "Haibo Wen",
+    "Junren Xue",
+    "Xiubao Chen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203231",
+   "date": "2026-10-14",
+   "first_seen": "2026-10-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "三角帆蚌（*Sinohyriopsis cumingii* (Lea, 1852)）是全球最重要的淡水珍珠生產物種。礦物元素是珍珠的關鍵組成部分並會影響珍珠品質，然而其在該物種的軟組織、貝殼和珍珠中的生物累積模式仍不清楚。本研究利用感應耦合漿質體質譜儀（ICP-MS），比較無核珍珠、內臟團有核珍珠及外套膜有核珍珠等三種養殖方式下，三角帆蚌軟組織、貝殼和珍珠中必需巨量元素（Na、Mg、K、Ca）、必需微量元素（Cr、Mn、Fe、Co、Ni、Cu、Zn、Se、Mo）以及非必需元素（Al、As、Sr、Ag、Cd、Ba、Tl、Pb）的生物累積情形。結果顯示，Mg、K、Mn、Zn 和 Ba 在軟組織中的濃度顯著高於貝殼或珍珠，而 Ca 和 Sr 則呈現相反趨勢（p < 0.05）。基於 Zn、Ca、Mg、Sr 和 Mn 的主成分分析將軟組織與貝殼及珍珠區分開來，而基於 Mo、Fe、Co 和 Ni 的第二主成分則將無核珍珠蚌與內臟團有核及外套膜有核珍珠蚌區分開來。在所有三種養殖類型中，軟組織內的 Ca–Sr 和 Sr–Ba 均呈現持續的正相關（p < 0.05）。值得注意的是，Na 經常參與組織間的負相關性：在無核珍珠養殖蚌中，貝殼 Na 與軟組織 K、珍珠 Na 與軟組織 Ba 呈負相關（p < 0.05）；在內臟團有核珍珠養殖蚌中，軟組織 Na 與珍珠 Mn 和 Zn 呈負相關（p < 0.05）；在外套膜有核珍珠養殖蚌中，珍珠 Na 與貝殼 Zn 呈負相關（p < 0.05）。綜上所述，這些發現闡明了產珠三角帆蚌中礦物元素的生物累積特徵。"
+  },
+  {
    "doi": "10.3390/ani16203226",
    "title": "A Marine Bivalve (Entodesma navicula) Extract Suppresses the Replication of Influenza Viruses and Flaviviruses in Association with Reduced MLKL Phosphorylation",
    "abstract": "Emerging influenza viruses and mosquito-borne flaviviruses continue to challenge animal and public health, highlighting the need for antivirals that remain effective after infection. This study evaluated the in vitro activity of a 70% ethanolic whole-specimen extract of the marine bivalve Entodesma navicula (ENE) against influenza A/Puerto Rico/8/1934 (H1N1; A/PR8), A/Wisconsin/15/2009 (H3N2), influenza B/Florida/78/2015, Zika virus, and dengue virus serotype 2. Antiviral activity was assessed using time-of-addition analysis, viability-based cytopathic-effect assays, reverse-transcription quantitative PCR, infectious virus titration, immunofluorescence, Western blotting, and flow cytometry. In the A/PR8 model, pre- and co-treatment produced no consistent inhibition. By contrast, post-infection ENE suppressed all tested viruses. For A/PR8, Zika virus, and dengue virus, this activity was supported by reduced viral genome abundance, infectious progeny, and viral antigen expression. In A/PR8-infected A549 cells, ENE reduced phosphorylation of receptor-interacting serine/threonine-protein kinase 3 (RIPK3) and mixed lineage kinase domain-like pseudokinase (MLKL). ENE also reduced the proportion of cells positive for phosphorylated MLKL within Zika- and dengue-virus-infected Vero E6 populations. These findings identify E. navicula as an underexplored source of post-infection antiviral bioactivity associated with attenuated necroptosis-related signaling. Isolation of active constituents and causal validation in primary cells and animal models are needed.",
@@ -2850,27 +2900,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "新興流感病毒與蚊媒黃熱病毒持續對動物與公共衛生造成挑戰，凸顯出開發在感染後仍具療效之抗病毒藥物的必要性。本研究評估了海洋雙殼類光滑舟蛤（Entodesma navicula）全體 70% 乙醇萃取物（ENE）針對 A 型流感病毒 A/Puerto Rico/8/1934（H1N1；A/PR8）、A/Wisconsin/15/2009（H3N2）、B 型流感病毒 B/Florida/78/2015、茲卡病毒及登革熱病毒第二型之體外活性。抗病毒活性之評估採用加藥時間分析、基於細胞存活率之細胞病變效應檢測、反轉錄定量 PCR、感染性病毒滴定、免疫螢光分析、西方墨漬法及流式細胞術。在 A/PR8 模型中，預先治療與共同治療並未產生一致的抑制效果。相對地，感染後投予 ENE 則能抑制所有受測病毒。針對 A/PR8、茲卡病毒與登革熱病毒，此活性獲得病毒基因體豐度降低、感染性子代減少以及病毒抗原表現下降的支持。在 A/PR8 感染之 A549 細胞中，ENE 降低了受體相互作用絲胺酸／蘇胺酸蛋白激酶 3（RIPK3）及混合譜系激酶域樣假激酶（MLKL）的磷酸化。ENE 同時降低了茲卡病毒與登革熱病毒感染之 Vero E6 細胞群中磷酸化 MLKL 陽性細胞的比例。這些發現指出光滑舟蛤是一個尚未被充分開發的抗病毒生物活性來源，其具備感染後抗病毒活性，並與減弱的壞死性細胞凋亡相關訊息傳遞有關。未來仍需分離出活性成分，並在原代細胞及動物模型中進行因果驗證。"
-  },
-  {
-   "doi": "10.3390/ani16203231",
-   "title": "Comparative Bioaccumulation of Mineral Elements in Soft Tissues, Shells, and Pearls of Sinohyriopsis cumingii (Lea, 1852) Cultured for Non-Nucleated, Visceral Mass-Nucleated, and Mantle-Nucleated Pearls",
-   "abstract": "The triangle sail mussel Sinohyriopsis cumingii (Lea, 1852) is the world’s leading producer of freshwater pearls. Mineral elements are key components of pearls and affect pearl quality, but their bioaccumulation patterns in the soft tissues, shells, and pearls of this species remain unclear. Inductively coupled plasma mass spectrometry was used to compare the bioaccumulation of essential major elements (Na, Mg, K, Ca), essential trace elements (Cr, Mn, Fe, Co, Ni, Cu, Zn, Se, Mo), and non-essential elements (Al, As, Sr, Ag, Cd, Ba, Tl, Pb) in the soft tissues, shells, and pearls of S. cumingii cultured for non-nucleated, visceral mass-nucleated, and mantle-nucleated pearls. Mg, K, Mn, Zn, and Ba were significantly more concentrated in soft tissues than in shells or pearls, whereas Ca and Sr showed the opposite trend (p &lt; 0.05). Principal component analysis based on Zn, Ca, Mg, Sr, and Mn separated soft tissues from shells and pearls, while a second component based on Mo, Fe, Co, and Ni distinguished non-nucleated from visceral mass-nucleated and mantle-nucleated pearl mussels. Ca–Sr and Sr–Ba were consistently positively correlated in soft tissues across all three culture types (p &lt; 0.05). Notably, Na was frequently involved in negative correlations between tissues: in mussels cultured for non-nucleated pearls, shell Na was negatively correlated with soft tissue K and pearl Na with soft tissue Ba (p &lt; 0.05); in those cultured for visceral mass-nucleated pearls, soft tissue Na was negatively correlated with pearl Mn and Zn (p &lt; 0.05); and in those cultured for mantle-nucleated pearls, pearl Na was negatively correlated with shell Zn (p &lt; 0.05). Collectively, these findings elucidate mineral element bioaccumulation in pearl-producing S. cumingii.",
-   "authors": [
-    "Ibrahim Bah",
-    "Mengying Gu",
-    "Meiyi Wang",
-    "Haibo Li",
-    "Haibo Wen",
-    "Junren Xue",
-    "Xiubao Chen"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203231",
-   "date": "2026-10-14",
-   "first_seen": "2026-10-16",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "三角帆蚌（*Sinohyriopsis cumingii* (Lea, 1852)）是全球最重要的淡水珍珠生產物種。礦物元素是珍珠的關鍵組成部分並會影響珍珠品質，然而其在該物種的軟組織、貝殼和珍珠中的生物累積模式仍不清楚。本研究利用感應耦合漿質體質譜儀（ICP-MS），比較無核珍珠、內臟團有核珍珠及外套膜有核珍珠等三種養殖方式下，三角帆蚌軟組織、貝殼和珍珠中必需巨量元素（Na、Mg、K、Ca）、必需微量元素（Cr、Mn、Fe、Co、Ni、Cu、Zn、Se、Mo）以及非必需元素（Al、As、Sr、Ag、Cd、Ba、Tl、Pb）的生物累積情形。結果顯示，Mg、K、Mn、Zn 和 Ba 在軟組織中的濃度顯著高於貝殼或珍珠，而 Ca 和 Sr 則呈現相反趨勢（p < 0.05）。基於 Zn、Ca、Mg、Sr 和 Mn 的主成分分析將軟組織與貝殼及珍珠區分開來，而基於 Mo、Fe、Co 和 Ni 的第二主成分則將無核珍珠蚌與內臟團有核及外套膜有核珍珠蚌區分開來。在所有三種養殖類型中，軟組織內的 Ca–Sr 和 Sr–Ba 均呈現持續的正相關（p < 0.05）。值得注意的是，Na 經常參與組織間的負相關性：在無核珍珠養殖蚌中，貝殼 Na 與軟組織 K、珍珠 Na 與軟組織 Ba 呈負相關（p < 0.05）；在內臟團有核珍珠養殖蚌中，軟組織 Na 與珍珠 Mn 和 Zn 呈負相關（p < 0.05）；在外套膜有核珍珠養殖蚌中，珍珠 Na 與貝殼 Zn 呈負相關（p < 0.05）。綜上所述，這些發現闡明了產珠三角帆蚌中礦物元素的生物累積特徵。"
   },
   {
    "doi": "10.3390/ani16203225",
@@ -2928,6 +2957,27 @@
    "abstract_zh": "一隻6個月齡未絕育的美國比特犬（Canis lupus familiaris）因涉嫌遭受鈍器創傷而接受法醫學評估。死後電腦斷層掃描（PMCT）發現胸膜內呈高衰減的軟組織衰減物質（與凝血塊一致）、胸膜 effusion（胸水）、胸腺肥大，以及中度至重度、伴隨混合液體及較低衰減軟組織衰減物質的顱側縱膈腔擴大。組織學檢查證實為胸腺出血，而屍體解剖則發現血胸、胸膜血塊及縱膈腔積血，並排除創傷的可能性，最符合自發性特發性胸腺出血。本病例凸顯了在法醫學調查中，利用 PMCT 識別高衰減血塊形成（如前哨血塊徵象）以定位生前出血及提升生前與死後病灶關聯性的實用價值。"
   },
   {
+   "doi": "10.3390/ani16203237",
+   "title": "Mango Peel Fermented with Ethanol-Industry Yeast Waste and Urea Modulates In Vitro Rumen Fermentation, Nutrient Degradability, and Methane Concentration",
+   "abstract": "This study evaluated mango peel co-fermented with fresh yeast waste from the ethanol industry and urea (YUFMP) as a ruminant supplement using the in vitro gas-production technique. A 2 × 4 factorial arrangement in a completely randomised design was used, with two roughage-to-concentrate (R:C) ratios (40:60 and 60:40; rice straw as roughage) and four YUFMP levels (0, 2%, 4%, and 6% of substrate dry matter, DM). Co-fermentation raised the crude protein of mango peel from 4.39% to 17.00% DM and reduced its total phenolic content from 100.30 to 73.49 mg GAE/g extract. The 40:60 ratio gave higher in vitro degradability of DM, organic matter, neutral detergent fibre (IVNDFD), and true DM (IVTD) than the 60:40 ratio at 12 and 24 h (p &lt; 0.01), and higher total volatile fatty acids (VFA) at 24 h (65.56 vs. 57.16 mmol/L; p &lt; 0.01). YUFMP increased asymptotic gas production from 87.85 to 100.47–102.58 mL/0.5 g DM (p &lt; 0.01) and cumulative gas production at 12–96 h (p &lt; 0.05), with linear and quadratic trends. At 24 h, IVNDFD and IVTD were highest at 6% YUFMP (47.90 and 69.30%; p &lt; 0.05). The protozoal population declined linearly with YUFMP (12.75 to 9.00 × 105 cells/mL at 24 h; p &lt; 0.01), as did CH4 concentration at 12 h (18.99 to 13.08%) and 24 h (23.21 to 14.93%; both p &lt; 0.01), whereas absolute CH4 volume was unaffected (p &gt; 0.05). YUFMP did not alter total VFA or VFA molar proportions at 24 h and reduced propionate linearly only at 12 h (p &lt; 0.01), indicating that the lower CH4 concentration reflected dilution of CH4 within a larger volume of fermentation gas rather than a redirection of metabolic hydrogen towards propionate. Ruminal pH (6.87–7.04) and ammonia nitrogen were unaffected (p &gt; 0.05). Inclusion at 2–4% DM is recommended for further in vivo evaluation.",
+   "authors": [
+    "Rittikeard Prachumchai",
+    "Bhornchai Harakotr",
+    "Pipat Somparn",
+    "Mayulee Suwannakaew",
+    "Anusorn Cherdthong",
+    "Chanon Suntara",
+    "Saroat Rawdkuen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203237",
+   "date": "2026-10-15",
+   "first_seen": "2026-10-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本研究利用體外產氣技術，評估將芒果皮與乙醇工業新鮮酵母廢棄物及尿素進行共同發酵（YUFMP）作為反芻動物補充料之潛力。試驗採用完全逢機設計之 2 × 4 因子排列，包含兩個粗精糧比（R:C 比例為 40:60 與 60:40；以稻草作為粗料）及四個 YUFMP 添加水準（占基質乾物質 [DM] 之 0%、2%、4% 與 6%）。共同發酵使芒果皮之粗蛋白從乾物質的 4.39% 提升至 17.00%，並將總酚含量從每克萃取物 100.30 毫克沒食子酸當量（GAE）降至 73.49 毫克。在 12 與 24 小時時，40:60 組之乾物質、有機物質、中性洗劑纖維體外分解率（IVNDFD）以及真實乾物質分解率（IVTD）皆高於 60:40 組（p < 0.01），且於 24 小時時具有較高的總揮發性脂肪酸（VFA）（65.56 對 57.16 mmol/L；p < 0.01）。YUFMP 使漸近產氣量從 87.85 增加至 100.47–102.58 mL/0.5 g DM（p < 0.01），並在 12–96 小時顯著增加累積產氣量（p < 0.05），呈線性與二次方趨勢。在 24 小時時，IVNDFD 與 IVTD 在 YUFMP 添加量為 6% 時達到最高（分別為 47.90% 與 69.30%；p < 0.05）。纖毛蟲原蟲數量隨 YUFMP 添加量增加而呈線性下降（24 小時時計數從 12.75 降至 9.00 × 10^5 cells/mL；p < 0.01），12 小時（18.99% 降至 13.08%）與 24 小時（23.21% 降至 14.93%）的 $CH_4$ 濃度亦同（兩者 p < 0.01），但 $CH_4$ 絕對體積則不受影響（p > 0.05）。YUFMP 在 24 小時時未改變總 VFA 或 VFA 莫耳比例，僅在 12 小時時使丙酸呈線性下降（p < 0.01），這顯示 $CH_4$ 濃度的降低反映了 $CH_4$ 在較大發酵氣體體積中的稀釋效應，而非代謝氫轉向丙酸。瘤胃 pH 值（6.87–7.04）與氨態氮則不受影響（p > 0.05）。建議以乾物質 2–4% 的添加量進行後續活體（in vivo）評估。"
+  },
+  {
    "doi": "10.3390/ani16203236",
    "title": "Daily and Seasonal Activity Patterns of the Endemic Balkan Snow Vole (Dinaromys bogdanovi) Within a Sympatric Small Mammal Community",
    "abstract": "Understanding the temporal ecology of endemic species is important for conservation planning in biodiversity hotspots during global climate change and habitat alteration. We used three years of camera-trap monitoring across two deployment periods to quantify daily and seasonal activity patterns of the endemic Balkan snow vole (Dinaromys bogdanovi) and sympatric terrestrial small mammals in Biokovo Nature Park, Croatia, within the Western Balkan glacial refugia. Dinaromys bogdanovi was predominantly nocturnal, with minor but consistent diurnal activity, and shifted from multimodal nocturnal activity in spring, summer and autumn to a unimodal winter peak. Temporal niche differentiation occurred between D. bogdanovi and the sympatric small mammals during some seasons. These differences were associated with nocturnal peak timing and the greater diurnal activity of D. bogdanovi. In summer, the detected taxa showed greater overlap in predominantly nocturnal activity, consistent with a possible influence of thermal conditions on surface activity, although temperature was not measured. We also provide quantitative activity data for the geographically isolated Dinaric population of Eliomys quercinus. This study demonstrates the value of long-term camera trapping for monitoring cryptic small mammals and provides a baseline for evaluating future changes in activity, habitat use and community interactions, supporting conservation planning for endemic species facing climate change and anthropogenic pressures.",
@@ -2950,25 +3000,24 @@
    "abstract_zh": "了解特有物種的時間生態學，對於全球氣候變遷與棲地改變期間生物多樣性熱點的保育規劃至關重要。我們利用跨越兩個部署期間、為期三年的紅外線自動相機監測，量化克羅埃西亞比奧科沃自然公園（位於西巴爾幹冰河避難所）內特有巴爾幹雪田鼠（Dinaromys bogdanovi）及同域分佈陸域小型哺乳動物的日活性與季節性活性模式。巴爾幹雪田鼠主要為夜行性，伴隨少量但持續的日行性活動，其活性模式從春、夏、秋季的多峰夜間活性，轉變為冬季的單峰高峰。在某些季節中，D. bogdanovi 與同域小型哺乳動物之間出現了時間生態位區隔。這些差異與夜間活性高峰的時間點以及 D. bogdanovi 較高的日行性活動有關。在夏季，被偵測到的類群在主要夜行性活動中展現出較高的重疊度，這與熱環境可能對地表活性產生的影響一致（儘管未實際測量溫度）。我們同時提供了地理隔離的迪納拉林睡鼠（Eliomys quercinus）族群之定量活性數據。本研究展示了長期自動相機監測對於監測隱蔽性小型哺乳動物的價值，並為評估未來活性、棲地利用及社群互動的變遷提供了基準，進而支持面對氣候變遷與人為壓力的特有物種保育規劃。"
   },
   {
-   "doi": "10.3390/ani16203237",
-   "title": "Mango Peel Fermented with Ethanol-Industry Yeast Waste and Urea Modulates In Vitro Rumen Fermentation, Nutrient Degradability, and Methane Concentration",
-   "abstract": "This study evaluated mango peel co-fermented with fresh yeast waste from the ethanol industry and urea (YUFMP) as a ruminant supplement using the in vitro gas-production technique. A 2 × 4 factorial arrangement in a completely randomised design was used, with two roughage-to-concentrate (R:C) ratios (40:60 and 60:40; rice straw as roughage) and four YUFMP levels (0, 2%, 4%, and 6% of substrate dry matter, DM). Co-fermentation raised the crude protein of mango peel from 4.39% to 17.00% DM and reduced its total phenolic content from 100.30 to 73.49 mg GAE/g extract. The 40:60 ratio gave higher in vitro degradability of DM, organic matter, neutral detergent fibre (IVNDFD), and true DM (IVTD) than the 60:40 ratio at 12 and 24 h (p &lt; 0.01), and higher total volatile fatty acids (VFA) at 24 h (65.56 vs. 57.16 mmol/L; p &lt; 0.01). YUFMP increased asymptotic gas production from 87.85 to 100.47–102.58 mL/0.5 g DM (p &lt; 0.01) and cumulative gas production at 12–96 h (p &lt; 0.05), with linear and quadratic trends. At 24 h, IVNDFD and IVTD were highest at 6% YUFMP (47.90 and 69.30%; p &lt; 0.05). The protozoal population declined linearly with YUFMP (12.75 to 9.00 × 105 cells/mL at 24 h; p &lt; 0.01), as did CH4 concentration at 12 h (18.99 to 13.08%) and 24 h (23.21 to 14.93%; both p &lt; 0.01), whereas absolute CH4 volume was unaffected (p &gt; 0.05). YUFMP did not alter total VFA or VFA molar proportions at 24 h and reduced propionate linearly only at 12 h (p &lt; 0.01), indicating that the lower CH4 concentration reflected dilution of CH4 within a larger volume of fermentation gas rather than a redirection of metabolic hydrogen towards propionate. Ruminal pH (6.87–7.04) and ammonia nitrogen were unaffected (p &gt; 0.05). Inclusion at 2–4% DM is recommended for further in vivo evaluation.",
+   "doi": "10.3390/ani16203267",
+   "title": "Temporal Dynamics of Reproductive Activity and Sexual Group Maturity of Octopus minor in the Deukryang Bay, Southern Coast of Korea",
+   "abstract": "This study was performed to obtain basic information for the resource management and conservation of Octopus minor, one of the important fishery resources in Korea. O. minor used in this study were collected monthly from May 2022 to August 2023 using a drum-shaped net in Deukryang Bay, southern coast of Korea. The overall sex ratio (female:male) of O. minor was 1:1.03 (n = 322; females = 159, males = 163), with a significantly higher proportion of males at a total weight of 150.1 g and above (p &lt; 0.05). The gonadosomatic index (GSI) of females reached its highest value in July, whereas the reproductive complex index (RCI) showed its lowest value. In males, the RCI reached its highest values in June and July, showing a variation pattern opposite to that of the GSI. Although the timing of changes in GSI, RCI, and gonadal morphology and histology differed between females and males, both sexes exhibited clear seasonal patterns. The main mating and spawning season was estimated as summer (July–August). The oocyte development pattern was synchronous, while the spawning pattern was monocyclic with strict seasonality. The size at 50% sexual group maturity of O. minor was estimated at a total weight and mantle length of 49.5 g and 43.6 mm in females, and 49.7 g and 41.9 mm in males. The information on the main spawning season and size at 50% sexual group maturity obtained from the O. minor population in Deukryang Bay, Korea, can be used to establish a prohibited fishing season and size limit for resource management.",
    "authors": [
-    "Rittikeard Prachumchai",
-    "Bhornchai Harakotr",
-    "Pipat Somparn",
-    "Mayulee Suwannakaew",
-    "Anusorn Cherdthong",
-    "Chanon Suntara",
-    "Saroat Rawdkuen"
+    "Seong Jin Kim",
+    "Hyeon Jin Kim",
+    "So Ryung Shin",
+    "So Hui Kim",
+    "Young Guk Jin",
+    "Jung Sick Lee"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203237",
-   "date": "2026-10-15",
-   "first_seen": "2026-10-16",
+   "url": "https://doi.org/10.3390/ani16203267",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "本研究利用體外產氣技術，評估將芒果皮與乙醇工業新鮮酵母廢棄物及尿素進行共同發酵（YUFMP）作為反芻動物補充料之潛力。試驗採用完全逢機設計之 2 × 4 因子排列，包含兩個粗精糧比（R:C 比例為 40:60 與 60:40；以稻草作為粗料）及四個 YUFMP 添加水準（占基質乾物質 [DM] 之 0%、2%、4% 與 6%）。共同發酵使芒果皮之粗蛋白從乾物質的 4.39% 提升至 17.00%，並將總酚含量從每克萃取物 100.30 毫克沒食子酸當量（GAE）降至 73.49 毫克。在 12 與 24 小時時，40:60 組之乾物質、有機物質、中性洗劑纖維體外分解率（IVNDFD）以及真實乾物質分解率（IVTD）皆高於 60:40 組（p < 0.01），且於 24 小時時具有較高的總揮發性脂肪酸（VFA）（65.56 對 57.16 mmol/L；p < 0.01）。YUFMP 使漸近產氣量從 87.85 增加至 100.47–102.58 mL/0.5 g DM（p < 0.01），並在 12–96 小時顯著增加累積產氣量（p < 0.05），呈線性與二次方趨勢。在 24 小時時，IVNDFD 與 IVTD 在 YUFMP 添加量為 6% 時達到最高（分別為 47.90% 與 69.30%；p < 0.05）。纖毛蟲原蟲數量隨 YUFMP 添加量增加而呈線性下降（24 小時時計數從 12.75 降至 9.00 × 10^5 cells/mL；p < 0.01），12 小時（18.99% 降至 13.08%）與 24 小時（23.21% 降至 14.93%）的 $CH_4$ 濃度亦同（兩者 p < 0.01），但 $CH_4$ 絕對體積則不受影響（p > 0.05）。YUFMP 在 24 小時時未改變總 VFA 或 VFA 莫耳比例，僅在 12 小時時使丙酸呈線性下降（p < 0.01），這顯示 $CH_4$ 濃度的降低反映了 $CH_4$ 在較大發酵氣體體積中的稀釋效應，而非代謝氫轉向丙酸。瘤胃 pH 值（6.87–7.04）與氨態氮則不受影響（p > 0.05）。建議以乾物質 2–4% 的添加量進行後續活體（in vivo）評估。"
+   "abstract_zh": "本研究旨在獲取可用於韓國重要漁業資源之一的小章魚（Octopus minor）資源管理與保育之基礎資訊。本研究所使用的小章魚於2022年5月至2023年8月期間，自韓國南岸得良灣（Deukryang Bay）利用筒型網逐月採集。小章魚的整體性比（雌：雄）為 1:1.03（n = 322；雌性 = 159，雄性 = 163），其中在總重量達 150.1 克及以上的個體中，雄性比例顯著較高（p < 0.05）。雌性生殖腺重量指數（GSI）在 7 月達到最高值，而生殖複合體指數（RCI）則呈現最低值。在雄性方面，RCI 在 6 月和 7 月達到最高值，展現出與 GSI 相反的變動模式。儘管雌雄兩性在 GSI、RCI 以及生殖腺形態學和組織學的變化時間上有所不同，但兩性皆表現出明確的季節性模式。主要交配與產卵期估計為夏季（7月至8月）。卵母細胞發育模式為同步型，而產卵模式則為具嚴格季節性的單次產卵型。小章魚達 50% 性成熟群體的體型，在雌性為總重量 49.5 克、胴長 43.6 毫米；在雄性則為總重量 49.7 克、胴長 41.9 毫米。自韓國得良灣小章魚族群所獲得的主要產卵期及 50% 性成熟群體體型等資訊，可用於制定資源管理的禁漁期與體型限制。"
   },
   {
    "doi": "10.3390/ani16203261",
@@ -2988,26 +3037,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "礦物質對貓狗的眾多生理功能至關重要；然而，隨著寵物飲食日益多元，其礦物質供應的充足性與安全性仍備受關注。本系統性文獻回顧綜合了關於伴侶動物飲食中礦物質組成與充足性的證據，並著重於影響礦物質變異性的飲食因素。透過系統性檢索，篩選出2005年至2025年間發表、評估傳統商業飼料、生肉飲食、植物性飲食、鮮食（家庭自製飲食）及處方飲食中礦物質組成、攝取量或充足性的研究。共有76篇研究符合納入標準，包含58篇分析性研究以及18篇基於估計礦物質攝取量或礦物質含量充足性的研究。鈣和磷是最常被報告的巨量礦物質，鐵、鋅、銅、碘和硒則是評估最頻繁的微量元素。各類飲食中皆出現礦物質缺乏與過量的情況，其中數種替代性飲食資料集及部分傳統商業飼料展現出顯著的變異性。平均礦物質濃度並未呈現一致的方向性差異來區分傳統飲食與替代飲食，價格和商業定位也無法一致地預測充足性。基於攝取量的研究顯示，儘管飲食中的礦物質濃度看似充足，但餵食量仍可能改變其充足性。方法學上的異質性、有限的生體可用率數據以及不一致的毒理學基準限制了解讀性，並突顯出建立更標準化評估方法的必要性。"
-  },
-  {
-   "doi": "10.3390/ani16203267",
-   "title": "Temporal Dynamics of Reproductive Activity and Sexual Group Maturity of Octopus minor in the Deukryang Bay, Southern Coast of Korea",
-   "abstract": "This study was performed to obtain basic information for the resource management and conservation of Octopus minor, one of the important fishery resources in Korea. O. minor used in this study were collected monthly from May 2022 to August 2023 using a drum-shaped net in Deukryang Bay, southern coast of Korea. The overall sex ratio (female:male) of O. minor was 1:1.03 (n = 322; females = 159, males = 163), with a significantly higher proportion of males at a total weight of 150.1 g and above (p &lt; 0.05). The gonadosomatic index (GSI) of females reached its highest value in July, whereas the reproductive complex index (RCI) showed its lowest value. In males, the RCI reached its highest values in June and July, showing a variation pattern opposite to that of the GSI. Although the timing of changes in GSI, RCI, and gonadal morphology and histology differed between females and males, both sexes exhibited clear seasonal patterns. The main mating and spawning season was estimated as summer (July–August). The oocyte development pattern was synchronous, while the spawning pattern was monocyclic with strict seasonality. The size at 50% sexual group maturity of O. minor was estimated at a total weight and mantle length of 49.5 g and 43.6 mm in females, and 49.7 g and 41.9 mm in males. The information on the main spawning season and size at 50% sexual group maturity obtained from the O. minor population in Deukryang Bay, Korea, can be used to establish a prohibited fishing season and size limit for resource management.",
-   "authors": [
-    "Seong Jin Kim",
-    "Hyeon Jin Kim",
-    "So Ryung Shin",
-    "So Hui Kim",
-    "Young Guk Jin",
-    "Jung Sick Lee"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203267",
-   "date": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本研究旨在獲取可用於韓國重要漁業資源之一的小章魚（Octopus minor）資源管理與保育之基礎資訊。本研究所使用的小章魚於2022年5月至2023年8月期間，自韓國南岸得良灣（Deukryang Bay）利用筒型網逐月採集。小章魚的整體性比（雌：雄）為 1:1.03（n = 322；雌性 = 159，雄性 = 163），其中在總重量達 150.1 克及以上的個體中，雄性比例顯著較高（p < 0.05）。雌性生殖腺重量指數（GSI）在 7 月達到最高值，而生殖複合體指數（RCI）則呈現最低值。在雄性方面，RCI 在 6 月和 7 月達到最高值，展現出與 GSI 相反的變動模式。儘管雌雄兩性在 GSI、RCI 以及生殖腺形態學和組織學的變化時間上有所不同，但兩性皆表現出明確的季節性模式。主要交配與產卵期估計為夏季（7月至8月）。卵母細胞發育模式為同步型，而產卵模式則為具嚴格季節性的單次產卵型。小章魚達 50% 性成熟群體的體型，在雌性為總重量 49.5 克、胴長 43.6 毫米；在雄性則為總重量 49.7 克、胴長 41.9 毫米。自韓國得良灣小章魚族群所獲得的主要產卵期及 50% 性成熟群體體型等資訊，可用於制定資源管理的禁漁期與體型限制。"
   },
   {
    "doi": "10.3390/ani16203259",
@@ -3051,26 +3080,6 @@
    "abstract_zh": "離乳壓力誘發的氧化損傷會損害羔羊的生長與健康。本研究探討了甜菊萃取異綠原酸（ICGA）對脂多糖（LPS）誘導損傷的保護作用。試驗選取48隻離乳羔羊（50 ± 2 日齡，15 ± 2.30 公斤），隨機分為四組。CON組和LPS組飼餵基礎日糧；ICGA1組和ICGA2組飼餵添加 1.5 和 2.0 g/kg ICGA 的基礎日糧，持續 14 天。於第 15 天腹腔注射LPS（200 μg/kg 體重）或生理鹽水。結果顯示，ICGA 有增加平均日增重（ADG）的趨勢（p > 0.05）。ICGA 降低了血清中的 IL-6、TNF-α、IL-1β、DAO、D-LA、ET 和 COR 濃度；提高了免疫球蛋白水平；改善了迴腸形態；上調了緊密連接基因及 Nrf2/HO-1 路徑相關基因的表達；並抑制了 TLR4/MyD88/NF-κB 路徑。此外，ICGA 也調節了腸道微生物群。綜上所述，ICGA 可緩解離乳羔羊的發炎與氧化壓力，並改善其腸道屏障功能。"
   },
   {
-   "doi": "10.3390/ani16203263",
-   "title": "Multimodal Postmortem Investigation of Fatal Thoracic Metallic Projectile Trauma in a Jindo Dog: Radiographic, Computed Tomographic, Necropsy, and Histopathological Findings",
-   "abstract": "Metallic projectile injuries in companion animals present complex diagnostic and evidentiary challenges, especially when comprehensive crime scene data and intact projectiles are absent. This report describes the forensic postmortem investigation of an adult male Jindo dog submitted by law enforcement authorities following fatal penetrating trauma in South Korea. Digital radiography identified multiple radiopaque metallic opacities in the left thoracic region, accompanied by severe pleural effusion and subcutaneous emphysema. Postmortem computed tomography (PMCT; 16-slice MDCT, 0.75-mm slice thickness) precisely delineated clustered hyperattenuating metallic fragments embedded in the left thoracic wall, an oblique displaced fracture of the left fourth rib, marked hemopneumothorax with compression atelectasis, and pneumomediastinum, while excluding cranial or abdominal injury. At necropsy, approximately 100 mL of pleural blood was evacuated, and through-and-through pulmonary transcapsular lacerations were identified traversing the right and left cranial lung lobes. Multiple deformed metallic fragments were recovered adjacent to the fractured rib under strict forensic chain-of-custody protocols. Histopathology of pulmonary laceration margins confirmed acute hemorrhage, fibrin deposition, and early neutrophilic margination, establishing an acute antemortem vital reaction (survival interval &lt; 1 h). Histological examination of the cutaneous entry and exit margins revealed mechanical tearing without thermal coagulation or soot residue, consistent with an intermediate-to-distant discharge. The anatomical convergence of lesions supported a right-to-left projectile trajectory, with the left axillary defect presenting features compatible with a shored exit wound. Death was attributed to fatal acute hemopneumothorax and bilateral pulmonary laceration secondary to perforating metallic projectile injury. This case demonstrates the indispensable diagnostic and prosecutorial value of integrating digital radiography, PMCT virtopsy, forensic necropsy, and histopathology in veterinary medicolegal investigations of non-accidental trauma.",
-   "authors": [
-    "Ah-Young Kim",
-    "Jongho Kim",
-    "Hansung Joo",
-    "Sangkyung Cheon",
-    "BokKyung Ku",
-    "Kyunghyun Lee"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203263",
-   "date": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "伴侶動物的金屬彈丸創傷具有複雜的診斷與證據挑戰，特別是在缺乏完整的犯罪現場資料與完整彈丸的情況下。本報告描述了一隻成年雄性珍島犬在南韓發生致命穿透性創傷後，經執法機關移送進行的法醫解剖調查。數位X光攝影顯示左側胸腔有數個放射不透明的金屬陰影，伴隨嚴重的胸水與皮下氣腫。死後電腦斷層掃描（PMCT；16層MDCT，切片厚度0.75公釐）精確描繪出包埋於左側胸壁中的叢聚高衰減金屬碎片、左側第四肋骨斜向位移性骨折、伴隨壓迫性肺萎陷的顯著血氣胸以及縱隔氣腫，同時排除頭部或腹部損傷。在解剖時，抽吸出約100毫升的胸腔血液，並識別出橫跨左右肺葉前端的穿透性肺實質撕裂傷。在嚴格的法醫證據保管鏈（chain-of-custody）規範下，於骨折肋骨旁回收多個變形金屬碎片。肺部撕裂傷邊緣的組織病理學證實有急性出血、纖維蛋白沉積及早期嗜中性球邊緣化，確立了急性生前生命反應（存活時間小於1小時）。皮膚出入口邊緣的組織學檢查顯示機械性撕裂而無熱凝固或煙灰殘留，符合中長距離射擊。病灶的解剖學交會點支持由右至左的彈丸彈道，左側腋下缺損則呈現符合支撐性出口創傷（shored exit wound）的特徵。死因歸咎於穿透性金屬彈丸創傷所導致的致命性急性血氣胸與雙側肺撕裂傷。本案例展示了在非意外創傷的獸醫法醫調查中，整合數位影像X光、PMCT虛擬解剖（virtopsy）、法醫解剖與組織病理學無可替代的診斷與檢方偵辦價值。"
-  },
-  {
    "doi": "10.3390/ani16203258",
    "title": "Refining the Protocol for Equine Umbilical-Cord-Derived Mesenchymal Stem Cell Isolation: A Pilot Study on Resource Efficiency and Cellular Properties",
    "abstract": "Equine mesenchymal stem cells (MSCs) are vital tools for preclinical studies and regenerative medicine, due to their multipotent nature and immunomodulatory potential. Wharton’s jelly provides a non-invasive and abundant source of MSCs. However, the isolation from equine umbilical cord remains challenging, as tissue decontamination is difficult and the enzymatic isolation methods often yield variable amounts of cells. In addition, the established protocols are frequently labour-intensive, time-consuming, and costly. In this pilot study we adapted existing protocols with the aim to improve contamination rates, time commitment and costs. A thorough decontamination method and increased collagenase I digestion time from 3 h in the reference method (RM) to 24 h for the novel method (NM) were employed. Trilineage differentiation, RT-qPCR and flow cytometry were used to characterise both groups. Finally, a non-inferiority analysis was performed to confirm the feasibility of the NM. The changes in protocol led to the decrease in overtime and nightshifts, a faster postisolation expansion by reducing the culture duration by 13.5 ± 11 d, and minimised overall contamination rates (6.3% across 64 samples; RM = 3.1%, NM = 9.4%) compared with most published protocols. Consequently, we were able to reduce the costs per sample by 21 ± 21%.",
@@ -3091,6 +3100,26 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "馬間葉幹細胞（MSCs）因其具備多向分化潛能與免疫調節特性，是進行臨床前研究與再生醫療的重要工具。華頓膠（Wharton’s jelly）提供了豐富且非侵入性的間葉幹細胞來源。然而，從馬臍帶中分離細胞仍具挑戰性，因為組織去 contaminations（消毒/去除污染）困難，且酵素分離方法往往產出不穩定的細胞數量。此外，既有的實驗流程通常耗費人力、時間且成本高昂。在本先導研究中，我們改良了現有的實驗流程，旨在降低污染率、減少所需時間與成本。我們採用了一套徹底的去污染方法，並將膠原酶 I（collagenase I）的消化時間從參考方法（RM）的 3 小時延長至新方法（NM）的 24 小時。本研究使用三向分化（trilineage differentiation）、即時定量反轉錄聚合酶連鎖反應（RT-qPCR）與流式細胞術（flow cytometry）來對兩組細胞進行特性鑑定。最後，進行了非劣性分析（non-inferiority analysis）以確認新方法的可行性。與多數已發表的實驗流程相比，此流程的修改減少了加班與夜班的需求，縮短了培養時間（減少 13.5 ± 11 天）以加快分離後的擴增速度，並將整體污染率降至最低（64 個樣本中的污染率為 6.3%；RM = 3.1%，NM = 9.4%）。因此，我們成功將每個樣本的成本降低了 21 ± 21%。"
+  },
+  {
+   "doi": "10.3390/ani16203263",
+   "title": "Multimodal Postmortem Investigation of Fatal Thoracic Metallic Projectile Trauma in a Jindo Dog: Radiographic, Computed Tomographic, Necropsy, and Histopathological Findings",
+   "abstract": "Metallic projectile injuries in companion animals present complex diagnostic and evidentiary challenges, especially when comprehensive crime scene data and intact projectiles are absent. This report describes the forensic postmortem investigation of an adult male Jindo dog submitted by law enforcement authorities following fatal penetrating trauma in South Korea. Digital radiography identified multiple radiopaque metallic opacities in the left thoracic region, accompanied by severe pleural effusion and subcutaneous emphysema. Postmortem computed tomography (PMCT; 16-slice MDCT, 0.75-mm slice thickness) precisely delineated clustered hyperattenuating metallic fragments embedded in the left thoracic wall, an oblique displaced fracture of the left fourth rib, marked hemopneumothorax with compression atelectasis, and pneumomediastinum, while excluding cranial or abdominal injury. At necropsy, approximately 100 mL of pleural blood was evacuated, and through-and-through pulmonary transcapsular lacerations were identified traversing the right and left cranial lung lobes. Multiple deformed metallic fragments were recovered adjacent to the fractured rib under strict forensic chain-of-custody protocols. Histopathology of pulmonary laceration margins confirmed acute hemorrhage, fibrin deposition, and early neutrophilic margination, establishing an acute antemortem vital reaction (survival interval &lt; 1 h). Histological examination of the cutaneous entry and exit margins revealed mechanical tearing without thermal coagulation or soot residue, consistent with an intermediate-to-distant discharge. The anatomical convergence of lesions supported a right-to-left projectile trajectory, with the left axillary defect presenting features compatible with a shored exit wound. Death was attributed to fatal acute hemopneumothorax and bilateral pulmonary laceration secondary to perforating metallic projectile injury. This case demonstrates the indispensable diagnostic and prosecutorial value of integrating digital radiography, PMCT virtopsy, forensic necropsy, and histopathology in veterinary medicolegal investigations of non-accidental trauma.",
+   "authors": [
+    "Ah-Young Kim",
+    "Jongho Kim",
+    "Hansung Joo",
+    "Sangkyung Cheon",
+    "BokKyung Ku",
+    "Kyunghyun Lee"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203263",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "伴侶動物的金屬彈丸創傷具有複雜的診斷與證據挑戰，特別是在缺乏完整的犯罪現場資料與完整彈丸的情況下。本報告描述了一隻成年雄性珍島犬在南韓發生致命穿透性創傷後，經執法機關移送進行的法醫解剖調查。數位X光攝影顯示左側胸腔有數個放射不透明的金屬陰影，伴隨嚴重的胸水與皮下氣腫。死後電腦斷層掃描（PMCT；16層MDCT，切片厚度0.75公釐）精確描繪出包埋於左側胸壁中的叢聚高衰減金屬碎片、左側第四肋骨斜向位移性骨折、伴隨壓迫性肺萎陷的顯著血氣胸以及縱隔氣腫，同時排除頭部或腹部損傷。在解剖時，抽吸出約100毫升的胸腔血液，並識別出橫跨左右肺葉前端的穿透性肺實質撕裂傷。在嚴格的法醫證據保管鏈（chain-of-custody）規範下，於骨折肋骨旁回收多個變形金屬碎片。肺部撕裂傷邊緣的組織病理學證實有急性出血、纖維蛋白沉積及早期嗜中性球邊緣化，確立了急性生前生命反應（存活時間小於1小時）。皮膚出入口邊緣的組織學檢查顯示機械性撕裂而無熱凝固或煙灰殘留，符合中長距離射擊。病灶的解剖學交會點支持由右至左的彈丸彈道，左側腋下缺損則呈現符合支撐性出口創傷（shored exit wound）的特徵。死因歸咎於穿透性金屬彈丸創傷所導致的致命性急性血氣胸與雙側肺撕裂傷。本案例展示了在非意外創傷的獸醫法醫調查中，整合數位影像X光、PMCT虛擬解剖（virtopsy）、法醫解剖與組織病理學無可替代的診斷與檢方偵辦價值。"
   },
   {
    "doi": "10.3390/ani16203257",
