@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:26:22+00:00",
+ "updated": "2026-10-22T00:29:29+00:00",
  "papers": [
   {
    "doi": "10.1111/jbg.70080",
@@ -180,6 +180,34 @@
     "breeding"
    ],
    "abstract_zh": "背景：胚胎基因體選擇（Embryo genomic selection, EGS）是指在著床前階段進行基因型鑑定與基因體預測的技術。當結合體外胚胎生產方法時，EGS 可提升選拔強度，並具備預防帶有遺傳缺陷或非預期性別後代出生之潛力。鑑於體細胞核移植（somatic cell nuclear transfer, SCNT）技術能將供體豬的遺傳資訊複製至早期胚胎，本研究旨在透過整合 SCNT 與基因體選擇方法學，建立並驗證一套完整的豬隻 EGS 工作流程。\n\n結果：首先，利用從具有已知基因型與表現型之候選豬所採集的供體細胞，建構豬隻 SCNT 胚胎。對 SCNT 胚胎進行的細胞切片顯示，從囊胚中收集約 9.5 個滋養外胚層（trophectoderm, TE）細胞對後續發育的影響最小。其次，針對 TE 切片細胞最佳化全基因組多重置換擴增（multiple displacement amplification）協定，以進行 80K 單核苷酸多型性（SNP）晶片分析。SNP 判讀率（call rate）介於 94.44% 至 99.77% 之間，且 SCNT 胚胎與其供體豬之間的基因型一致性多數超過 95%。最後，利用 GBLUP 與貝氏（Bayesian）方法計算三項生產性狀的基因體預估育種值（GEBVs），並觀察到每個胚胎與其供體之間的 GEBVs 具有高度正相關（r > 0.90）。\n\n結論：本研究建立並驗證了一套完整的豬隻 EGS 工作流程，包含胚胎切片、全基因組擴增、SNP 基因型鑑定及 GEBV 預測。此工作流程為 EGS 應用於豬隻育種提供了技術基礎，並具備透過早期胚胎選拔來加速遺傳改良之潛力。此外，研究結果證明 SCNT 可用於為養豬產業複製優秀的遺傳資源。"
+  },
+  {
+   "doi": "10.1186/s12711-026-01095-0",
+   "title": "Expanding the pig metabolomics QTL catalog",
+   "abstract": "Background Understanding the genetic regulation of metabolism is essential for improving animal health and productivity and for strengthening the use of pigs as translational models for human metabolic diseases. Metabolomics, when integrated with genomic data, provides a powerful framework for identifying genetic factors that influence intermediate molecular phenotypes closely linked to physiology. While large-scale metabolomics genome‑wide association studies (GWAS) have been extensively performed in humans, comparable studies in pigs remain limited. Among omics disciplines, metabolomics, the systematic study of metabolites central to physiology, represents the omics layer most closely linked to end-point phenotypes in mammals, such as health and production traits (e.g. growth rate). Metabolite levels are influenced by genetics, diet, and microbiome composition, with human studies showing high heritability and identifying numerous metabolite quantitative trait loci (mQTLs). While such findings have advanced our understanding of disease biology in humans, comparable studies in pigs remain limited. Results We performed GWAS of the serum metabolome in 213 three‑way crossbred pigs [(Landrace × Yorkshire) × Duroc], analyzing 248 metabolites and 30,628 metabolite ratios. We identified 41 significant metabolite–variant associations, which were consolidated into 18 mQTLs based on linkage disequilibrium (LD). Several regions were associated with multiple, biochemically related metabolites, while others showed highly specific effects. Cross-species comparison with the human GWAS catalog revealed candidate genes within seven mQTLs. Through an integrative prioritization strategy, putative causal genes—predominantly enzymes and transporters—were identified for 14 of 18 mQTLs. Conclusions Our results expand the catalog of genetic loci influencing serum metabolite variation in pigs and highlight both conserved and pig specific components of metabolic regulation. These findings provide a foundation for incorporating metabolomics into pig breeding programs and reinforce the value of pigs as a translational model for studying metabolite-associated traits and diseases in humans.",
+   "authors": [
+    "Emil Ibragimov",
+    "Malene Kjelin Morsing",
+    "Martin Peter Rydal",
+    "Zexi Cai",
+    "Hans Stenlund",
+    "Jens Peter Nielsen",
+    "Merete Fredholm",
+    "Peter Karlskov-Mortensen"
+   ],
+   "journal": "Genetics Selection Evolution",
+   "url": "https://doi.org/10.1186/s12711-026-01095-0",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "score": 25.0,
+   "matched": [
+    "pig",
+    "gwas",
+    "heritability",
+    "breeding",
+    "disease"
+   ],
+   "abstract_zh": "背景：理解代謝的基因調控對於改善動物健康與生產力，以及加強豬隻作為人類代謝疾病轉譯模型的應用至關重要。代謝體學與基因體資料相結合時，為識別影響與生理緊密連結的中間分子表現型的遺傳因素，提供了強大的框架。儘管大規模的代謝體學全基因體關聯研究（GWAS）已在人類中廣泛進行，但豬隻的相關研究仍屬有限。在各體學學門中，代謝體學——對生理核心代謝物進行的系統性研究——代表了哺乳動物中與終點表現型（如健康與生產性狀，例如生長速率）連結最緊密的體學層次。代謝物濃度受遺傳、飲食和微生物相組成的影響，人類研究顯示其具有高度遺傳性，並已識別出許多代謝物數量性狀基因座（mQTL）。雖然這些發現增進了我們對人類疾病生物學的理解，但豬隻的相對研究仍相當有限。結果：我們對 213 頭三元雜交豬 [（藍瑞斯 × 約克夏）× 杜洛克] 的血清代謝體進行了 GWAS，分析了 248 種代謝物和 30,628 種代謝物比值。基於連鎖不平衡（LD），我們識別出 41 個顯著的代謝物－變異關聯，並將其整合為 18 個 mQTL。數個區域與多種生化相關的代謝物相關，而其他區域則表現出高度特異性的效應。與人類 GWAS 資料庫進行的跨物種比較，揭示了位於 7 個 mQTL 內的候選基因。透過整合性優先排序策略，為 18 個 mQTL 中的 14 個識別出可能的因果基因——主要是酵素和轉運蛋白。結論：我們的結果擴展了影響豬隻血清代謝物變異的遺傳基因座目錄，並凸顯了代謝調控中保守性與豬隻特異性的成分。這些發現為將代謝體學納入豬隻育種計畫奠定基礎，並強化了豬隻作為研究人類代謝相關性狀與疾病之轉譯模型的價值。"
   },
   {
    "doi": "10.1111/jbg.70082",
@@ -877,6 +905,30 @@
     "breeding"
    ],
    "abstract_zh": "豬隻育種中的基因體預測模型應預測未來選拔候選者的性能，然而隨機交叉驗證並無法準確反映這種序列設定。在此，我們引入了一種增強型基因體變壓器（enhanced genomic transformer, EGT），它將全基因體 SNP 特徵壓縮成緊湊的符號（tokens），並在訓練過程中結合了可微分的評分項與均方誤差（MSE）。我們針對三個豬隻資料集構建了 70%/10%/20% 的前向驗證資料集，並在 12 項預測任務中評估了單特質與多任務 EGT 變體與 GBLUP、支援向量迴歸、隨機森林、XGBoost、CNN 和 RNN 的表現。表現較佳的 EGT 變體在 12 項預測任務中的 10 項上，其測試集皮爾森相關係數（PCC）高於基準模型，其中以 LDL-C 的改善幅度最大（+0.057）。在 BloodLipid 消融實驗中，僅使用自動編碼器的表示法產生了最高的平均 PCC（0.285），而皮爾森-MSE 目標函數達到了 0.293，相較之下僅使用 MSE 訓練則為 0.291。整合梯度（integrated-gradient）分析揭示了在三個血脂特質中，位於豬隻第 13 號染色體（Sus scrofa chromosome 13）上的一個重複出現的候選區域；對於 HDL-C、LDL-C 和 TG 而言，遮蔽歸因評分最高的特徵比隨機控制（標記數量匹配）更能降低預測效能，而遮蔽則提高了 TCHOL 的測試集 PCC。這項工作建立了跨三個豬隻資料集的前向驗證基準，並報告相關結果以提供豬隻育種中的模型選擇與區域優先排序之參考。"
+  },
+  {
+   "doi": "10.3390/ani16203308",
+   "title": "Estimation of Genomic Breeding Values for Economic Traits in Alxa-Type Cashmere Goats Using Bayesian Methods",
+   "abstract": "Conventional breeding has a long generation interval; genomic selection can enable early selection and shorten the breeding process in cashmere goats. This study aimed to estimate genomic breeding values for economic traits in Inner Mongolia (Alxa-type) cashmere goats using Bayesian methods. Whole-genome resequencing at 1× depth was performed on 491 Alxa-type cashmere goats (40 males and 451 females), and genotypes were imputed to 10× using a reference panel with an average imputation accuracy of 97.90%. Fixed effects were determined by analysis of variance, and breeding values for body weight, cashmere fiber diameter, and cashmere yield were estimated using Bayes A, Bayes B, and Bayes C; prediction accuracy and unbiasedness were evaluated by five-fold cross-validation. Measurement year and group affected all three traits highly significantly (p &lt; 0.01); sex affected body weight and cashmere yield highly significantly (p &lt; 0.01) but no significant effect on cashmere fiber diameter (p &gt; 0.05); and maternal age had a significant effect on body weight (p &lt; 0.05), but no significant effect on cashmere fiber diameter or cashmere yield (p &gt; 0.05); group had a highly significant effect on all three traits (p &lt; 0.01). Breeding values were estimated using Bayes A, Bayes B, and Bayes C, with five-fold cross-validation, and the three methods performed comparably overall in this population.",
+   "authors": [
+    "Jie Quan",
+    "Tiecheng Wu",
+    "Tao Wang",
+    "Junyang Liu",
+    "Mengyu Guo",
+    "Leqi Yi",
+    "Bin Liu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203308",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "score": 14.0,
+   "matched": [
+    "genomic selection",
+    "breeding"
+   ],
+   "abstract_zh": "傳統育種的世代間隔較長，而基因體選擇能實現早期選擇，並縮短喀什米爾羊的育種進程。本研究旨在利用貝氏方法評估內蒙古（阿拉善型）喀什米爾羊經濟性狀的基因體育種值。本研究對491隻阿拉善型喀什米爾羊（40隻公羊和451隻母羊）進行1倍深度的高通量全基因組定序，並利用參考群體將基因型填充至10倍深度，平均填充準確度達97.90%。透過變異數分析確定固定效應，並使用Bayes A、Bayes B和Bayes C方法評估體重、喀什米爾絨纖維直徑和產絨量的育種值；透過五折交叉驗證評估預測準確度與無偏性。測定期與群體對這三個性狀均有極顯著影響（p < 0.01）；性別對體重與產絨量有極顯著影響（p < 0.01），但對喀什米爾絨纖維直徑無顯著影響（p > 0.05）；母齡對體重有顯著影響（p < 0.05），但對喀什米爾絨纖維直徑與產絨量無顯著影響（p > 0.05）；群體對這三個性狀皆有極顯著影響（p < 0.01）。使用Bayes A、Bayes B和Bayes C方法進行育種值估計並結合五折交叉驗證，結果顯示這三種方法在此群體中的整體表現相當。"
   },
   {
    "doi": "10.3390/ani16203276",
@@ -2051,6 +2103,30 @@
    "abstract_zh": "儘管乳用吉爾牛（Dairy Gir）在過去三十年間一直進行線性外貌特徵的選育，但探索這些特徵遺傳架構的研究卻十分稀少。本研究旨在識別吉爾牛品種中肛門生殖器距離與線性外貌特徵的候選基因。在本研究中，共收集了 604 頭平均年齡約 5.69 歲的乳用吉爾牛之體型測量數據，包括臀長（公分，RL）、髂骨寬（公分，ILW）、髖高（公分，HH）、體長（公分，BL）、胸圍（公分，TP）及臀部面積（平方公分，RA），以及肛門生殖器距離（公分，AGD）。譜系檔案包含 2206 個體，其中 742 個體使用不同的 SNP 晶片進行基因分型，並聚集（impute）至 Illumina BovineHD BeadChip（777K）。使用 blupf90+ 程式對所有特徵以及為協助選擇候選基因而建立的表型指數進行全基因體關聯性研究（GWAS）。選取解釋最高百分比加性遺傳變異的前 5 個特徵基因體視窗及前 10 個指數基因體視窗進行基因搜尋。並自所發現的基因中搜尋其生物學過程與轉錄因子。總計為所有七個特徵識別出 90 個基因，其中 17 個具多效性（pleiotropic），亦即它們是成對或成三特徵組合的共同結果。其中，由表型指數識別出的候選基因（染色體）為 CXCL13 (6)、CNOT6L (6)、MRPL1 (6)、CCSER1 (6)、CDH26 (13)、DOCK8 (8)、ZNG1 (8) 及 PGM5 (8)。針對這八個基因，識別出 11 個轉錄因子與 59 個生物學過程。總結來說，BTA6 似乎在吉爾牛的線性外貌特徵中扮演更深層的角色。儘管目前少有研究證實這些基因對體型構造的作用，但基於其生物學過程功能，這八個候選基因皆被推薦用於未來研究，以驗證其對肌肉、骨骼發育或脂肪沉積的作用，這些作用可能會多效性地影響牛隻的線性特徵。"
   },
   {
+   "doi": "10.3390/ani16203279",
+   "title": "Sleep and Drowsiness in Cattle: A Narrative Review of Physiology, Measurement, and Methodological Challenges",
+   "abstract": "Sleep in cattle is a complex physiological state comprising non-rapid eye movement (NREM) and rapid eye movement (REM) sleep, while drowsing represents an intermediate vigilance state between wakefulness and sleep. Research has progressed from invasive electrophysiological recordings to noninvasive polysomnography (PSG), behavioral assessment, accelerometry, and automated classification approaches. However, accurately identifying and quantifying vigilance states under production conditions remains challenging. This narrative review, based on 22 primary studies identified through searches of Web of Science, Scopus and Google Scholar, critically synthesizes current knowledge of sleep physiology in cattle, the approaches used to assess it, and the principal methodological limitations affecting interpretation of the available evidence. Cattle exhibit a polyphasic sleep pattern, with NREM generally accounting for the largest proportion of total sleep. However, reported sleep and drowsing durations vary considerably among studies, and these differences may reflect both biological variation and methodological factors. Drowsing is particularly difficult to characterize because its behavioral and physiological features overlap with quiet wakefulness and light sleep. Rumination represents an additional challenge because associated muscular activity can interfere with electrophysiological recordings and complicate vigilance-state classification. Behavioral observations and accelerometry provide scalable measures of resting and sleep-like behavior but cannot independently establish physiological sleep, whereas PSG provides greater physiological resolution while remaining susceptible to artifacts and practical constraints. Current evidence is insufficient to establish causal relationships between sleep variation and cattle health, welfare, or productive performance. Future research should improve physiological classification during overlapping behavioral states, better validate scalable monitoring approaches, and evaluate the functional consequences of sleep variation across diverse cattle populations and production conditions.",
+   "authors": [
+    "Pedro H. F. Torres",
+    "Fernanda F. Alves",
+    "Maria Eduarda M. Lopes",
+    "Gercino F. Virgínio Júnior",
+    "Bruce F. O’Hara",
+    "Kevin D. Donohue",
+    "Daniel H. M. Watanabe",
+    "Danilo D. Millen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203279",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "score": 5.0,
+   "matched": [
+    "cattle"
+   ],
+   "abstract_zh": "牛隻的睡眠是一個複雜的生理狀態，包含非快速動眼期（NREM）與快速動眼期（REM）睡眠，而打瞌睡則代表清醒與睡眠之間的過渡警覺狀態。相關研究已從侵入式電生理記錄進展至非侵入式多項生理睡眠檢查（PSG）、行為評估、加速度計及自動化分類方法。然而，在生產環境下準確辨識與量化警覺狀態仍然深具挑戰。本篇敘述性文獻回顧透過檢索 Web of Science、Scopus 和 Google Scholar 識別出 22 篇主要研究，批判性地綜合了目前對牛隻睡眠生理學、評估方法，以及影響現有證據判讀之主要方法學限制的理解。牛隻表現出多相性睡眠模式，其中 NREM 通常占總睡眠的最大比例。然而，文獻中報告的睡眠與打瞌睡持續時間在各研究間存在顯著差異，這些差異可能反映了生物學變異與方法學因素。打瞌睡特別難以表徵，因為其行為與生理特徵與安靜清醒及淺眠有所重疊。反芻則是另一項挑戰，因為相關的肌肉活動會干擾電生理記錄並使警覺狀態的分類變得複雜。行為觀察與加速度計提供了休息與類睡眠行為的可擴展測量方法，但無法獨立確立生理上的睡眠；而 PSG 則提供了更高的生理解析度，卻仍易受假影與實務限制的影響。目前的證據尚不足以確立睡眠變異與牛隻健康、福祉或生產表現之間的因果關係。未來的研究應改進重疊行為狀態期間的生理分類，更好地驗證可擴展的監測方法，並評估多樣化牛群與生產條件下睡眠變異的功能性後果。"
+  },
+  {
    "doi": "10.3390/ani16203283",
    "title": "Antimicrobial Resistance Profiles of Staphylococcus spp. Isolated from the Oral Cavity of Captive Wild Mammals at a Zoo in Southern Brazil",
    "abstract": "Antimicrobial resistance in Staphylococcus spp. poses a challenge to One Health due to the potential for transmission among humans, animals, and the environment. This study investigated antimicrobial resistance patterns in Staphylococcus spp. isolates from the oral cavities of non-human primates and wild felids kept in captivity at a zoo in southern Brazil. Samples were collected from Sapajus apella and wild felids (Leopardus pardalis, Leopardus guttulus, Herpailurus yagouaroundi, Leopardus wiedii, Panthera tigris, Puma concolor, Panthera onca). Bacterial isolation and identification were performed using phenotypic methods, followed by antimicrobial susceptibility testing and molecular diagnosis for the detection of Staphylococcus aureus and the mecA gene. Of the Staphylococcus spp. isolates, 64.5% originated from non-human primates and 35.5% from wild felids. S. aureus was identified in 12.9% of the isolates, all from non-human primates. Azithromycin, erythromycin, and sulfamethoxazole-trimethoprim showed 90.3% resistance. Additionally, 80.6% of the isolates were multidrug-resistant (MDR), and 90.3% demonstrated a multiple antibiotic resistance (MAR) index, suggesting possible exposure to antimicrobial selective pressure. These findings demonstrate the circulation of multidrug-resistant Staphylococcus spp. in captive animals and reinforce the importance of antimicrobial resistance surveillance from a One Health perspective.",
@@ -2082,30 +2158,6 @@
     "antimicrobial resistance"
    ],
    "abstract_zh": "葡萄球菌屬（Staphylococcus spp.）的抗生素抗藥性對「健康一體」（One Health）構成了挑戰，因為其具有在人類、動物和環境之間傳播的潛力。本研究旨在調查巴西南部某動物園內收容的非人靈長類動物與野生貓科動物口腔中分離出的葡萄球菌屬之抗生素抗藥性模式。樣本取自黑帽懸猴（Sapajus apella）以及野生貓科動物（豹貓 [Leopardus pardalis]、小斑貓 [Leopardus guttulus]、細腰貓 [Herpailurus yagouaroundi]、長尾貓 [Leopardus wiedii]、老虎 [Panthera tigris]、美洲獅 [Puma concolor]、美洲豹 [Panthera onca]）。細菌分離與鑑定採用表型方法，隨後進行抗生素敏感性試驗，並以分子診斷檢測金黃色葡萄球菌（Staphylococcus aureus）及 mecA 基因。在所有葡萄球菌屬分離株中，64.5% 源自非人靈長類動物，35.5% 源自野生貓科動物。金黃色葡萄球菌佔所有分離株的 12.9%，且全數來自非人靈長類動物。阿奇黴素（azithromycin）、紅黴素（erythromycin）以及磺胺amethoxazole-trimethoprim 表現出 90.3% 的抗藥性。此外，80.6% 的分離株具有多重抗藥性（MDR），90.3% 顯示出多重抗生素抗藥性（MAR）指數，這暗示了這些動物可能曾暴露於抗生素的選擇壓力之下。這些發現證明了多重抗藥性葡萄球菌屬在圈養動物中的流行，並從「健康一體」的視角強化了持續監測抗生素抗藥性的重要性。"
-  },
-  {
-   "doi": "10.3390/ani16203279",
-   "title": "Sleep and Drowsiness in Cattle: A Narrative Review of Physiology, Measurement, and Methodological Challenges",
-   "abstract": "Sleep in cattle is a complex physiological state comprising non-rapid eye movement (NREM) and rapid eye movement (REM) sleep, while drowsing represents an intermediate vigilance state between wakefulness and sleep. Research has progressed from invasive electrophysiological recordings to noninvasive polysomnography (PSG), behavioral assessment, accelerometry, and automated classification approaches. However, accurately identifying and quantifying vigilance states under production conditions remains challenging. This narrative review, based on 22 primary studies identified through searches of Web of Science, Scopus and Google Scholar, critically synthesizes current knowledge of sleep physiology in cattle, the approaches used to assess it, and the principal methodological limitations affecting interpretation of the available evidence. Cattle exhibit a polyphasic sleep pattern, with NREM generally accounting for the largest proportion of total sleep. However, reported sleep and drowsing durations vary considerably among studies, and these differences may reflect both biological variation and methodological factors. Drowsing is particularly difficult to characterize because its behavioral and physiological features overlap with quiet wakefulness and light sleep. Rumination represents an additional challenge because associated muscular activity can interfere with electrophysiological recordings and complicate vigilance-state classification. Behavioral observations and accelerometry provide scalable measures of resting and sleep-like behavior but cannot independently establish physiological sleep, whereas PSG provides greater physiological resolution while remaining susceptible to artifacts and practical constraints. Current evidence is insufficient to establish causal relationships between sleep variation and cattle health, welfare, or productive performance. Future research should improve physiological classification during overlapping behavioral states, better validate scalable monitoring approaches, and evaluate the functional consequences of sleep variation across diverse cattle populations and production conditions.",
-   "authors": [
-    "Pedro H. F. Torres",
-    "Fernanda F. Alves",
-    "Maria Eduarda M. Lopes",
-    "Gercino F. Virgínio Júnior",
-    "Bruce F. O’Hara",
-    "Kevin D. Donohue",
-    "Daniel H. M. Watanabe",
-    "Danilo D. Millen"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203279",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "score": 5.0,
-   "matched": [
-    "cattle"
-   ],
-   "abstract_zh": "牛隻的睡眠是一個複雜的生理狀態，包含非快速動眼期（NREM）與快速動眼期（REM）睡眠，而打瞌睡則代表清醒與睡眠之間的過渡警覺狀態。相關研究已從侵入式電生理記錄進展至非侵入式多項生理睡眠檢查（PSG）、行為評估、加速度計及自動化分類方法。然而，在生產環境下準確辨識與量化警覺狀態仍然深具挑戰。本篇敘述性文獻回顧透過檢索 Web of Science、Scopus 和 Google Scholar 識別出 22 篇主要研究，批判性地綜合了目前對牛隻睡眠生理學、評估方法，以及影響現有證據判讀之主要方法學限制的理解。牛隻表現出多相性睡眠模式，其中 NREM 通常占總睡眠的最大比例。然而，文獻中報告的睡眠與打瞌睡持續時間在各研究間存在顯著差異，這些差異可能反映了生物學變異與方法學因素。打瞌睡特別難以表徵，因為其行為與生理特徵與安靜清醒及淺眠有所重疊。反芻則是另一項挑戰，因為相關的肌肉活動會干擾電生理記錄並使警覺狀態的分類變得複雜。行為觀察與加速度計提供了休息與類睡眠行為的可擴展測量方法，但無法獨立確立生理上的睡眠；而 PSG 則提供了更高的生理解析度，卻仍易受假影與實務限制的影響。目前的證據尚不足以確立睡眠變異與牛隻健康、福祉或生產表現之間的因果關係。未來的研究應改進重疊行為狀態期間的生理分類，更好地驗證可擴展的監測方法，並評估多樣化牛群與生產條件下睡眠變異的功能性後果。"
   },
   {
    "doi": "10.3390/ani16203303",
@@ -2432,6 +2484,25 @@
     "sheep"
    ],
    "abstract_zh": "青藏高原以持續性低壓缺氧為特徵，而藏羚羊（Pantholops hodgsonii）在極端缺氧環境下展現出卓越的運動能力。本研究對 10 隻藏羚羊、10 隻高海拔綿羊和 8 隻低海拔綿羊在常氧、輕度缺氧與重度缺氧條件下的肺部血行動力學、通氣調節、血管活性肽以及心肺超微結構進行了比較分析。研究結果顯示，與高海拔綿羊相比，藏羚羊具有較低的基礎平均肺動脈壓（mPAP），其數值與低海拔綿羊相似。在缺氧條件下，藏羚羊的 mPAP 僅輕微上升，而綿羊則表現出顯著的血管收縮。此外，藏羚羊表現出較低的缺氧通氣反應，這與總通氣量增加的綿羊形成對比。藏羚羊的血漿內皮素-1、一氧化氮合酶、動脈氧分壓和血氧飽和度水準也較低，而各組間的血液 pH 值、二氧化碳分壓和乳酸水準則無顯著差異。超微結構分析表明，藏羚羊具有較高密度的肺泡板層小體和心肌粒線體。這些特徵能最大限度地減少呼吸過程中的能量消耗、預防肺動脈高壓，並在高海拔低氧環境中維持優異的運動能力。"
+  },
+  {
+   "doi": "10.3390/ani16203309",
+   "title": "An Exploratory One Health Assessment of the Human–Animal–Environment Interface in a Swamp Buffalo–Wetland System: A Study in Thale Noi, Thailand",
+   "abstract": "This study aimed to analyze the relationship between buffalo health and the health of participating swamp buffalo keepers under the One Health framework in the Thale Noi wetland, Phatthalung Province, Thailand. An exploratory cross-sectional survey was conducted among 25 participating swamp buffalo keepers using a structured questionnaire covering socio-demographic characteristics, buffalo production systems, and knowledge, attitudes, and practices (KAP) related to zoonotic disease prevention and One Health. Data were analyzed using descriptive statistics. The results showed that most respondents were male (68.0%), had completed primary education (68.0%), and were engaged primarily in agriculture (96.0%). The average age was 57 ± 12 years, with an average of 32 ± 14 years of buffalo-raising experience and 31 ± 41 buffaloes per household. Most buffaloes were raised in wetland grazing systems (92.0%), reflecting local livelihoods’ close dependence on the Thale Noi wetland ecosystem. Respondents demonstrated a moderate-to-high level of knowledge about zoonotic diseases and buffalo health, with an overall knowledge score of 76.4%. However, only 40.0% correctly understood the One Health concept. Attitudes toward disease prevention and integrated health management were highest (mean = 4.53 ± 0.66), while preventive practices were also high (mean = 4.07 ± 1.16). Practices such as consulting veterinarians and maintaining hygiene were widely adopted, although consistent use of personal protective equipment remained relatively low. These findings provide preliminary exploratory evidence of positive attitudes and the adoption of appropriate preventive practices but need greater awareness of the One Health concept. Strengthening integrated education, disease surveillance, and collaborative management among the livestock, public health, and environmental sectors will help sustainably improve the health of buffaloes, humans, and the wetland ecosystem.",
+   "authors": [
+    "Po Patchara Loblay",
+    "Supaporn Somrup",
+    "Uraiwan Tongkaemkaew"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203309",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "score": 3.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": "本研究旨在泰國博他侖府邦叻湖（Thale Noi）溼地，在「健康一體」（One Health）框架下，分析水牛健康與參與水牛飼養者健康之間的關係。本研究對 25 名參與的水牛飼養者進行探索性橫斷面調查，使用結構式問卷涵蓋社會人口學特徵、水牛生產系統，以及與人畜共通傳染病預防和「健康一體」相關的知識、態度與實踐（KAP）。資料採用描述性統計進行分析。結果顯示，多數受訪者為男性（68.0%）、具備國小教育程度（68.0%），且主要從事農業（96.0%）。平均年齡為 57 ± 12 歲，平均水牛飼養經驗為 32 ± 14 年，每戶平均擁有 31 ± 41 頭水牛。多數水牛係以溼地放牧系統飼養（92.0%），反映出當地生計對邦叻湖溼地生態系統的緊密依賴。受訪者對人畜共通傳染病與水牛健康展現出中高水準的知識，整體知識得分為 76.4%。然而，僅有 40.0% 正確理解「健康一體」的概念。對疾病預防與整合性健康管理的態度最高（平均值 = 4.53 ± 0.66），預防實踐亦處於高水準（平均值 = 4.07 ± 1.16）。諸如諮詢獸醫師與維持衛生等實踐已被廣泛採用，不過個人防護裝備的持續使用率仍然相對偏低。這些發現為積極的態度和適當預防實踐的採納提供了初步的探索性證據，但對於「健康一體」概念的認知仍需提升。加強畜牧、公共衛生與環境部門之間的整合性教育、疾病監測及協同管理，將有助於永續改善水牛、人類及溼地生態系統的健康。"
   },
   {
    "doi": "10.1080/00439339.2026.2731346",
@@ -3638,6 +3709,23 @@
    "abstract_zh": "礦物質對貓狗的眾多生理功能至關重要；然而，隨著寵物飲食日益多元，其礦物質供應的充足性與安全性仍備受關注。本系統性文獻回顧綜合了關於伴侶動物飲食中礦物質組成與充足性的證據，並著重於影響礦物質變異性的飲食因素。透過系統性檢索，篩選出2005年至2025年間發表、評估傳統商業飼料、生肉飲食、植物性飲食、鮮食（家庭自製飲食）及處方飲食中礦物質組成、攝取量或充足性的研究。共有76篇研究符合納入標準，包含58篇分析性研究以及18篇基於估計礦物質攝取量或礦物質含量充足性的研究。鈣和磷是最常被報告的巨量礦物質，鐵、鋅、銅、碘和硒則是評估最頻繁的微量元素。各類飲食中皆出現礦物質缺乏與過量的情況，其中數種替代性飲食資料集及部分傳統商業飼料展現出顯著的變異性。平均礦物質濃度並未呈現一致的方向性差異來區分傳統飲食與替代飲食，價格和商業定位也無法一致地預測充足性。基於攝取量的研究顯示，儘管飲食中的礦物質濃度看似充足，但餵食量仍可能改變其充足性。方法學上的異質性、有限的生體可用率數據以及不一致的毒理學基準限制了解讀性，並突顯出建立更標準化評估方法的必要性。"
   },
   {
+   "doi": "10.3390/ani16203259",
+   "title": "Intraocular Pressure in Clinically Normal Alpacas: A Systematic Review and Meta-Analysis of Tono-Pen and TonoVet Tonometry",
+   "abstract": "Intraocular pressure (IOP) is a critical physiological indicator of ocular health in canines, felines, and equines, yet a precise, tool-independent baseline remains inconsistent in South American camelids. This study quantitatively evaluated the comparability and potential bias between Tono-Pen applanation and TonoVet rebound tonometry in clinically normal alpacas (Vicugna pacos). Following a systematic review of the literature published between 1990 and 2026 across MEDLINE, Web of Science, and CAB abstracts, data from six eligible studies encompassing 320 healthy eyes were extracted, including 500 tests. Tono-Pen pooled mean: 15.84 mmHg (95% CI: 14.06–17.62) and TonoVet pooled mean: 15.89 mmHg (95% CI: 13.79–17.99), respectively. Paired comparison demonstrated a clinically negligible pooled mean difference of +0.58 mmHg (95% CI: −1.85 to +3.02) between devices. Subgroup and meta-regression analyses confirmed that tonometer type did not significantly influence IOP measurements (β = −0.36 mmHg; 95% CI: −4.86 to +4.17; p = 0.85), though notable heterogeneity existed (tau2 ≒ 1.74–2.60; I2 &gt; 90%) due to variations in populations and operator techniques. In conclusion, both Tono-Pen and TonoVet yield comparable intraocular pressure measurements. These findings provide an evidence-based pooled estimate of normal intraocular pressure in healthy alpacas, which is crucial for diagnosing ophthalmic pathologies like glaucoma and uveitis in camelid veterinary medicine.",
+   "authors": [
+    "Yu-Ting Hsiao",
+    "Pei-Chuan Hsu",
+    "Jyh-Mirn Lai"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203259",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "眼壓（Intraocular pressure, IOP）是評估犬、貓和馬匹眼部健康的重要生理指標，然而在南美洲駱駝科動物中，精確且不依賴特定工具的基準值仍不一致。本研究量化評估了臨床正常羊駝（Vicugna pacos）使用 Tono-Pen 平面壓平式眼壓計與 TonoVet 反彈式眼壓計之間的具體可比性與潛在偏差。透過系統性回顧 1990 年至 2026 年間發表於 MEDLINE、Web of Science 和 CAB abstracts 的文獻，萃取了包含 6 項符合條件的研究數據，共計涵蓋 320 隻健康眼及 500 次測試。Tono-Pen 合併平均值為 15.84 mmHg（95% 信賴區間：14.06–17.62），TonoVet 合併平均值為 15.89 mmHg（95% 信賴區間：13.79–17.99）。配對比較顯示，兩款儀器間的合併平均差異為 +0.58 mmHg（95% 信賴區間：−1.85 至 +3.02），在臨床上可忽略不計。次群組與統合迴歸分析證實，眼壓計類型並未顯著影響眼壓測量值（β = −0.36 mmHg；95% 信賴區間：−4.86 至 +4.17；p = 0.85），惟族群與操作者技術的差異導致了顯著的異質性（tau2 ≒ 1.74–2.60；I2 > 90%）。總結而言，Tono-Pen 與 TonoVet 皆能產生具可比性的眼壓測量結果。這些發現為健康羊駝的正常眼壓提供了基於證據的合併估算值，這對駱駝科動物獸醫學中診斷如青光眼和葡萄膜炎等眼科病變至關重要。"
+  },
+  {
    "doi": "10.3390/ani16203256",
    "title": "Dietary Stevia-Derived Isochlorogenic Acid Attenuates LPS-Induced Ileal Injury and Is Associated with Altered TLR4/MyD88/NF-κB and Nrf2/HO-1 Gene Expression in Weaned Lambs",
    "abstract": "Weaning stress-induced oxidative damage impairs lamb growth and health. This study explored the protective effects of stevia-derived isochlorogenic acid (ICGA) against lipopolysaccharide (LPS)-induced injury in 48 weaned lambs (50 ± 2 d old, 15 ± 2.30 kg), randomly allocated to four groups. CON and LPS groups received a basal diet; ICGA1 and ICGA2 received a basal diet with 1.5 and 2.0 g/kg ICGA for 14 d. On day 15, LPS (200 μg/kg BW) or saline was injected intraperitoneally. ICGA showed a trend to increase ADG (p &gt; 0.05). ICGA reduced serum IL-6, TNF-α, IL-1β, DAO, D-LA, ET, and COR; elevated immunoglobulins; improved ileal morphology; upregulated tight junction genes and Nrf2/HO-1 pathway genes; and suppressed the TLR4/MyD88/NF-κB pathway. ICGA also modulated gut microbiota. In conclusion, ICGA alleviates inflammation and oxidative stress and improves intestinal barrier function in weaned lambs.",
@@ -3660,23 +3748,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "離乳壓力誘發的氧化損傷會損害羔羊的生長與健康。本研究探討了甜菊萃取異綠原酸（ICGA）對脂多糖（LPS）誘導損傷的保護作用。試驗選取48隻離乳羔羊（50 ± 2 日齡，15 ± 2.30 公斤），隨機分為四組。CON組和LPS組飼餵基礎日糧；ICGA1組和ICGA2組飼餵添加 1.5 和 2.0 g/kg ICGA 的基礎日糧，持續 14 天。於第 15 天腹腔注射LPS（200 μg/kg 體重）或生理鹽水。結果顯示，ICGA 有增加平均日增重（ADG）的趨勢（p > 0.05）。ICGA 降低了血清中的 IL-6、TNF-α、IL-1β、DAO、D-LA、ET 和 COR 濃度；提高了免疫球蛋白水平；改善了迴腸形態；上調了緊密連接基因及 Nrf2/HO-1 路徑相關基因的表達；並抑制了 TLR4/MyD88/NF-κB 路徑。此外，ICGA 也調節了腸道微生物群。綜上所述，ICGA 可緩解離乳羔羊的發炎與氧化壓力，並改善其腸道屏障功能。"
-  },
-  {
-   "doi": "10.3390/ani16203259",
-   "title": "Intraocular Pressure in Clinically Normal Alpacas: A Systematic Review and Meta-Analysis of Tono-Pen and TonoVet Tonometry",
-   "abstract": "Intraocular pressure (IOP) is a critical physiological indicator of ocular health in canines, felines, and equines, yet a precise, tool-independent baseline remains inconsistent in South American camelids. This study quantitatively evaluated the comparability and potential bias between Tono-Pen applanation and TonoVet rebound tonometry in clinically normal alpacas (Vicugna pacos). Following a systematic review of the literature published between 1990 and 2026 across MEDLINE, Web of Science, and CAB abstracts, data from six eligible studies encompassing 320 healthy eyes were extracted, including 500 tests. Tono-Pen pooled mean: 15.84 mmHg (95% CI: 14.06–17.62) and TonoVet pooled mean: 15.89 mmHg (95% CI: 13.79–17.99), respectively. Paired comparison demonstrated a clinically negligible pooled mean difference of +0.58 mmHg (95% CI: −1.85 to +3.02) between devices. Subgroup and meta-regression analyses confirmed that tonometer type did not significantly influence IOP measurements (β = −0.36 mmHg; 95% CI: −4.86 to +4.17; p = 0.85), though notable heterogeneity existed (tau2 ≒ 1.74–2.60; I2 &gt; 90%) due to variations in populations and operator techniques. In conclusion, both Tono-Pen and TonoVet yield comparable intraocular pressure measurements. These findings provide an evidence-based pooled estimate of normal intraocular pressure in healthy alpacas, which is crucial for diagnosing ophthalmic pathologies like glaucoma and uveitis in camelid veterinary medicine.",
-   "authors": [
-    "Yu-Ting Hsiao",
-    "Pei-Chuan Hsu",
-    "Jyh-Mirn Lai"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203259",
-   "date": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "眼壓（Intraocular pressure, IOP）是評估犬、貓和馬匹眼部健康的重要生理指標，然而在南美洲駱駝科動物中，精確且不依賴特定工具的基準值仍不一致。本研究量化評估了臨床正常羊駝（Vicugna pacos）使用 Tono-Pen 平面壓平式眼壓計與 TonoVet 反彈式眼壓計之間的具體可比性與潛在偏差。透過系統性回顧 1990 年至 2026 年間發表於 MEDLINE、Web of Science 和 CAB abstracts 的文獻，萃取了包含 6 項符合條件的研究數據，共計涵蓋 320 隻健康眼及 500 次測試。Tono-Pen 合併平均值為 15.84 mmHg（95% 信賴區間：14.06–17.62），TonoVet 合併平均值為 15.89 mmHg（95% 信賴區間：13.79–17.99）。配對比較顯示，兩款儀器間的合併平均差異為 +0.58 mmHg（95% 信賴區間：−1.85 至 +3.02），在臨床上可忽略不計。次群組與統合迴歸分析證實，眼壓計類型並未顯著影響眼壓測量值（β = −0.36 mmHg；95% 信賴區間：−4.86 至 +4.17；p = 0.85），惟族群與操作者技術的差異導致了顯著的異質性（tau2 ≒ 1.74–2.60；I2 > 90%）。總結而言，Tono-Pen 與 TonoVet 皆能產生具可比性的眼壓測量結果。這些發現為健康羊駝的正常眼壓提供了基於證據的合併估算值，這對駱駝科動物獸醫學中診斷如青光眼和葡萄膜炎等眼科病變至關重要。"
   },
   {
    "doi": "10.3390/ani16203258",
@@ -3808,25 +3879,6 @@
    "abstract_zh": "魚類組織病理學中的鰓部組織學廣泛應用於魚類毒理學，但病灶評分與標靶測量僅能捕捉常規切片中部分結構資訊。我們測試了形態測量學輪廓是否能量化成年斑馬魚鰓部與阿伏苯宗（avobenzone）相關的改變。40倍率數據集包含來自35隻成年斑馬魚的鰓部切片，涵蓋影像數據集中的五種條件：4天溶劑對照組，以及暴露於公稱濃度3或9 μg/L阿伏苯宗4天或21天的魚隻。從750個視野中，經由品質控制與自動分割產生503個可接受的光罩；其中360個視野（每種條件72個）用於平衡分析。39個描述符可用於量化組織幾何形狀、鰓板間隙、樹枝狀組織結構以及厚度異質性。驗證重複進行30次，每隻魚的所有視野均保留在同一分割區中。時間相符的4天對照組與暴露組比較達到 89.4 ± 4.1% 的平衡準確率。在4天時，3與9 μg/L的比較達到 88.7 ± 4.6%，而9 μg/L組內4天與21天的比較達到 88.5 ± 5.0%。直接進行五種條件分類的效能較低（68.4 ± 5.1%）。由於未納入21天對照組影像，與暴露相關的推論僅限於時間相符的4天比較。形態測量學輪廓為傳統組織病理學提供了定量互補，同時將個別魚隻身分保留作為影像分析的分組單位。"
   },
   {
-   "doi": "10.3390/ani16203292",
-   "title": "Cardiovascular Responses and Energy Expenditure During a Standardized Training Programme in Three-Year-Old Czech Warmblood Stallions",
-   "abstract": "Background: Early training represents an important period in the development of young sport horses, yet field-based information on cardiovascular responses and estimated energy expenditure across different exercise modalities remains limited. Objectives: This study aimed to characterize heart rate (HR) responses and estimate energy expenditure in three-year-old Czech Warmblood stallions during an 18-week standardized training programme, with emphasis on exercise modality and temporal variation. Hypothesis: We hypothesized that HR responses and estimated energy expenditure would differ among exercise modalities and vary throughout the training period. Methods: Fourteen three-year-old Czech Warmblood stallions were monitored over 18 weeks, comprising 1003 training sessions across six exercise modalities. Session mean, peak, and minimum HR were recorded, and energy expenditure was estimated using HR-based equations and National Research Council (NRC) recommendations. Linear mixed-effects models assessed associations with exercise modality and monitoring week, accounting for repeated observations within horses. Results: Exercise modality was associated with mean HR (χ2 = 284.64, p &lt; 0.001) and peak HR (χ2 = 122.08, p &lt; 0.001), but not minimum HR (p = 0.066). Monitoring week was associated with all three HR outcomes (p &lt; 0.001), with significant modality × week interactions. Estimated energy expenditure per session differed among exercise modalities (p &lt; 0.001), with the highest model-based values observed during free jumping and horse walker exercise and the lowest during lunging. NRC-based estimates of daily energy expenditure (113.87 ± 11.73 MJ/day) exceeded estimates obtained using the Coenen HR (100.33 ± 6.23 MJ/day) and Coenen O2 (95.78 ± 6.68 MJ/day) methods. Conclusion: Cardiovascular responses and estimated energy expenditure differed among exercise modalities, while temporal HR variation could not be attributed solely to cardiovascular adaptation. Assessment of training load should consider both exercise characteristics and session duration. HR monitoring provides complementary information under field conditions, but HR-derived energy estimates should not be regarded as independently validated measures of energy requirements.",
-   "authors": [
-    "Daniela Kacetlová",
-    "Hana Dočkalová",
-    "Tomáš Kopec",
-    "Daria Baholet Bátik",
-    "Andrej Bátik"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203292",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "背景：早期訓練是年輕運動馬發展的重要時期，然而關於不同運動模式下心血管反應與估算能量消耗的實地研究資訊仍然有限。目的：本研究旨在探討三歲捷克溫血種公馬在為期18週的標準化訓練計畫中，心臟速率（HR）的反應及估算能量消耗，並重點關注運動模式與時間變異。假說：我們假設心臟速率反應與估算能量消耗在不同的運動模式間會有所不同，且在整個訓練期間會隨時間而變異。方法：本研究監測了14匹三歲捷克溫血種公馬超過18週的時間，涵蓋了透過六種運動模式進行的1003次訓練課程。記錄了每次訓練的平均、最高和最低心臟速率，並使用基於心臟速率的方程式與美國國家研究委員會（NRC）的建議值來估算能量消耗。利用線性混合效應模型評估與運動模式及監測週數的相關性，同時納入馬匹內部的重複觀察考量。結果：運動模式與平均心臟速率（$\\chi^2 = 284.64, p < 0.001$）及最高心臟速率（$\\chi^2 = 122.08, p < 0.001$）相關，但與最低心臟速率無關（$p = 0.066$）。監測週數與所有三項心臟速率結果均相關（$p < 0.001$），且具有顯著的「運動模式 $\\times$ 週數」交互作用。每次訓練的估算能量消耗在不同運動模式間有所不同（$p < 0.001$），其中以自由跳躍和馬匹漫步機運動的模式模型估算值最高，而以調馬索訓練最低。基於 NRC 的每日能量消耗估算值（$113.87 \\pm 11.73 \\text{ MJ/day}$），高於使用 Coenen 心臟速率（$100.33 \\pm 6.23 \\text{ MJ/day}$）及 Coenen $\\text{O}_2$（$95.78 \\pm 6.68 \\text{ MJ/day}$）方法所獲得的估算值。結論：心血管反應與估算能量消耗在不同的運動模式間有所不同，而心臟速率的時間變異不能單純歸因於心血管適應。評估訓練負荷時，應同時考量運動特徵與訓練持續時間。心臟速率監測在實地條件下提供了互補的資訊，但不應將心臟速率推導出的能量估算值視為能量需求的獨立驗證測量標準。"
-  },
-  {
    "doi": "10.3390/ani16203291",
    "title": "Conjoined Twins in Guinea Pigs (Cavia porcellus): Case Report",
    "abstract": "This study reports a case of conjoined twins in guinea pigs (Cavia porcellus) from the Peru breed, in the Cajamarca region, Peru. A one-year-old female gave birth to normal offspring and a pair of conjoined twins born dead; The latter were carried out with morphological, radiographic and echographic evaluations, and the blood count and serum biochemical profile of the dam were analyzed. The twins presented cephalothoraco–omphalopagus fusion, characterized by a single skull with cyclopia, arhinia and astomy, ventral thoracoabdominal fusion, the pelvis separated and four extremities (four pairs) completely dislocated. Radiographic and ultrasound evaluations identified two hearts and two pairs of kidneys, with preserved gross sonographic morphology and no evident major structural abnormalities. The maternal blood count showed mild hypochromic macrocytosis and mild thrombocytopenia, with the rest of the hematological and biochemical parameters within normal ranges. It was concluded that the hallmarks are compatible with an early developmental disturbance affecting midline structures, although the precise timing and etiology could not be definitively established, which selectively affected the structures of the medial line. This report expands the scarcity of evidence available on serious congenital malformations in guinea pigs.",
@@ -3847,6 +3899,25 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本研究報導了一例發生在秘魯卡哈馬卡地區、秘魯品種天竺鼠（Cavia porcellus）的連體雙胞胎病例。一隻一歲大的雌性天竺鼠產下了正常幼獸及一對死產的連體雙胞胎；對後者進行了形態學、X光及超音波評估，並分析了母體的全血細胞計數與血清生化學檢查。雙胞胎呈現頭胸臍聯胎（cephalothoraco–omphalopagus）融合，其特徵為單一顱骨伴隨單眼症、無鼻及無口，腹側胸腹融合，骨盆分離且四肢（四對）完全脫位。X光與超音波評估識別出兩顆心臟與兩對腎臟，其大體超音波形態保存完好且無明顯的主要結構異常。母體全血細胞計數顯示輕度低色素性大紅血球症及輕度血小板減少症，其餘血液學及生化參數均在正常範圍內。結論指出，這些特徵與影響中線結構的早期發育障礙相符，儘管確切的時間點與病因無法確切確立，但其選擇性地影響了中線的結構。本報告補充了關於天竺鼠嚴重先天性畸形現有稀缺的證據。"
+  },
+  {
+   "doi": "10.3390/ani16203292",
+   "title": "Cardiovascular Responses and Energy Expenditure During a Standardized Training Programme in Three-Year-Old Czech Warmblood Stallions",
+   "abstract": "Background: Early training represents an important period in the development of young sport horses, yet field-based information on cardiovascular responses and estimated energy expenditure across different exercise modalities remains limited. Objectives: This study aimed to characterize heart rate (HR) responses and estimate energy expenditure in three-year-old Czech Warmblood stallions during an 18-week standardized training programme, with emphasis on exercise modality and temporal variation. Hypothesis: We hypothesized that HR responses and estimated energy expenditure would differ among exercise modalities and vary throughout the training period. Methods: Fourteen three-year-old Czech Warmblood stallions were monitored over 18 weeks, comprising 1003 training sessions across six exercise modalities. Session mean, peak, and minimum HR were recorded, and energy expenditure was estimated using HR-based equations and National Research Council (NRC) recommendations. Linear mixed-effects models assessed associations with exercise modality and monitoring week, accounting for repeated observations within horses. Results: Exercise modality was associated with mean HR (χ2 = 284.64, p &lt; 0.001) and peak HR (χ2 = 122.08, p &lt; 0.001), but not minimum HR (p = 0.066). Monitoring week was associated with all three HR outcomes (p &lt; 0.001), with significant modality × week interactions. Estimated energy expenditure per session differed among exercise modalities (p &lt; 0.001), with the highest model-based values observed during free jumping and horse walker exercise and the lowest during lunging. NRC-based estimates of daily energy expenditure (113.87 ± 11.73 MJ/day) exceeded estimates obtained using the Coenen HR (100.33 ± 6.23 MJ/day) and Coenen O2 (95.78 ± 6.68 MJ/day) methods. Conclusions: Cardiovascular responses and estimated energy expenditure differed among exercise modalities, while temporal HR variation could not be attributed solely to cardiovascular adaptation. Assessment of training load should consider both exercise characteristics and session duration. HR monitoring provides complementary information under field conditions, but HR-derived energy estimates should not be regarded as independently validated measures of energy requirements.",
+   "authors": [
+    "Daniela Kacetlová",
+    "Hana Dočkalová",
+    "Tomáš Kopec",
+    "Daria Baholet Bátik",
+    "Andrej Bátik"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203292",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "背景：早期訓練是年輕運動馬發展的重要時期，然而關於不同運動模式下心血管反應與估算能量消耗的實地研究資訊仍然有限。目的：本研究旨在探討三歲捷克溫血種公馬在為期18週的標準化訓練計畫中，心臟速率（HR）的反應及估算能量消耗，並重點關注運動模式與時間變異。假說：我們假設心臟速率反應與估算能量消耗在不同的運動模式間會有所不同，且在整個訓練期間會隨時間而變異。方法：本研究監測了14匹三歲捷克溫血種公馬超過18週的時間，涵蓋了透過六種運動模式進行的1003次訓練課程。記錄了每次訓練的平均、最高和最低心臟速率，並使用基於心臟速率的方程式與美國國家研究委員會（NRC）的建議值來估算能量消耗。利用線性混合效應模型評估與運動模式及監測週數的相關性，同時納入馬匹內部的重複觀察考量。結果：運動模式與平均心臟速率（$\\chi^2 = 284.64, p < 0.001$）及最高心臟速率（$\\chi^2 = 122.08, p < 0.001$）相關，但與最低心臟速率無關（$p = 0.066$）。監測週數與所有三項心臟速率結果均相關（$p < 0.001$），且具有顯著的「運動模式 $\\times$ 週數」交互作用。每次訓練的估算能量消耗在不同運動模式間有所不同（$p < 0.001$），其中以自由跳躍和馬匹漫步機運動的模式模型估算值最高，而以調馬索訓練最低。基於 NRC 的每日能量消耗估算值（$113.87 \\pm 11.73 \\text{ MJ/day}$），高於使用 Coenen 心臟速率（$100.33 \\pm 6.23 \\text{ MJ/day}$）及 Coenen $\\text{O}_2$（$95.78 \\pm 6.68 \\text{ MJ/day}$）方法所獲得的估算值。結論：心血管反應與估算能量消耗在不同的運動模式間有所不同，而心臟速率的時間變異不能單純歸因於心血管適應。評估訓練負荷時，應同時考量運動特徵與訓練持續時間。心臟速率監測在實地條件下提供了互補的資訊，但不應將心臟速率推導出的能量估算值視為能量需求的獨立驗證測量標準。"
   },
   {
    "doi": "10.3390/ani16203289",
@@ -3875,22 +3946,22 @@
    "abstract_zh": "多拉克汀（Doramectin, DRM）是一種廣效型大環內酯類抗寄生蟲藥物，廣泛應用於獸醫學中。其在爬行動物，特別是暹羅淡水鱷（Crocodylus siamensis）體內的藥代動力學研究仍然相當有限。本研究旨在探討暹羅鱷分別透過皮下（SC）與肌肉（IM）投予 DRM 後的藥代動力學特徵。試驗選用二十隻臨床健康的雄性鱷魚，隨機均分為四組（每組 n = 5），分別透過皮下或肌肉途徑單劑投予 0.2 或 0.3 mg/kg 體重（b.w.）劑量的 DRM。自投藥前至投藥後 60 天採集血液樣本，並使用經過驗證的高效液相層析結合螢光檢測器方法定量血漿中的 DRM 濃度。藥代動力學參數係透過非房室分析法進行測定。在 20 隻動物中有 19 隻的血漿 DRM 濃度持續可被定量至第 60 天。在皮下投予 0.2 與 0.3 mg/kg 劑量後，血漿最高濃度（Cmax）之幾何平均值分別為 14.73 與 20.28 ng/mL；肌肉投予後則分別為 24.48 與 36.34 ng/mL。兩種給藥途徑在 0.3 mg/kg 劑量下皆觀察到顯著較高的 Cmax 值（p < 0.05）。在皮下投予 0.2 與 0.3 mg/kg 後，達到最高血漿濃度之中位數時間（Tmax）分別為 11 天與 9 天；肌肉投予後則分別為 3 天與 4 天。在皮下投予 0.2 與 0.3 mg/kg 後，幾何平均終端排除半衰期（T1/2λz）分別為 5.37 天與 9.73 天；肌肉投予後則分別為 7.38 天與 9.97 天。全身暴露量隨劑量增加而增加。皮下投予後，幾何平均 AUC0–last 從 368.84 數值性增加至 491.87 ng × day/mL；肌肉投予後則從 372.45 顯著增加至 643.97 ng × day/mL（p < 0.05）。與皮下注射相比，肌肉注射可產生更高的 Cmax 且能更快達到血漿峰值濃度。這些研究結果證明了 DRM 在淡水鱷體內具有延長的全身持續性以及劑量相關的藥代動力學變化，並提供了物種特異性資訊以支持未來對劑量方案的進一步評估。"
   },
   {
-   "doi": "10.3390/ani16203272",
-   "title": "Bupivacaine Liposomal Injectable Suspension (Nocita®) via Transversus Abdominis Plane (TAP) Block for Management of Pain in Dogs with Acute Pancreatitis: A Pilot Study",
-   "abstract": "Abdominal pain is one of the most salient features of acute pancreatitis (AP) in dogs. While traditional opioids provide excellent analgesia, they are also associated with significant adverse effects, including ileus. The transversus abdominis plane (TAP) block has been shown to manage pain associated with AP in humans. Ten client-owned dogs with naturally occurring AP were enrolled in a blinded placebo-controlled clinical trial, receiving either a TAP block with bupivacaine liposome injectable suspension (n = 5) or traditional opioid analgesia (n = 5). Rescue analgesia was administered when indicated based on pain score monitoring every 4 h. Each dog was also administered an imaging device to track gastrointestinal transit time (GITT). The total opioid dose during the 72 h study period was significantly lower in the TAP block group (0.18 ± 0.27 mg/kg) compared to the control (0.99 ± 0.50 mg/kg) group (p = 0.01). GITT was prolonged in both the TAP block group (2/3) and the control group (4/5) compared to published references for healthy dogs. Bupivacaine liposomal injectable suspension administered via TAP block may provide sufficient analgesia in dogs with AP while also minimizing their total opioid requirements. Delayed gastric transit was common in both groups, suggesting that factors beyond just opioid administration contribute to gastrointestinal dysmotility in dogs with AP.",
+   "doi": "10.3390/ani16203271",
+   "title": "Family-Aware Genome-Wide Association Mapping of Growth and Body-Shape Traits in Bighead Carp (Hypophthalmichthys nobilis)",
+   "abstract": "Reliable marker–trait associations can support genetic improvement of growth and body conformation in bighead carp (Hypophthalmichthys nobilis). We investigated eight traits in 569 fish assigned to 34 inferred consensus full-sib groups. Genotypes at 89,684 reference-consistent SNP positions were recalled from sequencing alignments and filtered by read depth, genotype quality, and heterozygote-allele balance. Common-mask validation of 274,566 genotype cells supported a 60% pre-imputation call-rate threshold, achieving 94.17% overall, 90.26% non-reference, and 89.04% heterozygote concordance, with hard-dosage r2 = 0.859. The final imputed matrix contained 32,304 SNPs; 9086 LD-pruned SNPs were used to estimate population structure and genomic covariance. Primary mixed-model scans used recalled genotype inputs before Beagle imputation and identified 18 suggestive trait–marker combinations. Candidate analyses using actual observed genotypes supported 17 combinations at within-group permutation FDR &lt; 0.05, representing 16 markers. Grouping, model, and group-omission sensitivity analyses characterized their robustness. Prioritized regions contained developmentally relevant genes, including sulf1, dmrt2, cyp24a1, chst12, efcab7, and anapc7. These family-supported candidates provide targets for replication and functional investigation and may inform genetic improvement and new-variety development in bighead carp.",
    "authors": [
-    "Morgaine Angst",
-    "Christopher J. Thibault",
-    "Sichao Wang",
-    "Harry Cridge"
+    "Geng Chen",
+    "Fangyuan Peng",
+    "Dan Wang",
+    "Jin Xu"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203272",
+   "url": "https://doi.org/10.3390/ani16203271",
    "date": "2026-10-19",
    "first_seen": "2026-10-20",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "腹痛是犬急性胰臟炎（AP）最顯著的特徵之一。傳統鴉片類藥物雖然能提供極佳的鎮痛效果，但也伴隨著顯著的不良反應，包括腸阻塞。腹橫肌平面（TAP）阻滯已被證明可用於控制人類AP相關的疼痛。本研究納入了十隻罹患自然發生性AP且有主人的犬隻，進行一項盲法安慰劑對照臨床試驗，分別接受使用微脂體布比卡因注射懸浮液的TAP阻滯（n = 5）或傳統鴉片類藥物鎮痛（n = 5）。每4小時根據疼痛評分監測結果，在有需要時給予救援鎮痛。每隻犬隻亦獲投予一項造影裝置以追蹤胃腸道通過時間（GITT）。在為期72小時的研究期間，TAP阻滯組的總鴉片類藥物劑量（0.18 ± 0.27 mg/kg）顯著低於對照組（0.99 ± 0.50 mg/kg）（p = 0.01）。與健康犬隻的已發表參考值相比，TAP阻滯組（2/3）與對照組（4/5）的GITT均延長。經由TAP阻滯投予微脂體布比卡因注射懸浮液，可能為患有AP的犬隻提供充足的鎮痛效果，同時將其對鴉片類藥物的總需求量降至最低。兩組中延遲的胃通過時間皆很常見，這表明除了鴉片類藥物投予之外的其他因素，也促成了AP犬隻的胃腸道運動障礙。"
+   "abstract_zh": "可靠的標記與性狀關聯能支援大頭鰱（Hypophthalmichthys nobilis）生長與體型性狀的遺傳改良。我們調查了隸屬於 34 個推論一致全同胞群體的 569 尾魚之 8 項性狀。從定序比對中重新檢定 89,684 個參考一致性 SNP 位點的基因型，並依讀段深度、基因型品質與雜合子等位基因平衡進行過濾。274,566 個基因型細胞的共同遮罩驗證支援 60% 的填補前檢出率閾值，達到 94.17% 的整體一致性、90.26% 的非參考一致性、89.04% 的雜合子一致性，且硬劑量（hard-dosage）$r^2 = 0.859$。最終填補矩陣包含 32,304 個 SNP；其中 9,086 個經過連鎖不平衡修剪（LD-pruned）的 SNP 用於估計族群結構與基因體共變異。主要混合模型掃描在 Beagle 填補前使用重新檢定的基因型輸入，識別出 18 個暗示性性狀－標記組合。使用實際觀測基因型進行的候選分析在群體內置換錯誤發現率（FDR）$< 0.05$ 的條件下支援 17 個組合，代表 16 個標記。分群、模型及缺群敏感度分析用以表徵其穩健性。優先排序的區域包含具發育相關性的基因，包含 *sulf1*、*dmrt2*、*cyp24a1*、*chst12*、*efcab7* 與 *anapc7*。這些經家族支持的候選標記為複製與功能研究提供了目標，並可為大頭鰱的遺傳改良與新品種培育提供資訊。"
   },
   {
    "doi": "10.3390/ani16203287",
@@ -3911,24 +3982,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "輸血是重症犬隻重要的支持性療法，然而輸血反應（transfusion reactions, TRs）仍然是臨床上相關的併發症。這項回顧性研究旨在評估輸血前全身性發炎反應症候群（SIRS）是否與犬隻輸血相關不良事件有關。本研究回顧了 2023 年 12 月至 2026 年 5 月期間，於大韓民國一家獸醫轉診醫院接受含紅血球血液製品犬隻的病歷。在 100 隻犬隻的 146 次輸血病程中，有 142 次具備可評估主要結果的病程被納入主要結果分析中。SIRS 組發生輸血相關不良事件的頻率高於無 SIRS 組（32.7% 對比 11.4%；p = 0.007）。在單變量邏輯斯迴歸中，SIRS 與主要結果發生勝算增加相關（勝算比 [OR]，3.78；95% 信賴區間 [CI]，1.36–10.51；p = 0.011）。在以病患為群集的多變量廣義估計方程式（GEE）分析中，調整後的勝算比仍維持升高至 3.57，儘管該關聯性未達到統計學顯著性（95% CI，0.98–12.98；p = 0.053）。每多符合一項 SIRS 標準，皆與主要結果發生勝算增加相關（OR，1.63；95% CI，1.10–2.41；p = 0.014）。然而，在使用基於歸因性（imputability）及獨立重新判定之更嚴格結果定義的敏感度分析中，此關聯性減弱且無統計學顯著性。這些發現表明，在廣泛的回顧性主要結果定義下，輸血前 SIRS 與臨床懷疑的輸血相關不良事件之間存在關聯性，但結果對結果分類所需的診斷確定性水準相當敏感。因此，這些發現應被視為具假設生成性（hypothesis-generating），並需要在前瞻性研究中使用標準化的反應定義與盲法結果評估來進一步確認。"
-  },
-  {
-   "doi": "10.3390/ani16203271",
-   "title": "Family-Aware Genome-Wide Association Mapping of Growth and Body-Shape Traits in Bighead Carp (Hypophthalmichthys nobilis)",
-   "abstract": "Reliable marker–trait associations can support genetic improvement of growth and body conformation in bighead carp (Hypophthalmichthys nobilis). We investigated eight traits in 569 fish assigned to 34 inferred consensus full-sib groups. Genotypes at 89,684 reference-consistent SNP positions were recalled from sequencing alignments and filtered by read depth, genotype quality, and heterozygote-allele balance. Common-mask validation of 274,566 genotype cells supported a 60% pre-imputation call-rate threshold, achieving 94.17% overall, 90.26% non-reference, and 89.04% heterozygote concordance, with hard-dosage r2 = 0.859. The final imputed matrix contained 32,304 SNPs; 9086 LD-pruned SNPs were used to estimate population structure and genomic covariance. Primary mixed-model scans used recalled genotype inputs before Beagle imputation and identified 18 suggestive trait–marker combinations. Candidate analyses using actual observed genotypes supported 17 combinations at within-group permutation FDR &lt; 0.05, representing 16 markers. Grouping, model, and group-omission sensitivity analyses characterized their robustness. Prioritized regions contained developmentally relevant genes, including sulf1, dmrt2, cyp24a1, chst12, efcab7, and anapc7. These family-supported candidates provide targets for replication and functional investigation and may inform genetic improvement and new-variety development in bighead carp.",
-   "authors": [
-    "Geng Chen",
-    "Fangyuan Peng",
-    "Dan Wang",
-    "Jin Xu"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203271",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "可靠的標記與性狀關聯能支援大頭鰱（Hypophthalmichthys nobilis）生長與體型性狀的遺傳改良。我們調查了隸屬於 34 個推論一致全同胞群體的 569 尾魚之 8 項性狀。從定序比對中重新檢定 89,684 個參考一致性 SNP 位點的基因型，並依讀段深度、基因型品質與雜合子等位基因平衡進行過濾。274,566 個基因型細胞的共同遮罩驗證支援 60% 的填補前檢出率閾值，達到 94.17% 的整體一致性、90.26% 的非參考一致性、89.04% 的雜合子一致性，且硬劑量（hard-dosage）$r^2 = 0.859$。最終填補矩陣包含 32,304 個 SNP；其中 9,086 個經過連鎖不平衡修剪（LD-pruned）的 SNP 用於估計族群結構與基因體共變異。主要混合模型掃描在 Beagle 填補前使用重新檢定的基因型輸入，識別出 18 個暗示性性狀－標記組合。使用實際觀測基因型進行的候選分析在群體內置換錯誤發現率（FDR）$< 0.05$ 的條件下支援 17 個組合，代表 16 個標記。分群、模型及缺群敏感度分析用以表徵其穩健性。優先排序的區域包含具發育相關性的基因，包含 *sulf1*、*dmrt2*、*cyp24a1*、*chst12*、*efcab7* 與 *anapc7*。這些經家族支持的候選標記為複製與功能研究提供了目標，並可為大頭鰱的遺傳改良與新品種培育提供資訊。"
   },
   {
    "doi": "10.3390/ani16203288",
@@ -3988,6 +4041,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "季節性環境變異是對野生動物普遍存在的壓力源，並能誘導DNA甲基化產生可塑性變化。血液DNA甲基化是整體生理狀態的綜合性分子指標，然而大貓本的血液DNA甲基化季節性動態仍不清楚。本研究旨在描繪自然野外條件下大貓熊全基因組血液甲基化模式，並揭示其季節性適應背後的表觀遺傳策略。於2023年至2025年間，在大相嶺自然保護區內從3隻野化培訓的大貓熊採集了12個血液樣本（冬季n = 6，夏季n = 6），並進行全基因組亞硫酸鹽定序。全基因組mC/C比率（4.18–4.98%）以CG背景為主。冬夏比較共鑑定出7113個差異甲基化區域與3063個差異甲基化基因。這些基因顯著富集於轉錄調控、細胞表面受體訊號傳遞、miRNA代謝，以及MAPK、Ras和T/B細胞受體訊號傳遞路徑。冬季高甲基化基因在免疫防禦與耗能過程中皆有富集，而冬季低甲基化基因則顯示有限的富集，表明高甲基化介導的抑制作用在季節性適應中佔主導地位。本研究首次揭示了大貓熊血液的季節性甲基化特徵，表現出「夏季免疫增強、冬季能量節約」的模式。由於採樣在自然棲息地進行，這些差異反映了對溫度、光週期、食物可利用性及病原體壓力的綜合表觀遺傳反應，而非單一因素的影響。這些發現為瀕危哺乳動物的季節性適應提供了分子證據，並為圈養大貓熊管理與野外放歸評估提供了候選標記。"
+  },
+  {
+   "doi": "10.3390/ani16203272",
+   "title": "Bupivacaine Liposomal Injectable Suspension (Nocita®) via Transversus Abdominis Plane (TAP) Block for Management of Pain in Dogs with Acute Pancreatitis: A Pilot Study",
+   "abstract": "Abdominal pain is one of the most salient features of acute pancreatitis (AP) in dogs. While traditional opioids provide excellent analgesia, they are also associated with significant adverse effects, including ileus. The transversus abdominis plane (TAP) block has been shown to manage pain associated with AP in humans. Ten client-owned dogs with naturally occurring AP were enrolled in a blinded placebo-controlled clinical trial, receiving either a TAP block with bupivacaine liposome injectable suspension (n = 5) or traditional opioid analgesia (n = 5). Rescue analgesia was administered when indicated based on pain score monitoring every 4 h. Each dog was also administered an imaging device to track gastrointestinal transit time (GITT). The total opioid dose during the 72 h study period was significantly lower in the TAP block group (0.18 ± 0.27 mg/kg) compared to the control (0.99 ± 0.50 mg/kg) group (p = 0.01). GITT was prolonged in both the TAP block group (2/3) and the control group (4/5) compared to published references for healthy dogs. Bupivacaine liposomal injectable suspension administered via TAP block may provide sufficient analgesia in dogs with AP while also minimizing their total opioid requirements. Delayed gastric transit was common in both groups, suggesting that factors beyond just opioid administration contribute to gastrointestinal dysmotility in dogs with AP.",
+   "authors": [
+    "Morgaine Angst",
+    "Christopher J. Thibault",
+    "Sichao Wang",
+    "Harry Cridge"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203272",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "腹痛是犬急性胰臟炎（AP）最顯著的特徵之一。傳統鴉片類藥物雖然能提供極佳的鎮痛效果，但也伴隨著顯著的不良反應，包括腸阻塞。腹橫肌平面（TAP）阻滯已被證明可用於控制人類AP相關的疼痛。本研究納入了十隻罹患自然發生性AP且有主人的犬隻，進行一項盲法安慰劑對照臨床試驗，分別接受使用微脂體布比卡因注射懸浮液的TAP阻滯（n = 5）或傳統鴉片類藥物鎮痛（n = 5）。每4小時根據疼痛評分監測結果，在有需要時給予救援鎮痛。每隻犬隻亦獲投予一項造影裝置以追蹤胃腸道通過時間（GITT）。在為期72小時的研究期間，TAP阻滯組的總鴉片類藥物劑量（0.18 ± 0.27 mg/kg）顯著低於對照組（0.99 ± 0.50 mg/kg）（p = 0.01）。與健康犬隻的已發表參考值相比，TAP阻滯組（2/3）與對照組（4/5）的GITT均延長。經由TAP阻滯投予微脂體布比卡因注射懸浮液，可能為患有AP的犬隻提供充足的鎮痛效果，同時將其對鴉片類藥物的總需求量降至最低。兩組中延遲的胃通過時間皆很常見，這表明除了鴉片類藥物投予之外的其他因素，也促成了AP犬隻的胃腸道運動障礙。"
   },
   {
    "doi": "10.3390/ani16203307",
@@ -4073,6 +4144,67 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "關於韓國本土黑山羊之溫度、相對濕度及皮膚溫度與呼吸頻率關聯性的定量證據仍然有限，且潛在的性別與生長階段差異亦未明。本研究在單一牧場的 15–33 °C 環境下，對 24 隻山羊（每個性別與生長階段組 6 隻）進行了 35 個日期的重複測量，共產生 840 筆重複的動物-日期觀察值。利用線性混合效應模型分析經自然對數轉換的呼吸頻率，並納入動物、日期及欄位層級的相依性。在觀察到的條件下，溫度每升高 1 °C 與相對濕度每增加 1 個百分點，分別與呼吸頻率增加 9.23% 和 0.79% 相關。在 24 °C、平均相對濕度和平均基準體重下，成羊的預測呼吸頻率高於生長羊，而與溫度相關的呼吸頻率斜率在性別或生長階段之間並無明顯差異。加入皮膚溫度可適度提升樣本內模型的配適度。在給定平均相對濕度和平均基準體重的前提下，對應至呼吸頻率標準為每分鐘 40、60 及 80 次的模型推導溫度分別為 21.2–23.1、25.8–27.7 及 29.0–31.0 °C。這些初步的族群層級參考點並非熱緊迫嚴重程度、福利受損或生產損失的已驗證閾值，尚需透過納入獨立生理、行為、福利及生產結果之更大規模、多牧場研究進行外部驗證。"
+  },
+  {
+   "doi": "10.3390/ani16203311",
+   "title": "Chromosome-Level Genome Assemblies of Darevskia mixta and Darevskia valentini: A Platform for Studying Parthenogenesis in Caucasian Rock Lizards",
+   "abstract": "Darevskia lizards attract the attention of many biologists due to the emergence of parthenogenetic species within the genus. In this study, we present chromosome-level genome assemblies of Darevskia mixta (Méhely, 1909) and Darevskia valentini (Boettger, 1892), two species whose distant ancestors hybridized and formed a parthenogenetic taxon. Genomic DNA was sequenced using the PacBio platform. Primary genome assemblies were generated from ~60 Gb (D. mixta) and ~35 Gb (D. valentini) of the processed PacBio data using HiFiasm and reference-scaffolded. The final genome sequences of D. mixta and D. valentini each span ~1.4 Gb, comprising 19 (18 autosomes and the Z chromosome) and 20 (18 autosomes and the Z and W chromosomes) scaffolds, with N50 scaffold values of 91.1 and 97.5 Mb, respectively. Both genome sequences contain ~42% repeats and encode ~41 thousand predicted genes. The assemblies share major structural similarity, but feature a number of inversions and translocations relative to each other. The obtained assemblies represent the first quality platform for unraveling the genetic features associated with the emergence and maintenance of parthenogenesis in Darevskia lizards.",
+   "authors": [
+    "Ekaterina M. Dvorianinova",
+    "Elizaveta A. Ivankina",
+    "Vitaly I. Korchagin",
+    "Andrey A. Vergun",
+    "Irena A. Martirosyan",
+    "Marine S. Arakelyan",
+    "Anastasiya E. Girnyk",
+    "Alexey A. Dmitriev",
+    "Alexey P. Ryskov"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203311",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "岩蜥屬（Darevskia）蜥蜴因該屬內孤雌生殖物種的出現，吸引了許多生物學家的關注。在這項研究中，我們發表了混合岩蜥（Darevskia mixta (Méhely, 1909)）與瓦倫丁岩蜥（Darevskia valentini (Boettger, 1892)）的染色體層級基因組組裝，這兩個物種的遠祖曾發生雜交並形成一個孤雌生殖分類群。基因組DNA使用PacBio平臺進行定序。初步的基因組組裝是利用HiFiasm與參考基因組骨架，分別從約60 Gb（混合岩蜥）與約35 Gb（瓦倫丁岩蜥）經處理的PacBio數據中產生。混合岩蜥與瓦倫丁岩蜥的最終基因組序列長度均約為1.4 Gb，分別包含19個（18條體染色體及Z染色體）與20個（18條體染色體及Z與W染色體）骨架（scaffolds），其N50骨架數值分別為91.1 Mb與97.5 Mb。這兩個基因組序列皆包含約42%的重複序列，並編碼約4.1萬個預測基因。兩者的組裝結果具有主要的結構相似性，但彼此相對存在許多倒位與易位。所獲得的基因組組裝為揭示岩蜥屬中孤雌生殖之出現與維持相關的遺傳特徵，提供了第一個高品質的平臺。"
+  },
+  {
+   "doi": "10.3390/ani16203312",
+   "title": "Expression Profile of Transfer RNA-Derived Fragments in Chinese Mitten Crab (Eriocheir sinensis) After Challenge with Aeromonas hydrophila",
+   "abstract": "The Chinese mitten crab (Eriocheir sinensis) is an important cultured crab in China; however, its aquaculture productivity is severely limited by bacterial pathogens, including Aeromonas hydrophila. Transfer RNA-derived fragments (tRFs) are an emerging class of functional small non-coding RNAs that have been implicated in host–pathogen interactions and immune regulation; yet, their roles in the antibacterial defense of crustaceans remain poorly understood. To investigate the immune response of the Chinese mitten crab to A. hydrophila infection, we employed high-throughput sequencing to characterize the expression profiles and functional features of tRFs in crab hemocytes following a bacterial challenge. The results revealed that tRFs exhibited a conserved length distribution (15–20 nt) and subtype composition, with 5′-tRFs representing the dominant subtype in both control and infected groups. Notably, infection specifically induced the abundance of tRF fragments of 35-nt tRF fragments and slightly altered the proportion of tRF subtypes. Differential expression analysis identified 415 significantly upregulated and 3 downregulated tRFs upon A. hydrophila infection, suggesting widespread changes in tRF abundance during infection. Target prediction and functional enrichment analyses were performed for the top 30 differentially expressed tRFs; the predicted targets were significantly associated with VEGF signaling pathway, DNA replication proteins, FoxO signaling pathway, and NF-kappa B signaling pathway. The reliability of the sequencing data was confirmed by stem-loop RT-qPCR validation. Collectively, our findings advance the understanding of tRF expression in crustacean immunity and suggest that tRFs may be associated with the immune response of crabs against bacterial infection, pending functional validation.",
+   "authors": [
+    "Tongtong Kong",
+    "Lei Liu",
+    "Hanyu Liu",
+    "Ngoc Tuan Tran"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203312",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "中華絨螯蟹（*Eriocheir sinensis*）是中國一項重要的養殖蟹類；然而，其水產養殖生產力受到包括嗜水氣單胞菌（*Aeromonas hydrophila*）在內的細菌病原體的嚴重限制。轉移核糖核酸衍生片段（tRFs）是一類新興的功能性小型非編碼RNA，已被證實參與宿主與病原體的交互作用及免疫調節；然而，牠們在甲殼類動物抗菌防禦中的作用仍所知甚少。為了探討中華絨螯蟹對嗜水氣單胞菌感染的免疫反應，我們採用高通量測序技術，對感染後蟹血細胞中tRFs的表達圖譜與功能特徵進行了表徵。結果顯示，tRFs呈現出保守的長度分佈（15–20 nt）和亞型組成，其中5′-tRFs在對照組和感染組中均占主導地位。值得注意的是，感染特異性地誘發了35-nt tRF片段豐度的增加，並輕微改變了tRF亞型的比例。差異表達分析識別出在嗜水氣單胞菌感染後有415個顯著上調和3個顯著下調的tRFs，這表明在感染過程中tRFs的豐度發生了廣泛的變化。對前30個差異表達的tRFs進行了標靶預測與功能富集分析；預測的標靶與VEGF信號通路、DNA複製蛋白、FoxO信號通路及NF-kappa B信號通路顯著相關。測序數據的可靠性已通過莖環RT-qPCR驗證獲得證實。總體而言，我們的研究結果推進了對甲殼類動物免疫中tRF表達的理解，並表明在功能驗證之前，tRFs可能與螃蟹對抗細菌感染的免疫反應有關。"
+  },
+  {
+   "doi": "10.3390/ani16203310",
+   "title": "Immune Response of the Pacific Oyster Magallana gigas Following Shell Damage",
+   "abstract": "Shell integrity is a key determinant of health in cultured bivalves; however, its damage may affect physiological and immune processes associated with repair. This study evaluated the effects of a single non-penetrating shell damage on cellular immune responses and immune-related gene expression in the mantle of the Pacific oyster Magallana gigas. Over 14 days post-damage, reactive oxygen species (ROS) and reactive nitrogen species (RNS) production, phagocytic activity, adhesion, and aggregation of hemocytes were assessed. Relative expression of tumor necrosis factor (TNF-1, TNF-2), interleukin-17 (IL-17-3, IL-17-6), and Toll receptor (Toll-1) genes was also determined in mantle tissue. The damage induced predominantly temporal alterations in hemocyte functional activity. During the first two days, ROS production decreased, while RNS production remained unchanged; phagocytic activity increased on day 1 and decreased on day 2. More prolonged changes were observed in hemocyte adhesion and aggregation. Of the genes examined, only TNF-2 showed a significant change, with decreased expression on day 7. These results show that a single non-penetrating shell damage primarily induces a broad stress-associated physiological response, which transiently modulates cellular immune parameters and local regulation mechanisms. By the end of the experiment, most parameters did not differ from the control, although certain changes persisted during shell repair.",
+   "authors": [
+    "Daria S. Lavrichenko",
+    "Elizaveta A. Bogacheva",
+    "Viktoria A. Uppe",
+    "Ekaterina A. Vodiasova",
+    "Elina S. Chelebieva",
+    "Ekaterina S. Kladchenko"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203310",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "貝殼完整性是決定養殖雙殼類健康狀況的關鍵因素；然而，其受損可能會影響與修復相關的生理及免疫過程。本研究評估了單次非穿透性貝殼損傷對太平洋牡蠣（Magallana gigas）外套膜中細胞免疫反應及免疫相關基因表現的影響。在損傷後的14天內，評估了血球的活性氧（ROS）與活性氮（RNS）產量、吞噬活性、黏附及聚集作用。同時測定了外套膜組織中腫瘤壞死因子（TNF-1、TNF-2）、介白素-17（IL-17-3、IL-17-6）及Toll受體（Toll-1）基因的相對表現量。損傷主要誘導了血球功能活性的時間性改變。在頭兩天，ROS產量下降，而RNS產量保持不變；吞噬活性在第1天增加，但在第2天下降。血球的黏附和聚集則觀察到較長時間的變化。在所檢測的基因中，僅TNF-2表現出顯著變化，其表現量在第7天下降。這些結果表明，單次非穿透性貝殼損傷主要引發廣泛的壓力相關生理反應，從而短暫調節細胞免疫參數與局部調控機制。到實驗結束時，多數參數與對照組無顯著差異，儘管某些變化在貝殼修復期間仍然持續。"
   }
  ]
 }
