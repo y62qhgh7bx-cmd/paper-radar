@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:28:32+00:00",
+ "updated": "2026-10-24T00:23:40+00:00",
  "papers": [
   {
    "doi": "10.1002/age.70224",
@@ -398,6 +398,28 @@
    "abstract_zh": "雞隻感染沙門氏菌會引起持續性腸道發炎、腸道菌相失調以及生長受阻，是造成家禽養殖業重大經濟損失的重要細菌性疾病。噬菌體作為抗生素的替代性生物防治劑，具有精準殺滅且無殘留等優勢。本研究旨在探討裂解性沙門氏菌噬菌體X5減輕雞白痢沙門氏菌引起雞隻生長受損的效果與機制。口服投與噬菌體能有效預防與控制雞隻的沙門氏菌感染。噬菌體可減輕沙門氏菌引起的生長受阻，降低肝臟與迴腸中的沙門氏菌濃度，降低血清中IL-1β、IL-6和TNF-α的濃度，並減少迴腸中發炎細胞激素IL-1β和IL-6的mRNA表現量。牠們也能增強迴腸黏膜中緊密接合蛋白Claudin-3和ZO-1的mRNA表現量，有助於維持腸道屏障的完整性，並調節盲腸的微生物群落組成。在畜牧生產減少和限制使用抗生素的背景下，本研究初步驗證了噬菌體X5對雞白痢沙門氏菌感染的保護效果，為噬菌體在該細菌性疾病防控中的應用提供了實驗依據，並為解析噬菌體賦予宿主保護作用的潛在途徑提供了新線索。"
   },
   {
+   "doi": "10.3390/ani16213329",
+   "title": "Duck HERC3 Positively Regulates RIG-I/MAVS-Mediated IFN-β Production Through Interaction with MAVS",
+   "abstract": "The RIG-I-like receptor (RLR) pathway is essential for detecting cytosolic viral RNA and initiating type I interferon responses via the key adaptor MAVS. Although MAVS regulation has been extensively studied in mammals, little is known about its regulatory mechanisms in avian species. HERC3 participates in the regulation of RLR-mediated immunity in mammals, but its role in ducks remains unexplored. Here, we investigated the function of duck HERC3 (duHERC3) in the RLR pathway. We found that duHERC3 was ubiquitously expressed in all examined tissues and significantly upregulated upon Newcastle disease virus (NDV) infection and 3p-hpRNA stimulation. Overexpression of duHERC3 elevated the mRNA levels of MAVS and OASL and enhanced IFN-β production, whereas knockdown of duHERC3 exerted opposite effects. Co-immunoprecipitation (Co-IP) revealed that duHERC3 interacts with the N-terminal domain of MAVS (aa5-175). Moreover, duHERC3 enhanced MAVS-mediated IFN-β induction in a RIG-I-dependent manner, indicating that duHERC3 functions through the canonical RIG-I-MAVS axis. Collectively, our findings demonstrate that duck HERC3 positively regulates MAVS-dependent IFN-β production via interaction with MAVS, providing new insights into the regulatory network of avian innate immunity.",
+   "authors": [
+    "Guoyao Wang",
+    "Yujiao Guo",
+    "Jinlu Liu",
+    "Xuming Hu",
+    "Qi Xu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213329",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 21.0,
+   "matched": [
+    "duck",
+    "disease"
+   ],
+   "abstract_zh": "RIG-I樣受體（RLR）路徑對於偵測細胞質中的病毒RNA並透過關鍵接頭蛋白MAVS啟動第一型干擾素反應至關重要。儘管MAVS的調控機制在哺乳動物中已被廣泛研究，但其在鳥類中的調控機制所知甚少。HERC3參與哺乳動物中RLR介導的免疫調控，但其在鴨子中的作用仍未被探討。在本研究中，我們探討了鴨HERC3（duHERC3）在RLR路徑中的功能。我們發現duHERC3在所有檢測的組織中均普遍表現，並在感染新城雞瘟病毒（NDV）及受到3p-hpRNA刺激後顯著上調。過表現duHERC3會提高MAVS和OASL的mRNA水平並增強IFN-β的產生，而抑制duHERC3則產生相反的效果。共同免疫沉澱（Co-IP）顯示duHERC3與MAVS的N端結構域（aa5-175）相互作用。此外，duHERC3以依賴RIG-I的方式增強MAVS介導的IFN-β誘導，這表明duHERC3透過經典的RIG-I-MAVS軸發揮作用。總體而言，我們的研究結果證明了鴨HERC3透過與MAVS相互作用來正向調控MAVS依賴的IFN-β產生，為鳥類先天免疫的調控網路提供了新的見解。"
+  },
+  {
    "doi": "10.1002/age.70212",
    "title": "Weighted Single‐Step GWAS Reveals Genetic Mechanisms Underlying Pregnancy Loss in Early Nellore Heifers",
    "abstract": "Pregnancy loss (PL) affects reproductive efficiency in beef cattle, yet its genetic architecture remains poorly understood in Bos indicus populations. Here, PL was defined as failure from pregnancy diagnosis to calving, capturing a window approximately 60 days after the breeding season. This study aimed to identify genomic regions and biological pathways associated with PL in early Nellore heifers using weighted single‐step genome‐wide association study (WssGWAS). Phenotypic records from 23 507 Nellore heifers were analyzed, including 17 052 genotyped animals (GGP Indicus panel, Neogen) and 44 233 SNPs. Genomic regions explaining more than 0.5% of additive genetic variance were used to identify putative candidate genes and perform functional enrichment analysis. The estimated heritability for PL was low (0.033), indicating strong environmental influence. WssGWAS identified 25 genomic regions across 16 chromosomes, explaining 31.16% of additive genetic variance for PL. The most relevant region was located on BTA16, explaining 6.51% of the variance, although no annotated protein‐coding genes were found. Additional regions occurred on BTA6, BTA14, BTA22, BTA25, and BTA29. Putative candidate genes included IL4R, IL21R, LRRC4C, RBMS3, ZFPM2, PRSS23 , and NDST4 , involved in immune regulation, cell adhesion, extracellular matrix remodeling, and transcriptional regulation. Functional enrichment identified Gene Ontology terms and REACTOME pathways related to nucleosome assembly, epigenetic regulation, transmembrane transport, focal adhesion, calcium signaling, immune response, and WNT signaling. These findings inform the genetic architecture of PL in Nellore cattle and suggest roles for embryo–maternal communication, immune regulation, chromatin organization, and placental development in pregnancy maintenance, supporting future functional validation and genomic selection strategies.",
@@ -614,6 +636,32 @@
    "abstract_zh": "印尼被廣泛認為是一個超級生物多樣性國家，擁有豐富多樣的本土豬種，這些豬種在當地社群的文化和宗教實踐中扮演著重要角色。然而，這些本土豬的基因體與人口統計學數據極度匱乏，極大地阻礙了我們對其演化歷史和族群結構的理解。迄今為止，來自馬露古（Maluku）、東南蘇拉威西（Sultra）和東努沙登加拉（NTT）等地區的本土豬之遺傳特徵仍然未知。在本研究中，我們旨在利用全基因體定序技術，探討馬露古、東南蘇拉威西和東努沙登加拉地區本土豬族群的遺傳多樣性、族群結構以及正向選擇訊號。本研究透過 Illumina HiSeq 4000 對 42 頭印尼本土豬進行了全基因體定序，並整合了中國家豬、歐洲家豬及野豬的資料集進行比較基因體學分析。結果表明，這些豬在系統發生學上與華南品種聚類在一起，但與華北及歐洲豬種明顯不同。馬露古豬展現出遺傳同質性，顯示其具有純種地位。相比之下，東南蘇拉威西和東努沙登加拉的豬隻帶有歐洲等位基因，暗示了歷史上的基因滲入。東南蘇拉威西和東努沙登加拉豬的遺傳多樣性高於馬露古豬。選擇清除分析揭示了主要為族群特異性的選擇訊號，突顯了地理隔離所塑造的分歧演化。本研究識別出與經濟性狀相關的新穎候選基因，包括馬露古豬中的 FBXO36、東努沙登加拉豬中的 DIAPH3，以及東南蘇拉威西豬中的 GTPBP4。本研究為保育策略和育種計畫提供了關鍵見解，強調了保護這些獨特遺傳資源的必要性。"
   },
   {
+   "doi": "10.3390/ani16213330",
+   "title": "Standardized Ileal Amino Acid Digestibilities in Different Corn Sources for Medium-Growing Yellow-Feathered Broilers and Their Prediction Models",
+   "abstract": "The present study first aimed to analyze the chemical compositions and amino acid (AA) profiles in 10 different sources of corn samples, then determine the SIAADs of these corn samples in medium-growing yellow-feathered broilers and establish rapid prediction equations for SIAADs based on their chemical compositions and AA profiles, and finally preliminarily assess their predictive performance. Broilers (n = 276; medium-growing yellow-feathered broilers; 63 days of age) were randomly allocated to 11 dietary treatments based on initial body weight. The experimental groups consisted of one nitrogen-free diet (NFD) control and 10 corn diet groups, and each experimental group consisted of 6 replicates, with 6 chickens per replicate in the control group and 4 chickens per replicate in each corn diet group. The experimental period was 5 days. At 67 days of age, ileal digesta samples were collected. Both apparent ileal amino acid digestibilities (AIAADs) and SIAADs in corn were evaluated. Predictive equations for corn SIAAD values were constructed via stepwise regression based on 9 corn samples. One independent corn sample was randomly selected to provide a preliminary assessment of predictive performance of the SIAAD models. The results showed that corn sources affected (p &lt; 0.05) the AIAADs and SIAADs in yellow-feathered broilers. Among all assayed AAs, leucine (Leu) showed the highest apparent ileal digestibility (AID) (84.9%) and tryptophan (Trp) the lowest (52.8%), whereas glutamic acid (Glu) demonstrated the highest standardized ileal digestibility (SID) (94.6%) and Trp the lowest (64.5%). Equations predicting SID values for 6 AAs, including methionine (Met), phenylalanine (Phe), histidine (His), Trp, Glu, and proline (Pro), in corn samples for yellow-feathered broilers were constructed (R2 = 0.559 to 0.883, p ≤ 0.021). Among the established prediction models, the model for the SID of Trp showed the best fit (R2 = 0.883, p &lt; 0.002), whereas the model for His SID showed the weakest goodness of fit (R2 = 0.559, p = 0.021). Except for the SID prediction model for Trp, which showed poor predictive accuracy, the other 5 SIAAD prediction models provided preliminary evidence supporting the potential applicability of these models. Therefore, these established prediction equations can provide an important reference for the rapid prediction of the SIDs of these AAs in corn samples for medium-growing yellow-feathered broilers in the future. Owing to the small sample size in this study, further independent external validation is necessary to verify the accuracy of the derived SIAAD prediction equations.",
+   "authors": [
+    "Wenpeng Chen",
+    "Qianwen Yuan",
+    "Xin Du",
+    "Jiali Long",
+    "Liyang Zhang",
+    "Shengchen Wang",
+    "Xiaoyan Cui",
+    "Xugang Luo"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213330",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 18.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "amino acid"
+   ],
+   "abstract_zh": "本研究旨在首先分析10種不同來源玉米樣品的化學成分與胺基酸（AA）組成，接著測定這些玉米樣品在中期生長黃羽肉雞中的標準化迴腸胺基酸消化率（SIAADs），並根據其化學成分與胺基酸組成建立SIAADs的快速預測方程式，最後初步評估其預測性能。試驗選用肉雞（n = 276；中生長黃羽肉雞；63日齡），依初始體重隨機分配至11個日糧處理組。試驗組包含一個無氮日糧（NFD）對照組及10個玉米日糧組，每組設6個重複，對照組每重複6隻雞，各玉米日糧組每重複4隻雞。試驗期為5天。於67日齡時收集迴腸食糜樣品。評估玉米中的表觀迴腸胺基酸消化率（AIAADs）與SIAADs。基於9個玉米樣品，透過逐步迴歸構建玉米SIAAD值的預測方程式。隨機選取一個獨立的玉米樣品，對SIAAD模型的預測性能進行初步評估。結果顯示，玉米來源會影響（p < 0.05）黃羽肉雞的AIAADs與SIAADs。在所有檢測的胺基酸中，白胺酸（Leu）表現出最高的表觀迴腸消化率（AID）（84.9%），色胺酸（Trp）最低（52.8%）；而麩胺酸（Glu）表現出最高的標準化迴腸消化率（SID）（94.6%），色胺酸最低（64.5%）。本研究建構了黃羽肉雞玉米樣品中6種胺基酸（包含甲硫胺酸〔Met〕、苯丙胺酸〔Phe〕、組織胺酸〔His〕、色胺酸〔Trp〕、麩胺酸〔Glu〕及脯胺酸〔Pro〕）SID值的預測方程式（R2 = 0.559至0.883，p ≤ 0.021）。在已建立的預測模型中，色胺酸SID的模型擬合度最好（R2 = 0.883，p < 0.002），而組織胺酸SID的模型擬合度最弱（R2 = 0.559，p = 0.021）。除了色胺酸的SID預測模型表現出較差的預測準確度外，其餘5個SIAAD預測模型提供了初步證據，支持這些模型的潛在適用性。因此，這些建立的預測方程式可為未來快速預測中生長黃羽肉雞玉米樣品中這些胺基酸的SID提供重要參考。由於本研究樣本數較小，未來仍需進一步的獨立外部驗證，以確認所推導SIAAD預測方程式的準確性。"
+  },
+  {
    "doi": "10.1002/age.70211",
    "title": "Implementation of Metafounders in the Genomic Prediction for the Polled Trait in Brahman Cattle Using a Multi‐Breed Population",
    "abstract": "The absence of horns (polled trait) in cattle is associated with better animal welfare by reducing the need for dehorning. In Brahman cattle, population size and the scarcity of phenotypic records challenge the accuracy of genomic predictions for this trait. This study aimed to evaluate the genetic architecture of this trait in Brahman cattle using single‐breed and multi‐breed genomic prediction models, including metafounders, and to assess the influence of phenotypic classifications on heritability, prediction accuracy, bias, and dispersion. Phenotypic and genotypic data from 14 333 Nelore and Brahman animals were analyzed using threshold and linear models implemented in the BLUPF90+ software suite. Single‐breed models ( n = 12) were considered phenotypes (polled, scab, scur, horned), while multi‐breed models ( n = 10) incorporated metafounders and breed effects. Variance components were estimated via threshold models with Gibbs sampling, and predictive ability was assessed using the LR method with datasets. Single‐breed models showed heritability estimates ( h 2 ) ranging from 0.56 to 0.72, but with predictive ability reflecting the Brahman population size. Multi‐breed models improved predictive performance. Results were obtained with Model 20, which included alternative phenotypes, metafounders, and breed effects, yielding accuracy (0.79), reduced bias (0.36), and dispersion close to 1. These findings demonstrate that the polled trait in Brahman cattle exhibits additive genetic variability amenable to selection. The use of multi‐breed analyses and metafounders enhances predictive accuracy, providing a strategy for populations and traits, and enables the inclusion of traits as genomic selection criterion to increase allele frequency in Brahman cattle and improve animal welfare.",
@@ -765,6 +813,55 @@
    "abstract_zh": "育雛後期是雞隻體重與體型性狀發育的關鍵時期。在本研究中，我們探討了 925 隻 16 週齡健康汶上蘆花雞這些性狀背後的遺傳結構，旨在找出用於性狀改良的候選基因與遺傳標記。我們針對體重及七項體型性狀進行了全基因組關聯分析、連鎖不平衡分析、基因型－表現型效應分析以及富集分析。這些性狀的遺傳力估值介於 0.18 至 0.48 之間。本研究辨識出 89 個候選基因，包含 SETDB2、CAB39L、RB1、TRIM13、LDB2 與 LCORL。除了位於 GGA4:72.48–76.42 Mb 的經典生長相關區域外，我們還識別出一個位於約 2.3 Mb 上游、重要且位於 GGA4:68.24–70.22 Mb 的區域，以及一個位於 GGA1:168.03–170.24 Mb 的重要區域。功能富集分析顯示，候選基因在胺基糖與核苷酸糖代謝、核苷酸糖生物合成、鈣離子訊息傳遞及神經活性配體－受體交互作用等路徑中具有名義上的顯著富集（p < 0.05）。總體而言，我們的研究結果闡明了育雛後期體重與體型性狀的遺傳基礎，並可能為本土雞隻育種計畫中遺傳標記的進一步評估提供基礎。"
   },
   {
+   "doi": "10.3390/ani16213337",
+   "title": "Dose–Response Evaluation of Dietary Curcumin Supplementation on Ileal Morphology and Antioxidant Status in Broiler Chickens",
+   "abstract": "This study aimed to evaluate suitable dietary curcumin supplementation levels for improving intestinal morphology and antioxidant status in medium-growing broiler chickens fed a practical corn–soybean meal diet from 57 to 84 d of age. A total of 252 male broilers (57 d of age; 1092.86 ± 8.91 g) were randomly assigned to six dietary treatments with seven replicate cages of six birds each. Broilers were fed diets supplemented with 0, 80, 160, 240, 320, or 400 mg/kg curcumin for 28 d. Asymptotic, broken-line, and quadratic models were fitted to dose–response data to estimate suitable dietary curcumin supplementation levels. Curcumin supplementation improved ileal morphology and antioxidant status, as evidenced by increased villus height (VH), VH/crypt depth (CD), villus surface area, total antioxidant capacity, and superoxide dismutase (SOD) activity, together with decreased CD and malondialdehyde (MDA) content. Curcumin also upregulated the mRNA expression of catalase (CAT), SOD, glutathione peroxidase (GPX)1, GPX3, GPX4, and nuclear factor erythroid 2-related factor 2 (Nrf2) and increased Nrf2 protein abundance. Among the candidate models, broken-line regression provided the best fit for key ileal antioxidant indices, indicating that approximately 188 mg/kg of dietary curcumin may be sufficient to maximize ileal total antioxidant capacity under the present experimental conditions. Furthermore, Nrf2 expression exhibited trends similar to those of antioxidant-related gene expression and antioxidant enzyme activities, but showed an opposite trend to MDA content. These findings suggest a potential association between Nrf2 expression and intestinal antioxidant status.",
+   "authors": [
+    "Yangyang Hu",
+    "Chunmiao Li",
+    "Zhaolin Wu",
+    "Zhengyang Huang",
+    "Zhenhua Zhao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213337",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 16.0,
+   "matched": [
+    "chicken",
+    "broiler"
+   ],
+   "abstract_zh": "本研究旨在評估在 57 至 84 日齡中生長肉雞飼餵實用型玉米－大豆粕日糧時，添加適宜劑量之日糧薑黃素對改善其腸道形態與抗氧化狀態的效果。試驗選用總計 252 隻公肉雞（57 日齡；1092.86 ± 8.91 克），隨機分配至 6 個日糧處理組，每組 7 個重複籠，每籠 6 隻雞。肉雞分別飼餵添加 0、80、160、240、320 或 400 mg/kg 薑黃素的日糧，為期 28 天。利用漸近線模型、折線模型及二次曲線模型對劑量反應數據進行擬合，以估算適宜的日糧薑黃素添加量。薑黃素添加改善了迴腸形態與抗氧化狀態，表現為絨毛高度（VH）、VH/隱窩深度（CD）比值、絨毛表面積、總抗氧化能力及超氧化物歧化酶（SOD）活性增加，同時隱窩深度與丙二醛（MDA）含量降低。薑黃素亦上調了過氧化氫酶（CAT）、SOD、麩胱甘肽過氧化物酶（GPX）1、GPX3、GPX4 及核因子紅血球 2 相關因子 2（Nrf2）的 mRNA 表達，並增加了 Nrf2 蛋白質豐度。在候選模型中，折線迴歸對關鍵迴腸抗氧化指標的擬合效果最佳，顯示在本試驗條件下，約 188 mg/kg 的日糧薑黃素添加量即足以最大化迴腸總抗氧化能力。此外，Nrf2 表達趨勢與抗氧化相關基因表達及抗氧化酶活性相似，但與 MDA 含量呈相反趨勢。這些結果表明 Nrf2 表達與腸道抗氧化狀態之間存在潛在的關聯性。"
+  },
+  {
+   "doi": "10.3390/ani16213333",
+   "title": "Combined Dietary Supplementation with Bacillus subtilis DSM 29784 and a Phytogenic Blend Modulates the Microbiome–Gut–Bone Axis in Broiler Chickens",
+   "abstract": "The microbiome–gut–bone axis may influence skeletal physiology in fast-growing broilers. This study evaluated dietary Bacillus subtilis DSM 29784 combined with a phytogenic blend (BsP) in 560 male Ross 308 broilers assigned to control or BsP diets (eight pens/treatment; 35 birds/pen) for 42 days. One clinically normal bird per pen was sampled on days 21, 35, and 42. BsP increased final body weight and cumulative gain and reduced the overall feed conversion ratio (p &lt; 0.05). Intestinal barrier-associated gene expression increased, several ileal inflammatory marker transcripts decreased, and mineral-handling-related gene expression and serum/femoral mineral concentrations were higher at selected ages. Cecal 16S rRNA gene profiles showed differences in diversity and taxonomic composition. PICRUSt2 identified differences in predicted microbial functional potential, not measured pathway activity or metabolite production. Femoral inflammatory and osteogenic gene expression responses varied with age. Exploratory networks summarized microbiome–gut–bone associations at days 21, 35, and 42 without establishing causality or within-bird temporal change. BsP was associated with improved growth and altered intestinal and bone-related indicators, but clinical BCO prevention was not established. Future factorial studies should include direct bone quality measurements, standardized clinical and lesion assessments, and targeted microbial metabolite measurements.",
+   "authors": [
+    "Nanthawath Saikhwan",
+    "Damrongsak Faroongsarng",
+    "Yuwares Ruangpanit",
+    "Autchariya Thodsapol",
+    "Konkawat Rassmidatta",
+    "Tim Goossens",
+    "Nuria Vieco-Saiz",
+    "Damien P. Prévéraud",
+    "Yongyuth Theapparat"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213333",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 16.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "feed conversion ratio"
+   ],
+   "abstract_zh": "微生物群－腸道－骨骼軸可能會影響生長快速的肉雞之骨骼生理。本研究評估在 560 隻羅斯 308（Ross 308）公肉雞日糧中添加枯草芽孢桿菌 DSM 29784 結合植物萃取物複合物（BsP），試驗雞隻隨機分配至對照組或 BsP 組（每處理 8 個欄位；每欄 35 隻雞），為期 42 天。於第 21、35 和 42 天每欄採樣 1 隻臨床健康的雞隻。BsP 提高了最終體重與累積增重，並降低了整體飼料增重比（$p < 0.05$）。在特定週齡下，腸道屏障相關基因表現增加、數個迴腸發育發炎標記轉錄本減少、礦物質處理相關基因表現以及血清／股盲腸礦物質濃度較高。盲腸 16S rRNA 基因圖譜顯示多樣性與分類組成有所差異。PICRUSt2 鑑定出預測微生物功能潛力的差異，但未測量代謝途徑活性或代謝物產量。股骨發炎與成骨基因表現反應隨週齡而異。探索性網路總結了第 21、35 和 42 天的微生物群－腸道－骨骼關聯，但未確立因果關係或個別雞隻的的時間序列變化。BsP 與生長改善及腸道和骨骼相關指標的改變有關，但尚未確立預防臨床細菌性軟骨壞死性骨髓炎（BCO）的效果。未來的析因研究應包含直接的骨骼品質測量、標準化的臨床與病灶評估，以及標的性微生物代謝物測量。"
+  },
+  {
    "doi": "10.1080/00071668.2026.2699735",
    "title": "Effect of tannic acid and chitosan supplementation on growth performance, antioxidant status, immune function, and caecal microbial diversity of Pekin duck aged 0 to 21 days",
    "abstract": "1. Tannic acid (TA) and chitosan (CH) are natural compounds with antioxidant, antimicrobial and immunomodulatory bioactivities. This study evaluated the effects of dietary TA, CH and their combination on White Pekin ducks aged 0 to 21 d.2. A total of 336 one-day-old Pekin ducks were randomly assigned to one of four dietary treatments with six replicate cages per treatment and 14 birds per cage. The treatments included a basal diet (CON), CON +0.2% TA, CON +0.2% CH and CON +0.2% TA + 0.2% CH. The trial lasted 21 d.3. Dietary supplementation with 0.2% TA alone increased average daily gain (p < 0.05), while 0.2% CH decreased thymus weight and thymus index (p < 0.05). Both TA and CH alone improved serum antioxidant status and immunoglobulin levels, but their combination did not give any synergistic effects.4. All supplemented diets modified caecal microbial community structure, which significantly reduced the relative abundance of Proteobacteria at the phylum level and Desulphovibrio at the genus level (p < 0.05).5. In conclusion, 0.2% TA alone improved growth performance, while 0.2% CH alone enhanced antioxidant and immune function in 0–21 d Pekin ducks. The combination of TA and CH showed no synergistic benefits. Both compounds beneficially modulated caecal microbiota by inhibiting potentially harmful taxa. These results indicated that single supplementation of TA or CH is more suitable for Pekin duck production.",
@@ -866,6 +963,52 @@
     "carcass"
    ],
    "abstract_zh": "本研究旨在評估在減低能量的玉米、大麥或小麥基礎飼糧中添加乳化劑對肉雞特定指標之影響。在本實驗中，共 540 隻一日齡、公母混養的 Ross 308 肉雞被分配至六個處理組，採用 3 × 2 因子設計（設有 5 個重複欄位，每欄 18 隻雞）。每種飼糧分別為不含乳化劑之標準能量飼糧，或添加 500 克/噸乳化劑之減低能量飼糧（代謝能減少 50 千卡/公斤，透過降低大豆油添加量達成）。與大麥基礎飼糧相比，小麥基礎飼糧降低了體重和飼料消耗量，但改善了飼料換肉率。與餵食小麥基礎飼糧相比，餵食玉米基礎飼糧提高了屠宰率與胸肉（肉、皮和骨）比例，但降低了腿部（兩個大腿和兩個小腿，含肉、皮和骨）比例。在大麥和小麥基礎飼糧中添加乳化劑提高了屠宰率。大麥和小麥基礎飼糧對屠宰性狀相較於玉米飼糧所產生的負面影響，可透過在飼糧中添加乳化劑來彌補。脛骨斷裂強度和脛骨灰分含量的最高值分別出現在小麥、玉米和大麥基礎飼糧中。在大麥和小麥基礎飼糧中添加乳化劑會使脛骨灰分增加。與玉米基礎飼糧相比，大麥和小麥基礎飼糧導致較高的胰澱粉酶活性。胰脂肪酶活性隨乳化劑的添加而增加。與其他穀物相比，小麥基礎飼糧增加了絨毛表面積。飼糧中添加乳化劑增加了絨毛高度／隱窩深度比，但減少了其他絨毛測量值。總體而言，在減低能量的肉雞飼糧中添加乳化劑，對於提高大麥和小麥基礎飼料的屠宰率更為有效，且乳化劑的添加能補償飼糧中的能量赤字。"
+  },
+  {
+   "doi": "10.3390/ani16213334",
+   "title": "A Lightweight Deep Learning Approach for Real-Time Detection of Egg-Laying Behavior and Hatching Eggs in Breeding Ducks",
+   "abstract": "Egg production rate and laying behavior are important indicators of reproductive performance in breeding ducks. Manual monitoring is time-consuming and labor-intensive, and litter, small eggs, variable postures, and occlusion complicate detection. This study proposed DPG-YOLO to detect egg-laying behavior and hatching eggs. Based on YOLO26, the DE-C3K2 module was reconstructed to enhance fine-grained feature extraction. PPA was incorporated to strengthen multi-scale semantic modeling, and C3Ghost was adopted to optimize neck feature fusion and reduce redundant computation. DPG-YOLO achieved precision, recall, and mAP50 values of 96.8%, 96.3%, and 97.4%, respectively, exceeding YOLO26 by 4.6, 4.8, and 5.0 percentage points. The model required 7.6 GFLOPs, occupied 7.1 MB, and processed 124.1 frames/s. Automatically estimated egg production rate and laying behavior frequency were significantly and positively correlated with manually calculated values (rs = 0.987 and 0.964, p &lt; 0.05). Neither indicator differed significantly between the two methods (p &gt; 0.05). Thus, DPG-YOLO combines detection accuracy, real-time performance, and statistical reliability to support automated monitoring of reproductive performance, precision feeding management, and digitalization of breeding duck production.",
+   "authors": [
+    "Shida Zhao",
+    "Xiaoyue Hu",
+    "Lihua Li",
+    "Zixuan Zhou",
+    "Hao Xue",
+    "Xiaoliu Zheng",
+    "Xingmao Yuan",
+    "Yan Chen",
+    "Ruodong Zhi"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213334",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 15.0,
+   "matched": [
+    "duck",
+    "breeding",
+    "automated monitoring"
+   ],
+   "abstract_zh": "產蛋率與產蛋行為是種鴨繁殖性能的重要指標。人工監測耗時費力，且墊料、小蛋、多變的姿態及遮擋等因素使檢測更加複雜。本研究提出 DPG-YOLO 以檢測產蛋行為與種蛋。基於 YOLO26，重建了 DE-C3K2 模組以增強細粒度特徵萃取；納入 PPA 以強化多尺度語意建模；並採用 C3Ghost 來優化頸部特徵融合並減少冗餘計算。DPG-YOLO 的準確率、召回率和 mAP50 分別達到 96.8%、96.3% 和 97.4%，較 YOLO26 分別提升了 4.6、4.8 和 5.0 個百分點。該模型需要 7.6 GFLOPs 的運算量，佔用 7.1 MB 的記憶體，處理速度為 124.1 格/秒 (frames/s)。自動估算的產蛋率與產蛋行為頻率與人工計算值呈顯著正相關（rs 分別為 0.987 與 0.964，p < 0.05）。兩種方法的這兩項指標均無顯著差異（p > 0.05）。因此，DPG-YOLO 兼具檢測準確度、即時性能與統計可靠性，可支援繁殖性能的自動化監測、精準飼養管理以及種鴨生產的數位化。"
+  },
+  {
+   "doi": "10.3390/ani16213325",
+   "title": "Content of Manganese and Molybdenum in Selected Tissues and Organs of Mallards (Anas platyrhynchos L.) in Relation to Their Sex and Harvest Location",
+   "abstract": "The aim of this study was to analyze the manganese and molybdenum content in selected tissues of mallard ducks (Anas platyrhynchos L.) depending on their location of collection and gender. The study was conducted on material obtained from mallard ducks from two study areas: the Siedlce hunting district and the Leszno hunting district. The research material consisted of breast muscles, leg muscles, and liver obtained from 28 mallards. The samples were frozen and stored at −20 °C. The material was analysed for manganese and molybdenum using inductively coupled argon plasma atomic emission spectroscopy (ICP OES), with a Perkin Elmer Optima 2000 DV spectrometer (Shelton, WA, USA). Manganese levels were significantly higher in mallards harvested in the Siedlce hunting district than in those from the Leszno hunting district. The pattern was reversed for molybdenum, which was present in higher concentrations in the tissues of mallards from the Leszno hunting district, although these were not statistically significant differences. Among the muscles and organs tested, the highest levels of manganese and molybdenum were shown in the liver. The level of molybdenum in the liver was significantly higher in male mallards than in females. An effect of the birds’ origin on manganese content and of sex on molybdenum content in mallard tissues was observed.",
+   "authors": [
+    "Elżbieta Bombik",
+    "Antoni Bombik",
+    "Katarzyna Pietrzkiewicz"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213325",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 15.0,
+   "matched": [
+    "anas platyrhynchos"
+   ],
+   "abstract_zh": "本研究旨在分析綠頭鴨（*Anas platyrhynchos* L.）特定組織中的錳和鉬含量，並探討其與採集地點和性別的關係。本研究之實驗材料取自兩個研究區域的綠頭鴨：謝德爾采（Siedlce）狩獵區與萊什諾（Leszno）狩獵區。研究材料包含取自 28 隻綠頭鴨的胸肌、腿肌和肝臟。樣品經冷凍並保存於 −20 °C。使用感應耦合電漿原子發射光譜法（ICP OES），搭配 Perkin Elmer Optima 2000 DV 光譜儀（美國華盛頓州謝爾頓），分析材料中的錳和鉬含量。謝德爾采狩獵區捕獲的綠頭鴨，其錳濃度顯著高於萊什諾狩獵區的綠頭鴨。鉬則呈現相反的模式，萊什諾狩獵區綠頭鴨組織中的鉬濃度較高，儘管這些差異未達統計顯著性。在所測試的肌肉與器官中，錳和鉬的最高含量皆出現在肝臟中。雄性綠頭鴨肝臟中的鉬含量顯著高於雌性。研究觀察到鳥類的來源對綠頭鴨組織中的錳含量有影響，而性別則對鉬含量有影響。"
   },
   {
    "doi": "10.1186/s12711-026-01089-y",
@@ -1588,6 +1731,34 @@
    "abstract_zh": "背景：複雜性狀的遺傳評估經常受到異質性、不完整或高成本表型分析的挑戰。許多生物過程需要對多個性狀進行表徵。此外，當可用性狀的配置很複雜（例如：性狀數量增加、複雜的缺失模式）時，結合多個性狀會變得很困難，從而導致更高的計算需求。為了解決這些限制，本研究開發了一種基於去迴歸（deregression）的合併方法，將多性狀資訊預先處理為目標性狀的單一偽表型（即合併表型）。此方法在豬隻的終端雜交情況下進行了評估。\n結果：本研究在不同的資料集（即不同的資料可用性情境——1個真實資料集與3個模擬資料集）上，研究了估計育種值（EBV）的表現以及信賴度系統的準確性。使用了三個建模步驟：(1) 生成去迴歸輸入的多性狀模型；(2) 調整後的純量去迴歸，使用(3) 應用於該合併表型的單性狀模型將資訊結合成合併表型，以評估這些結果如何與步驟(1)的多性狀預測相匹配。在所有資料結構情境中，未調整的去迴歸會低估育種值並扭曲信賴度。相比之下，應用擴展與信賴度對齊因子作為調整，恢復了估計育種值的分布與尺度，產生與多性狀模型幾近完美的ㄧ致性。在所有模擬情境中（包括完全缺乏目標性狀的情境），調整後的去迴歸過程在真實育種值與估計育種值之間實現了最高的相關性。\n結論：基於去迴歸的過程提供了一種有效且具彈性的方法，可在單一性狀框架下將異質的多性狀資訊結合為獨特的合併表型，同時在多性狀框架下維持目標性狀的遺傳尺度與信賴度。與傳統的去迴歸不同，調整後的去迴歸過程可防止過度縮減（overshrinking）、維持準確性並重現多性狀評估的行為。這種預先處理對於將複雜或部分記錄的性狀整合到常規遺傳評估流程中將是一種實用的解決方案。即使主要的目標性狀受限或缺失，只要有中度至高度相關的性狀可供使用，此方法仍然適用。只要能避免任何重複計算，此策略亦可擴展應用於其他情境。"
   },
   {
+   "doi": "10.1080/10495398.2026.2740386",
+   "title": "Isolation and characterization of rabbit intramuscular preadipocytes: Establishing a foundation for studies of intramuscular fat metabolism",
+   "abstract": "Intramuscular fat (IMF) significantly influences meat quality, affecting flavor, tenderness, and juiciness. Despite extensive research on livestock such as cattle and pigs, the regulation of IMF in rabbits remains poorly understood. This study establishes a standardized in vitro method for isolating and characterizing intramuscular preadipocytes from the longissimus dorsi muscle of 3-day-old Hycole rabbits using enzymatic digestion and differential centrifugation. Three-day-old neonates were selected for initial protocol development due to their higher progenitor cell abundance and tissue accessibility, which facilitates method optimization and ensures consistent cell yields. Isolated cells displayed typical preadipocyte morphology and expressed key markers, including PREF-1, PPARγ, and Leptin, confirmed by RT-qPCR and immunofluorescence. Upon adipogenic induction, cells exhibited progressive lipid accumulation, as indicated by Oil Red O staining, and showed upregulated expression of PPARG, C/EBPa, and FABP4, confirming their differentiation potential. This study establishes a comprehensive protocol for isolating rabbit intramuscular preadipocytes, providing a foundational tool for investigating the molecular mechanisms of adipogenesis in lagomorphs. The model supports future studies on genetic and nutritional strategies to enhance rabbit meat quality while preserving its lean characteristics.",
+   "authors": [
+    "Ifeanyi S. Ahamba",
+    "Guohua Song",
+    "Lionel Kinkpe",
+    "Qianting Duan",
+    "Naqash Goswami",
+    "Zhuoya Jin",
+    "Jie Wu",
+    "Xianggui Dong",
+    "Zhanjun Ren"
+   ],
+   "journal": "Animal Biotechnology",
+   "url": "https://doi.org/10.1080/10495398.2026.2740386",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 9.0,
+   "matched": [
+    "cattle",
+    "rabbit",
+    "nutrition",
+    "meat quality"
+   ],
+   "abstract_zh": "肌內脂肪（IMF）顯著影響肉品品質，進而牽動風味、嫩度與多汁性。儘管針對牛、豬等家畜的相關研究已相當廣泛，兔類肌內脂肪的調控機制卻仍所知有限。本研究建立了一套標準化的體外方法，利用酵素消化法與差速離心法，自3日齡海科萊兔的背最長肌中分離並鑑定肌內前脂肪細胞。選擇3日齡新生兔進行最初的實驗方案開發，是由於其具有較高的前驅細胞豐度與組織可及性，這有助於方法的最佳化並確保穩定的細胞得率。分離出的細胞展現出典型的前脂肪細胞形態，並表現出包括PREF-1、PPARγ與Leptin在內的關鍵標記，此點已透過即時螢光定量PCR（RT-qPCR）與免疫螢光染色獲得證實。在進行成脂誘導後，細胞展現出漸進式的脂質累積（如油紅O染色所示），並顯示出PPARG、C/EBPa及FABP4表現量上調，從而證實其分化潛能。本研究建立了一個分離兔肌內前脂肪細胞的完整實驗方案，為探討兔形目動物脂肪生成之分子機制提供了基礎工具。此模型為未來的基因與營養策略研究提供了支持，有助於在維持兔肉瘦肉特性的同時提升其肉品品質。"
+  },
+  {
    "doi": "10.1186/s12711-026-01085-2",
    "title": "The rate and spectrum of germline mutations in chicken from a commercial pedigree line",
    "abstract": "Background Pedigree-based studies of germline mutations provide a direct understanding of the origin and consequences of genetic variation, and allow quantification of how mutations affect functional variation. Here, we use whole-genome sequencing data from 194 chicken ( Gallus gallus ) trios from a commercial pedigree line to estimate the germline mutation rate and spectrum, and to characterize patterns of mutational variation across the genome and genes, aiming to rank protein coding genes by their expected contributions to mutational variance ( V m ). Results We estimated a mutation rate of µ = 3.49 × 10 −9 mutations per nucleotide site per generation. A goodness-of-fit test (χ 2 13 = 10.97, P = 0.61) indicated that the number of new mutations per generation follows a Poisson distribution ( λ = 6.22). A read-based phasing approach revealed a strong sex bias, with males contributing approximately twice as many mutations as females. Microchromosomes showed a point estimate of mutation rate approximately 8% higher than macrochromosomes, likely owing to their higher GC content and a mutation spectrum dominated by C→T transitions. From this spectrum, we built a codon transition matrix and show that genes vary widely in their propensity to mutation based on codon composition, likely reflecting large differences in their contributions to V m . Specifically, we found that genes involved in immunity and development rank among those most prone to non-silent mutations. Conclusions Our results reveal predictable patterns of gene-level mutational variation and provide a framework for anticipating how new mutations generate functional variation. By bridging quantitative genetics and molecular biology, we provide a mechanistic basis for variation in V m across the genome, showing that heterogeneity in V m can arise from gene-specific features, particularly codon composition and mutational target size. These metrics offer a way to rank genes and prioritize genetic variants by their expected contributions to biological functions as a consequence of de novo mutation. This provides a new basis for informed management of genetic variation in breeding populations and for understanding the evolutionary dynamics of functionally important genes.",
@@ -1736,6 +1907,33 @@
     "fertility"
    ],
    "abstract_zh": "在家畜中，染色體變異是導致生育力受損、畸形和經濟損失等疾病的有據可查之原因。本研究旨在檢查一隻疑似生育力低下的恩特布赫山犬（Entlebucher mountain dog）母犬是否帶有此類染色體變異。透過短期淋巴球培養製備中期分裂染色體，並利用染色體分帶與染色體塗染探針，進行數目或巨觀結構異常的顯微鏡分析。分析結果顯示，該母犬為涉及第 1 號染色體及一個無法識別之極小型體染色體的羅伯森轉位（Robertsonian translocation）帶原者。在另外三隻相關犬隻中也檢測到相同的變異，其中包括一個罕見的純合子案例。人類的羅伯森轉位帶原者通常表現正常，但似乎帶有生育遺傳失衡後代的風險。關於犬隻羅伯森轉位後果的了解則相對較少。然而，識別出具有染色體異常的犬隻並將其排除於繁殖之外，以防止傳遞給下一代，至關重要。因此，對於有生殖問題的犬隻，應始終檢查其染色體是否異常，以強化育種計畫並改善動物福祉。"
+  },
+  {
+   "doi": "10.3390/ani16213339",
+   "title": "Corn Stover Replacement with Quercus rugosa Woody Biomass: Growth Performance, Carcass Characteristics, and Meat Quality of Finishing Lambs",
+   "abstract": "This study evaluated the growth performance, blood metabolites, carcass characteristics, meat quality, and economic responses of finishing lambs fed diets in which condensed tannin-containing woody biomass (CTWB) from Quercus rugosa partially or completely replaced corn stover (CS) in the fibrous fraction. Forty-eight intact male Dorper × Katahdin lambs (initial body weight: 33.01 ± 1.23 kg), housed in 24 pens with two lambs per pen, received diets containing 0, 8, 16, or 24% CTWB (CTWB-0, CTWB-8, CTWB-16, and CTWB-24, respectively) for 42 d during 2013–2014. The 24% inclusion level replaced all the CS and supplied a calculated contribution of 6.29 g of condensed tannins/kg dry matter (DM) from CTWB. Dry-matter intake (DMI) was greater with CTWB-24 than with CTWB-0 and CTWB-16 (1.34 vs. 1.17 and 1.18 kg DM/d, respectively; p = 0.021). Growth and gain-to-feed ratio did not differ among treatments (p ≥ 0.240). Blood urea nitrogen concentrations were lower with CTWB-24 than with CTWB-8 (p = 0.014). Carcass weights did not differ (p ≥ 0.779), nor did cooling loss or dressing percentage (p = 0.459 and 0.060, respectively). An overall treatment effect was observed for muscle a* (p = 0.049), without differences between individual treatments; dorsal fat b* did not differ (p = 0.051), nor did water loss, pH, or shear-force measurements (p ≥ 0.103). Calculated diet cost decreased from 0.301 to 0.282 USD/kg DM between CTWB-0 and CTWB-24, but this reduction did not translate into lower total feed cost per lamb (p = 0.150). Carcass income and income over feed cost (IOFC) also did not differ (p ≥ 0.895); IOFC was 205.56 and 202.21 USD/lamb, respectively. Complete replacement of CS with 24% CTWB was accompanied by greater DMI, while no significant differences were detected in growth, carcass weight, or IOFC in this trial with six pens assigned per treatment. These findings do not establish equivalence among diets, and the limited replication means that biologically relevant differences cannot be ruled out.",
+   "authors": [
+    "Octavio Carrillo-Muro",
+    "Alejandro Rivera-Villegas",
+    "Pedro Hernández-Briano",
+    "Carlos Aurelio Medina-Flores",
+    "Marco Antonio López-Carlos",
+    "Carlos Fernando Aréchiga-Flores",
+    "Francisco J. Gutiérrez-Piña",
+    "Oliver Yaotzin Sánchez-Barbosa",
+    "Daniel Rodríguez-Cordero",
+    "Alejandro Plascencia"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213339",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 8.0,
+   "matched": [
+    "meat quality",
+    "carcass"
+   ],
+   "abstract_zh": "本研究評估了肉羊在日糧中以含縮合單寧的紅櫟（Quercus rugosa）木質生質物（CTWB）部分或完全取代纖維組分中的玉米秸稈（CS）時，其生長性能、血液代謝物、屠體特性、肉質與經濟效益之反應。試驗選用48隻完整的杜泊×卡塔丁公羊（初始體重：33.01 ± 1.23 kg），飼養於24間羊欄中（每欄2隻），於2013至2014年間分別餵食含有0%、8%、16%或24% CTWB之日糧（分別為 CTWB-0、CTWB-8、CTWB-16 與 CTWB-24），試驗期為42天。24%的添加水準取代了所有的 CS，且經計算由 CTWB 提供了每公斤乾物質（DM）6.29 克的縮合單寧。CTWB-24 組的乾物質採食量（DMI）高於 CTWB-0 與 CTWB-16 組（分別為 1.34 對 1.17 與 1.18 kg DM/d；p = 0.021）。各處理組間的生長性能與增重飼料比則無顯異（p ≥ 0.240）。CTWB-24 組的血液尿素氮濃度低於 CTWB-8 組（p = 0.014）。屠體重無顯著差異（p ≥ 0.779），冷卻損失與屠宰率亦然（分別為 p = 0.459 與 0.060）。肌肉的紅度（a* 值）觀察到整體處理效應（p = 0.049），但個別處理組間無顯著差異；背部脂肪的黃度（b* 值）無顯著差異（p = 0.051），滴水損失、pH 值或剪切力測定亦同（p ≥ 0.103）。計算之日糧成本從 CTWB-0 的 0.301 美元/kg DM 下降至 CTWB-24 的 0.282 美元/kg DM，但此降低並未轉化為每隻羊較低的總飼料成本（p = 0.150）。屠體收益與扣除飼料成本後之收益（IOFC）亦無顯著差異（p ≥ 0.895）；IOFC 分別為 205.56 與 202.21 美元/隻。在此每處理分配6欄的試驗中，以 24% CTWB 完全取代 CS 伴隨著較高的 DMI，但在生長、屠體重或 IOFC 方面未檢測出顯著差異。這些發現並未確立各日糧之間的等效性，且有限的重複次數意味著無法排除具生物學相關性的差異。"
   },
   {
    "doi": "10.1002/age.70219",
@@ -2526,6 +2724,30 @@
    "abstract_zh": "本研究分析了南方象鼻海豹（Mirounga leonina）成年雌性與幼獸的血液抹片。我們比較了幼獸與成年雌性之間的白血球相（白血球總數 [WBC/104RBC] 以及嗜中性球、淋巴球、單核球、嗜伊紅性球和嗜鹼性球的相對百分比 [%]，以及嗜中性球與淋巴球比值 [N/L 比值]），並依據性別與泌乳階段（泌乳初期與末期）進行分析。此外，也檢視了白血球變數與身體狀況之間的關係，以及母體白血球變數與其幼獸身體狀況之間的關係。與幼獸相比，成年雌性具有較多的嗜中性球與較高的 N/L 比值，但淋巴球較少。在泌乳初期與末期之間，成年雌性的白血球總數增加。在泌乳末期的雌性中，淋巴球隨著身體狀況而增加，嗜中性球則減少。幼獸的白血球變數與其身體狀況之間，或母體白血球變數與其幼獸的身體狀況之間，皆未發現相關性。在幼獸方面，不同性別間的白血球變數沒有差異。本研究為該物種的免疫組成提供了寶貴的見解。未來需要更多研究來增進我們對南方象鼻海豹生理學及其潛在適應度後果的理解。"
   },
   {
+   "doi": "10.3390/ani16213335",
+   "title": "Productive, Reproductive, and Metabolic Responses of Replacement Gilts to Immunomodulatory Protein Concentrate Supplementation During Flushing",
+   "abstract": "Genetic improvement, combined with the stress challenges of swine production, interferes with body condition and may impair the immunity and reproduction of gilts. The objective of this study was to estimate the productive and reproductive responses of gilts fed an immunomodulatory protein concentrate during flushing. A total of 196 gilts exhibiting second estrus were used. They were distributed in completely randomized design with two treatments (0; 40 g/d of immunomodulatory protein concentrate), distributed in blocks of light and heavy gilts. Productive and reproductive performance data, as well as metabolic parameters, were collected and subjected to analysis of variance, for which we adopted a 5% significance level. Interaction of treatment × weight × batch for average live piglet weight (p = 0.003) was verified. Gilts fed the diet with IPC showed no differences (p &gt; 0.05) in glucose or triglyceride parameters. Flushing diets containing 40 g/d of immunomodulatory protein concentrate did not result in differences in body condition or reproductive performance of modern light and heavy gilts. Under the nutritional conditions evaluated, immunomodulatory protein concentrate supplementation therefore did not modify the metabolic profiles of gilts across weight categories.",
+   "authors": [
+    "Fernando Bittarello",
+    "Luciana da Silva Leal Karolewski",
+    "Gudryan Izoton",
+    "Felipe Norberto Alves Ferreira",
+    "Clarice Speridião Silva Neta",
+    "Cheila Roberta Lehnen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213335",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 4.0,
+   "matched": [
+    "swine",
+    "reproduction",
+    "nutrition"
+   ],
+   "abstract_zh": "遺傳改良結合養豬生產的緊迫挑戰，會干擾母豬的體況，並可能損害後備母豬的免疫力與繁殖力。本研究旨在評估後備母豬在優飼期間餵食免疫調節性濃縮蛋白之生產與繁殖反應。試驗共使用196頭呈現第二次發情之後備母豬。採用完全隨機設計，設有兩個處理（0；40公克/天之免疫調節性濃縮蛋白），並按輕與重後備母豬進行逢機區集分配。收集生產與繁殖性能數據以及代謝參數，並進行變異數分析，顯著水準設為5%。經驗證，平均活仔豬體重存在處理×體重×批次的交互作用（p = 0.003）。餵食添加免疫調節性濃縮蛋白飼糧之後備母豬，其葡萄糖或三酸甘油酯參數無顯著差異（p > 0.05）。含40公克/天免疫調節性濃縮蛋白之優飼飼糧，並未造成現代輕與重後備母豬之體況或繁殖性能產生差異。因此，在所評估的營養條件下，補充免疫調節性濃縮蛋白並未改變各體重組別後備母豬的代謝圖譜。"
+  },
+  {
    "doi": "10.1002/age.70217",
    "title": "Breed Composition and Heterozygosity in Brangus and Braford Composite Cattle Breeds",
    "abstract": "Composite cattle breeds are developed to combine favorable traits from parental populations and to exploit heterosis across diverse production environments. However, their genomic structure becomes progressively more complex across generations, and it remains unclear to what extent patterns of local ancestry and heterozygosity are conserved across breeds. The objective of this study was to characterize genomic breed composition in Argentine Brangus and Braford at both global and local levels, and to identify shared genomic segments with extreme values of indicine ancestry and heterozygosity. A total of 783 animals from six breeds were analyzed using SNP data. Global ancestry proportions were estimated using STRUCTURE, whereas local ancestry was inferred through haplotype phasing (Shapeit5) and local ancestry inference using LOTER. Deviations between observed and expected breed composition and heterozygosity were evaluated at the SNP level using chi‐square tests with multiple testing correction. Shared genomic segments were defined as contiguous genomic intervals composed of SNPs showing significant deviations in both breeds. Brangus and Braford showed lower indicine proportions than the expected 37.5%, with reductions of 1.2% and 7.1%, respectively. Local ancestry analysis revealed heterogeneous genomic patterns, with shared segments enriched for indicine ancestry on chromosomes 3, 6, 20, and 28. In contrast, segments with reduced indicine ancestry were more broadly distributed. No SNP exceeded the expected heterozygosity; however, multiple regions showed significant reductions, particularly on chromosome 18. These results demonstrate that Brangus and Braford exhibit complex and heterogeneous genomic architectures, with shared genomic regions showing extreme patterns of ancestry and heterozygosity.",
@@ -2651,6 +2873,35 @@
     "bovine"
    ],
    "abstract_zh": "牛 viral 腹瀉病毒（Bovine viral diarrhea virus, BVDV）仍是永續畜牧業發展的主要障礙。傳統 BVDV 疫苗受限於其固有缺點，例如具備潛在毒力回復的風險以及保護效力不足，這嚴重阻礙了全球清除 BVDV 的努力。mRNA 疫苗技術具有高表現效率、良好的安全性以及可擴展的製造能力等特點，為次世代 BVDV 疫苗的開發提供了一個具潛力的平台。在本研究中，我們開發了一款編碼全長結構醣蛋白 Erns、E1 和 E2 的 mRNA-LNP 候選疫苗（Erns/E1/E2 疫苗），並在 BALB/c 小鼠中系統性地評估其免疫原性與保護效力。以 E2 細胞外域-人類 IgG1 Fc 融合 mRNA 疫苗（E2/IgG1 疫苗）及市售不活化 BVDV 疫苗作為對照組。我們的結果顯示，在初次免疫後 28 天（加強免疫後兩週），Erns/E1/E2 疫苗所誘發的中和抗體效價（$\\log_{10}\\text{NT}_{50} = 2.50 \\pm 0.082$）與淋巴球增生反應（刺激指數 = $6.927 \\pm 0.145$）皆顯著高於兩組對照疫苗。值得注意的是，在 BVDV 攻擊後的任何時間點，Erns/E1/E2 免疫小鼠的任何組織或血液樣本中均未檢測到病毒 RNA，這顯示其對病毒感染具有完全的免疫保護作用，而兩個對照組的多個組織中則持續檢測到病毒量。這些發現確立了 Erns/E1/E2 疫苗作為極具潛力的 BVDV 候選疫苗之地位，並為推進基於 mRNA 的 BVDV 疫苗開發提供了關鍵的實驗支持。"
+  },
+  {
+   "doi": "10.3390/ani16213328",
+   "title": "Human–Horse Neuromuscular Coordination Across Sequential Conditions During Physical Therapy Utilizing Equine Movement in Parkinson’s Disease",
+   "abstract": "This exploratory, single-session, repeated-measures study characterized human and equine trunk muscle activity and human–horse EMG covariation during physical therapy utilizing equine movement in individuals with Parkinson’s disease (PD). Nine individuals with PD and three horses completed pre-session quiet sitting (QS Pre), figure-eight riding (F8), stop-and-go riding (SNG), and post-session quiet sitting (QS Post). Bilateral surface EMG was recorded from three human and four equine trunk muscles. All analyses were exploratory and examined four outcomes: normalized EMG amplitude, zero-lag human–horse correlation, lagged human–horse correlation, and human–horse EMG-EMG coherence. Human normalized EMG amplitude did not differ across QS Pre, F8, and SNG. Equine amplitude was greater during F8 than QS Pre (difference 9.43 percentage points, 95% CI [4.27, 14.59]). SNG also showed greater amplitude than QS Pre (5.30 percentage points, 95% CI [0.32, 10.27]), although this difference was not statistically significant in the participant-level sensitivity analysis. F8 exceeded SNG in the direct comparison (4.43 percentage points, 95% CI [1.44, 7.41]) but not in the adjusted three-condition comparison. Zero-lag correlations were generally close to zero; SNG exceeded F8 by only 0.0056 Fisher’s z units (95% CI [0.0004, 0.0107]) in the direct comparison, but this difference was not statistically significant in the adjusted three-condition comparison. When temporal offsets of ±300 ms were permitted, lagged correlation strength was greater during F8 than QS Pre (difference 0.013, 95% CI [0.003, 0.024]) and during SNG than QS Pre (0.011, 95% CI [0.001, 0.021]), with no difference between riding conditions. Median wavelet coherence was greater during QS Pre than F8 (difference 0.016, 95% CI [0.013, 0.018]) or SNG (0.013, 95% CI [0.011, 0.015]), while SNG exceeded F8 overall (0.003, 95% CI [0.002, 0.004]). Simultaneous human and equine EMG was feasible during the sequential mounted conditions, but the observed signal properties differed across outcomes. Because the conditions were administered in a fixed sequence, their individual effects could not be distinguished from order-related influences. These exploratory findings require confirmation in larger studies with counterbalanced task orders, controlled gait characteristics, and relevant clinical outcomes.",
+   "authors": [
+    "Deanna M. Kennedy",
+    "Lucy Lai",
+    "Priscilla Lightsey",
+    "Nancy Krenek",
+    "Madison Weinrich",
+    "Rebecca M. Legere",
+    "Jennifer L. Zoller",
+    "Yiyu Wang",
+    "Renee Abbott",
+    "Taylor Nagle",
+    "Lynn Ruoff",
+    "Bob Byrns",
+    "Craig Huffhines"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213328",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 3.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": "這項探索性、單次介入、重複測量的研究，旨在探討巴金森氏症（PD）患者在接受利用馬匹動作的物理治療（馬術治療）期間，人類與馬匹軀幹肌肉的活動情形以及人馬肌電圖（EMG）的共變異性。9名巴金森氏症患者與3匹馬完成了介入前的靜坐（QS Pre）、數字「8」字騎乘（F8）、起停騎乘（SNG）以及介入後的靜坐（QS Post）。本研究記錄了3條人類軀幹肌肉與4條馬匹軀幹肌肉的雙側表面肌電圖。所有分析皆屬探索性，並檢視了四項結果：標準化肌電圖振幅、零落後人馬相關性、具落後量之人和馬相關性，以及人馬肌電圖-肌電圖相干性。人類標準化肌電圖振幅在 QS Pre、F8 和 SNG 之間並無差異。F8 期間的馬匹振幅大於 QS Pre（差值為 9.43 個百分點，95% 信賴區間 [4.27, 14.59]）。SNG 的振幅也大於 QS Pre（5.30 個百分點，95% 信賴區間 [0.32, 10.27]），儘管此差異在受試者層級的敏感度分析中未達統計顯著。在直接比較中，F8 超過 SNG（4.43 個百分點，95% 信賴區間 [1.44, 7.41]），但在調整後的3種條件比較中則否。零落後相關性大致接近於零；在直接比較中，SNG 僅以 0.0056 個費雪 z 單位（Fisher’s z units）超過 F8（95% 信賴區間 [0.0004, 0.0107]），但此差異在調整後的3種條件比較中未達統計顯著。當允許 ±300 毫秒的時間偏移時，F8 期間的落後相關強度大於 QS Pre（差值 0.013，95% 信賴區間 [0.003, 0.024]），SNG 期間也大於 QS Pre（0.011，95% 信賴區間 [0.001, 0.021]），而兩種騎乘條件之間則無差異。中位小波相干性在 QS Pre 期間大於 F8（差值 0.016，95% 信賴區間 [0.013, 0.018]）或 SNG（0.013，95% 信賴區間 [0.011, 0.015]），而 SNG 整體大於 F8（0.003，95% 信賴區間 [0.002, 0.004]）。在連續的騎乘條件下，同時記錄人類與馬匹的肌電圖是可行的，但觀察到的訊號特性因評估結果而異。由於這些條件是以固定順序進行施測，因此無法將其個別效應與順序相關的影響區分開來。這些探索性發現尚需透過更大規模、採用平衡任務順序（counterbalanced task orders）、控制步態特徵以及評估相關臨床結果的研究來進一步確認。"
   },
   {
    "doi": "10.1080/00439339.2026.2731346",
@@ -2988,31 +3239,6 @@
    "abstract_zh": "具商業重要性的東南亞淡水物種──易危鯰魚黑翅琵琶魚（*Wallago attu*），因棲地退化與過漁而面臨族群數量下降。本研究首次記錄了黑翅琵琶魚在圓形產卵池之人工飼養條件下的求偶行為與催產。荷爾蒙催產係使用鮭魚促性腺激素釋放激素類似物與嗎酮之混合物（雌魚為 0.5 mL kg−1；雄魚為 0.2 mL kg−1）。雄魚展現出優勢的求偶行為，其特徵為具侵略性的追逐，並以 U 形身體纏繞雌魚腹部達 5.15 ± 0.17 秒，進而促成同步釋放配子。荷爾蒙給藥後的產卵潛伏期出現在 9 至 10 小時的時間範圍內。研究結果顯示，產卵後移除親魚可顯著提高受精率與孵化率，其百分比達 88.12 ± 0.26%，相較之下，含有親魚的水槽則為 67.78 ± 1.78%。此觀察結果暗示存在卵掠食現象。與水草相比，塑膠繩能作為有效的人工基質，提高受精率（86.42 ± 1.18%）與孵化率（89.28 ± 0.80%）。本文所呈現之發現為建立黑翅琵琶魚高效人工繁殖與孵化場操作規程奠定資訊基礎。此類操作規程將進一步支持該物種之保育及水產養殖的可持續發展。"
   },
   {
-   "doi": "10.1080/10495398.2026.2740386",
-   "title": "Isolation and characterization of rabbit intramuscular preadipocytes: Establishing a foundation for studies of intramuscular fat metabolism",
-   "abstract": "",
-   "authors": [
-    "Ifeanyi S. Ahamba",
-    "Guohua Song",
-    "Lionel Kinkpe",
-    "Qianting Duan",
-    "Naqash Goswami",
-    "Zhuoya Jin",
-    "Jie Wu",
-    "Xianggui Dong",
-    "Zhanjun Ren"
-   ],
-   "journal": "Animal Biotechnology",
-   "url": "https://doi.org/10.1080/10495398.2026.2740386",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 2.0,
-   "matched": [
-    "rabbit"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1186/s40104-026-01506-8",
    "title": "Dietary phosphorus source reprograms the kidney-intestine axis to dictate calcium-phosphorus efficiency and egg production in aging hens",
    "abstract": "Background The decline in egg production in aging hens poses a significant challenge to sustainable poultry production. Given that evidence suggests the phosphorus source affects late‑lay performance, we tested the hypothesis that the dietary phosphorus source is a decisive regulator sustaining performance by reprogramming systemic mineral homeostasis. Using a systems biology approach, we analyzed the coordinated expression of eleven key mineral transporter genes across the duodenum, jejunum, ileum, and kidney of hens fed dicalcium phosphate (DCP) or tricalcium phosphate (TCP). Results During weeks 5–8, hens fed DCP showed significant declines in egg production (β = −3.11/week, P &lt; 0.001) and egg weight (β = −0.47 g/week, P = 0.049), unlike the stable TCP group. TCP induced an efficient \"precision conservation\" phenotype, characterized by the co-upregulation of key duodenal phosphorus and calcium transporters ( NaPi-IIb , PiT2; NCX1 , PMCA1b ), a gene set identified as the top predictor of performance. Conversely, DCP triggered a costly \"compensatory salvage\" state, scattering expression to duodenal calcium channels ( TRPV5 , TRPV6 ) and renal compensatory genes ( NCX1 , CALB1 ). Network analysis pinpointed these renal genes as a central, performance-limiting hub. Conclusion We conclude that TCP sustains production by programming a systemically efficient homeostatic strategy, thereby explaining the established performance benefit at a molecular level. This establishes a new principle for layer nutrition: phosphorus source selection must consider its role as a physiological signal that modulates homeostasis. This strategy mitigates age-related decline and enhances resource allocation to production.",
@@ -3253,6 +3479,27 @@
     "carcass"
    ],
    "abstract_zh": "放山家貓（Felis catus）透過掠食及其他生態途徑與野生動物互動，然而其相關影響的證據尚未在東亞進行全面綜合。本範疇性文獻回顧（scoping review）旨在梳理東亞地區有關放山貓掠食及其相關生態影響的實證資料、描繪其地理分佈與推論強度，並識別知識缺口。本研究檢索了包括區域專屬資料庫在內的五個資料庫（截至2026年6月），並手動檢索了納入之全文文獻的參考文獻列表。在識別出的9,326筆記錄中，有31篇文獻符合納入標準：28篇來自預先指定的東亞地區，3篇為可獨立萃取東亞專屬資料的全球性或跨國文獻。基於食性與屍體的研究記錄了貓隻對多樣化野生動物分類群的消耗，但評估獵物豐度或其他族群層面結果的研究較少。研究所報告的掠食估計值差異甚大，反映出貓隻類別、生態環境與方法的差異。證據集中於日本，其中最明確的保育疑慮來自涉及特有種或IUCN列名受脅物種的日本島嶼生態系。人為因素與管理實務是反覆出現的背景主題；然而，將這些因素與野生動物結果直接連結的證據相當有限。整體而言，現有證據基礎在地理分佈與方法學上存在落差，凸顯了標準化、擴大區域涵蓋範圍以及改進記錄方式的迫切需求。"
+  },
+  {
+   "doi": "10.3390/ani16213338",
+   "title": "Still Valid: Clearance of Pseudocapillaroides xenopi from a Xenopus laevis Colony Using the 1997 Levamisole Immersion Protocol",
+   "abstract": "Pseudocapillaroides xenopi is a capillariid nematode of the epidermis of Xenopus spp. and a cause of “flaky” or “gray skin disease” in laboratory colonies. The only published regimen for eradicating it from an entire colony, which is a levamisole immersion, dates from 1997. We report its unmodified application in a colony of approximately 480 adult female X. laevis. An index animal with pale, roughened skin and severe weight loss was diagnosed by PCR. Screening all 42 cohabitants of three tanks each holding one animal with macroscopic skin abnormalities gave a prevalence of 21.4% (9/42), with seven of them clinically inconspicuous. Two four-day levamisole baths (12 mg/L) ten days apart, with tank cleaning and dedicated equipment, were applied colony-wide. Post-treatment skin scrapings were negative in 42/42 animals, gross lesions resolved, body weight was maintained and no further cases have occurred. The 1997 protocol remains fully effective. As the untreated infection is ultimately fatal and the alternative to treatment is depopulation, a regimen that reliably clears a colony is also a refinement.",
+   "authors": [
+    "Maja Strunk",
+    "Ardalan Ahmadvand",
+    "Lisa Ernst",
+    "René H. Tolba",
+    "Leonie Tix"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213338",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": "Pseudocapillaroides xenopi 是一種會寄生於爪蟾屬（Xenopus spp.）表皮的毛細線蟲，也是實驗動物群體中引起「鱗片狀」或「灰皮膚病」的病因。目前唯一發表可用於從整個群體中根除該寄生蟲的療程為左旋咪唑（levamisole）浸泡法，發表於 1997 年。我們報導了該方案在一個約有 480 隻成年雌性非洲爪蟾（X. laevis）群體中的未修改應用。透過 PCR 診斷出一隻具有皮膚蒼白、粗糙且體重嚴重下降的指標動物。篩檢了三個飼養槽中共 42 隻同居動物（每槽各有一隻具有肉眼可見皮膚異常的動物），盛行率為 21.4%（9/42），其中 7 隻在臨床上並無顯著症狀。全群實施了兩次為期四天、間隔十天的左旋咪唑藥浴（12 mg/L），並配合清洗飼槽及專用設備。治療後，42/42 隻動物的皮膚刮片檢查結果皆為陰性，巨觀病灶消失，體重維持正常，且未再發生其他病例。1997 年的方案依然完全有效。由於未治療的感染最終會致命，且治療的替代方案是撲殺，因此能夠可靠地清除群體感染的療程同時也是一種動物福利的精進（refinement）。"
   },
   {
    "doi": "10.1002/age.70205",
@@ -4091,6 +4338,25 @@
    "abstract_zh": "魚類組織病理學中的鰓部組織學廣泛應用於魚類毒理學，但病灶評分與標靶測量僅能捕捉常規切片中部分結構資訊。我們測試了形態測量學輪廓是否能量化成年斑馬魚鰓部與阿伏苯宗（avobenzone）相關的改變。40倍率數據集包含來自35隻成年斑馬魚的鰓部切片，涵蓋影像數據集中的五種條件：4天溶劑對照組，以及暴露於公稱濃度3或9 μg/L阿伏苯宗4天或21天的魚隻。從750個視野中，經由品質控制與自動分割產生503個可接受的光罩；其中360個視野（每種條件72個）用於平衡分析。39個描述符可用於量化組織幾何形狀、鰓板間隙、樹枝狀組織結構以及厚度異質性。驗證重複進行30次，每隻魚的所有視野均保留在同一分割區中。時間相符的4天對照組與暴露組比較達到 89.4 ± 4.1% 的平衡準確率。在4天時，3與9 μg/L的比較達到 88.7 ± 4.6%，而9 μg/L組內4天與21天的比較達到 88.5 ± 5.0%。直接進行五種條件分類的效能較低（68.4 ± 5.1%）。由於未納入21天對照組影像，與暴露相關的推論僅限於時間相符的4天比較。形態測量學輪廓為傳統組織病理學提供了定量互補，同時將個別魚隻身分保留作為影像分析的分組單位。"
   },
   {
+   "doi": "10.3390/ani16203292",
+   "title": "Cardiovascular Responses and Energy Expenditure During a Standardized Training Programme in Three-Year-Old Czech Warmblood Stallions",
+   "abstract": "Background: Early training represents an important period in the development of young sport horses, yet field-based information on cardiovascular responses and estimated energy expenditure across different exercise modalities remains limited. Objectives: This study aimed to characterize heart rate (HR) responses and estimate energy expenditure in three-year-old Czech Warmblood stallions during an 18-week standardized training programme, with emphasis on exercise modality and temporal variation. Hypothesis: We hypothesized that HR responses and estimated energy expenditure would differ among exercise modalities and vary throughout the training period. Methods: Fourteen three-year-old Czech Warmblood stallions were monitored over 18 weeks, comprising 1003 training sessions across six exercise modalities. Session mean, peak, and minimum HR were recorded, and energy expenditure was estimated using HR-based equations and National Research Council (NRC) recommendations. Linear mixed-effects models assessed associations with exercise modality and monitoring week, accounting for repeated observations within horses. Results: Exercise modality was associated with mean HR (χ2 = 284.64, p &lt; 0.001) and peak HR (χ2 = 122.08, p &lt; 0.001), but not minimum HR (p = 0.066). Monitoring week was associated with all three HR outcomes (p &lt; 0.001), with significant modality × week interactions. Estimated energy expenditure per session differed among exercise modalities (p &lt; 0.001), with the highest model-based values observed during free jumping and horse walker exercise and the lowest during lunging. NRC-based estimates of daily energy expenditure (113.87 ± 11.73 MJ/day) exceeded estimates obtained using the Coenen HR (100.33 ± 6.23 MJ/day) and Coenen O2 (95.78 ± 6.68 MJ/day) methods. Conclusions: Cardiovascular responses and estimated energy expenditure differed among exercise modalities, while temporal HR variation could not be attributed solely to cardiovascular adaptation. Assessment of training load should consider both exercise characteristics and session duration. HR monitoring provides complementary information under field conditions, but HR-derived energy estimates should not be regarded as independently validated measures of energy requirements.",
+   "authors": [
+    "Daniela Kacetlová",
+    "Hana Dočkalová",
+    "Tomáš Kopec",
+    "Daria Baholet Bátik",
+    "Andrej Bátik"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203292",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "背景：早期訓練是年輕運動馬發展的重要時期，然而關於不同運動模式下心血管反應與估算能量消耗的實地研究資訊仍然有限。目的：本研究旨在探討三歲捷克溫血種公馬在為期18週的標準化訓練計畫中，心臟速率（HR）的反應及估算能量消耗，並重點關注運動模式與時間變異。假說：我們假設心臟速率反應與估算能量消耗在不同的運動模式間會有所不同，且在整個訓練期間會隨時間而變異。方法：本研究監測了14匹三歲捷克溫血種公馬超過18週的時間，涵蓋了透過六種運動模式進行的1003次訓練課程。記錄了每次訓練的平均、最高和最低心臟速率，並使用基於心臟速率的方程式與美國國家研究委員會（NRC）的建議值來估算能量消耗。利用線性混合效應模型評估與運動模式及監測週數的相關性，同時納入馬匹內部的重複觀察考量。結果：運動模式與平均心臟速率（$\\chi^2 = 284.64, p < 0.001$）及最高心臟速率（$\\chi^2 = 122.08, p < 0.001$）相關，但與最低心臟速率無關（$p = 0.066$）。監測週數與所有三項心臟速率結果均相關（$p < 0.001$），且具有顯著的「運動模式 $\\times$ 週數」交互作用。每次訓練的估算能量消耗在不同運動模式間有所不同（$p < 0.001$），其中以自由跳躍和馬匹漫步機運動的模式模型估算值最高，而以調馬索訓練最低。基於 NRC 的每日能量消耗估算值（$113.87 \\pm 11.73 \\text{ MJ/day}$），高於使用 Coenen 心臟速率（$100.33 \\pm 6.23 \\text{ MJ/day}$）及 Coenen $\\text{O}_2$（$95.78 \\pm 6.68 \\text{ MJ/day}$）方法所獲得的估算值。結論：心血管反應與估算能量消耗在不同的運動模式間有所不同，而心臟速率的時間變異不能單純歸因於心血管適應。評估訓練負荷時，應同時考量運動特徵與訓練持續時間。心臟速率監測在實地條件下提供了互補的資訊，但不應將心臟速率推導出的能量估算值視為能量需求的獨立驗證測量標準。"
+  },
+  {
    "doi": "10.3390/ani16203291",
    "title": "Conjoined Twins in Guinea Pigs (Cavia porcellus): Case Report",
    "abstract": "This study reports a case of conjoined twins in guinea pigs (Cavia porcellus) from the Peru breed, in the Cajamarca region, Peru. A one-year-old female gave birth to normal offspring and a pair of conjoined twins born dead; The latter were carried out with morphological, radiographic and echographic evaluations, and the blood count and serum biochemical profile of the dam were analyzed. The twins presented cephalothoraco–omphalopagus fusion, characterized by a single skull with cyclopia, arhinia and astomy, ventral thoracoabdominal fusion, the pelvis separated and four extremities (four pairs) completely dislocated. Radiographic and ultrasound evaluations identified two hearts and two pairs of kidneys, with preserved gross sonographic morphology and no evident major structural abnormalities. The maternal blood count showed mild hypochromic macrocytosis and mild thrombocytopenia, with the rest of the hematological and biochemical parameters within normal ranges. It was concluded that the hallmarks are compatible with an early developmental disturbance affecting midline structures, although the precise timing and etiology could not be definitively established, which selectively affected the structures of the medial line. This report expands the scarcity of evidence available on serious congenital malformations in guinea pigs.",
@@ -4111,25 +4377,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本研究報導了一例發生在秘魯卡哈馬卡地區、秘魯品種天竺鼠（Cavia porcellus）的連體雙胞胎病例。一隻一歲大的雌性天竺鼠產下了正常幼獸及一對死產的連體雙胞胎；對後者進行了形態學、X光及超音波評估，並分析了母體的全血細胞計數與血清生化學檢查。雙胞胎呈現頭胸臍聯胎（cephalothoraco–omphalopagus）融合，其特徵為單一顱骨伴隨單眼症、無鼻及無口，腹側胸腹融合，骨盆分離且四肢（四對）完全脫位。X光與超音波評估識別出兩顆心臟與兩對腎臟，其大體超音波形態保存完好且無明顯的主要結構異常。母體全血細胞計數顯示輕度低色素性大紅血球症及輕度血小板減少症，其餘血液學及生化參數均在正常範圍內。結論指出，這些特徵與影響中線結構的早期發育障礙相符，儘管確切的時間點與病因無法確切確立，但其選擇性地影響了中線的結構。本報告補充了關於天竺鼠嚴重先天性畸形現有稀缺的證據。"
-  },
-  {
-   "doi": "10.3390/ani16203292",
-   "title": "Cardiovascular Responses and Energy Expenditure During a Standardized Training Programme in Three-Year-Old Czech Warmblood Stallions",
-   "abstract": "Background: Early training represents an important period in the development of young sport horses, yet field-based information on cardiovascular responses and estimated energy expenditure across different exercise modalities remains limited. Objectives: This study aimed to characterize heart rate (HR) responses and estimate energy expenditure in three-year-old Czech Warmblood stallions during an 18-week standardized training programme, with emphasis on exercise modality and temporal variation. Hypothesis: We hypothesized that HR responses and estimated energy expenditure would differ among exercise modalities and vary throughout the training period. Methods: Fourteen three-year-old Czech Warmblood stallions were monitored over 18 weeks, comprising 1003 training sessions across six exercise modalities. Session mean, peak, and minimum HR were recorded, and energy expenditure was estimated using HR-based equations and National Research Council (NRC) recommendations. Linear mixed-effects models assessed associations with exercise modality and monitoring week, accounting for repeated observations within horses. Results: Exercise modality was associated with mean HR (χ2 = 284.64, p &lt; 0.001) and peak HR (χ2 = 122.08, p &lt; 0.001), but not minimum HR (p = 0.066). Monitoring week was associated with all three HR outcomes (p &lt; 0.001), with significant modality × week interactions. Estimated energy expenditure per session differed among exercise modalities (p &lt; 0.001), with the highest model-based values observed during free jumping and horse walker exercise and the lowest during lunging. NRC-based estimates of daily energy expenditure (113.87 ± 11.73 MJ/day) exceeded estimates obtained using the Coenen HR (100.33 ± 6.23 MJ/day) and Coenen O2 (95.78 ± 6.68 MJ/day) methods. Conclusions: Cardiovascular responses and estimated energy expenditure differed among exercise modalities, while temporal HR variation could not be attributed solely to cardiovascular adaptation. Assessment of training load should consider both exercise characteristics and session duration. HR monitoring provides complementary information under field conditions, but HR-derived energy estimates should not be regarded as independently validated measures of energy requirements.",
-   "authors": [
-    "Daniela Kacetlová",
-    "Hana Dočkalová",
-    "Tomáš Kopec",
-    "Daria Baholet Bátik",
-    "Andrej Bátik"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203292",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "背景：早期訓練是年輕運動馬發展的重要時期，然而關於不同運動模式下心血管反應與估算能量消耗的實地研究資訊仍然有限。目的：本研究旨在探討三歲捷克溫血種公馬在為期18週的標準化訓練計畫中，心臟速率（HR）的反應及估算能量消耗，並重點關注運動模式與時間變異。假說：我們假設心臟速率反應與估算能量消耗在不同的運動模式間會有所不同，且在整個訓練期間會隨時間而變異。方法：本研究監測了14匹三歲捷克溫血種公馬超過18週的時間，涵蓋了透過六種運動模式進行的1003次訓練課程。記錄了每次訓練的平均、最高和最低心臟速率，並使用基於心臟速率的方程式與美國國家研究委員會（NRC）的建議值來估算能量消耗。利用線性混合效應模型評估與運動模式及監測週數的相關性，同時納入馬匹內部的重複觀察考量。結果：運動模式與平均心臟速率（$\\chi^2 = 284.64, p < 0.001$）及最高心臟速率（$\\chi^2 = 122.08, p < 0.001$）相關，但與最低心臟速率無關（$p = 0.066$）。監測週數與所有三項心臟速率結果均相關（$p < 0.001$），且具有顯著的「運動模式 $\\times$ 週數」交互作用。每次訓練的估算能量消耗在不同運動模式間有所不同（$p < 0.001$），其中以自由跳躍和馬匹漫步機運動的模式模型估算值最高，而以調馬索訓練最低。基於 NRC 的每日能量消耗估算值（$113.87 \\pm 11.73 \\text{ MJ/day}$），高於使用 Coenen 心臟速率（$100.33 \\pm 6.23 \\text{ MJ/day}$）及 Coenen $\\text{O}_2$（$95.78 \\pm 6.68 \\text{ MJ/day}$）方法所獲得的估算值。結論：心血管反應與估算能量消耗在不同的運動模式間有所不同，而心臟速率的時間變異不能單純歸因於心血管適應。評估訓練負荷時，應同時考量運動特徵與訓練持續時間。心臟速率監測在實地條件下提供了互補的資訊，但不應將心臟速率推導出的能量估算值視為能量需求的獨立驗證測量標準。"
   },
   {
    "doi": "10.3390/ani16203289",
@@ -4318,27 +4565,6 @@
    "abstract_zh": "骨關節炎（OA）是賽馬跛行和提早退役的主要原因。腸道微生物相可能透過腸－關節軸（gut–joint axis）參與骨關節炎的發病機制，但這種關係在賽馬中尚不清楚。本研究聚焦於來自同一地區的6匹罹患骨關節炎的伊犁馬和6匹健康的伊犁馬；伊犁馬源自中國新疆伊犁。骨關節炎的嚴重程度透過臨床檢查、跛行評級、X光檢查、關節鏡檢查、滑液生物標記分析以及糞便16S rRNA基因定序進行評估。透過斯皮爾曼相關分析（Spearman correlation analysis）評估差異腸道微生物相與滑液發炎標記之間的關聯。罹患骨關節炎的馬匹表現出較高的跛行分數和典型的X光檢查結果。與健康對照組相比，罹患骨關節炎的馬匹其滑液中的IL-1β、IL-6、TNF-α、總蛋白、COMP和MMP-3濃度顯著升高。腸道微生物相分析顯示，罹患骨關節炎的馬匹微生物多樣性降低，且組成發生顯著改變。斯皮爾曼相關分析表明，這些微生物變化與滑液發炎介質以及軟骨降解標記之間存在顯著關聯。總體而言，患有腕關節骨關節炎的伊犁馬其腸道微生物相失調，可能透過腸－關節軸與滑液發炎及異常的軟骨代謝有關。然而，未來將視需要擴大實驗規模和動物數量以進行進一步驗證。"
   },
   {
-   "doi": "10.3390/ani16203297",
-   "title": "Respiration Rate Associations with Temperature and Relative Humidity and Preliminary Model-Derived Reference Points in Korean Native Black Goats",
-   "abstract": "Quantitative evidence on the associations of temperature, relative humidity, and skin temperature (ST) with respiration rate (RR) in Korean native black goats remains limited, including potential sex- and growth-stage differences. Twenty-four goats (six per sex-by-growth-stage group) were repeatedly measured on 35 dates at a single farm over 15–33 °C, yielding 840 repeated animal-date observations. Natural-log-transformed RR was analyzed using a linear mixed-effects model accounting for animal-, date-, and pen-level dependence. Within the observed conditions, each 1 °C increase in temperature and 1 percentage-point increase in relative humidity were associated with 9.23% and 0.79% increases in RR, respectively. At 24 °C, mean relative humidity, and mean baseline body weight, adult goats had higher predicted RR than growing goats, while temperature-associated RR slopes did not clearly differ by sex or growth stage. Adding ST modestly improved in-sample model fit. Model-derived temperatures corresponding to RR criteria of 40, 60, and 80 breaths/min were 21.2–23.1, 25.8–27.7, and 29.0–31.0 °C, respectively, conditional on mean relative humidity and mean baseline body weight. These preliminary population-level reference points are not validated thresholds of heat-stress severity, welfare impairment, or production loss and require external validation in larger, multi-farm studies using independent physiological, behavioural, welfare, and production outcomes.",
-   "authors": [
-    "Wonseok Cho",
-    "Woochurl Jeong",
-    "Hochan Kang",
-    "Wongi Min",
-    "Beomjin Park",
-    "Sangwoo Park",
-    "Honghee Chang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203297",
-   "date": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "關於韓國本土黑山羊之溫度、相對濕度及皮膚溫度與呼吸頻率關聯性的定量證據仍然有限，且潛在的性別與生長階段差異亦未明。本研究在單一牧場的 15–33 °C 環境下，對 24 隻山羊（每個性別與生長階段組 6 隻）進行了 35 個日期的重複測量，共產生 840 筆重複的動物-日期觀察值。利用線性混合效應模型分析經自然對數轉換的呼吸頻率，並納入動物、日期及欄位層級的相依性。在觀察到的條件下，溫度每升高 1 °C 與相對濕度每增加 1 個百分點，分別與呼吸頻率增加 9.23% 和 0.79% 相關。在 24 °C、平均相對濕度和平均基準體重下，成羊的預測呼吸頻率高於生長羊，而與溫度相關的呼吸頻率斜率在性別或生長階段之間並無明顯差異。加入皮膚溫度可適度提升樣本內模型的配適度。在給定平均相對濕度和平均基準體重的前提下，對應至呼吸頻率標準為每分鐘 40、60 及 80 次的模型推導溫度分別為 21.2–23.1、25.8–27.7 及 29.0–31.0 °C。這些初步的族群層級參考點並非熱緊迫嚴重程度、福利受損或生產損失的已驗證閾值，尚需透過納入獨立生理、行為、福利及生產結果之更大規模、多牧場研究進行外部驗證。"
-  },
-  {
    "doi": "10.3390/ani16203300",
    "title": "Sex-Specific DNA Methylation in the Liver of Ancherythroculter nigrocauda, a Fish with Female-Biased Size Dimorphism",
    "abstract": "Sexual size dimorphism (SSD) is widespread in teleost fishes, yet the epigenetic mechanisms underlying sex-specific growth remain poorly understood, particularly in non-model species. Here, we performed genome-wide DNA methylation profiling of liver tissue in Ancherythroculter nigrocauda, a species exhibiting female-biased SSD, using the MethylRAD approach. MethylRAD sequencing of five females and five males generated approximately 1.0–1.5 million unique methylated loci per sample. Comparative analysis identified 82,872 differentially methylated sites (DMSs), which clearly separated sexes and were significantly enriched in promoters and CpG islands. Gene ontology analyses revealed that sex-biased methylation preferentially affected pathways related to intracellular signaling, cell adhesion, cytoskeletal organization, and protein modification, processes closely associated with hepatic growth and metabolic regulation. Chromosomal binning uncovered large contiguous male-biased methylation domains on Superscaffold15 and Superscaffold20, consistent with recombination-suppressed regions and suggesting candidate sex-linked loci, with Superscaffold20 supported by prior sex-specific coverage differences. Integration with liver transcriptome data revealed a threshold-dependent regulatory architecture: genes harboring dense methylation clustering (&gt;20 DMS) were approximately six-fold more likely to exhibit sex-biased expression, and directional concordance between methylation and transcription further supported functional coupling. Together, these findings demonstrate that sex-biased DNA methylation in the liver is widespread yet concentrated within regulatory hotspots and discrete chromosomal domains, highlighting epigenetic regulation as a key contributor to hepatic sexual dimorphism and providing new insights into the molecular basis of SSD in teleost fishes.",
@@ -4358,24 +4584,25 @@
    "abstract_zh": "性別體型雙態性（sexual size dimorphism, SSD）在硬骨魚類中普遍存在，然而探討性別特異性生長背後的表觀遺傳機制仍所知有限，特別是在非模式物種中。本研究利用 MethylRAD 方法，對具有雌性偏向性 SSD 的物種黑尾鲌（Ancherythroculter nigrocauda）的肝組織進行了全基因組DNA甲基化圖譜分析。對五個雌性和五個雄性進行的 MethylRAD 定序，每個樣本產生了約 100 萬至 150 萬個獨特的甲基化位點。比較分析識別出 82,872 個差異甲基化位點（DMSs），這些位點能明確區分性別，且在啟動子和 CpG 島中顯著富集。基因本體（Gene Ontology）分析顯示，性別偏向性甲基化主要影響與細胞內信號傳導、細胞黏附、細胞骨架組織和蛋白質修飾相關的途徑，這些過程與肝臟生長和代謝調控密切相關。染色體區段分箱（chromosomal binning）在 Superscaffold15 和 Superscaffold20 上發現了大片連續的雄性偏向性甲基化域，這與重組抑制區域一致，並暗示了候選性別聯鎖位點的存在，其中 Superscaffold20 得到了先前性別特異性覆蓋度差異的支持。與肝臟轉錄體數據的整合揭示了一個閾值依賴的調控架構：含有密集甲基化叢集（>20 個 DMS）的基因表現出性別偏向性表達的可能性約高出六倍，甲基化與轉錄之間的具方向性的一致性進一步支持了功能偶聯。綜上所述，這些發現表明肝臟中的性別偏向性 DNA 甲基化雖然普遍，但集中於調控熱點和獨立的染色體域中，突顯了表觀遺傳調控是促成肝臟性別雙態性的關鍵因素，並為硬骨魚類 SSD 的分子基礎提供了新見解。"
   },
   {
-   "doi": "10.3390/ani16203310",
-   "title": "Immune Response of the Pacific Oyster Magallana gigas Following Shell Damage",
-   "abstract": "Shell integrity is a key determinant of health in cultured bivalves; however, its damage may affect physiological and immune processes associated with repair. This study evaluated the effects of a single non-penetrating shell damage on cellular immune responses and immune-related gene expression in the mantle of the Pacific oyster Magallana gigas. Over 14 days post-damage, reactive oxygen species (ROS) and reactive nitrogen species (RNS) production, phagocytic activity, adhesion, and aggregation of hemocytes were assessed. Relative expression of tumor necrosis factor (TNF-1, TNF-2), interleukin-17 (IL-17-3, IL-17-6), and Toll receptor (Toll-1) genes was also determined in mantle tissue. The damage induced predominantly temporal alterations in hemocyte functional activity. During the first two days, ROS production decreased, while RNS production remained unchanged; phagocytic activity increased on day 1 and decreased on day 2. More prolonged changes were observed in hemocyte adhesion and aggregation. Of the genes examined, only TNF-2 showed a significant change, with decreased expression on day 7. These results show that a single non-penetrating shell damage primarily induces a broad stress-associated physiological response, which transiently modulates cellular immune parameters and local regulation mechanisms. By the end of the experiment, most parameters did not differ from the control, although certain changes persisted during shell repair.",
+   "doi": "10.3390/ani16203297",
+   "title": "Respiration Rate Associations with Temperature and Relative Humidity and Preliminary Model-Derived Reference Points in Korean Native Black Goats",
+   "abstract": "Quantitative evidence on the associations of temperature, relative humidity, and skin temperature (ST) with respiration rate (RR) in Korean native black goats remains limited, including potential sex- and growth-stage differences. Twenty-four goats (six per sex-by-growth-stage group) were repeatedly measured on 35 dates at a single farm over 15–33 °C, yielding 840 repeated animal-date observations. Natural-log-transformed RR was analyzed using a linear mixed-effects model accounting for animal-, date-, and pen-level dependence. Within the observed conditions, each 1 °C increase in temperature and 1 percentage-point increase in relative humidity were associated with 9.23% and 0.79% increases in RR, respectively. At 24 °C, mean relative humidity, and mean baseline body weight, adult goats had higher predicted RR than growing goats, while temperature-associated RR slopes did not clearly differ by sex or growth stage. Adding ST modestly improved in-sample model fit. Model-derived temperatures corresponding to RR criteria of 40, 60, and 80 breaths/min were 21.2–23.1, 25.8–27.7, and 29.0–31.0 °C, respectively, conditional on mean relative humidity and mean baseline body weight. These preliminary population-level reference points are not validated thresholds of heat-stress severity, welfare impairment, or production loss and require external validation in larger, multi-farm studies using independent physiological, behavioural, welfare, and production outcomes.",
    "authors": [
-    "Daria S. Lavrichenko",
-    "Elizaveta A. Bogacheva",
-    "Viktoria A. Uppe",
-    "Ekaterina A. Vodiasova",
-    "Elina S. Chelebieva",
-    "Ekaterina S. Kladchenko"
+    "Wonseok Cho",
+    "Woochurl Jeong",
+    "Hochan Kang",
+    "Wongi Min",
+    "Beomjin Park",
+    "Sangwoo Park",
+    "Honghee Chang"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203310",
-   "date": "2026-10-21",
-   "first_seen": "2026-10-22",
+   "url": "https://doi.org/10.3390/ani16203297",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-21",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "貝殼完整性是決定養殖雙殼類健康狀況的關鍵因素；然而，其受損可能會影響與修復相關的生理及免疫過程。本研究評估了單次非穿透性貝殼損傷對太平洋牡蠣（Magallana gigas）外套膜中細胞免疫反應及免疫相關基因表現的影響。在損傷後的14天內，評估了血球的活性氧（ROS）與活性氮（RNS）產量、吞噬活性、黏附及聚集作用。同時測定了外套膜組織中腫瘤壞死因子（TNF-1、TNF-2）、介白素-17（IL-17-3、IL-17-6）及Toll受體（Toll-1）基因的相對表現量。損傷主要誘導了血球功能活性的時間性改變。在頭兩天，ROS產量下降，而RNS產量保持不變；吞噬活性在第1天增加，但在第2天下降。血球的黏附和聚集則觀察到較長時間的變化。在所檢測的基因中，僅TNF-2表現出顯著變化，其表現量在第7天下降。這些結果表明，單次非穿透性貝殼損傷主要引發廣泛的壓力相關生理反應，從而短暫調節細胞免疫參數與局部調控機制。到實驗結束時，多數參數與對照組無顯著差異，儘管某些變化在貝殼修復期間仍然持續。"
+   "abstract_zh": "關於韓國本土黑山羊之溫度、相對濕度及皮膚溫度與呼吸頻率關聯性的定量證據仍然有限，且潛在的性別與生長階段差異亦未明。本研究在單一牧場的 15–33 °C 環境下，對 24 隻山羊（每個性別與生長階段組 6 隻）進行了 35 個日期的重複測量，共產生 840 筆重複的動物-日期觀察值。利用線性混合效應模型分析經自然對數轉換的呼吸頻率，並納入動物、日期及欄位層級的相依性。在觀察到的條件下，溫度每升高 1 °C 與相對濕度每增加 1 個百分點，分別與呼吸頻率增加 9.23% 和 0.79% 相關。在 24 °C、平均相對濕度和平均基準體重下，成羊的預測呼吸頻率高於生長羊，而與溫度相關的呼吸頻率斜率在性別或生長階段之間並無明顯差異。加入皮膚溫度可適度提升樣本內模型的配適度。在給定平均相對濕度和平均基準體重的前提下，對應至呼吸頻率標準為每分鐘 40、60 及 80 次的模型推導溫度分別為 21.2–23.1、25.8–27.7 及 29.0–31.0 °C。這些初步的族群層級參考點並非熱緊迫嚴重程度、福利受損或生產損失的已驗證閾值，尚需透過納入獨立生理、行為、福利及生產結果之更大規模、多牧場研究進行外部驗證。"
   },
   {
    "doi": "10.3390/ani16203311",
@@ -4399,6 +4626,26 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "岩蜥屬（Darevskia）蜥蜴因該屬內孤雌生殖物種的出現，吸引了許多生物學家的關注。在這項研究中，我們發表了混合岩蜥（Darevskia mixta (Méhely, 1909)）與瓦倫丁岩蜥（Darevskia valentini (Boettger, 1892)）的染色體層級基因組組裝，這兩個物種的遠祖曾發生雜交並形成一個孤雌生殖分類群。基因組DNA使用PacBio平臺進行定序。初步的基因組組裝是利用HiFiasm與參考基因組骨架，分別從約60 Gb（混合岩蜥）與約35 Gb（瓦倫丁岩蜥）經處理的PacBio數據中產生。混合岩蜥與瓦倫丁岩蜥的最終基因組序列長度均約為1.4 Gb，分別包含19個（18條體染色體及Z染色體）與20個（18條體染色體及Z與W染色體）骨架（scaffolds），其N50骨架數值分別為91.1 Mb與97.5 Mb。這兩個基因組序列皆包含約42%的重複序列，並編碼約4.1萬個預測基因。兩者的組裝結果具有主要的結構相似性，但彼此相對存在許多倒位與易位。所獲得的基因組組裝為揭示岩蜥屬中孤雌生殖之出現與維持相關的遺傳特徵，提供了第一個高品質的平臺。"
+  },
+  {
+   "doi": "10.3390/ani16203310",
+   "title": "Immune Response of the Pacific Oyster Magallana gigas Following Shell Damage",
+   "abstract": "Shell integrity is a key determinant of health in cultured bivalves; however, its damage may affect physiological and immune processes associated with repair. This study evaluated the effects of a single non-penetrating shell damage on cellular immune responses and immune-related gene expression in the mantle of the Pacific oyster Magallana gigas. Over 14 days post-damage, reactive oxygen species (ROS) and reactive nitrogen species (RNS) production, phagocytic activity, adhesion, and aggregation of hemocytes were assessed. Relative expression of tumor necrosis factor (TNF-1, TNF-2), interleukin-17 (IL-17-3, IL-17-6), and Toll receptor (Toll-1) genes was also determined in mantle tissue. The damage induced predominantly temporal alterations in hemocyte functional activity. During the first two days, ROS production decreased, while RNS production remained unchanged; phagocytic activity increased on day 1 and decreased on day 2. More prolonged changes were observed in hemocyte adhesion and aggregation. Of the genes examined, only TNF-2 showed a significant change, with decreased expression on day 7. These results show that a single non-penetrating shell damage primarily induces a broad stress-associated physiological response, which transiently modulates cellular immune parameters and local regulation mechanisms. By the end of the experiment, most parameters did not differ from the control, although certain changes persisted during shell repair.",
+   "authors": [
+    "Daria S. Lavrichenko",
+    "Elizaveta A. Bogacheva",
+    "Viktoria A. Uppe",
+    "Ekaterina A. Vodiasova",
+    "Elina S. Chelebieva",
+    "Ekaterina S. Kladchenko"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203310",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "貝殼完整性是決定養殖雙殼類健康狀況的關鍵因素；然而，其受損可能會影響與修復相關的生理及免疫過程。本研究評估了單次非穿透性貝殼損傷對太平洋牡蠣（Magallana gigas）外套膜中細胞免疫反應及免疫相關基因表現的影響。在損傷後的14天內，評估了血球的活性氧（ROS）與活性氮（RNS）產量、吞噬活性、黏附及聚集作用。同時測定了外套膜組織中腫瘤壞死因子（TNF-1、TNF-2）、介白素-17（IL-17-3、IL-17-6）及Toll受體（Toll-1）基因的相對表現量。損傷主要誘導了血球功能活性的時間性改變。在頭兩天，ROS產量下降，而RNS產量保持不變；吞噬活性在第1天增加，但在第2天下降。血球的黏附和聚集則觀察到較長時間的變化。在所檢測的基因中，僅TNF-2表現出顯著變化，其表現量在第7天下降。這些結果表明，單次非穿透性貝殼損傷主要引發廣泛的壓力相關生理反應，從而短暫調節細胞免疫參數與局部調控機制。到實驗結束時，多數參數與對照組無顯著差異，儘管某些變化在貝殼修復期間仍然持續。"
   },
   {
    "doi": "10.3390/ani16203312",
@@ -4434,7 +4681,7 @@
   {
    "doi": "10.1080/10495398.2026.2743468",
    "title": "Effects of xylooligosaccharide supplementation on methane emissions, rumen microbiome, and serum metabolome in lactating Jersey cows",
-   "abstract": "",
+   "abstract": "Xylooligosaccharides (XOS) are recognized as effective prebiotics that can mitigate methane (CH4) emissions. However, the specific relationship between the effects of XOS on CH4 emissions and alterations in the ruminal microbiota and their metabolites remains unclear. To investigate the relationship between XOS and CH4 emissions, 48 Jersey cows were randomly divided into two groups: the XOS group (group T) and the control group (group C). Group T received 25 g/d of XOS, while group C received 0 g/d of XOS added to the basal diet. Three randomly selected cows from each group, exhibiting consistent milk production and lactation stage, were analyzed for CH4 emissions detection, 16S rRNA sequencing, and untargeted metabolomics analysis. The addition of XOS significantly reduced CH4 emissions and increased both the number of observed species and the abundance-based coverage estimator (ACE) index of ruminal microbiota compared to group C. Sixteen differential metabolites were identified between the two groups; these differential metabolites were correlated with microbiota, including Chloroflexi, Acidobacteriota, and Succiniclasticum. The study suggests that XOS may regulate ruminant CH4 emissions by influencing the microbiota, thereby providing a rationale for CH4 control.",
    "authors": [
     "Xiaonan Zhou",
     "Zhiyan Zhao",
@@ -4449,7 +4696,40 @@
    "first_seen": "2026-10-23",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "木寡糖（XOS）被認為是能有效減少甲烷（CH4）排放的益生元。然而，XOS對CH4排放的影響與瘤胃微生物及其代謝物改變之間的具體關係仍不清楚。為了探討XOS與CH4排放之間的關係，本研究將48頭澤西乳牛隨機分為兩組：XOS組（T組）和對照組（C組）。T組在基礎日糧中添加25 g/d的XOS，C組則添加0 g/d的XOS。每組隨機選取3頭泌乳量與泌乳階段一致的乳牛，進行CH4排放檢測、16S rRNA定序及非標靶代謝體學分析。與C組相比，添加XOS顯著降低了CH4排放，並提高了瘤胃微生物群的觀測物種數（observed species）及基於豐度的覆蓋度估計（ACE）指數。兩組之間共鑑定出16種差異代謝物；這些差異代謝物與微生物群（包括綠彎菌門 [Chloroflexi]、酸桿菌門 [Acidobacteriota] 和產琥珀酸絲菌屬 [Succiniclasticum]）相關。本研究表明，XOS可能透過影響微生物群來調節反芻動物的CH4排放，從而為CH4控制提供了理論依據。"
+  },
+  {
+   "doi": "10.3390/ani16203318",
+   "title": "Nanoscale Characterization of Microscopically Layered Bone in the Russian Sturgeon Pectoral Fin Spine: A 3D FIB-SEM Study",
+   "abstract": "Dermal bone, the earliest known form of bone, develops without a cartilage precursor and persists in extant fish species. The pectoral fin spine (PFS) is a dermal bone located at the leading edge of the pectoral fin of sturgeons, where it is exposed to loading associated with locomotion. The peripheral region and dermal osteons of the PFS both appear layered at lower magnification; however, collagen organization in load-bearing fish skeletal elements remains incompletely characterized at the nanoscale. The aim of this study is to characterize the 3D nanostructure of the layered peripheral and osteonal bone forming the PFS in Russian sturgeons using focused ion beam–scanning electron microscopy (FIB-SEM). In the dermal osteons, bone forms concentric layers around a central canal at lower magnification, and at the nanoscale, the calcified collagen fibrils within these layers have preferential orientations that change in a clockwise–anticlockwise fanning pattern, consistent with lamellar bone. In contrast, the examined peripheral bone, which also appears layered at low magnification, is composed mainly of unidirectional calcified collagen fibrils aligned with the long axis of the PFS. Within the examined peripheral volumes, no comparable nanoscale lamellar pattern was detected, and the predominant fibril organization was consistent with parallel-fibered bone. Groups of voids associated with unidentified fibrillar material were also observed in the examined peripheral volumes; the voids were oriented approximately normal to the long axis of the PFS. We conclude that regions appearing layered at lower magnification can differ markedly at the nanoscale, and that the lamellar organization seen in dermal osteons raises questions about its evolutionary origin.",
+   "authors": [
+    "Esteban Marroquín-Arroyave",
+    "Joshua Milgram"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203318",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "真皮骨（dermal bone）已知是最早出現的骨骼形式，其發育不經由軟骨前驅物，且存在於現存的魚類物種中。胸鰭棘（pectoral fin spine, PFS）是一種真皮骨，位於鱘魚胸鰭的前緣，承受與運動相關的負載。在低倍率下，PFS的周邊區域與真皮骨單元（osteons）均呈現層狀結構；然而，承受負載的魚類骨骼元素中，膠原蛋白的組織形式在奈米尺度下仍未被充分解析。本研究旨在利用聚焦離子束掃描式電子顯微鏡（FIB-SEM），解析俄羅斯鱘魚PFS中構成層狀周邊骨與骨單元骨的三維奈米結構。在真皮骨單元中，於低倍率下骨骼繞著中央管形成同心層；而在奈米尺度下，這些層內的鈣化膠原原纖維具有偏好方向，並以順時針與逆時針的扇形模式交替變化，這與板層骨（lamellar bone）一致。相較之下，所檢視的周邊骨在低倍率下雖也呈層狀，但主要由與PFS長軸對齊的單向鈣化膠原原纖維組成。在所檢視的周邊體積中，未檢測到可比擬的奈米尺度板層模式，且主要的原纖維組織與平行纖維骨（parallel-fibered bone）一致。在所檢視的周邊體積中也觀察到位處不明原纖維物質之空洞群，這些空洞的方向大致垂直於PFS的長軸。我們得出結論：在低倍率下看似層狀的區域，在奈米尺度下可能存在顯著差異，且真皮骨單元中所見的板層組織對其演化起源提出了疑問。"
+  },
+  {
+   "doi": "10.3390/ani16203317",
+   "title": "Age-Related Decrease in Interthalamic Adhesion Thickness in Cats Without Apparent Cognitive Dysfunction",
+   "abstract": "Feline cognitive dysfunction syndrome (FCDS) is an age-associated disorder for which objective imaging markers remain limited. This study evaluated the association between age and interthalamic adhesion thickness (IAT) in cats without apparent cognitive dysfunction and described IAT across feline life stages. MRI examinations from 112 client-owned cats aged 4 months to 18 years were retrospectively reviewed. Cats were classified as kittens (&lt;1 year), young (1 to &lt; 7 years), mature (7 to &lt;11 years) and senior (≥11 years). Cats with intracranial lesions or reported behavioral changes suggestive of cognitive dysfunction were excluded. Two blinded observers measured IAT on transverse T1W and T2W images. Analyses included linear regression adjusted for brain height, brain width, sex/neuter status, breed group, and scanner; exploratory quadratic age modeling; and comparisons among life stages. Interobserver agreement was high. Age was negatively associated with IAT on T1W (B = −0.071 mm/year) and T2W images (B = −0.067 mm/year; both p &lt; 0.001). This association persisted after multivariable adjustment (T1W: B = −0.074 mm/year; T2W: B = −0.067 mm/year; both p &lt; 0.001) and after excluding kittens or brachycephalic cats. Senior cats had lower IAT than all other life stages on both sequences. A quadratic term suggested a steeper decline at older ages on T1W images only; this finding remains exploratory. These findings support a group-level association between age and IAT, rather than individual-level diagnostic use. Its potential diagnostic value for FCDS requires prospective evaluation with standardized behavioral assessment and age-matched controls.",
+   "authors": [
+    "Réjane Kerbrat-Copy",
+    "Océane Thérier",
+    "Marion Fusellier"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203317",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "貓認知功能障礙症候群（Feline cognitive dysfunction syndrome, FCDS）是一種與年齡相關的疾病，目前缺乏客觀的影像學標記。本研究旨在評估無明顯認知功能障礙貓隻的年齡與丘腦間黏連厚度（interthalamic adhesion thickness, IAT）之間的關聯，並描述不同貓生長階段的 IAT。本研究回顧性分析了 112 隻年齡介於 4 個月至 18 歲之間、有飼主的貓之 MRI 檢查結果。貓隻被分類為幼貓（<1 歲）、年輕貓（1 歲至 <7 歲）、成年貓（7 歲至 <11 歲）以及高齡貓（≥11 歲）。排除具有顱內病變或被通報有暗示認知功能障礙之行為改變的貓隻。兩位盲性觀察者在橫斷面 T1W 和 T2W 影像上測量 IAT。分析包括經腦高、腦寬、性別／絕育狀態、品種組和掃描儀調整後的線性迴歸；探索性二次年齡建模；以及不同生命階段之間的比較。觀察者間的一致性高。在 T1W 和 T2W 影像上，年齡與 IAT 呈負相關（T1W：B = −0.071 mm/年；T2W：B = −0.067 mm/年；兩者 p < 0.001）。在進行多變數調整後（T1W：B = −0.074 mm/年；T2W：B = −0.067 mm/年；兩者 p < 0.001），以及排除幼貓或短頭貓後，此關聯仍然存在。在兩種造影序列中，高齡貓的 IAT 皆低於其他所有生命階段。二次方程式項顯示，僅在 T1W 影像上，高齡時的下降趨勢更為陡峭；此發現仍屬探索性質。這些發現支持年齡與 IAT 之間存在群體層面的關聯，而非個體層面的診斷用途。其對 FCDS 的潛在診斷價值，尚需透過標準化行為評估與年齡匹配的對照組進行前瞻性評估來確立。"
   },
   {
    "doi": "10.3390/ani16203324",
@@ -4475,66 +4755,6 @@
    "abstract_zh": "γ-胺基丁酸（GABA）是一種功能性飼料添加物，可能可改善生長與抗壓能力。本研究評估了飼糧添加GABA對幼虹鱒在短期急性熱暴露後，生長性能及恢復期生理反應的影響。試驗使用225尾魚（18.9 ± 0.1公克），餵食五種飼糧共8週：包含對照組含68 mg/kg GABA（GABA68），以及添加108（GABA108）、149（GABA149）、183（GABA183）與218（GABA218）mg/kg GABA的飼糧。隨後將魚隻暴露於短期急性熱環境（20 °C下2小時），接著在15 °C下恢復2小時。飼糧添加GABA顯著改善了體重增加量與特定生長率，根據折線迴歸模型估算，基於體重增加量的暫定模式化飼糧GABA添加量約為每公斤飼糧198–210 mg/kg，且提高了飼料效率與蛋白質效率（p < 0.05）。跨溫度處理平均而言，餵食GABA183與GABA218飼糧的魚隻，其血漿皮質醇濃度顯著高於餵食GABA68與GABA108的魚隻，且溫度與GABA具有顯著的交互作用（p < 0.05）。在恢復期間，經20 °C暴露後的肝臟 $hsp70\\alpha$ 與 $hsp90\\beta\\alpha$ 表現量顯著低於維持在15 °C的魚隻，而飼糧GABA及其與溫度的交互作用對所分析的壓力相關基因則無顯著影響。飼糧添加GABA改善了生長性能與飼料利用率；然而，在單一恢復時間點測得的皮質醇無法區分是較強的壓力反應、延遲的恢復，還是改變的皮質醇清除率，亦無法證明其具備較佳的耐熱性或更快的恢復速率。"
   },
   {
-   "doi": "10.3390/ani16203315",
-   "title": "Effects of Salinity on Growth, Muscle Biochemical Components and Antioxidant Resistance of Planiliza haematocheilus",
-   "abstract": "This study evaluated the effects of different water salinities (0, 10, 20 [control], 30, and 40; Practical Salinity Scale, dimensionless) over 56 days on growth performance, muscle biochemical composition, and antioxidant responses in serum and liver of Planiliza haematocheilus. After one-week pre-acclimation at 20, juveniles were directly transferred to the experimental salinities; thus, all groups except the 20 control experienced acute salinity transfer followed by 56-day exposure. Therefore, acute transfer stress and subsequent salinity exposure were confounded and could not be separated in this design. Survival was highest at 20 and lowest at 0. Weight gain rate and specific growth rate peaked at 30 and were lowest at 0. Under this direct-transfer protocol, the optimal salinity range for growth and survival was approximately 20–30 for these ~93 g juveniles. Hepatosomatic index differed significantly among salinity groups. Muscle moisture content was negatively correlated with salinity. Crude protein content was highest in the salinity-40 group, whereas crude fat was highest at 20 and lowest at 0; ash content did not differ significantly among treatments. Superoxide dismutase (SOD) activity in serum and liver showed no clear trend with salinity, but most groups differed significantly from the control. Liver SOD activity was highest at 10 and lowest at 30. Serum catalase (CAT) activity did not differ significantly among salinity groups, whereas liver CAT activity tended to decrease and then increase with rising salinity. Salinity had limited effect on serum malondialdehyde (MDA) content, except for a peak at 40, whereas liver MDA content decreased with increasing salinity and was significantly higher in the low-salinity groups. These results indicate that, under the direct-transfer protocol, P. haematocheilus juveniles (initial weight ~93 g) pre-acclimated to 20 and then directly transferred showed optimal growth and survival at 20–30, and that liver antioxidant parameters may serve as sensitive biomarkers of salinity stress. However, because acute transfer stress was confounded with subsequent 56-day salinity exposure, these findings are specific to this direct-transfer protocol and developmental stage and should not be extrapolated to gradual acclimation protocols or smaller juveniles.",
-   "authors": [
-    "Yilin Wang",
-    "Xin’an Wang",
-    "Zhifeng Liu",
-    "Jingkun Yang",
-    "Pengfei Yan",
-    "Aijun Ma"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203315",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本研究評估了不同水體鹽度（0、10、20 [對照組]、30 與 40；實用鹽度標尺，無因次）對梭魚（*Planiliza haematocheilus*）生長表現、肌肉生化組成，以及血清和肝臟抗氧化反應的影響，試驗為期 56 天。幼魚在鹽度 20 下預馴養一週後，直接移至實驗鹽度；因此，除鹽度 20 對照組外，所有組別皆經歷急性鹽度轉移，隨後進行為期 56 天的暴露。因此，在此實驗設計中，急性轉移緊迫與隨後的鹽度暴露產生了混淆，無法加以區分。存活率以鹽度 20 最高、0 最低。增重率和特定生長率在鹽度 30 時達到峰值，以 0 時最低。在此直接轉移實驗方案下，對於這些約 93 克的幼魚而言，生長與存活的最佳鹽度範圍約為 20–30。肝體比在各鹽度組間有顯著差異。肌肉水分含量與鹽度呈負相關。粗蛋白含量以鹽度 40 組最高，而粗脂肪含量以 20 時最高、0 時最低；灰分含量在各處理組間無顯著差異。血清和肝臟中的超氧化物歧化酶（SOD）活性隨鹽度變化並無明顯趨勢，但多數組別與對照組有顯著差異。肝臟 SOD 活性以 10 時最高、30 時最低。血清過氧化氫酶（CAT）活性在各鹽度組間無顯著差異，而肝臟 CAT 活性隨鹽度上升呈現先降低後升高的趨勢。除在鹽度 40 時出現峰值外，鹽度對血清丙二醛（MDA）含量的影響有限，而肝臟 MDA 含量則隨鹽度增加而降低，且在低鹽度組中顯著較高。這些結果表明，在直接轉移實驗方案下，經鹽度 20 預馴養並直接轉移的梭魚幼魚（初始體重約 93 克）在鹽度 20–30 時表現出最佳的生長與存活，且肝臟抗氧化參數可作為鹽度緊迫的敏感生物標記。然而，由於急性轉移緊迫與隨後 56 天的鹽度暴露產生了混淆，這些發現具體僅適用於此直接轉移方案與發育階段，不應外推至漸進式馴養方案或較小體型的幼魚。"
-  },
-  {
-   "doi": "10.3390/ani16203317",
-   "title": "Age-Related Decrease in Interthalamic Adhesion Thickness in Cats Without Apparent Cognitive Dysfunction",
-   "abstract": "Feline cognitive dysfunction syndrome (FCDS) is an age-associated disorder for which objective imaging markers remain limited. This study evaluated the association between age and interthalamic adhesion thickness (IAT) in cats without apparent cognitive dysfunction and described IAT across feline life stages. MRI examinations from 112 client-owned cats aged 4 months to 18 years were retrospectively reviewed. Cats were classified as kittens (&lt;1 year), young (1 to &lt; 7 years), mature (7 to &lt;11 years) and senior (≥11 years). Cats with intracranial lesions or reported behavioral changes suggestive of cognitive dysfunction were excluded. Two blinded observers measured IAT on transverse T1W and T2W images. Analyses included linear regression adjusted for brain height, brain width, sex/neuter status, breed group, and scanner; exploratory quadratic age modeling; and comparisons among life stages. Interobserver agreement was high. Age was negatively associated with IAT on T1W (B = −0.071 mm/year) and T2W images (B = −0.067 mm/year; both p &lt; 0.001). This association persisted after multivariable adjustment (T1W: B = −0.074 mm/year; T2W: B = −0.067 mm/year; both p &lt; 0.001) and after excluding kittens or brachycephalic cats. Senior cats had lower IAT than all other life stages on both sequences. A quadratic term suggested a steeper decline at older ages on T1W images only; this finding remains exploratory. These findings support a group-level association between age and IAT, rather than individual-level diagnostic use. Its potential diagnostic value for FCDS requires prospective evaluation with standardized behavioral assessment and age-matched controls.",
-   "authors": [
-    "Réjane Kerbrat-Copy",
-    "Océane Thérier",
-    "Marion Fusellier"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203317",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "貓認知功能障礙症候群（Feline cognitive dysfunction syndrome, FCDS）是一種與年齡相關的疾病，目前缺乏客觀的影像學標記。本研究旨在評估無明顯認知功能障礙貓隻的年齡與丘腦間黏連厚度（interthalamic adhesion thickness, IAT）之間的關聯，並描述不同貓生長階段的 IAT。本研究回顧性分析了 112 隻年齡介於 4 個月至 18 歲之間、有飼主的貓之 MRI 檢查結果。貓隻被分類為幼貓（<1 歲）、年輕貓（1 歲至 <7 歲）、成年貓（7 歲至 <11 歲）以及高齡貓（≥11 歲）。排除具有顱內病變或被通報有暗示認知功能障礙之行為改變的貓隻。兩位盲性觀察者在橫斷面 T1W 和 T2W 影像上測量 IAT。分析包括經腦高、腦寬、性別／絕育狀態、品種組和掃描儀調整後的線性迴歸；探索性二次年齡建模；以及不同生命階段之間的比較。觀察者間的一致性高。在 T1W 和 T2W 影像上，年齡與 IAT 呈負相關（T1W：B = −0.071 mm/年；T2W：B = −0.067 mm/年；兩者 p < 0.001）。在進行多變數調整後（T1W：B = −0.074 mm/年；T2W：B = −0.067 mm/年；兩者 p < 0.001），以及排除幼貓或短頭貓後，此關聯仍然存在。在兩種造影序列中，高齡貓的 IAT 皆低於其他所有生命階段。二次方程式項顯示，僅在 T1W 影像上，高齡時的下降趨勢更為陡峭；此發現仍屬探索性質。這些發現支持年齡與 IAT 之間存在群體層面的關聯，而非個體層面的診斷用途。其對 FCDS 的潛在診斷價值，尚需透過標準化行為評估與年齡匹配的對照組進行前瞻性評估來確立。"
-  },
-  {
-   "doi": "10.3390/ani16203314",
-   "title": "Effects of Thymol Supplementation in Health Care Sand on Growth Performance, Serum Biochemical Parameters, Fecal Microbial Diversity, and Fecal Metabolites in Squabs",
-   "abstract": "This study aimed to investigate the effects of thymol supplementation in health care sand on growth performance, serum biochemical parameters, fecal microbial diversity, and fecal metabolites in Grey King squabs. A total of 160 healthy 28-day-old Grey King squabs were selected and randomly assigned to four treatment groups: the CON, 2%Thy, 3%Thy, and 4%Thy groups. Each group consisted of 10 replicates with four squabs per replicate, resulting in a total of 40 squabs per group. Under identical feeding management conditions and dietary nutrient levels, squabs in the CON group received the basal diet plus 5 g of health care sand; those in the 2%Thy group received the basal diet plus 5 g of health care sand containing 2% thymol; those in the 3%Thy group received the basal diet plus 5 g of health care sand containing 3% thymol; and those in the 4%Thy group received the basal diet plus 5 g of health care sand containing 4% thymol. The experiment lasted for 30 days. During the experimental period, the pigeons were housed in cages measuring 45 cm × 50 cm × 60 cm. Each pigeon was provided with 40 g of diet and 5 g of health care sand daily and had free access to water. After Benjamini–Hochberg false discovery rate correction, no significant differences were observed in growth performance, body measurements, apparent nutrient retention, or energy metabolizability among treatments (q &gt; 0.05). However, thymol-supplemented groups exhibited significantly increased serum total antioxidant capacity and superoxide dismutase, glutathione peroxidase, and catalase activities, together with decreased malondialdehyde levels (q &lt; 0.05). Fecal microbiome and metabolomic analyses were restricted to the CON and 3%Thy groups, with the 3%Thy group selected after evaluation of the phenotypic and physiological responses rather than being prespecified before the experiment. These omics comparisons were therefore considered exploratory. No statistically significant difference in overall fecal microbial community composition was detected between the two groups, whereas 17 candidate differential fecal metabolite features were observed. These features were mainly putatively annotated as lipids and lipid-like molecules, organic acids and derivatives, organoheterocyclic compounds, and benzenoids. Among the supplementation levels evaluated, the 3%Thy group showed comparatively favorable numerical responses in several measured parameters and may be considered a candidate level for further investigation. However, the present findings do not establish an optimal thymol supplementation level, and the biological significance of the exploratory fecal omics results requires further validation.",
-   "authors": [
-    "Chen Ma",
-    "Chao Li",
-    "Haiying Li",
-    "Jiajia Liu",
-    "Kunyu Liao",
-    "Yuanhao Li",
-    "Jie Ren",
-    "Guoqiang Wei",
-    "Xiaobin Li"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203314",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本研究旨在探討在保健砂中添加百里香酚（thymol）對灰王鴿幼鴿生長性能、血清生化指標、糞便微生物多樣性及糞便代謝物的影響。試驗選取 160 隻 28 日齡健康灰王鴿幼鴿，隨機分為 4 個處理組：CON 組、2%Thy 組、3%Thy 組和 4%Thy 組。每組設 10 個重複，每個重複 4 隻幼鴿，每組共 40 隻幼鴿。在相同的飼養管理條件與日糧營養水平下，CON 組飼喂基礎日糧加 5 克保健砂；2%Thy 組飼喂基礎日糧加含 2% 百里香酚的 5 克保健砂；3%Thy 組飼喂基礎日糧加含 3% 百里香酚的 5 克保健砂；4%Thy 組飼喂基礎日糧加含 4% 百里香酚的 5 克保健砂。試驗期為 30 天。試驗期間，鴿子飼養於 45 cm × 50 cm × 60 cm 的籠舍中。每隻鴿子每日提供 40 克日糧及 5 克保健砂，自由飲水。經 Benjamini–Hochberg 偽發現率校正後，各處理組間的生長性能、體型指標、表觀養分留存率或能量代謝率均無顯著差異（$q > 0.05$）。然而，添加百里香酚組別的血清總抗氧化能力、超氧化物歧化酶、穀胱甘肽過氧化物酶及過氧化氫酶活性均顯著增加，同時丙二醛含量顯著降低（$q < 0.05$）。糞便微生物組與代謝體學分析僅限於 CON 組與 3%Thy 組，其中 3%Thy 組是在評估表型與生理反應後選出，而非在試驗前預先指定。因此，這些體學比較被視為探索性分析。兩組間的整體糞便微生物群落組成未檢測到統計學上的顯著差異，但觀察到 17 個潛在的差異糞便代謝物特徵。這些特徵主要被推測註解為脂質與類脂分子、有機酸及其衍生物、有機雜環化合物以及苯類化合物。在所評估的添加水平中，3%Thy 組在數項測量指標上表現出相對較佳的數值反應，可被視為進一步研究的候選添加水平。然而，本研究結果並未確立最佳百里香酚添加水平，探索性糞便體學結果的生物學意義仍需進一步驗證。"
-  },
-  {
    "doi": "10.3390/ani16203323",
    "title": "Why Do Goitered Gazelles Cross the Path of an Approaching Moving Object Instead of Fleeing?",
    "abstract": "Animal–vehicle collisions are an important conservation concern. Although many studies examine road mortality and wildlife crossings, less is known about ungulates that run across the path of an approaching vehicle rather than simply fleeing. This study describes this behavior in goitered gazelles (Gazella subgutturosa) and examines its association with four recorded factors: approach category, group size, group composition, and month. In a forward stepwise logistic regression, approach category was associated with crossing behavior (Wald = 22.784, df = 2, p &lt; 0.001). The odds of crossing were higher in the high-category group than in the low-category group (odds ratio = 2.36). However, the categories also differed in object type (cars, motor scooters, and bicycles/pedestrians), so the independent effect of speed cannot be separated from the effect of object type. Group size, group composition, and month did not meet the model’s entry criteria. These observational results identify an association, but do not determine whether path-crossing is a uniquely anti-predator response, a reaction to limited assessment time, or another form of behavior.",
@@ -4548,22 +4768,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "動物與車輛的碰撞是重要的保育議題。雖然許多研究探討了道路死亡率與野生動物穿越道，但對於有蹄類動物在面對逼近的車輛時，究竟是單純逃逸，還是會奔跑穿過車輛路徑，目前所知甚少。本研究描述了小頭瞪羚（Gazella subgutturosa）的這個行為，並探討其與四個記錄因素（接近類別、群體大小、群體組成和月份）之間的關聯。在逐步向前logistic迴歸分析中，接近類別與穿越行為有關（Wald = 22.784, df = 2, p < 0.001）。高等級群體發生穿越行為的勝算比低等級群體來得高（勝算比 = 2.36）。然而，這些類別在目標物類型（汽車、機車以及腳踏車／行人）上也有所不同，因此速度的獨立效應無法與目標物類型的效應分開。群體大小、群體組成和月份並未符合模型的進入標準。這些觀察結果辨識出了一項關聯，但無法斷定路徑穿越究竟是單純的抗掠食反應、對評估時間有限的反應，還是另一種形式的行為。"
-  },
-  {
-   "doi": "10.3390/ani16203318",
-   "title": "Nanoscale Characterization of Microscopically Layered Bone in the Russian Sturgeon Pectoral Fin Spine: A 3D FIB-SEM Study",
-   "abstract": "Dermal bone, the earliest known form of bone, develops without a cartilage precursor and persists in extant fish species. The pectoral fin spine (PFS) is a dermal bone located at the leading edge of the pectoral fin of sturgeons, where it is exposed to loading associated with locomotion. The peripheral region and dermal osteons of the PFS both appear layered at lower magnification; however, collagen organization in load-bearing fish skeletal elements remains incompletely characterized at the nanoscale. The aim of this study is to characterize the 3D nanostructure of the layered peripheral and osteonal bone forming the PFS in Russian sturgeons using focused ion beam–scanning electron microscopy (FIB-SEM). In the dermal osteons, bone forms concentric layers around a central canal at lower magnification, and at the nanoscale, the calcified collagen fibrils within these layers have preferential orientations that change in a clockwise–anticlockwise fanning pattern, consistent with lamellar bone. In contrast, the examined peripheral bone, which also appears layered at low magnification, is composed mainly of unidirectional calcified collagen fibrils aligned with the long axis of the PFS. Within the examined peripheral volumes, no comparable nanoscale lamellar pattern was detected, and the predominant fibril organization was consistent with parallel-fibered bone. Groups of voids associated with unidentified fibrillar material were also observed in the examined peripheral volumes; the voids were oriented approximately normal to the long axis of the PFS. We conclude that regions appearing layered at lower magnification can differ markedly at the nanoscale, and that the lamellar organization seen in dermal osteons raises questions about its evolutionary origin.",
-   "authors": [
-    "Esteban Marroquín-Arroyave",
-    "Joshua Milgram"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203318",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "真皮骨（dermal bone）已知是最早出現的骨骼形式，其發育不經由軟骨前驅物，且存在於現存的魚類物種中。胸鰭棘（pectoral fin spine, PFS）是一種真皮骨，位於鱘魚胸鰭的前緣，承受與運動相關的負載。在低倍率下，PFS的周邊區域與真皮骨單元（osteons）均呈現層狀結構；然而，承受負載的魚類骨骼元素中，膠原蛋白的組織形式在奈米尺度下仍未被充分解析。本研究旨在利用聚焦離子束掃描式電子顯微鏡（FIB-SEM），解析俄羅斯鱘魚PFS中構成層狀周邊骨與骨單元骨的三維奈米結構。在真皮骨單元中，於低倍率下骨骼繞著中央管形成同心層；而在奈米尺度下，這些層內的鈣化膠原原纖維具有偏好方向，並以順時針與逆時針的扇形模式交替變化，這與板層骨（lamellar bone）一致。相較之下，所檢視的周邊骨在低倍率下雖也呈層狀，但主要由與PFS長軸對齊的單向鈣化膠原原纖維組成。在所檢視的周邊體積中，未檢測到可比擬的奈米尺度板層模式，且主要的原纖維組織與平行纖維骨（parallel-fibered bone）一致。在所檢視的周邊體積中也觀察到位處不明原纖維物質之空洞群，這些空洞的方向大致垂直於PFS的長軸。我們得出結論：在低倍率下看似層狀的區域，在奈米尺度下可能存在顯著差異，且真皮骨單元中所見的板層組織對其演化起源提出了疑問。"
   },
   {
    "doi": "10.3390/ani16203319",
@@ -4590,6 +4794,155 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "演化研究已確立人類與蝙蝠冠狀病毒（CoV）之間的關聯，並認定蝙蝠為冠狀病毒科（Coronaviridae）的自然宿主。在過去二十年間，已描述了三起主要的動物源性病毒跨物種傳播事件：造成全球重大疫情的嚴重急性呼吸道症候群冠狀病毒（SARS-CoV）與中東呼吸症候群冠狀病毒（MERS-CoV），以及引發 COVID-19 大流行的 SARS-CoV-2。儘管發生了這些事件，蝙蝠所攜帶的冠狀病毒物種的真實多樣性大體上仍未被充分繪製，儘管新毒株的發現持續加速。在本研究中，我們分析了採集自義大利北部、針對蝙蝠屬（Miniopterus、Myotis 和 Rhinolophus）的 37 份糞便拭子樣本。利用泛冠狀病毒（Pan-CoV）巢式 RT-PCR 在五份蝙蝠樣本中檢測出冠狀病毒：三份對阿爾法冠狀病毒（Alpha-CoVs）呈陽性反應，兩份對貝塔冠狀病毒（Beta-CoVs）呈陽性反應。對陽性樣本進行泛冠狀病毒 Illumina 次世代定序（NGS），其中兩份樣本產生了足夠的讀取深度以進行穩健的重疊群（contig）組裝。系統發生樹分析顯示，在一個長翼蝠（Miniopterus schreibersii）糞便樣本中共同傳播著三種不同的阿爾法冠狀病毒，且在一個小菊頭蝠（Rhinolophus hipposideros）糞便樣本中存在與 SARS-CoV 相關的毒株。阿爾法冠狀病毒與貝塔冠狀病毒皆與歐洲毒株的親緣關係最近。這些發現證實了多樣化的冠狀病毒在義大利蝙蝠中廣泛傳播，並強調了持續進行分子流行病學監測的必要性，以揭示歐洲野生動物中冠狀病毒異質性的完整範圍。"
+  },
+  {
+   "doi": "10.3390/ani16203314",
+   "title": "Effects of Thymol Supplementation in Health Care Sand on Growth Performance, Serum Biochemical Parameters, Fecal Microbial Diversity, and Fecal Metabolites in Squabs",
+   "abstract": "This study aimed to investigate the effects of thymol supplementation in health care sand on growth performance, serum biochemical parameters, fecal microbial diversity, and fecal metabolites in Grey King squabs. A total of 160 healthy 28-day-old Grey King squabs were selected and randomly assigned to four treatment groups: the CON, 2%Thy, 3%Thy, and 4%Thy groups. Each group consisted of 10 replicates with four squabs per replicate, resulting in a total of 40 squabs per group. Under identical feeding management conditions and dietary nutrient levels, squabs in the CON group received the basal diet plus 5 g of health care sand; those in the 2%Thy group received the basal diet plus 5 g of health care sand containing 2% thymol; those in the 3%Thy group received the basal diet plus 5 g of health care sand containing 3% thymol; and those in the 4%Thy group received the basal diet plus 5 g of health care sand containing 4% thymol. The experiment lasted for 30 days. During the experimental period, the pigeons were housed in cages measuring 45 cm × 50 cm × 60 cm. Each pigeon was provided with 40 g of diet and 5 g of health care sand daily and had free access to water. After Benjamini–Hochberg false discovery rate correction, no significant differences were observed in growth performance, body measurements, apparent nutrient retention, or energy metabolizability among treatments (q &gt; 0.05). However, thymol-supplemented groups exhibited significantly increased serum total antioxidant capacity and superoxide dismutase, glutathione peroxidase, and catalase activities, together with decreased malondialdehyde levels (q &lt; 0.05). Fecal microbiome and metabolomic analyses were restricted to the CON and 3%Thy groups, with the 3%Thy group selected after evaluation of the phenotypic and physiological responses rather than being prespecified before the experiment. These omics comparisons were therefore considered exploratory. No statistically significant difference in overall fecal microbial community composition was detected between the two groups, whereas 17 candidate differential fecal metabolite features were observed. These features were mainly putatively annotated as lipids and lipid-like molecules, organic acids and derivatives, organoheterocyclic compounds, and benzenoids. Among the supplementation levels evaluated, the 3%Thy group showed comparatively favorable numerical responses in several measured parameters and may be considered a candidate level for further investigation. However, the present findings do not establish an optimal thymol supplementation level, and the biological significance of the exploratory fecal omics results requires further validation.",
+   "authors": [
+    "Chen Ma",
+    "Chao Li",
+    "Haiying Li",
+    "Jiajia Liu",
+    "Kunyu Liao",
+    "Yuanhao Li",
+    "Jie Ren",
+    "Guoqiang Wei",
+    "Xiaobin Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203314",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本研究旨在探討在保健砂中添加百里香酚（thymol）對灰王鴿幼鴿生長性能、血清生化指標、糞便微生物多樣性及糞便代謝物的影響。試驗選取 160 隻 28 日齡健康灰王鴿幼鴿，隨機分為 4 個處理組：CON 組、2%Thy 組、3%Thy 組和 4%Thy 組。每組設 10 個重複，每個重複 4 隻幼鴿，每組共 40 隻幼鴿。在相同的飼養管理條件與日糧營養水平下，CON 組飼喂基礎日糧加 5 克保健砂；2%Thy 組飼喂基礎日糧加含 2% 百里香酚的 5 克保健砂；3%Thy 組飼喂基礎日糧加含 3% 百里香酚的 5 克保健砂；4%Thy 組飼喂基礎日糧加含 4% 百里香酚的 5 克保健砂。試驗期為 30 天。試驗期間，鴿子飼養於 45 cm × 50 cm × 60 cm 的籠舍中。每隻鴿子每日提供 40 克日糧及 5 克保健砂，自由飲水。經 Benjamini–Hochberg 偽發現率校正後，各處理組間的生長性能、體型指標、表觀養分留存率或能量代謝率均無顯著差異（$q > 0.05$）。然而，添加百里香酚組別的血清總抗氧化能力、超氧化物歧化酶、穀胱甘肽過氧化物酶及過氧化氫酶活性均顯著增加，同時丙二醛含量顯著降低（$q < 0.05$）。糞便微生物組與代謝體學分析僅限於 CON 組與 3%Thy 組，其中 3%Thy 組是在評估表型與生理反應後選出，而非在試驗前預先指定。因此，這些體學比較被視為探索性分析。兩組間的整體糞便微生物群落組成未檢測到統計學上的顯著差異，但觀察到 17 個潛在的差異糞便代謝物特徵。這些特徵主要被推測註解為脂質與類脂分子、有機酸及其衍生物、有機雜環化合物以及苯類化合物。在所評估的添加水平中，3%Thy 組在數項測量指標上表現出相對較佳的數值反應，可被視為進一步研究的候選添加水平。然而，本研究結果並未確立最佳百里香酚添加水平，探索性糞便體學結果的生物學意義仍需進一步驗證。"
+  },
+  {
+   "doi": "10.3390/ani16203315",
+   "title": "Effects of Salinity on Growth, Muscle Biochemical Components and Antioxidant Resistance of Planiliza haematocheilus",
+   "abstract": "This study evaluated the effects of different water salinities (0, 10, 20 [control], 30, and 40; Practical Salinity Scale, dimensionless) over 56 days on growth performance, muscle biochemical composition, and antioxidant responses in serum and liver of Planiliza haematocheilus. After one-week pre-acclimation at 20, juveniles were directly transferred to the experimental salinities; thus, all groups except the 20 control experienced acute salinity transfer followed by 56-day exposure. Therefore, acute transfer stress and subsequent salinity exposure were confounded and could not be separated in this design. Survival was highest at 20 and lowest at 0. Weight gain rate and specific growth rate peaked at 30 and were lowest at 0. Under this direct-transfer protocol, the optimal salinity range for growth and survival was approximately 20–30 for these ~93 g juveniles. Hepatosomatic index differed significantly among salinity groups. Muscle moisture content was negatively correlated with salinity. Crude protein content was highest in the salinity-40 group, whereas crude fat was highest at 20 and lowest at 0; ash content did not differ significantly among treatments. Superoxide dismutase (SOD) activity in serum and liver showed no clear trend with salinity, but most groups differed significantly from the control. Liver SOD activity was highest at 10 and lowest at 30. Serum catalase (CAT) activity did not differ significantly among salinity groups, whereas liver CAT activity tended to decrease and then increase with rising salinity. Salinity had limited effect on serum malondialdehyde (MDA) content, except for a peak at 40, whereas liver MDA content decreased with increasing salinity and was significantly higher in the low-salinity groups. These results indicate that, under the direct-transfer protocol, P. haematocheilus juveniles (initial weight ~93 g) pre-acclimated to 20 and then directly transferred showed optimal growth and survival at 20–30, and that liver antioxidant parameters may serve as sensitive biomarkers of salinity stress. However, because acute transfer stress was confounded with subsequent 56-day salinity exposure, these findings are specific to this direct-transfer protocol and developmental stage and should not be extrapolated to gradual acclimation protocols or smaller juveniles.",
+   "authors": [
+    "Yilin Wang",
+    "Xin’an Wang",
+    "Zhifeng Liu",
+    "Jingkun Yang",
+    "Pengfei Yan",
+    "Aijun Ma"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203315",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本研究評估了不同水體鹽度（0、10、20 [對照組]、30 與 40；實用鹽度標尺，無因次）對梭魚（*Planiliza haematocheilus*）生長表現、肌肉生化組成，以及血清和肝臟抗氧化反應的影響，試驗為期 56 天。幼魚在鹽度 20 下預馴養一週後，直接移至實驗鹽度；因此，除鹽度 20 對照組外，所有組別皆經歷急性鹽度轉移，隨後進行為期 56 天的暴露。因此，在此實驗設計中，急性轉移緊迫與隨後的鹽度暴露產生了混淆，無法加以區分。存活率以鹽度 20 最高、0 最低。增重率和特定生長率在鹽度 30 時達到峰值，以 0 時最低。在此直接轉移實驗方案下，對於這些約 93 克的幼魚而言，生長與存活的最佳鹽度範圍約為 20–30。肝體比在各鹽度組間有顯著差異。肌肉水分含量與鹽度呈負相關。粗蛋白含量以鹽度 40 組最高，而粗脂肪含量以 20 時最高、0 時最低；灰分含量在各處理組間無顯著差異。血清和肝臟中的超氧化物歧化酶（SOD）活性隨鹽度變化並無明顯趨勢，但多數組別與對照組有顯著差異。肝臟 SOD 活性以 10 時最高、30 時最低。血清過氧化氫酶（CAT）活性在各鹽度組間無顯著差異，而肝臟 CAT 活性隨鹽度上升呈現先降低後升高的趨勢。除在鹽度 40 時出現峰值外，鹽度對血清丙二醛（MDA）含量的影響有限，而肝臟 MDA 含量則隨鹽度增加而降低，且在低鹽度組中顯著較高。這些結果表明，在直接轉移實驗方案下，經鹽度 20 預馴養並直接轉移的梭魚幼魚（初始體重約 93 克）在鹽度 20–30 時表現出最佳的生長與存活，且肝臟抗氧化參數可作為鹽度緊迫的敏感生物標記。然而，由於急性轉移緊迫與隨後 56 天的鹽度暴露產生了混淆，這些發現具體僅適用於此直接轉移方案與發育階段，不應外推至漸進式馴養方案或較小體型的幼魚。"
+  },
+  {
+   "doi": "10.3390/ani16213336",
+   "title": "HDAC2-Specific Inhibitor Santacruzamate A Inhibits Mouse Preantral Folliculogenesis Through Granulosa Cell Apoptosis and Oocyte Meiosis Interference",
+   "abstract": "Histone deacetylase 2 (HDAC2)-mediated epigenetic modifications play a crucial role in oogenesis, yet the regulatory mechanisms of HDAC2 throughout the entire process of folliculogenesis remain elusive. In the present study, the localization and expression of HDAC2 were detected in mouse ovaries at distinct postnatal ages and after gonadotropin treatment. The effects and molecular mechanisms of Santacruzamate A (SCA), a selective HDAC2 inhibitor, on folliculogenesis were investigated via an in vitro 3D culture model of mouse preantral follicles. The results showed that HDAC2 was localized in the nuclei of both ovarian granulosa cells and oocytes. Its expression was gradually increased with ovarian development in mice aged from postnatal day 7 to 21, and significantly decreased after 12 h hCG treatment. In follicles cultured in vitro, HDAC2 expression peaked on day 4 of culture. SCA exerted stage-specific and dose-dependent regulatory effects on folliculogenesis. SCA significantly suppressed follicular growth, blocked antrum formation, and triggered follicular atresia. Mechanistically, SCA promoted ovarian granulosa cell apoptosis via increases in pro-apoptotic genes BAX and Caspase-3 levels, and a decrease in anti-apoptotic gene BCL-2 level. Furthermore, SCA disrupted the structural integrity of the follicular microfilament cytoskeleton, interfered with the levels of genes related to oocyte–granulosa cell communication including CX37 and GDF9, caused abnormalities in oocyte spindle structure, chromosome alignment, mitochondrial distribution, and decreased mitochondrial membrane potential (ΔΨm). In conclusion, HDAC2 participates in the transcriptional regulation of mouse folliculogenesis through dynamically changing expression at distinct developmental stages. HDAC2 exerts stage-specific regulatory effects on follicular growth and oocyte maturation, and its mechanisms are associated with maintaining granulosa cell survival, ensuring cytoskeletal integrity, and preserving oocyte mitochondrial function. This study advances our understanding of epigenetic regulation of folliculogenesis and provides novel targets and an experimental basis for optimizing in vitro follicular culture systems and regulating female reproductive performance.",
+   "authors": [
+    "Fenglei Chen",
+    "Chengfei Wang",
+    "Tuba Latif Virk",
+    "Mengdie Pi",
+    "Yutong Chen",
+    "Qi Liu",
+    "Sheng Yang",
+    "Zhiyu Ma",
+    "Xianyu Xu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213336",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "組織去乙醯酶2（HDAC2）介導的表觀遺傳修飾在卵子發生中扮演關鍵角色，然而HDAC2在整個卵泡發育過程中的調控機制仍未完全明瞭。在本研究中，我們檢測了不同出生後發育階段及性腺激素刺激後的小鼠卵巢中HDAC2的定位與表現。透過小鼠小卵泡體外三維培養模型，探討選擇性HDAC2抑制劑Santacruzamate A（SCA）對卵泡發育的影響及相關分子機制。結果顯示，HDAC2定位於卵巢顆粒細胞及卵母細胞的細胞核中。在出生後第7天至第21天的小鼠中，其表現量隨著卵巢發育而逐漸增加，並在注射hCG 12小時後顯著下降。在體外培養的卵泡中，HDAC2表現量於培養第4天達到峰值。SCA對卵泡發育產生具有階段特異性及劑量依賴性的調控作用。SCA顯著抑制卵泡生長、阻礙竇狀卵泡形成，並引發卵泡閉鎖。在機制上，SCA透過增加促凋亡基因BAX和Caspase-3的表現量、降低抗凋亡基因BCL-2的表現量，促進卵巢顆粒細胞凋亡。此外，SCA破壞了卵泡微絲細胞骨架的結構完整性，干擾了與卵母細胞－顆粒細胞通訊相關的基因（如CX37和GDF9）表現量，導致卵母細胞紡錘體結構、染色體排列及線粒體分佈異常，並降低了線粒體膜電位（ΔΨm）。綜上所述，HDAC2透過在不同發育階段動態變化的表現，參與小鼠卵泡發育的轉錄調控。HDAC2對卵泡生長和卵母細胞成熟發揮階段特異性的調控作用，其機制與維持顆粒細胞存活、確保細胞骨架完整性以及維持卵母細胞線粒體功能密切相關。本研究加深了我們對卵泡發育表觀遺傳調控的理解，並為優化體外卵泡培養系統及調控雌性生殖性能提供了新的標靶與實驗基礎。"
+  },
+  {
+   "doi": "10.3390/ani16213327",
+   "title": "Slipped Capital Femoral Epiphysis in Two Neutered Male Maine Coon Cats: A Case Report",
+   "abstract": "Slipped capital femoral epiphysis (SCFE), also referred to as spontaneous femoral capital physeal fracture, is an uncommon orthopedic disorder in cats characterized by separation of the femoral capital epiphysis through the proximal femoral physis in the absence of significant trauma. Maine Coon cats, particularly males, appear to be predisposed to this condition. This report describes two neutered male Maine Coon cats, aged 21 and 16 months, presenting with pelvic limb lameness without a known history of significant trauma. The first cat exhibited grade 2 pelvic limb lameness, bilateral pelvic limb muscle atrophy, and pain and crepitus during manipulation of both coxofemoral joints. Radiographic examination revealed bilateral SCFE associated with secondary degenerative changes. The second cat presented with grade 1 pelvic limb lameness, joint laxity, and pain without palpable crepitus. Radiographic examination raised suspicion of right femoral capital physeal separation, which was subsequently confirmed by computed tomography. Both cats underwent femoral head and neck excision (FHNE), with bilateral FHNE performed during a single anesthetic episode in the first cat. Postoperative clinical examinations and owner reports indicated improvement in pelvic limb function and resolution of clinically apparent lameness in both cats. Radiographic examinations performed six months postoperatively documented the surgical changes, with persistent reduction in pelvic limb soft-tissue volume consistent with muscle atrophy. These cases highlight the variable clinical and imaging presentations of SCFE in Maine Coon cats and the complementary roles of radiography and computed tomography in diagnosis. Although clinical improvement was observed following FHNE, the absence of standardized functional assessments limits definitive conclusions regarding the extent of postoperative recovery.",
+   "authors": [
+    "Cristina Vaduva",
+    "Cristian Zaha",
+    "Tudor Casalean",
+    "Doru Morar",
+    "Florin Simiz",
+    "Velescu Simina",
+    "Florea Bogdan",
+    "Corina Marina Kracunovic",
+    "Janos Degi",
+    "Roxana Dascălu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213327",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "股骨頭骺板is滑脫（Slipped capital femoral epiphysis, SCFE），亦稱為自發性股骨頭骺板骨折，是貓少見的骨科疾病，其特徵為在沒有明顯外傷的情況下，股骨頭骨骺透過近端股骨骺板分離。緬因貓，特別是公貓，似乎對此疾病具有易感性。本病例報告描述了兩隻絕育公緬因貓，年齡分別為21個月大與16個月大，主訴為後肢跛行且無已知之顯著外傷史。第一隻貓表現出2級後肢跛行、雙側後肢肌肉萎縮，以及在雙側髖關節操作時出現疼痛與彈響音。放射線學檢查顯示雙側SCFE伴隨繼發性退化性改變。第二隻貓表現出1級後肢跛行、關節鬆弛以及疼痛，無可觸及之彈響音。放射線學檢查懷疑右側股骨頭骺板分離，隨後透過電腦斷層掃描確診。兩隻貓皆接受了股骨頭頸切除術（FHNE），其中第一隻貓在單次麻醉過程中進行了雙側FHNE。術後臨床檢查與飼主回報顯示，兩隻貓的後肢功能均有所改善，且臨床上明顯的跛行消失。術後六個月進行的放射線學檢查記錄了手術變化，並伴隨與肌肉萎縮一致的後肢軟組織體積持續減少。這些病例突顯了緬因貓SCFE多變的臨床與影像學表現，以及放射線學與電腦斷層掃描在診斷中的互補角色。儘管在接受FHNE後觀察到臨床改善，但缺乏標準化的功能評估，限制了對術后恢復程度的明確結論。"
+  },
+  {
+   "doi": "10.3390/ani16213332",
+   "title": "Comparative Analysis of Bird Collision Prevention Patterned Samples: Avoidance Performance Under Transparent and Reflective Glass Conditions in Flight Tunnel Tests",
+   "abstract": "The transparency and reflectivity of glass are primary factors contributing to bird collisions, as they prevent birds from recognizing glass surfaces as obstacles. However, the effectiveness of bird collision prevention products is primarily evaluated through transparency-based tunnel tests, which do not adequately account for the reflective conditions commonly found on building glass. We developed an indoor flight tunnel system that simulated sky reflections on glass surfaces and compared avoidance responses to three bird collision prevention patterned samples under both transparent and reflective conditions. A total of 507 wild small passerines were tested, each undergoing a single flight trial. All three patterned samples showed lower avoidance rates under reflective than transparent conditions, but the overall effect of test condition on avoidance was not statistically significant. The frequency of invalid flights increased significantly under reflective conditions. These findings suggest that avoidance responses to bird collision prevention products may vary between transparent and reflective test configurations, although the magnitude of this difference remains uncertain. Incorporating reflective conditions alongside conventional transparency-based tests may therefore provide complementary information for evaluating product performance under different optical conditions.",
+   "authors": [
+    "Minyoung Kim",
+    "Ryeoeun Youn",
+    "Choonghyun Kang",
+    "Jong Koo Lee"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213332",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "玻璃的透明度與反射率是導致鳥類窗殺的主要因素，因為這會妨礙鳥類將玻璃表面識別為障礙物。然而，防撞產品的有效性評估主要透過基於透明條件的隧道實驗進行，這並未能充分考量建築玻璃常見的反射條件。本研究開發了一套室內飛行隧道系統，可模擬玻璃表面上的天空反射，並在透明與反射條件下，比較鳥類對三種防撞圖案樣本的迴避反應。總共測試了 507 隻野生小型雀形目鳥類，每隻鳥進行單次飛行試驗。在反射條件下，三種圖案樣本的迴避率均低於透明條件，但測試條件對迴避行為的整體影響並未達到統計顯著。無效飛行頻率在反射條件下顯著增加。這些研究結果顯示，鳥類對防撞產品的迴避反應可能會因透明與反射的測試配置而異，儘管此差異的幅度仍不確定。因此，在傳統的透明測試之外納入反射條件，或可為評估產品在不同光學條件下的效能提供互補的資訊。"
+  },
+  {
+   "doi": "10.3390/ani16213331",
+   "title": "Characterising the Yellow Muscle Phenotype of Common Carp by Muscle Carotenoids, Fatty Acid Composition and Multi-Omics Analysis",
+   "abstract": "Muscle color affects the market value of common carp (Cyprinus carpio), but the pigmentary and metabolic basis of the yellow muscle phenotype remains unclear. In this study, we compared muscle carotenoids, fatty acid profiles, and multi-omics data between wild yellow muscle (YC) and normal muscle (NC) common carp. YC showed significantly higher yellowness (b*) value, but there were no significant differences in the lightness (L*) and redness (a*) values. Total carotenoid was higher in YC and positively correlated with b*value. YC had higher saturated fatty acids (SFA) and n-3 polyunsaturated fatty acids (n-3 PUFA) proportions, including eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), but lower n-6 and total PUFA, despite unchanged crude fat content. Total carotenoid content correlated with multiple fatty acids but not crude fat. Multi-omics analyses converged on glycerophospholipid metabolism, unsaturated fatty acid biosynthesis, and arachidonic acid metabolism, and cd36, scarb1, and bco2 were upregulated in YC muscle. In summary, these findings indicate that carotenoid accumulation underlies enhanced yellowness, while lipid remodeling and related transport processes may facilitate carotenoid retention in YC.",
+   "authors": [
+    "Shunke Zhang",
+    "Tingyu Zhang",
+    "Pengcheng Duan",
+    "Jianpeng Zhang",
+    "Ying Pan",
+    "Chuanyu Li",
+    "Bojun Chen",
+    "Zhiyang Li",
+    "Baoyue Lu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213331",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "肌肉顏色會影響鯉魚（Cyprinus carpio）的市場價值，然而黃色肌肉表型的色素與代謝基礎仍不清楚。在本研究中，我們比較了野生黃色肌肉（YC）與正常肌肉（NC）鯉魚的肌肉類胡蘿蔔素、脂肪酸組分以及多體學數據。YC顯示出顯著較高的黃色度（$b^*$）值，但在明度（$L^*$）和紅色度（$a^*$）值上則無顯著差異。總類胡蘿蔔素在YC中較高，且與$b^*$值呈正相關。儘管粗脂肪含量沒有改變，但YC具有較高的飽和脂肪酸（SFA）與n-3多元不飽和脂肪酸（n-3 PUFA）比例（包含二十碳五烯酸〔EPA〕與二十二碳六烯酸〔DHA〕），而n-6及總多元不飽和脂肪酸則較低。總類胡蘿蔔素含量與多種脂肪酸相關，但與粗脂肪無關。多體學分析聚焦於甘油磷脂代謝、不飽和脂肪酸生物合成及花生四烯酸代謝，且 $cd36$、$scarb1$ 和 $bco2$ 在 YC 肌肉中顯著上調。總括而言，這些發現表明類胡蘿蔔素的累積是增強黃色度的基礎，而脂質重塑及相關轉運過程則可能促進類胡蘿蔔素在 YC 中的滯留。"
+  },
+  {
+   "doi": "10.3390/ani16213326",
+   "title": "Variation in Colostrum Brix Values and Associations Between Initial Body Weight, Colostrum Intake and Piglet Survival from 24 h to Weaning in a Swedish Sow Herd",
+   "abstract": "Colostrum is essential for neonatal piglet survival, but individual teat measurements may not represent sow-level mean Brix values. Brix refractometry provides an indirect on-farm estimate of colostrum IgG concentration. This exploratory study quantified Brix variation within and between sows and examined associations between initial body weight, sow Brix values, estimated colostrum intake, and survival from approximately 24 h to weaning. Colostrum was sampled from 28 sows in a Swedish high-health herd. A total of 410 teat samples were analysed and 373 piglets were weighed at colostrum sampling and followed until weaning. The mean sow Brix value was 27.6%. Approximately half the variation was attributable to differences between sows, with the remainder occurring between teats within sows. Empirical resampling analysis showed that sampling multiple teats improved the precision of sow-level mean Brix estimates; with five teats, 95.2% of estimates were within ±1.5 Brix percentage points of the observed sow mean. No clear association between sow-level Brix values and survival from 24 h to weaning was detected. Survival was associated with initial body weight, and the association with estimated colostrum intake depended on initial body weight, being strongest for piglets with lower body weight. Given limited sow numbers and single-herd design, these findings require multi-herd validation.",
+   "authors": [
+    "Anna Carlertz",
+    "Elin Skans",
+    "Rebecka Westin",
+    "Magdalena Jacobson"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213326",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "初乳對初生仔豬的存活至關重要，但個別乳頭的測量值可能無法代表母豬群體的平均布里克斯（Brix）糖度值。布里克斯折射儀可用於場內間接估算初乳中的 IgG 濃度。本探索性研究量化了母豬體內及母豬之間的布里克斯變異，並檢視了初始體重、母豬布里克斯值、估算初乳攝入量以及從約 24 小時齡至離乳期間存活率之間的關聯。本研究自瑞典一個高健康水準豬場的 28 頭母豬採集初乳樣本，分析了總共 410 個乳頭樣本，並對 373 頭仔豬在採集初乳時進行秤重，並追蹤至離乳。母豬平均布里克斯值為 27.6%。大約一半的變異歸因於母豬間的差異，其餘則發生在同一頭母豬的不同乳頭之間。經驗重抽樣分析顯示，採集多個乳頭可提高母豬層級平均布里克斯估計值的精確度；若採集五個乳頭，95.2% 的估計值落在觀察到的母豬平均值 ±1.5 個布里克斯百分點的範圍內。研究未發現母豬層級布里克斯值與 24 小時齡至離乳存活率之間有明顯的關聯。存活率與初始體重有關，而與估算初乳攝入量的關聯則取決於初始體重，對體重較輕的仔豬影響最強烈。鑑於母豬數量有限且為單一豬場設計，這些結果尚需多豬場的驗證。"
   }
  ]
 }
