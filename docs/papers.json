@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:03:25+00:00",
+ "updated": "2026-10-25T23:53:58+00:00",
  "papers": [
   {
    "doi": "10.1002/age.70224",
@@ -1731,6 +1731,34 @@
    "abstract_zh": "背景：複雜性狀的遺傳評估經常受到異質性、不完整或高成本表型分析的挑戰。許多生物過程需要對多個性狀進行表徵。此外，當可用性狀的配置很複雜（例如：性狀數量增加、複雜的缺失模式）時，結合多個性狀會變得很困難，從而導致更高的計算需求。為了解決這些限制，本研究開發了一種基於去迴歸（deregression）的合併方法，將多性狀資訊預先處理為目標性狀的單一偽表型（即合併表型）。此方法在豬隻的終端雜交情況下進行了評估。\n結果：本研究在不同的資料集（即不同的資料可用性情境——1個真實資料集與3個模擬資料集）上，研究了估計育種值（EBV）的表現以及信賴度系統的準確性。使用了三個建模步驟：(1) 生成去迴歸輸入的多性狀模型；(2) 調整後的純量去迴歸，使用(3) 應用於該合併表型的單性狀模型將資訊結合成合併表型，以評估這些結果如何與步驟(1)的多性狀預測相匹配。在所有資料結構情境中，未調整的去迴歸會低估育種值並扭曲信賴度。相比之下，應用擴展與信賴度對齊因子作為調整，恢復了估計育種值的分布與尺度，產生與多性狀模型幾近完美的ㄧ致性。在所有模擬情境中（包括完全缺乏目標性狀的情境），調整後的去迴歸過程在真實育種值與估計育種值之間實現了最高的相關性。\n結論：基於去迴歸的過程提供了一種有效且具彈性的方法，可在單一性狀框架下將異質的多性狀資訊結合為獨特的合併表型，同時在多性狀框架下維持目標性狀的遺傳尺度與信賴度。與傳統的去迴歸不同，調整後的去迴歸過程可防止過度縮減（overshrinking）、維持準確性並重現多性狀評估的行為。這種預先處理對於將複雜或部分記錄的性狀整合到常規遺傳評估流程中將是一種實用的解決方案。即使主要的目標性狀受限或缺失，只要有中度至高度相關的性狀可供使用，此方法仍然適用。只要能避免任何重複計算，此策略亦可擴展應用於其他情境。"
   },
   {
+   "doi": "10.1080/10495398.2026.2740386",
+   "title": "Isolation and characterization of rabbit intramuscular preadipocytes: Establishing a foundation for studies of intramuscular fat metabolism",
+   "abstract": "Intramuscular fat (IMF) significantly influences meat quality, affecting flavor, tenderness, and juiciness. Despite extensive research on livestock such as cattle and pigs, the regulation of IMF in rabbits remains poorly understood. This study establishes a standardized in vitro method for isolating and characterizing intramuscular preadipocytes from the longissimus dorsi muscle of 3-day-old Hycole rabbits using enzymatic digestion and differential centrifugation. Three-day-old neonates were selected for initial protocol development due to their higher progenitor cell abundance and tissue accessibility, which facilitates method optimization and ensures consistent cell yields. Isolated cells displayed typical preadipocyte morphology and expressed key markers, including PREF-1, PPARγ, and Leptin, confirmed by RT-qPCR and immunofluorescence. Upon adipogenic induction, cells exhibited progressive lipid accumulation, as indicated by Oil Red O staining, and showed upregulated expression of PPARG, C/EBPa, and FABP4, confirming their differentiation potential. This study establishes a comprehensive protocol for isolating rabbit intramuscular preadipocytes, providing a foundational tool for investigating the molecular mechanisms of adipogenesis in lagomorphs. The model supports future studies on genetic and nutritional strategies to enhance rabbit meat quality while preserving its lean characteristics.",
+   "authors": [
+    "Ifeanyi S. Ahamba",
+    "Guohua Song",
+    "Lionel Kinkpe",
+    "Qianting Duan",
+    "Naqash Goswami",
+    "Zhuoya Jin",
+    "Jie Wu",
+    "Xianggui Dong",
+    "Zhanjun Ren"
+   ],
+   "journal": "Animal Biotechnology",
+   "url": "https://doi.org/10.1080/10495398.2026.2740386",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 9.0,
+   "matched": [
+    "cattle",
+    "rabbit",
+    "nutrition",
+    "meat quality"
+   ],
+   "abstract_zh": "肌內脂肪（IMF）顯著影響肉品品質，進而牽動風味、嫩度與多汁性。儘管針對牛、豬等家畜的相關研究已相當廣泛，兔類肌內脂肪的調控機制卻仍所知有限。本研究建立了一套標準化的體外方法，利用酵素消化法與差速離心法，自3日齡海科萊兔的背最長肌中分離並鑑定肌內前脂肪細胞。選擇3日齡新生兔進行最初的實驗方案開發，是由於其具有較高的前驅細胞豐度與組織可及性，這有助於方法的最佳化並確保穩定的細胞得率。分離出的細胞展現出典型的前脂肪細胞形態，並表現出包括PREF-1、PPARγ與Leptin在內的關鍵標記，此點已透過即時螢光定量PCR（RT-qPCR）與免疫螢光染色獲得證實。在進行成脂誘導後，細胞展現出漸進式的脂質累積（如油紅O染色所示），並顯示出PPARG、C/EBPa及FABP4表現量上調，從而證實其分化潛能。本研究建立了一個分離兔肌內前脂肪細胞的完整實驗方案，為探討兔形目動物脂肪生成之分子機制提供了基礎工具。此模型為未來的基因與營養策略研究提供了支持，有助於在維持兔肉瘦肉特性的同時提升其肉品品質。"
+  },
+  {
    "doi": "10.1186/s12711-026-01085-2",
    "title": "The rate and spectrum of germline mutations in chicken from a commercial pedigree line",
    "abstract": "Background Pedigree-based studies of germline mutations provide a direct understanding of the origin and consequences of genetic variation, and allow quantification of how mutations affect functional variation. Here, we use whole-genome sequencing data from 194 chicken ( Gallus gallus ) trios from a commercial pedigree line to estimate the germline mutation rate and spectrum, and to characterize patterns of mutational variation across the genome and genes, aiming to rank protein coding genes by their expected contributions to mutational variance ( V m ). Results We estimated a mutation rate of µ = 3.49 × 10 −9 mutations per nucleotide site per generation. A goodness-of-fit test (χ 2 13 = 10.97, P = 0.61) indicated that the number of new mutations per generation follows a Poisson distribution ( λ = 6.22). A read-based phasing approach revealed a strong sex bias, with males contributing approximately twice as many mutations as females. Microchromosomes showed a point estimate of mutation rate approximately 8% higher than macrochromosomes, likely owing to their higher GC content and a mutation spectrum dominated by C→T transitions. From this spectrum, we built a codon transition matrix and show that genes vary widely in their propensity to mutation based on codon composition, likely reflecting large differences in their contributions to V m . Specifically, we found that genes involved in immunity and development rank among those most prone to non-silent mutations. Conclusions Our results reveal predictable patterns of gene-level mutational variation and provide a framework for anticipating how new mutations generate functional variation. By bridging quantitative genetics and molecular biology, we provide a mechanistic basis for variation in V m across the genome, showing that heterogeneity in V m can arise from gene-specific features, particularly codon composition and mutational target size. These metrics offer a way to rank genes and prioritize genetic variants by their expected contributions to biological functions as a consequence of de novo mutation. This provides a new basis for informed management of genetic variation in breeding populations and for understanding the evolutionary dynamics of functionally important genes.",
@@ -2229,33 +2257,6 @@
     "sheep"
    ],
    "abstract_zh": "反芻動物間的乳品甲烷強度經常被進行比較，但聯合國糧食及農業組織企業統計資料庫（FAOSTAT）僅針對牛隻識別出乳牛群；對於水牛、山羊、綿羊和駱駝，則僅報告全群甲烷排放量。針對 2020–2023 年間的 186 個國家，我們利用各國泌乳動物的比例，將非牛類畜群的甲烷分配至乳品。這使合併強度比值從牛隻的 2.9–17.9 降至 1.1–5.2；在 107 個多物種國家中，牛隻在 53 個國家中擁有最低的報告乳品分配強度（若採用全則為 89 個）。在篩選後的主要分析中（排除一筆不合理的蒙古綿羊乳系列資料），全球比值減少了 0.64 g CH4 kg−1；三因子分解顯示，國家佔比貢獻了 +0.48 g CH4 kg−1，物種組成貢獻了 −0.10，物種內部強度則貢獻了 −1.02。若保留該系列資料，相應的組成份則分別為 +0.57、−1.43 與 +0.21。在明確界線與具影響力的記錄之前，跨物種比較僅屬會計建構。"
-  },
-  {
-   "doi": "10.1080/10495398.2026.2740386",
-   "title": "Isolation and characterization of rabbit intramuscular preadipocytes: Establishing a foundation for studies of intramuscular fat metabolism",
-   "abstract": ", confirming their differentiation potential. This study establishes a comprehensive protocol for isolating rabbit intramuscular preadipocytes, providing a foundational tool for investigating the molecular mechanisms of adipogenesis in lagomorphs. The model supports future studies on genetic and nutritional strategies to enhance rabbit meat quality while preserving its lean characteristics.",
-   "authors": [
-    "Ifeanyi S. Ahamba",
-    "Guohua Song",
-    "Lionel Kinkpe",
-    "Qianting Duan",
-    "Naqash Goswami",
-    "Zhuoya Jin",
-    "Jie Wu",
-    "Xianggui Dong",
-    "Zhanjun Ren"
-   ],
-   "journal": "Animal Biotechnology",
-   "url": "https://doi.org/10.1080/10495398.2026.2740386",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 6.0,
-   "matched": [
-    "rabbit",
-    "nutrition",
-    "meat quality"
-   ],
-   "abstract_zh": "肌內脂肪（IMF）顯著影響肉品品質，進而牽動風味、嫩度與多汁性。儘管針對牛、豬等家畜的相關研究已相當廣泛，兔類肌內脂肪的調控機制卻仍所知有限。本研究建立了一套標準化的體外方法，利用酵素消化法與差速離心法，自3日齡海科萊兔的背最長肌中分離並鑑定肌內前脂肪細胞。選擇3日齡新生兔進行最初的實驗方案開發，是由於其具有較高的前驅細胞豐度與組織可及性，這有助於方法的最佳化並確保穩定的細胞得率。分離出的細胞展現出典型的前脂肪細胞形態，並表現出包括PREF-1、PPARγ與Leptin在內的關鍵標記，此點已透過即時螢光定量PCR（RT-qPCR）與免疫螢光染色獲得證實。在進行成脂誘導後，細胞展現出漸進式的脂質累積（如油紅O染色所示），並顯示出PPARG、C/EBPa及FABP4表現量上調，從而證實其分化潛能。本研究建立了一個分離兔肌內前脂肪細胞的完整實驗方案，為探討兔形目動物脂肪生成之分子機制提供了基礎工具。此模型為未來的基因與營養策略研究提供了支持，有助於在維持兔肉瘦肉特性的同時提升其肉品品質。"
   },
   {
    "doi": "10.1080/00071668.2026.2721464",
@@ -3441,6 +3442,24 @@
    "abstract_zh": "紅斑格（Cephalopholis sonnerati）是一種新興的海水養殖魚種，正面臨哈維氏弧菌（Vibrio harveyi）感染日益嚴重的威脅，然而用於研究其免疫防禦的體外（in vitro）工具仍然有限。本研究利用組織塊培養法，從紅斑格建立了一個全新的鰭源成纖維細胞樣細胞株，命名為紅斑格石斑魚鰭細胞（Tomato hind Grouper Fin, TGF）。TGF 細胞在含有 20% 胎牛血清的 Leibovitz’s L-15 培養基中、28 °C 條件下已穩定繼代超過 83 代。透過 mt-co1 DNA條形碼進行物種鑑定，確認其序列相似度達 99.9%；核型分析顯示其二倍體染色體數為 2n = 48，與供體物種相符。TGF 細胞展現出良好的解凍後存活率（>80%），且適合外源性核酸遞送，其中 siRNA 的轉染效率高於質體 DNA。為評估其免疫能力，本研究以哈維氏弧菌攻擊 TGF 細胞，並在感染後 60、90 和 120 分鐘進行轉錄體分析。在 120 分鐘時共鑑定出 1876 個差異表現基因。KEGG 富集分析顯示，Toll 樣受體、NOD 樣受體、NF-κB、TNF 和 IL-17 等信號傳遞途徑在所有時間點皆持續被活化。TGF 細胞株為研究紅斑格宿主與病原體交互作用提供了一項寶貴的體外研究資源。"
   },
   {
+   "doi": "10.3390/ani16203321",
+   "title": "Free-Ranging Cat Predation on Wildlife in East Asia: A Scoping Review of Ecological Evidence and Knowledge Gaps",
+   "abstract": "Free-ranging domestic cats (Felis catus) interact with wildlife through predation and other ecological pathways, yet evidence of their associated effects has not been comprehensively synthesized in East Asia. This scoping review mapped empirical evidence on free-ranging cat predation and associated ecological effects in East Asia, characterized its geographic distribution and inferential strength, and identified knowledge gaps. Five databases, including region-specific databases, were searched through June 2026, and reference lists of included full-text sources were hand-searched. Of 9326 records identified, 31 sources met the inclusion criteria: 28 from the pre-specified East Asian region and 3 global or multinational sources with independently extractable East Asia-specific data. Diet- and carcass-based studies documented consumption of diverse wildlife taxa, whereas fewer evaluated prey abundance or other population-level outcomes. Reported predation estimates varied substantially among studies, reflecting differences in cat category, ecological setting, and methodology. Evidence was concentrated in Japan, with the clearest conservation concerns reported from Japanese island ecosystems involving endemic or IUCN-listed threatened species. Human-mediated factors and management practices were recurrent contextual themes; however, direct evidence linking these factors to wildlife outcomes was limited. Overall, the evidence base was geographically and methodologically uneven, underscoring the need for standardization, broader regional coverage, and improved documentation.",
+   "authors": [
+    "Michelle Zhibing Zhou",
+    "Christian S. Wright"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203321",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 1.0,
+   "matched": [
+    "carcass"
+   ],
+   "abstract_zh": "放山家貓（Felis catus）透過掠食及其他生態途徑與野生動物互動，然而其相關影響的證據尚未在東亞進行全面綜合。本範疇性文獻回顧（scoping review）旨在梳理東亞地區有關放山貓掠食及其相關生態影響的實證資料、描繪其地理分佈與推論強度，並識別知識缺口。本研究檢索了包括區域專屬資料庫在內的五個資料庫（截至2026年6月），並手動檢索了納入之全文文獻的參考文獻列表。在識別出的9,326筆記錄中，有31篇文獻符合納入標準：28篇來自預先指定的東亞地區，3篇為可獨立萃取東亞專屬資料的全球性或跨國文獻。基於食性與屍體的研究記錄了貓隻對多樣化野生動物分類群的消耗，但評估獵物豐度或其他族群層面結果的研究較少。研究所報告的掠食估計值差異甚大，反映出貓隻類別、生態環境與方法的差異。證據集中於日本，其中最明確的保育疑慮來自涉及特有種或IUCN列名受脅物種的日本島嶼生態系。人為因素與管理實務是反覆出現的背景主題；然而，將這些因素與野生動物結果直接連結的證據相當有限。整體而言，現有證據基礎在地理分佈與方法學上存在落差，凸顯了標準化、擴大區域涵蓋範圍以及改進記錄方式的迫切需求。"
+  },
+  {
    "doi": "10.3390/ani16203322",
    "title": "Estimation of Greenhouse Gas Emission Factor During Hanwoo Manure Composting",
    "abstract": "Accurate estimation of climate-altering gases, such as methane and nitrous oxide, from livestock waste treatment is critical for establishing national inventories. This study aims to monitor and analyze the emission characteristics of these gases during the treatment process at an operational Hanwoo (Korean cattle for beef) farm in Republic of Korea to develop country-specific metrics. A full-scale compost shed was modified into a 2400 m3 flux chamber equipped with fans to control airflow at 183 m3·min−1. Real-time gas concentrations were measured using enhanced-performance laser-based analyzers across summer, autumn, and winter. The results indicated that mean emissions for both methane and nitrous oxide were highest in summer, followed by winter, and lowest in autumn. Daily patterns revealed higher hourly mean emissions during the morning and afternoon. The final estimated emission factors were 1.28 kgCH4·head−1·yr−1 and 0.039 kgN2O· head−1·yr−1. These values are relatively lower than those reported in previous studies. These values were lower than those reported in several previous studies. Differences in facility scale and operating conditions may partly explain this result; however, potential underestimation due to non-uniform airflow should also be considered.",
@@ -3460,24 +3479,6 @@
     "cattle"
    ],
    "abstract_zh": "準確估計畜牧廢棄物處理過程中產生的氣候變遷相關氣體（如甲烷和氧化亞氮）對於建立國家清冊至關重要。本研究旨在監測與分析大韓民國一座營運中的韓牛（肉牛）農場在處理過程中這些氣體的排放特徵，以建立符合國情的係數。研究將一座全尺寸堆肥舍改造為 2400 立方公尺的通量室，並配備風扇以將氣流控制在每分鐘 183 立方公尺。利用高效能雷射分析儀，在夏季、秋季和冬季對即時氣體濃度進行了測量。結果顯示，甲烷和氧化亞氮的平均排放量均以夏季最高、冬季次之、秋季最低。每日變化模式顯示，早晨和下午的每小時平均排放量較高。最終估算的排放係數分別為每頭每年 1.28 公斤甲烷（1.28 kgCH4·head−1·yr−1）以及每頭每年 0.039 公斤氧化亞氮（0.039 kgN2O·head−1·yr−1）。這些數值相對低於先前研究所報告的結果。設施規模和營運條件的差異或許能部分解釋此結果；然而，非均勻氣流可能導致的低估亦應納入考量。"
-  },
-  {
-   "doi": "10.3390/ani16203321",
-   "title": "Free-Ranging Cat Predation on Wildlife in East Asia: A Scoping Review of Ecological Evidence and Knowledge Gaps",
-   "abstract": "Free-ranging domestic cats (Felis catus) interact with wildlife through predation and other ecological pathways, yet evidence of their associated effects has not been comprehensively synthesized in East Asia. This scoping review mapped empirical evidence on free-ranging cat predation and associated ecological effects in East Asia, characterized its geographic distribution and inferential strength, and identified knowledge gaps. Five databases, including region-specific databases, were searched through June 2026, and reference lists of included full-text sources were hand-searched. Of 9326 records identified, 31 sources met the inclusion criteria: 28 from the pre-specified East Asian region and 3 global or multinational sources with independently extractable East Asia-specific data. Diet- and carcass-based studies documented consumption of diverse wildlife taxa, whereas fewer evaluated prey abundance or other population-level outcomes. Reported predation estimates varied substantially among studies, reflecting differences in cat category, ecological setting, and methodology. Evidence was concentrated in Japan, with the clearest conservation concerns reported from Japanese island ecosystems involving endemic or IUCN-listed threatened species. Human-mediated factors and management practices were recurrent contextual themes; however, direct evidence linking these factors to wildlife outcomes was limited. Overall, the evidence base was geographically and methodologically uneven, underscoring the need for standardization, broader regional coverage, and improved documentation.",
-   "authors": [
-    "Michelle Zhibing Zhou",
-    "Christian S. Wright"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203321",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 1.0,
-   "matched": [
-    "carcass"
-   ],
-   "abstract_zh": "放山家貓（Felis catus）透過掠食及其他生態途徑與野生動物互動，然而其相關影響的證據尚未在東亞進行全面綜合。本範疇性文獻回顧（scoping review）旨在梳理東亞地區有關放山貓掠食及其相關生態影響的實證資料、描繪其地理分佈與推論強度，並識別知識缺口。本研究檢索了包括區域專屬資料庫在內的五個資料庫（截至2026年6月），並手動檢索了納入之全文文獻的參考文獻列表。在識別出的9,326筆記錄中，有31篇文獻符合納入標準：28篇來自預先指定的東亞地區，3篇為可獨立萃取東亞專屬資料的全球性或跨國文獻。基於食性與屍體的研究記錄了貓隻對多樣化野生動物分類群的消耗，但評估獵物豐度或其他族群層面結果的研究較少。研究所報告的掠食估計值差異甚大，反映出貓隻類別、生態環境與方法的差異。證據集中於日本，其中最明確的保育疑慮來自涉及特有種或IUCN列名受脅物種的日本島嶼生態系。人為因素與管理實務是反覆出現的背景主題；然而，將這些因素與野生動物結果直接連結的證據相當有限。整體而言，現有證據基礎在地理分佈與方法學上存在落差，凸顯了標準化、擴大區域涵蓋範圍以及改進記錄方式的迫切需求。"
   },
   {
    "doi": "10.3390/ani16213338",
@@ -4680,7 +4681,7 @@
   {
    "doi": "10.1080/10495398.2026.2743468",
    "title": "Effects of xylooligosaccharide supplementation on methane emissions, rumen microbiome, and serum metabolome in lactating Jersey cows",
-   "abstract": "control.",
+   "abstract": "Xylooligosaccharides (XOS) are recognized as effective prebiotics that can mitigate methane (CH4) emissions. However, the specific relationship between the effects of XOS on CH4 emissions and alterations in the ruminal microbiota and their metabolites remains unclear. To investigate the relationship between XOS and CH4 emissions, 48 Jersey cows were randomly divided into two groups: the XOS group (group T) and the control group (group C). Group T received 25 g/d of XOS, while group C received 0 g/d of XOS added to the basal diet. Three randomly selected cows from each group, exhibiting consistent milk production and lactation stage, were analyzed for CH4 emissions detection, 16S rRNA sequencing, and untargeted metabolomics analysis. The addition of XOS significantly reduced CH4 emissions and increased both the number of observed species and the abundance-based coverage estimator (ACE) index of ruminal microbiota compared to group C. Sixteen differential metabolites were identified between the two groups; these differential metabolites were correlated with microbiota, including Chloroflexi, Acidobacteriota, and Succiniclasticum. The study suggests that XOS may regulate ruminant CH4 emissions by influencing the microbiota, thereby providing a rationale for CH4 control.",
    "authors": [
     "Xiaonan Zhou",
     "Zhiyan Zhao",
@@ -4698,27 +4699,19 @@
    "abstract_zh": "木寡糖（XOS）被認為是能有效減少甲烷（CH4）排放的益生元。然而，XOS對CH4排放的影響與瘤胃微生物及其代謝物改變之間的具體關係仍不清楚。為了探討XOS與CH4排放之間的關係，本研究將48頭澤西乳牛隨機分為兩組：XOS組（T組）和對照組（C組）。T組在基礎日糧中添加25 g/d的XOS，C組則添加0 g/d的XOS。每組隨機選取3頭泌乳量與泌乳階段一致的乳牛，進行CH4排放檢測、16S rRNA定序及非標靶代謝體學分析。與C組相比，添加XOS顯著降低了CH4排放，並提高了瘤胃微生物群的觀測物種數（observed species）及基於豐度的覆蓋度估計（ACE）指數。兩組之間共鑑定出16種差異代謝物；這些差異代謝物與微生物群（包括綠彎菌門 [Chloroflexi]、酸桿菌門 [Acidobacteriota] 和產琥珀酸絲菌屬 [Succiniclasticum]）相關。本研究表明，XOS可能透過影響微生物群來調節反芻動物的CH4排放，從而為CH4控制提供了理論依據。"
   },
   {
-   "doi": "10.3390/ani16203314",
-   "title": "Effects of Thymol Supplementation in Health Care Sand on Growth Performance, Serum Biochemical Parameters, Fecal Microbial Diversity, and Fecal Metabolites in Squabs",
-   "abstract": "This study aimed to investigate the effects of thymol supplementation in health care sand on growth performance, serum biochemical parameters, fecal microbial diversity, and fecal metabolites in Grey King squabs. A total of 160 healthy 28-day-old Grey King squabs were selected and randomly assigned to four treatment groups: the CON, 2%Thy, 3%Thy, and 4%Thy groups. Each group consisted of 10 replicates with four squabs per replicate, resulting in a total of 40 squabs per group. Under identical feeding management conditions and dietary nutrient levels, squabs in the CON group received the basal diet plus 5 g of health care sand; those in the 2%Thy group received the basal diet plus 5 g of health care sand containing 2% thymol; those in the 3%Thy group received the basal diet plus 5 g of health care sand containing 3% thymol; and those in the 4%Thy group received the basal diet plus 5 g of health care sand containing 4% thymol. The experiment lasted for 30 days. During the experimental period, the pigeons were housed in cages measuring 45 cm × 50 cm × 60 cm. Each pigeon was provided with 40 g of diet and 5 g of health care sand daily and had free access to water. After Benjamini–Hochberg false discovery rate correction, no significant differences were observed in growth performance, body measurements, apparent nutrient retention, or energy metabolizability among treatments (q &gt; 0.05). However, thymol-supplemented groups exhibited significantly increased serum total antioxidant capacity and superoxide dismutase, glutathione peroxidase, and catalase activities, together with decreased malondialdehyde levels (q &lt; 0.05). Fecal microbiome and metabolomic analyses were restricted to the CON and 3%Thy groups, with the 3%Thy group selected after evaluation of the phenotypic and physiological responses rather than being prespecified before the experiment. These omics comparisons were therefore considered exploratory. No statistically significant difference in overall fecal microbial community composition was detected between the two groups, whereas 17 candidate differential fecal metabolite features were observed. These features were mainly putatively annotated as lipids and lipid-like molecules, organic acids and derivatives, organoheterocyclic compounds, and benzenoids. Among the supplementation levels evaluated, the 3%Thy group showed comparatively favorable numerical responses in several measured parameters and may be considered a candidate level for further investigation. However, the present findings do not establish an optimal thymol supplementation level, and the biological significance of the exploratory fecal omics results requires further validation.",
+   "doi": "10.3390/ani16203323",
+   "title": "Why Do Goitered Gazelles Cross the Path of an Approaching Moving Object Instead of Fleeing?",
+   "abstract": "Animal–vehicle collisions are an important conservation concern. Although many studies examine road mortality and wildlife crossings, less is known about ungulates that run across the path of an approaching vehicle rather than simply fleeing. This study describes this behavior in goitered gazelles (Gazella subgutturosa) and examines its association with four recorded factors: approach category, group size, group composition, and month. In a forward stepwise logistic regression, approach category was associated with crossing behavior (Wald = 22.784, df = 2, p &lt; 0.001). The odds of crossing were higher in the high-category group than in the low-category group (odds ratio = 2.36). However, the categories also differed in object type (cars, motor scooters, and bicycles/pedestrians), so the independent effect of speed cannot be separated from the effect of object type. Group size, group composition, and month did not meet the model’s entry criteria. These observational results identify an association, but do not determine whether path-crossing is a uniquely anti-predator response, a reaction to limited assessment time, or another form of behavior.",
    "authors": [
-    "Chen Ma",
-    "Chao Li",
-    "Haiying Li",
-    "Jiajia Liu",
-    "Kunyu Liao",
-    "Yuanhao Li",
-    "Jie Ren",
-    "Guoqiang Wei",
-    "Xiaobin Li"
+    "David Blank"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203314",
+   "url": "https://doi.org/10.3390/ani16203323",
    "date": "2026-10-22",
    "first_seen": "2026-10-23",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "本研究旨在探討在保健砂中添加百里香酚（thymol）對灰王鴿幼鴿生長性能、血清生化指標、糞便微生物多樣性及糞便代謝物的影響。試驗選取 160 隻 28 日齡健康灰王鴿幼鴿，隨機分為 4 個處理組：CON 組、2%Thy 組、3%Thy 組和 4%Thy 組。每組設 10 個重複，每個重複 4 隻幼鴿，每組共 40 隻幼鴿。在相同的飼養管理條件與日糧營養水平下，CON 組飼喂基礎日糧加 5 克保健砂；2%Thy 組飼喂基礎日糧加含 2% 百里香酚的 5 克保健砂；3%Thy 組飼喂基礎日糧加含 3% 百里香酚的 5 克保健砂；4%Thy 組飼喂基礎日糧加含 4% 百里香酚的 5 克保健砂。試驗期為 30 天。試驗期間，鴿子飼養於 45 cm × 50 cm × 60 cm 的籠舍中。每隻鴿子每日提供 40 克日糧及 5 克保健砂，自由飲水。經 Benjamini–Hochberg 偽發現率校正後，各處理組間的生長性能、體型指標、表觀養分留存率或能量代謝率均無顯著差異（$q > 0.05$）。然而，添加百里香酚組別的血清總抗氧化能力、超氧化物歧化酶、穀胱甘肽過氧化物酶及過氧化氫酶活性均顯著增加，同時丙二醛含量顯著降低（$q < 0.05$）。糞便微生物組與代謝體學分析僅限於 CON 組與 3%Thy 組，其中 3%Thy 組是在評估表型與生理反應後選出，而非在試驗前預先指定。因此，這些體學比較被視為探索性分析。兩組間的整體糞便微生物群落組成未檢測到統計學上的顯著差異，但觀察到 17 個潛在的差異糞便代謝物特徵。這些特徵主要被推測註解為脂質與類脂分子、有機酸及其衍生物、有機雜環化合物以及苯類化合物。在所評估的添加水平中，3%Thy 組在數項測量指標上表現出相對較佳的數值反應，可被視為進一步研究的候選添加水平。然而，本研究結果並未確立最佳百里香酚添加水平，探索性糞便體學結果的生物學意義仍需進一步驗證。"
+   "abstract_zh": "動物與車輛的碰撞是重要的保育議題。雖然許多研究探討了道路死亡率與野生動物穿越道，但對於有蹄類動物在面對逼近的車輛時，究竟是單純逃逸，還是會奔跑穿過車輛路徑，目前所知甚少。本研究描述了小頭瞪羚（Gazella subgutturosa）的這個行為，並探討其與四個記錄因素（接近類別、群體大小、群體組成和月份）之間的關聯。在逐步向前logistic迴歸分析中，接近類別與穿越行為有關（Wald = 22.784, df = 2, p < 0.001）。高等級群體發生穿越行為的勝算比低等級群體來得高（勝算比 = 2.36）。然而，這些類別在目標物類型（汽車、機車以及腳踏車／行人）上也有所不同，因此速度的獨立效應無法與目標物類型的效應分開。群體大小、群體組成和月份並未符合模型的進入標準。這些觀察結果辨識出了一項關聯，但無法斷定路徑穿越究竟是單純的抗掠食反應、對評估時間有限的反應，還是另一種形式的行為。"
   },
   {
    "doi": "10.3390/ani16203317",
@@ -4738,21 +4731,6 @@
    "abstract_zh": "貓認知功能障礙症候群（Feline cognitive dysfunction syndrome, FCDS）是一種與年齡相關的疾病，目前缺乏客觀的影像學標記。本研究旨在評估無明顯認知功能障礙貓隻的年齡與丘腦間黏連厚度（interthalamic adhesion thickness, IAT）之間的關聯，並描述不同貓生長階段的 IAT。本研究回顧性分析了 112 隻年齡介於 4 個月至 18 歲之間、有飼主的貓之 MRI 檢查結果。貓隻被分類為幼貓（<1 歲）、年輕貓（1 歲至 <7 歲）、成年貓（7 歲至 <11 歲）以及高齡貓（≥11 歲）。排除具有顱內病變或被通報有暗示認知功能障礙之行為改變的貓隻。兩位盲性觀察者在橫斷面 T1W 和 T2W 影像上測量 IAT。分析包括經腦高、腦寬、性別／絕育狀態、品種組和掃描儀調整後的線性迴歸；探索性二次年齡建模；以及不同生命階段之間的比較。觀察者間的一致性高。在 T1W 和 T2W 影像上，年齡與 IAT 呈負相關（T1W：B = −0.071 mm/年；T2W：B = −0.067 mm/年；兩者 p < 0.001）。在進行多變數調整後（T1W：B = −0.074 mm/年；T2W：B = −0.067 mm/年；兩者 p < 0.001），以及排除幼貓或短頭貓後，此關聯仍然存在。在兩種造影序列中，高齡貓的 IAT 皆低於其他所有生命階段。二次方程式項顯示，僅在 T1W 影像上，高齡時的下降趨勢更為陡峭；此發現仍屬探索性質。這些發現支持年齡與 IAT 之間存在群體層面的關聯，而非個體層面的診斷用途。其對 FCDS 的潛在診斷價值，尚需透過標準化行為評估與年齡匹配的對照組進行前瞻性評估來確立。"
   },
   {
-   "doi": "10.3390/ani16203323",
-   "title": "Why Do Goitered Gazelles Cross the Path of an Approaching Moving Object Instead of Fleeing?",
-   "abstract": "Animal–vehicle collisions are an important conservation concern. Although many studies examine road mortality and wildlife crossings, less is known about ungulates that run across the path of an approaching vehicle rather than simply fleeing. This study describes this behavior in goitered gazelles (Gazella subgutturosa) and examines its association with four recorded factors: approach category, group size, group composition, and month. In a forward stepwise logistic regression, approach category was associated with crossing behavior (Wald = 22.784, df = 2, p &lt; 0.001). The odds of crossing were higher in the high-category group than in the low-category group (odds ratio = 2.36). However, the categories also differed in object type (cars, motor scooters, and bicycles/pedestrians), so the independent effect of speed cannot be separated from the effect of object type. Group size, group composition, and month did not meet the model’s entry criteria. These observational results identify an association, but do not determine whether path-crossing is a uniquely anti-predator response, a reaction to limited assessment time, or another form of behavior.",
-   "authors": [
-    "David Blank"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203323",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "動物與車輛的碰撞是重要的保育議題。雖然許多研究探討了道路死亡率與野生動物穿越道，但對於有蹄類動物在面對逼近的車輛時，究竟是單純逃逸，還是會奔跑穿過車輛路徑，目前所知甚少。本研究描述了小頭瞪羚（Gazella subgutturosa）的這個行為，並探討其與四個記錄因素（接近類別、群體大小、群體組成和月份）之間的關聯。在逐步向前logistic迴歸分析中，接近類別與穿越行為有關（Wald = 22.784, df = 2, p < 0.001）。高等級群體發生穿越行為的勝算比低等級群體來得高（勝算比 = 2.36）。然而，這些類別在目標物類型（汽車、機車以及腳踏車／行人）上也有所不同，因此速度的獨立效應無法與目標物類型的效應分開。群體大小、群體組成和月份並未符合模型的進入標準。這些觀察結果辨識出了一項關聯，但無法斷定路徑穿越究竟是單純的抗掠食反應、對評估時間有限的反應，還是另一種形式的行為。"
-  },
-  {
    "doi": "10.3390/ani16203318",
    "title": "Nanoscale Characterization of Microscopically Layered Bone in the Russian Sturgeon Pectoral Fin Spine: A 3D FIB-SEM Study",
    "abstract": "Dermal bone, the earliest known form of bone, develops without a cartilage precursor and persists in extant fish species. The pectoral fin spine (PFS) is a dermal bone located at the leading edge of the pectoral fin of sturgeons, where it is exposed to loading associated with locomotion. The peripheral region and dermal osteons of the PFS both appear layered at lower magnification; however, collagen organization in load-bearing fish skeletal elements remains incompletely characterized at the nanoscale. The aim of this study is to characterize the 3D nanostructure of the layered peripheral and osteonal bone forming the PFS in Russian sturgeons using focused ion beam–scanning electron microscopy (FIB-SEM). In the dermal osteons, bone forms concentric layers around a central canal at lower magnification, and at the nanoscale, the calcified collagen fibrils within these layers have preferential orientations that change in a clockwise–anticlockwise fanning pattern, consistent with lamellar bone. In contrast, the examined peripheral bone, which also appears layered at low magnification, is composed mainly of unidirectional calcified collagen fibrils aligned with the long axis of the PFS. Within the examined peripheral volumes, no comparable nanoscale lamellar pattern was detected, and the predominant fibril organization was consistent with parallel-fibered bone. Groups of voids associated with unidentified fibrillar material were also observed in the examined peripheral volumes; the voids were oriented approximately normal to the long axis of the PFS. We conclude that regions appearing layered at lower magnification can differ markedly at the nanoscale, and that the lamellar organization seen in dermal osteons raises questions about its evolutionary origin.",
@@ -4767,6 +4745,29 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "真皮骨（dermal bone）已知是最早出現的骨骼形式，其發育不經由軟骨前驅物，且存在於現存的魚類物種中。胸鰭棘（pectoral fin spine, PFS）是一種真皮骨，位於鱘魚胸鰭的前緣，承受與運動相關的負載。在低倍率下，PFS的周邊區域與真皮骨單元（osteons）均呈現層狀結構；然而，承受負載的魚類骨骼元素中，膠原蛋白的組織形式在奈米尺度下仍未被充分解析。本研究旨在利用聚焦離子束掃描式電子顯微鏡（FIB-SEM），解析俄羅斯鱘魚PFS中構成層狀周邊骨與骨單元骨的三維奈米結構。在真皮骨單元中，於低倍率下骨骼繞著中央管形成同心層；而在奈米尺度下，這些層內的鈣化膠原原纖維具有偏好方向，並以順時針與逆時針的扇形模式交替變化，這與板層骨（lamellar bone）一致。相較之下，所檢視的周邊骨在低倍率下雖也呈層狀，但主要由與PFS長軸對齊的單向鈣化膠原原纖維組成。在所檢視的周邊體積中，未檢測到可比擬的奈米尺度板層模式，且主要的原纖維組織與平行纖維骨（parallel-fibered bone）一致。在所檢視的周邊體積中也觀察到位處不明原纖維物質之空洞群，這些空洞的方向大致垂直於PFS的長軸。我們得出結論：在低倍率下看似層狀的區域，在奈米尺度下可能存在顯著差異，且真皮骨單元中所見的板層組織對其演化起源提出了疑問。"
+  },
+  {
+   "doi": "10.3390/ani16203324",
+   "title": "Dietary γ-Aminobutyric Acid (GABA) Improves Growth Performance and Increases Plasma Cortisol During Recovery from Short-Term Acute Thermal Exposure in Juvenile Rainbow Trout (Oncorhynchus mykiss)",
+   "abstract": "γ-aminobutyric acid (GABA) is a functional feed additive that may improve growth and stress resilience. The study evaluated the effects of dietary GABA on growth performance and recovery-phase physiological responses after short-term acute thermal exposure in juvenile rainbow trout. Two hundred twenty-five fish (18.9 ± 0.1 g) were fed five diets for 8 weeks: a control diet containing 68 mg/kg (GABA68) and diets with 108 (GABA108), 149 (GABA149), 183 (GABA183), and 218 (GABA218) mg/kg GABA. Fish were then subjected to short-term acute thermal exposure (20 °C for 2 h) followed by 2 h recovery at 15 °C. Dietary GABA significantly improved weight gain and specific growth rate, with the provisional model-based dietary GABA level for weight gain estimated to be approximately 198–210 mg/kg diet based on broken-line regression models, and increased feed and protein efficiency (p &lt; 0.05). Fish fed the GABA183 and GABA218 diets had significantly higher plasma cortisol concentrations than those fed GABA68 and GABA108 when averaged across temperature treatments, with a significant temperature × GABA interaction (p &lt; 0.05). During recovery, hepatic hsp70α and hsp90βα expression was significantly lower following 20 °C exposure than in fish maintained at 15 °C, whereas dietary GABA and its interaction with temperature had no significant effects on the stress-related genes analyzed. Dietary GABA improved growth performance and feed utilization; however, cortisol measured at a single recovery time point cannot distinguish a stronger stress response, delayed recovery, or altered cortisol clearance and does not demonstrate improved thermal tolerance or a faster recovery rate.",
+   "authors": [
+    "Suhyun Lee",
+    "Deni Aulia",
+    "Tugce Kilic",
+    "Haham Kim",
+    "Hyuncheol Jeon",
+    "Md Hashibur Rahman",
+    "Sooa Yoon",
+    "Abayomi Oladimeji Ogun",
+    "Seunghyung Lee"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16203324",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "γ-胺基丁酸（GABA）是一種功能性飼料添加物，可能可改善生長與抗壓能力。本研究評估了飼糧添加GABA對幼虹鱒在短期急性熱暴露後，生長性能及恢復期生理反應的影響。試驗使用225尾魚（18.9 ± 0.1公克），餵食五種飼糧共8週：包含對照組含68 mg/kg GABA（GABA68），以及添加108（GABA108）、149（GABA149）、183（GABA183）與218（GABA218）mg/kg GABA的飼糧。隨後將魚隻暴露於短期急性熱環境（20 °C下2小時），接著在15 °C下恢復2小時。飼糧添加GABA顯著改善了體重增加量與特定生長率，根據折線迴歸模型估算，基於體重增加量的暫定模式化飼糧GABA添加量約為每公斤飼糧198–210 mg/kg，且提高了飼料效率與蛋白質效率（p < 0.05）。跨溫度處理平均而言，餵食GABA183與GABA218飼糧的魚隻，其血漿皮質醇濃度顯著高於餵食GABA68與GABA108的魚隻，且溫度與GABA具有顯著的交互作用（p < 0.05）。在恢復期間，經20 °C暴露後的肝臟 $hsp70\\alpha$ 與 $hsp90\\beta\\alpha$ 表現量顯著低於維持在15 °C的魚隻，而飼糧GABA及其與溫度的交互作用對所分析的壓力相關基因則無顯著影響。飼糧添加GABA改善了生長性能與飼料利用率；然而，在單一恢復時間點測得的皮質醇無法區分是較強的壓力反應、延遲的恢復，還是改變的皮質醇清除率，亦無法證明其具備較佳的耐熱性或更快的恢復速率。"
   },
   {
    "doi": "10.3390/ani16203319",
@@ -4795,27 +4796,27 @@
    "abstract_zh": "演化研究已確立人類與蝙蝠冠狀病毒（CoV）之間的關聯，並認定蝙蝠為冠狀病毒科（Coronaviridae）的自然宿主。在過去二十年間，已描述了三起主要的動物源性病毒跨物種傳播事件：造成全球重大疫情的嚴重急性呼吸道症候群冠狀病毒（SARS-CoV）與中東呼吸症候群冠狀病毒（MERS-CoV），以及引發 COVID-19 大流行的 SARS-CoV-2。儘管發生了這些事件，蝙蝠所攜帶的冠狀病毒物種的真實多樣性大體上仍未被充分繪製，儘管新毒株的發現持續加速。在本研究中，我們分析了採集自義大利北部、針對蝙蝠屬（Miniopterus、Myotis 和 Rhinolophus）的 37 份糞便拭子樣本。利用泛冠狀病毒（Pan-CoV）巢式 RT-PCR 在五份蝙蝠樣本中檢測出冠狀病毒：三份對阿爾法冠狀病毒（Alpha-CoVs）呈陽性反應，兩份對貝塔冠狀病毒（Beta-CoVs）呈陽性反應。對陽性樣本進行泛冠狀病毒 Illumina 次世代定序（NGS），其中兩份樣本產生了足夠的讀取深度以進行穩健的重疊群（contig）組裝。系統發生樹分析顯示，在一個長翼蝠（Miniopterus schreibersii）糞便樣本中共同傳播著三種不同的阿爾法冠狀病毒，且在一個小菊頭蝠（Rhinolophus hipposideros）糞便樣本中存在與 SARS-CoV 相關的毒株。阿爾法冠狀病毒與貝塔冠狀病毒皆與歐洲毒株的親緣關係最近。這些發現證實了多樣化的冠狀病毒在義大利蝙蝠中廣泛傳播，並強調了持續進行分子流行病學監測的必要性，以揭示歐洲野生動物中冠狀病毒異質性的完整範圍。"
   },
   {
-   "doi": "10.3390/ani16203324",
-   "title": "Dietary γ-Aminobutyric Acid (GABA) Improves Growth Performance and Increases Plasma Cortisol During Recovery from Short-Term Acute Thermal Exposure in Juvenile Rainbow Trout (Oncorhynchus mykiss)",
-   "abstract": "γ-aminobutyric acid (GABA) is a functional feed additive that may improve growth and stress resilience. The study evaluated the effects of dietary GABA on growth performance and recovery-phase physiological responses after short-term acute thermal exposure in juvenile rainbow trout. Two hundred twenty-five fish (18.9 ± 0.1 g) were fed five diets for 8 weeks: a control diet containing 68 mg/kg (GABA68) and diets with 108 (GABA108), 149 (GABA149), 183 (GABA183), and 218 (GABA218) mg/kg GABA. Fish were then subjected to short-term acute thermal exposure (20 °C for 2 h) followed by 2 h recovery at 15 °C. Dietary GABA significantly improved weight gain and specific growth rate, with the provisional model-based dietary GABA level for weight gain estimated to be approximately 198–210 mg/kg diet based on broken-line regression models, and increased feed and protein efficiency (p &lt; 0.05). Fish fed the GABA183 and GABA218 diets had significantly higher plasma cortisol concentrations than those fed GABA68 and GABA108 when averaged across temperature treatments, with a significant temperature × GABA interaction (p &lt; 0.05). During recovery, hepatic hsp70α and hsp90βα expression was significantly lower following 20 °C exposure than in fish maintained at 15 °C, whereas dietary GABA and its interaction with temperature had no significant effects on the stress-related genes analyzed. Dietary GABA improved growth performance and feed utilization; however, cortisol measured at a single recovery time point cannot distinguish a stronger stress response, delayed recovery, or altered cortisol clearance and does not demonstrate improved thermal tolerance or a faster recovery rate.",
+   "doi": "10.3390/ani16203314",
+   "title": "Effects of Thymol Supplementation in Health Care Sand on Growth Performance, Serum Biochemical Parameters, Fecal Microbial Diversity, and Fecal Metabolites in Squabs",
+   "abstract": "This study aimed to investigate the effects of thymol supplementation in health care sand on growth performance, serum biochemical parameters, fecal microbial diversity, and fecal metabolites in Grey King squabs. A total of 160 healthy 28-day-old Grey King squabs were selected and randomly assigned to four treatment groups: the CON, 2%Thy, 3%Thy, and 4%Thy groups. Each group consisted of 10 replicates with four squabs per replicate, resulting in a total of 40 squabs per group. Under identical feeding management conditions and dietary nutrient levels, squabs in the CON group received the basal diet plus 5 g of health care sand; those in the 2%Thy group received the basal diet plus 5 g of health care sand containing 2% thymol; those in the 3%Thy group received the basal diet plus 5 g of health care sand containing 3% thymol; and those in the 4%Thy group received the basal diet plus 5 g of health care sand containing 4% thymol. The experiment lasted for 30 days. During the experimental period, the pigeons were housed in cages measuring 45 cm × 50 cm × 60 cm. Each pigeon was provided with 40 g of diet and 5 g of health care sand daily and had free access to water. After Benjamini–Hochberg false discovery rate correction, no significant differences were observed in growth performance, body measurements, apparent nutrient retention, or energy metabolizability among treatments (q &gt; 0.05). However, thymol-supplemented groups exhibited significantly increased serum total antioxidant capacity and superoxide dismutase, glutathione peroxidase, and catalase activities, together with decreased malondialdehyde levels (q &lt; 0.05). Fecal microbiome and metabolomic analyses were restricted to the CON and 3%Thy groups, with the 3%Thy group selected after evaluation of the phenotypic and physiological responses rather than being prespecified before the experiment. These omics comparisons were therefore considered exploratory. No statistically significant difference in overall fecal microbial community composition was detected between the two groups, whereas 17 candidate differential fecal metabolite features were observed. These features were mainly putatively annotated as lipids and lipid-like molecules, organic acids and derivatives, organoheterocyclic compounds, and benzenoids. Among the supplementation levels evaluated, the 3%Thy group showed comparatively favorable numerical responses in several measured parameters and may be considered a candidate level for further investigation. However, the present findings do not establish an optimal thymol supplementation level, and the biological significance of the exploratory fecal omics results requires further validation.",
    "authors": [
-    "Suhyun Lee",
-    "Deni Aulia",
-    "Tugce Kilic",
-    "Haham Kim",
-    "Hyuncheol Jeon",
-    "Md Hashibur Rahman",
-    "Sooa Yoon",
-    "Abayomi Oladimeji Ogun",
-    "Seunghyung Lee"
+    "Chen Ma",
+    "Chao Li",
+    "Haiying Li",
+    "Jiajia Liu",
+    "Kunyu Liao",
+    "Yuanhao Li",
+    "Jie Ren",
+    "Guoqiang Wei",
+    "Xiaobin Li"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16203324",
+   "url": "https://doi.org/10.3390/ani16203314",
    "date": "2026-10-22",
    "first_seen": "2026-10-23",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "γ-胺基丁酸（GABA）是一種功能性飼料添加物，可能可改善生長與抗壓能力。本研究評估了飼糧添加GABA對幼虹鱒在短期急性熱暴露後，生長性能及恢復期生理反應的影響。試驗使用225尾魚（18.9 ± 0.1公克），餵食五種飼糧共8週：包含對照組含68 mg/kg GABA（GABA68），以及添加108（GABA108）、149（GABA149）、183（GABA183）與218（GABA218）mg/kg GABA的飼糧。隨後將魚隻暴露於短期急性熱環境（20 °C下2小時），接著在15 °C下恢復2小時。飼糧添加GABA顯著改善了體重增加量與特定生長率，根據折線迴歸模型估算，基於體重增加量的暫定模式化飼糧GABA添加量約為每公斤飼糧198–210 mg/kg，且提高了飼料效率與蛋白質效率（p < 0.05）。跨溫度處理平均而言，餵食GABA183與GABA218飼糧的魚隻，其血漿皮質醇濃度顯著高於餵食GABA68與GABA108的魚隻，且溫度與GABA具有顯著的交互作用（p < 0.05）。在恢復期間，經20 °C暴露後的肝臟 $hsp70\\alpha$ 與 $hsp90\\beta\\alpha$ 表現量顯著低於維持在15 °C的魚隻，而飼糧GABA及其與溫度的交互作用對所分析的壓力相關基因則無顯著影響。飼糧添加GABA改善了生長性能與飼料利用率；然而，在單一恢復時間點測得的皮質醇無法區分是較強的壓力反應、延遲的恢復，還是改變的皮質醇清除率，亦無法證明其具備較佳的耐熱性或更快的恢復速率。"
+   "abstract_zh": "本研究旨在探討在保健砂中添加百里香酚（thymol）對灰王鴿幼鴿生長性能、血清生化指標、糞便微生物多樣性及糞便代謝物的影響。試驗選取 160 隻 28 日齡健康灰王鴿幼鴿，隨機分為 4 個處理組：CON 組、2%Thy 組、3%Thy 組和 4%Thy 組。每組設 10 個重複，每個重複 4 隻幼鴿，每組共 40 隻幼鴿。在相同的飼養管理條件與日糧營養水平下，CON 組飼喂基礎日糧加 5 克保健砂；2%Thy 組飼喂基礎日糧加含 2% 百里香酚的 5 克保健砂；3%Thy 組飼喂基礎日糧加含 3% 百里香酚的 5 克保健砂；4%Thy 組飼喂基礎日糧加含 4% 百里香酚的 5 克保健砂。試驗期為 30 天。試驗期間，鴿子飼養於 45 cm × 50 cm × 60 cm 的籠舍中。每隻鴿子每日提供 40 克日糧及 5 克保健砂，自由飲水。經 Benjamini–Hochberg 偽發現率校正後，各處理組間的生長性能、體型指標、表觀養分留存率或能量代謝率均無顯著差異（$q > 0.05$）。然而，添加百里香酚組別的血清總抗氧化能力、超氧化物歧化酶、穀胱甘肽過氧化物酶及過氧化氫酶活性均顯著增加，同時丙二醛含量顯著降低（$q < 0.05$）。糞便微生物組與代謝體學分析僅限於 CON 組與 3%Thy 組，其中 3%Thy 組是在評估表型與生理反應後選出，而非在試驗前預先指定。因此，這些體學比較被視為探索性分析。兩組間的整體糞便微生物群落組成未檢測到統計學上的顯著差異，但觀察到 17 個潛在的差異糞便代謝物特徵。這些特徵主要被推測註解為脂質與類脂分子、有機酸及其衍生物、有機雜環化合物以及苯類化合物。在所評估的添加水平中，3%Thy 組在數項測量指標上表現出相對較佳的數值反應，可被視為進一步研究的候選添加水平。然而，本研究結果並未確立最佳百里香酚添加水平，探索性糞便體學結果的生物學意義仍需進一步驗證。"
   },
   {
    "doi": "10.3390/ani16203315",
@@ -4879,6 +4880,24 @@
    "abstract_zh": "初乳對初生仔豬的存活至關重要，但個別乳頭的測量值可能無法代表母豬群體的平均布里克斯（Brix）糖度值。布里克斯折射儀可用於場內間接估算初乳中的 IgG 濃度。本探索性研究量化了母豬體內及母豬之間的布里克斯變異，並檢視了初始體重、母豬布里克斯值、估算初乳攝入量以及從約 24 小時齡至離乳期間存活率之間的關聯。本研究自瑞典一個高健康水準豬場的 28 頭母豬採集初乳樣本，分析了總共 410 個乳頭樣本，並對 373 頭仔豬在採集初乳時進行秤重，並追蹤至離乳。母豬平均布里克斯值為 27.6%。大約一半的變異歸因於母豬間的差異，其餘則發生在同一頭母豬的不同乳頭之間。經驗重抽樣分析顯示，採集多個乳頭可提高母豬層級平均布里克斯估計值的精確度；若採集五個乳頭，95.2% 的估計值落在觀察到的母豬平均值 ±1.5 個布里克斯百分點的範圍內。研究未發現母豬層級布里克斯值與 24 小時齡至離乳存活率之間有明顯的關聯。存活率與初始體重有關，而與估算初乳攝入量的關聯則取決於初始體重，對體重較輕的仔豬影響最強烈。鑑於母豬數量有限且為單一豬場設計，這些結果尚需多豬場的驗證。"
   },
   {
+   "doi": "10.3390/ani16213332",
+   "title": "Comparative Analysis of Bird Collision Prevention Patterned Samples: Avoidance Performance Under Transparent and Reflective Glass Conditions in Flight Tunnel Tests",
+   "abstract": "The transparency and reflectivity of glass are primary factors contributing to bird collisions, as they prevent birds from recognizing glass surfaces as obstacles. However, the effectiveness of bird collision prevention products is primarily evaluated through transparency-based tunnel tests, which do not adequately account for the reflective conditions commonly found on building glass. We developed an indoor flight tunnel system that simulated sky reflections on glass surfaces and compared avoidance responses to three bird collision prevention patterned samples under both transparent and reflective conditions. A total of 507 wild small passerines were tested, each undergoing a single flight trial. All three patterned samples showed lower avoidance rates under reflective than transparent conditions, but the overall effect of test condition on avoidance was not statistically significant. The frequency of invalid flights increased significantly under reflective conditions. These findings suggest that avoidance responses to bird collision prevention products may vary between transparent and reflective test configurations, although the magnitude of this difference remains uncertain. Incorporating reflective conditions alongside conventional transparency-based tests may therefore provide complementary information for evaluating product performance under different optical conditions.",
+   "authors": [
+    "Minyoung Kim",
+    "Ryeoeun Youn",
+    "Choonghyun Kang",
+    "Jong Koo Lee"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213332",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "玻璃的透明度與反射率是導致鳥類窗殺的主要因素，因為這會妨礙鳥類將玻璃表面識別為障礙物。然而，防撞產品的有效性評估主要透過基於透明條件的隧道實驗進行，這並未能充分考量建築玻璃常見的反射條件。本研究開發了一套室內飛行隧道系統，可模擬玻璃表面上的天空反射，並在透明與反射條件下，比較鳥類對三種防撞圖案樣本的迴避反應。總共測試了 507 隻野生小型雀形目鳥類，每隻鳥進行單次飛行試驗。在反射條件下，三種圖案樣本的迴避率均低於透明條件，但測試條件對迴避行為的整體影響並未達到統計顯著。無效飛行頻率在反射條件下顯著增加。這些研究結果顯示，鳥類對防撞產品的迴避反應可能會因透明與反射的測試配置而異，儘管此差異的幅度仍不確定。因此，在傳統的透明測試之外納入反射條件，或可為評估產品在不同光學條件下的效能提供互補的資訊。"
+  },
+  {
    "doi": "10.3390/ani16213331",
    "title": "Characterising the Yellow Muscle Phenotype of Common Carp by Muscle Carotenoids, Fatty Acid Composition and Multi-Omics Analysis",
    "abstract": "Muscle color affects the market value of common carp (Cyprinus carpio), but the pigmentary and metabolic basis of the yellow muscle phenotype remains unclear. In this study, we compared muscle carotenoids, fatty acid profiles, and multi-omics data between wild yellow muscle (YC) and normal muscle (NC) common carp. YC showed significantly higher yellowness (b*) value, but there were no significant differences in the lightness (L*) and redness (a*) values. Total carotenoid was higher in YC and positively correlated with b*value. YC had higher saturated fatty acids (SFA) and n-3 polyunsaturated fatty acids (n-3 PUFA) proportions, including eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), but lower n-6 and total PUFA, despite unchanged crude fat content. Total carotenoid content correlated with multiple fatty acids but not crude fat. Multi-omics analyses converged on glycerophospholipid metabolism, unsaturated fatty acid biosynthesis, and arachidonic acid metabolism, and cd36, scarb1, and bco2 were upregulated in YC muscle. In summary, these findings indicate that carotenoid accumulation underlies enhanced yellowness, while lipid remodeling and related transport processes may facilitate carotenoid retention in YC.",
@@ -4900,24 +4919,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "肌肉顏色會影響鯉魚（Cyprinus carpio）的市場價值，然而黃色肌肉表型的色素與代謝基礎仍不清楚。在本研究中，我們比較了野生黃色肌肉（YC）與正常肌肉（NC）鯉魚的肌肉類胡蘿蔔素、脂肪酸組分以及多體學數據。YC顯示出顯著較高的黃色度（$b^*$）值，但在明度（$L^*$）和紅色度（$a^*$）值上則無顯著差異。總類胡蘿蔔素在YC中較高，且與$b^*$值呈正相關。儘管粗脂肪含量沒有改變，但YC具有較高的飽和脂肪酸（SFA）與n-3多元不飽和脂肪酸（n-3 PUFA）比例（包含二十碳五烯酸〔EPA〕與二十二碳六烯酸〔DHA〕），而n-6及總多元不飽和脂肪酸則較低。總類胡蘿蔔素含量與多種脂肪酸相關，但與粗脂肪無關。多體學分析聚焦於甘油磷脂代謝、不飽和脂肪酸生物合成及花生四烯酸代謝，且 $cd36$、$scarb1$ 和 $bco2$ 在 YC 肌肉中顯著上調。總括而言，這些發現表明類胡蘿蔔素的累積是增強黃色度的基礎，而脂質重塑及相關轉運過程則可能促進類胡蘿蔔素在 YC 中的滯留。"
-  },
-  {
-   "doi": "10.3390/ani16213332",
-   "title": "Comparative Analysis of Bird Collision Prevention Patterned Samples: Avoidance Performance Under Transparent and Reflective Glass Conditions in Flight Tunnel Tests",
-   "abstract": "The transparency and reflectivity of glass are primary factors contributing to bird collisions, as they prevent birds from recognizing glass surfaces as obstacles. However, the effectiveness of bird collision prevention products is primarily evaluated through transparency-based tunnel tests, which do not adequately account for the reflective conditions commonly found on building glass. We developed an indoor flight tunnel system that simulated sky reflections on glass surfaces and compared avoidance responses to three bird collision prevention patterned samples under both transparent and reflective conditions. A total of 507 wild small passerines were tested, each undergoing a single flight trial. All three patterned samples showed lower avoidance rates under reflective than transparent conditions, but the overall effect of test condition on avoidance was not statistically significant. The frequency of invalid flights increased significantly under reflective conditions. These findings suggest that avoidance responses to bird collision prevention products may vary between transparent and reflective test configurations, although the magnitude of this difference remains uncertain. Incorporating reflective conditions alongside conventional transparency-based tests may therefore provide complementary information for evaluating product performance under different optical conditions.",
-   "authors": [
-    "Minyoung Kim",
-    "Ryeoeun Youn",
-    "Choonghyun Kang",
-    "Jong Koo Lee"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213332",
-   "date": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "玻璃的透明度與反射率是導致鳥類窗殺的主要因素，因為這會妨礙鳥類將玻璃表面識別為障礙物。然而，防撞產品的有效性評估主要透過基於透明條件的隧道實驗進行，這並未能充分考量建築玻璃常見的反射條件。本研究開發了一套室內飛行隧道系統，可模擬玻璃表面上的天空反射，並在透明與反射條件下，比較鳥類對三種防撞圖案樣本的迴避反應。總共測試了 507 隻野生小型雀形目鳥類，每隻鳥進行單次飛行試驗。在反射條件下，三種圖案樣本的迴避率均低於透明條件，但測試條件對迴避行為的整體影響並未達到統計顯著。無效飛行頻率在反射條件下顯著增加。這些研究結果顯示，鳥類對防撞產品的迴避反應可能會因透明與反射的測試配置而異，儘管此差異的幅度仍不確定。因此，在傳統的透明測試之外納入反射條件，或可為評估產品在不同光學條件下的效能提供互補的資訊。"
   },
   {
    "doi": "10.3390/ani16213327",
