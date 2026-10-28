@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:20:01+00:00",
+ "updated": "2026-10-28T01:05:32+00:00",
  "papers": [
   {
    "doi": "10.1002/age.70224",
@@ -289,6 +289,26 @@
     "disease"
    ],
    "abstract_zh": "背景：理解代謝的基因調控對於改善動物健康與生產力，以及加強豬隻作為人類代謝疾病轉譯模型的應用至關重要。代謝體學與基因體資料相結合時，為識別影響與生理緊密連結的中間分子表現型的遺傳因素，提供了強大的框架。儘管大規模的代謝體學全基因體關聯研究（GWAS）已在人類中廣泛進行，但豬隻的相關研究仍屬有限。在各體學學門中，代謝體學——對生理核心代謝物進行的系統性研究——代表了哺乳動物中與終點表現型（如健康與生產性狀，例如生長速率）連結最緊密的體學層次。代謝物濃度受遺傳、飲食和微生物相組成的影響，人類研究顯示其具有高度遺傳性，並已識別出許多代謝物數量性狀基因座（mQTL）。雖然這些發現增進了我們對人類疾病生物學的理解，但豬隻的相對研究仍相當有限。結果：我們對 213 頭三元雜交豬 [（藍瑞斯 × 約克夏）× 杜洛克] 的血清代謝體進行了 GWAS，分析了 248 種代謝物和 30,628 種代謝物比值。基於連鎖不平衡（LD），我們識別出 41 個顯著的代謝物－變異關聯，並將其整合為 18 個 mQTL。數個區域與多種生化相關的代謝物相關，而其他區域則表現出高度特異性的效應。與人類 GWAS 資料庫進行的跨物種比較，揭示了位於 7 個 mQTL 內的候選基因。透過整合性優先排序策略，為 18 個 mQTL 中的 14 個識別出可能的因果基因——主要是酵素和轉運蛋白。結論：我們的結果擴展了影響豬隻血清代謝物變異的遺傳基因座目錄，並凸顯了代謝調控中保守性與豬隻特異性的成分。這些發現為將代謝體學納入豬隻育種計畫奠定基礎，並強化了豬隻作為研究人類代謝相關性狀與疾病之轉譯模型的價值。"
+  },
+  {
+   "doi": "10.1080/00071668.2026.2721461",
+   "title": "Extended-spectrum β-lactamase-producing Escherichia coli in chickens: prevalence and genetic diversity: a systematic review and meta-analaysis",
+   "abstract": "1. Extended-spectrum β-lactamase-producing Escherichia coli (ESBL-EC) is an important antimicrobial-resistant pathogen in poultry that threatens animal health, food safety and public health. This study reviewed the global prevalence and genetic diversity of ESBL-EC in chickens and compared prevalence across continents and chicken production systems.2. A meta-analysis was conducted following PRISMA guidelines. Forty-five studies published between 2014 and 2023, comprising 13 761 E. coli isolates from broiler, layer and mixed-breed chickens, were included. Random-effects meta-analysis estimated pooled prevalence, while subgroup and meta-regression analyses explored heterogeneity. Any ESBL-associated genes were summarised.3. The pooled prevalence of ESBL-EC in chickens was 31.44% (95% CI: 23.81–39.07). Prevalence was highest in Asia (36.22%) and Africa (26.66%) and lowest in North America (5.20%). Broiler chickens showed substantially higher prevalence (33.13%) than layer chickens (8.79%).4. Genetic analysis demonstrated that CTX-M-type β-lactamases predominated, with blaCTX-M as the most frequently detected ESBL gene, followed by blaTEM and blaSHV. The higher prevalence in broiler chickens reflected intensive production systems, shorter production life spans and greater antimicrobial exposure. The lower prevalence in layer chickens reflects longer production life spans and comparatively lower antimicrobial usage.5. The resistant E. coli ESBL strain is widely distributed in poultry, particularly in production systems and in Asia and Africa. Strengthened antimicrobial stewardship, improved farm biosecurity and integrated ‘One Health’ surveillance are required to reduce the dissemination of ESBL-producingE. coli and mitigate associated public health risks.",
+   "authors": [
+    "R. Sherasiya",
+    "A. Sherasiya"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2721461",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 25.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "genetic diversity"
+   ],
+   "abstract_zh": "1. 產超廣效β-內醯胺酶大腸桿菌（ESBL-EC）是家禽中重要的抗生素抗藥性病原菌，對動物健康、食品安全和公共衛生構成威脅。本研究探討全球雞隻中ESBL-EC的流行病學與基因多樣性，並比較不同大洲與雞隻生產系統間的盛行率。\n\n2. 本研究遵循PRISMA指南進行統合分析。納入了2014至2023年間發表的45篇研究，包含來自肉雞、蛋雞和混種雞的13,761株大腸桿菌分離株。採用隨機效應統合分析估算合併盛行率，同時透過次分組與統合迴歸分析探討異質性。並對所有ESBL相關基因進行了總結。\n\n3. 雞隻中ESBL-EC的合併盛行率為31.44%（95% CI：23.81–39.07）。亞洲（36.22%）和非洲（36.22%）的盛行率最高，北美洲（5.20%）最低。肉雞的盛行率（33.13%）顯著高於蛋雞（8.79%）。\n\n4. 基因分析顯示，CTX-M型β-內醯胺酶占主導地位，其中 $bla_{\\text{CTX-M}}$ 是最常檢測到的ESBL基因，其次為 $bla_{\\text{TEM}}$ 和 $bla_{\\text{SHV}}$。肉雞盛行率較高，反映出其集約化生產系統、較短的生產週期以及較高的抗生素暴露量。蛋雞盛行率較低則反映其較長的生產週期與相對較低的抗生素使用量。\n\n5. 抗藥性大腸桿菌ESBL菌株在家禽中廣泛散布，特別是在特定生產系統以及亞洲和非洲地區。必須加強抗生素管理、改善農場生物安全，並落實整合性的「健康一體」（One Health）監測，以減少產ESBL大腸桿菌的傳播並降低相關的公共衛生風險。"
   },
   {
    "doi": "10.3390/ani16203316",
@@ -757,6 +777,28 @@
     "semen"
    ],
    "abstract_zh": "公羊精液的冷凍保存技術與方案，特別是聚焦於精液稀釋液添加物的研究，近年來受到的關注日益增加，因為許多科學家正尋求減輕冷凍損傷並改善解凍後精子品質的方法。本篇結構化敘述性文獻回顧的目的，旨在檢視 2019 至 2024 年間發表關於人工合成與天然添加物的研究，區分公羊所得之實驗證據與其他物種的比較證據，並分析當前趨勢及未來研究的潛在缺口。冷凍保存是畜牧生產及利用人工授精進行基因保育不可或缺的一環。然而，冷凍與解凍過程會導致 DNA 片段化、氧化壓力以及精子活力低下，這些對繁殖成功率皆有害。含有甘油或蛋黃的傳統稀釋液已被廣泛使用，以保護細胞膜並防止冰晶形成。儘管如此，冷凍解凍後的公羊精液所獲得的受孕率仍然偏低，這促使人們對其他物質進行探討。諸如植物多酚、維生素、脂肪酸和醣類等天然添加物，在減少自由基和增強精子完整性方面展現出巨大潛力。人工合成添加物，包括 Trolox、MitoQ 及 Mito-TEMPO，也被發現能增強抗氧化能力。在過去幾年中，出現了一些趨勢，包括對植物性抗氧化劑和奈米粒子基添加物的興趣增加。然而，也觀察到幾個研究缺口，包括需要進一步最佳化添加物劑量比例、缺乏這些添加物在長期使用時穩定性的研究，以及稀釋液配方在不同品種和物種間的相容性。本篇回顧綜合了公羊精液冷凍保存添加物的最新進展；對於多數添加物而言，相關證據僅呈現於單一研究中，且多以精子品質為評估指標。僅有極少數研究測量了活體（in vivo）受孕率。本文強調有必要從描述性的添加物研究轉向以機制為核心、並經不同品種驗證的方案，以提升生殖生物技術的可擴展性與可靠性。"
+  },
+  {
+   "doi": "10.3390/poultry5060073",
+   "title": "Effects of Concentrated Pineapple Extract on Nutrient Digestibility, Growth Performance, and Digestive Health in Broiler Chickens",
+   "abstract": "Rising concerns about antimicrobial resistance and the safety of livestock-derived products have increased interest in natural feed additives for poultry production. Pineapple (Ananas comosus), which is rich in bromelain and phenolic compounds, has emerged as a promising candidate for supporting digestive function. This study evaluated the effects of concentrated pineapple extract (CPE) on nutrient digestibility, growth performance, and gastrointestinal health in broiler chickens. Using a completely randomized 6 × 2 factorial arrangement, 288 one-day-old Arbor Acres chicks were distributed to six dietary treatments (CPE at 0, 5, 10, 15, and 20 mL/kg, and a 110 ppm chlortetracycline), with six replications. Chicks were fed ad libitum for 42 days, and growth performance, apparent total tract nutrient disappearance, gut pH, microbial populations, and intestinal histomorphology were assessed. No significant diet–sex interaction was observed. CPE supplementation reduced gastric and duodenal pH and feed intake but did not affect body weight or intestinal morphology. Notably, CPE improved apparent total tract N retention and reduced intestinal Escherichia coli counts, while supplementation at 5 mL/kg enhanced fat digestibility. Sex-related differences were observed in jejunum and ileum pH. Overall, dietary inclusion of 5–10 mL/kg (44,770–89,540 GDU/kg diet) CPE may support digestive efficiency without compromising growth performance in broiler chickens.",
+   "authors": [
+    "Pitukpol Pornanek",
+    "Chamnanwit Promkot",
+    "Chaluntorn Vichasilp",
+    "Chirasak Phoemchalard"
+   ],
+   "journal": "Poultry",
+   "url": "https://doi.org/10.3390/poultry5060073",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 17.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "antimicrobial resistance"
+   ],
+   "abstract_zh": "日益增加的抗生素抗藥性疑慮以及畜產品的安全性，提高了產業界對家禽生產中使用天然飼料添加物的興趣。鳳梨（Ananas comosus）富含鳳梨酵素與酚類化合物，已成為支援消化功能的潛力候選物。本研究評估了濃縮鳳梨萃取物（CPE）對肉雞營養分消化率、生長性能及胃腸道健康的影響。試驗採用完全隨機 6 × 2 因子排列設計，將 288 隻一日齡 Arbor Acres 肉雞分配至六種飼糧處理（CPE 添加量為 0、5、10、15 與 20 mL/kg，以及 110 ppm 金黴素），每處理六個重複。肉雞自由採食 42 天，並評估生長性能、全消化道營養分表觀消失率、腸道 pH 值、微生物菌相及腸道組織形態學。結果顯示，飼糧與性別之間無顯著的交戶作用。補充 CPE 降低了胃與十二指腸的 pH 值及採食量，但對體重或腸道形態無顯著影響。值得注意的是，CPE 改善了全消化道氮滯留率並減少了腸道大腸桿菌數量，而添加 5 mL/kg 則能提升脂肪消化率。空腸與迴腸的 pH 值則觀察到性別相關的差異。總體而言，在肉雞飼糧中添加 5–10 mL/kg（44,770–89,540 GDU/kg 飼糧）的 CPE，可在不影響生長性能的情況下，提升肉雞的消化效率。"
   },
   {
    "doi": "10.1080/00071668.2026.2724003",
@@ -1333,6 +1375,33 @@
    "abstract_zh": "年齡相關的藏羊肉品品質與肌肉代謝變異仍未被完全理解。本研究將十八隻臨床健康的公藏羊依年齡分為三組：6個月（M6）、18個月（M18）及42個月（M42），並評估其背最長肌的pH值、色澤、華納－布拉茨勒剪切力（Warner–Bratzler shear force）、蒸煮損失、一般成分、胺基酸及脂肪酸。利用頂空固相微萃取結合氣相層析－質譜儀分析揮發性化合物，並透過非標靶液相層析－質譜儀評估肌肉代謝物。結果顯示，M42組藏羊的蛋白質與脂肪含量最高，剪切力也最大。值得注意的是，單元不飽和脂肪酸與多元不飽和脂肪酸含量在M18時最高，呈現出獨特的風味特徵，並指出脂肪酸組成隨年齡而異，而非存在明確的代謝轉變點。代謝體學分析識別出差異代謝物，主要富集於胺基酸和脂質代謝途徑中。相關性分析顯示，包含延胡索酸和亞麻油酸在內的關鍵代謝物與肉品品質參數顯著相關。本研究闡明了不同年齡組藏羊的肉品品質特徵與代謝基礎，為改善肉品品質提供了理論基礎。"
   },
   {
+   "doi": "10.3390/ani16213392",
+   "title": "The Impact of Omnivorous Feeding on Antioxidant Capacity, Gut Microbiota, and the Relationship Between Gut Microbiota and Meat Quality in Xinghua and White Recessive Rock Chickens",
+   "abstract": "The impacts of omnivorous feeding on intestinal morphology and microbial community structure remain a critical area of research in poultry science, uncovering potential biological mechanisms regulating growth and development. This study investigated how feeding regimes modulate antioxidant enzyme activities, intestinal morphological structure, gut microbiota, and the relationship between gut microbiota and meat quality. We conducted a comprehensive analysis integrating antioxidant enzyme activities, intestinal histomorphology, and 16S rRNA gene sequencing. Correlation analyses were performed to identify key microbial taxa influencing meat quality. Omnivorous feeding significantly altered the activities of certain antioxidant enzymes in the serum and selected intestinal tissues of both White Recessive Rock and Xinghua chickens. Omnivorous feeding significantly reduced the VH/CD ratio in specific intestinal segments. Microbial analysis revealed that omnivorous feeding modulated the relative abundances of Bacillus, Enterococcus, Escherichia-Shigella, and Romboutsia. These shifts promoted metabolic functions, including carbohydrate, amino acid, and energy metabolism. Crucially, correlation analysis identified Faecalibacterium, Bacillus, Romboutsia, Streptococcus, and unclassified UCG_010 as key genera significantly associated with meat quality traits. The findings suggest that omnivorous feeding shows the potential to improve poultry health and meat quality.",
+   "authors": [
+    "Jing-E Ma",
+    "Jie Liang",
+    "Bahareldin Ali Abdalla Gibril",
+    "Jishang Gong",
+    "Yuanfei Li",
+    "Qiao Xu",
+    "Xuewen Chai",
+    "Wen Luo",
+    "Jiguo Xu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213392",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 12.0,
+   "matched": [
+    "chicken",
+    "amino acid",
+    "meat quality"
+   ],
+   "abstract_zh": "雜食性飼餵對腸道形態與微生物群落結構的影響，仍是家禽科學中一個關鍵的研究領域，有助於揭示調節生長與發育的潛在生物學機制。本研究探討了飼餵制度如何調節抗氧化酶活性、腸道形態結構、腸道微生物相，以及腸道微生物相與肉質之間的關係。我們進行了一項綜合分析，整合了抗氧化酶活性、腸道組織形態學及 16S rRNA 基因定序。透過相關性分析，識別出影響肉質的關鍵微生物分類群。雜食性飼餵顯著改變了白洛克雞與興華雞血清及特定腸道組織中的部分抗氧化酶活性。雜食性飼餵顯著降低了特定腸道區段的絨毛高度與隱窩深度比值（VH/CD ratio）。微生物分析顯示，雜食性飼餵調節了芽孢桿菌屬（Bacillus）、腸球菌屬（Enterococcus）、埃希氏菌-志賀氏菌屬（Escherichia-Shigella）及羅姆布茨菌屬（Romboutsia）的相對豐度。這些轉變促進了代謝功能，包含碳水化合物、胺基酸及能量代謝。至關重要的是，相關性分析識別出糞桿菌屬（Faecalibacterium）、芽孢桿菌屬（Bacillus）、羅姆布茨菌屬（Romboutsia）、鏈球菌屬（Streptococcus）以及未分類的 UCG_010 屬（unclassified UCG_010）為顯著與肉質性狀相關的關鍵屬。研究結果表明，雜食性飼餵展現出改善家禽健康與肉質的潛力。"
+  },
+  {
    "doi": "10.3390/ani16203202",
    "title": "Spatiotemporal Dynamics and Trend Analysis of African Swine Fever Virus in Romanian Wild Boar Populations (2018–2024)",
    "abstract": "Background: African Swine Fever (ASF) remains a critical threat to the swine industry globally, with wild boars (Sus scrofa) acting as a major wildlife reservoir. Romania has been one of the most severely affected European countries since the virus’s introduction. Objectives: This study aims to estimate the long-term spatiotemporal trends, environmental persistence, and transmission dynamics of ASF virus (ASFV) in the Romanian wild boar population based on a finalized dataset of 1443 confirmed cases distributed across an 80-month timeline (May 2018–December 2024). Methods: Advanced epidemiological workflows integrating spatial and temporal modeling frameworks were developed. Spatiotemporal cluster detection was performed using SatScan to identify significant disease hotspots. Generalized Additive Models (GAMs) were utilized to model non-linear seasonal trends and spatial patterns of carcass persistence. Furthermore, the time-varying reproduction number (Rt) was calculated using a Bayesian renewal framework via the EpiEstim package, parameterized with a wild boar serial distribution (mean = 10.3 days; SD = 4.2 days). Results: SatScan identified one most primary cluster in Dobrogea and five other major recurrent hot spots in Muntenia, Transylvania, and Moldova. The GAM analysis revealed a strong, statistically significant seasonal pattern, with case detection from carcasses peaking markedly during the winter months when low temperatures favor environmental virus stability. The Bayesian Rt reconstruction disclosed three distinct epidemiological phases: a sharp initial invasion peak at a mean Rt of 2.38 (95% Crl: 1.82–3.02), followed by regional wave-like oscillations, and a distinct long-term stabilization in the late endemic phase, hovering dynamically around a stationary mean of 1.01 (95% Crl: 0.87–1.16). Conclusions: Our findings statistically validate the shift from an acute epidemic wave to a self-sustaining, chronic endemic equilibrium within the natural habitat, driven by constant carcass-mediated environmental re-seeding. These insights underscore that successful disease mitigation must prioritize the rapid, targeted removal of infected carcasses in high-risk forest matrices rather than generic population reduction strategies.",
@@ -1685,25 +1754,6 @@
     "broiler"
    ],
    "abstract_zh": "肉雞的木胸症（Wooden breast, WB）已被認為與胸肌粒線體功能受損有關。當粒線體功能下降時，器官獲得的 ATP 減少並會經歷氧化壓力。肌肉發育與腸道、肝臟和胰臟的最佳功能息息相關，而這有賴於充足的 ATP 來支援營養物質的吸收與代謝。木胸病變對肉雞體內其他器官和組織的影響目前所知相對有限。本研究旨在探討表現出木胸症肉雞多個器官中與粒線體功能相關的因素。從六十隻 8 週齡肉雞中，選出十個嚴重木胸症與十個正常胸肌進行組織採樣（肝臟、胰臟、三段腸道及胸肌）。與正常肉雞相比，木胸症肉雞的肌肉、胰臟、肝臟和十二指腸組織中的檸檬酸合成酶活性和粒線體複合物 II 活性均降低。與正常肉雞相比，木胸症肉雞在胰臟和三段腸道中的穀胱甘肽含量皆減少。木胸症肉雞的肌肉和肝臟中全組織 ATP 含量降低。總體而言，這些數據表明，在表現出木胸病變的肉雞中，粒線體功能受損可能不僅限於胸肌，還擴及其他組織。"
-  },
-  {
-   "doi": "10.1080/00071668.2026.2721461",
-   "title": "Extended-spectrum β-lactamase-producing Escherichia coli in chickens: prevalence and genetic diversity: a systematic review and meta-analaysis",
-   "abstract": "",
-   "authors": [
-    "R. Sherasiya",
-    "A. Sherasiya"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2721461",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 10.0,
-   "matched": [
-    "chicken",
-    "genetic diversity"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.3390/ani16213351",
@@ -2124,6 +2174,55 @@
    "abstract_zh": "本研究評估了肉羊在日糧中以含縮合單寧的紅櫟（Quercus rugosa）木質生質物（CTWB）部分或完全取代纖維組分中的玉米秸稈（CS）時，其生長性能、血液代謝物、屠體特性、肉質與經濟效益之反應。試驗選用48隻完整的杜泊×卡塔丁公羊（初始體重：33.01 ± 1.23 kg），飼養於24間羊欄中（每欄2隻），於2013至2014年間分別餵食含有0%、8%、16%或24% CTWB之日糧（分別為 CTWB-0、CTWB-8、CTWB-16 與 CTWB-24），試驗期為42天。24%的添加水準取代了所有的 CS，且經計算由 CTWB 提供了每公斤乾物質（DM）6.29 克的縮合單寧。CTWB-24 組的乾物質採食量（DMI）高於 CTWB-0 與 CTWB-16 組（分別為 1.34 對 1.17 與 1.18 kg DM/d；p = 0.021）。各處理組間的生長性能與增重飼料比則無顯異（p ≥ 0.240）。CTWB-24 組的血液尿素氮濃度低於 CTWB-8 組（p = 0.014）。屠體重無顯著差異（p ≥ 0.779），冷卻損失與屠宰率亦然（分別為 p = 0.459 與 0.060）。肌肉的紅度（a* 值）觀察到整體處理效應（p = 0.049），但個別處理組間無顯著差異；背部脂肪的黃度（b* 值）無顯著差異（p = 0.051），滴水損失、pH 值或剪切力測定亦同（p ≥ 0.103）。計算之日糧成本從 CTWB-0 的 0.301 美元/kg DM 下降至 CTWB-24 的 0.282 美元/kg DM，但此降低並未轉化為每隻羊較低的總飼料成本（p = 0.150）。屠體收益與扣除飼料成本後之收益（IOFC）亦無顯著差異（p ≥ 0.895）；IOFC 分別為 205.56 與 202.21 美元/隻。在此每處理分配6欄的試驗中，以 24% CTWB 完全取代 CS 伴隨著較高的 DMI，但在生長、屠體重或 IOFC 方面未檢測出顯著差異。這些發現並未確立各日糧之間的等效性，且有限的重複次數意味著無法排除具生物學相關性的差異。"
   },
   {
+   "doi": "10.3390/ani16213388",
+   "title": "Dynamic Nutritional Trajectories in Growing–Finishing Pigs: A CRITIC-Based Evaluation and SHAP-Interpreted Final Body Weight Prediction",
+   "abstract": "Phase-specific nutrient supply influences growth performance, nutrient utilization, carcass development, and skeletal health. Dietary strategies are usually evaluated using a limited number of production traits. In this study, 165 pigs were assigned to nutritional trajectories across three body-weight phases: 25–50, 50–75, and 75–100 kg. Four dietary nutrient levels corresponding to 100%, 90%, 80%, and 70% of the reference nutrient concentrations were used. The trajectories included continuous nutrient supply, phase-specific nutrient restriction, nutrient switching, and nutritional recovery. A hierarchical indicator system was established using growth performance, nutrient digestibility, carcass traits, body conformation, energy and nitrogen deposition, bone geometry, trabecular microarchitecture, and bone mineralization traits. The Criteria Importance Through Intercriteria Correlation (CRITIC) method was used to determine indicator weights and calculate domain-specific and overall performance scores. Support vector regression, back-propagation neural network, and random forest models were developed to predict final body weight; SHAP analysis was used to interpret the contribution of input variables. Growth performance, energy and nitrogen deposition, and carcass quality received the highest objective weights. Combining internally validated predictions and model interpretation provides a quantitative basis for designing phase-specific nutritional strategies for growing–finishing pigs. Independent farm, breed, and management condition validation is required before practical application.",
+   "authors": [
+    "Zhongshen Wang",
+    "Rui Sun",
+    "Jinsheng Li",
+    "Hailong Jiang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213388",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 8.0,
+   "matched": [
+    "nutrition",
+    "carcass"
+   ],
+   "abstract_zh": "階段性營養供應會影響生長性能、營養利用、屠體發育與骨骼健康。飼糧策略通常透過有限數量的生產性狀進行評估。本研究將 165 頭豬隻分配至三個體重階段（25–50、50–75 及 75–100 公斤）的營養軌跡中。採用相當於參考營養濃度 100%、90%、80% 及 70% 的四種飼糧營養水準。營養軌跡包含連續營養供應、階段性營養限制、營養轉換及營養恢復。本研究建立了一個階層式指標系統，涵蓋生長性能、營養消化率、屠體性狀、體型、能量與氮蓄積、骨骼幾何、小梁微結構及骨骼礦化性狀。採用標準差賦權法（CRITIC）判定指標權重，並計算各領域及整體性能得分。開發了支持向量迴歸、倒傳遞類神經網路及隨機森林模型來預測最終體重；並使用 SHAP 分析來解釋輸入變數的貢獻度。生長性能、能量與氮蓄積以及屠體品質獲得最高的客觀權重。結合內部驗證的預測與模型解釋，可為設計生長肥育豬的階段性營養策略提供量化基礎。在實際應用之前，仍需進行獨立豬場、品種及管理條件的驗證。"
+  },
+  {
+   "doi": "10.3390/ani16213385",
+   "title": "Modulation of Cecal Microbiota and Inflammatory-Immune Pathways Underlies the Reduced Eliminations but Unchanged Growth in Broilers Fed a Compound Probiotic",
+   "abstract": "With the global restriction on antibiotic growth promoters in poultry production, probiotics have emerged as promising alternatives. This study evaluated the effects of a compound probiotic formulation consisting of Lactobacillus salivarius, Lactobacillus acidophilus, and Lactobacillus reuteri at a ratio of 38:9:1 on growth performance and gut microbiota in Lingnan yellow-feathered broilers. A total of 700 one-day-old broilers were randomly assigned to a control group (basal diet) or a probiotic group (basal diet plus 1.45 × 109 CFU/L of the compound probiotic in drinking water, administered intermittently from 22 to 63 days of age). Growth performance, serum biochemical parameters, and intestinal morphology were measured, and 16S rRNA sequencing was performed on fecal, ileal, and cecal samples. Results showed that probiotic supplementation did not significantly affect growth performance, serum biochemical indices, or intestinal villus morphology. However, elimination rate during 43–63 days and over the entire experimental period was significantly reduced in the probiotic group. 16S rRNA sequencing revealed that the probiotic group exhibited significantly increased cecal microbial richness without alterations in community evenness, along with decreased Lactobacillus abundance in the ileum and increased Akkermansia abundance in the cecum. Functional prediction of cecal microbiota showed that 84 pathways, including inflammation- and immunity-related pathways such as the NOD-like receptor signaling pathway and multiple core functional categories, were significantly down-regulated, while only three pathways were significantly up-regulated. Collectively, although the compound probiotic failed to improve growth performance, it effectively reduced elimination rate, potentially through enrichment of beneficial Akkermansia and modulation of intestinal inflammation-related pathways.",
+   "authors": [
+    "Junyi Li",
+    "Xinli Gong",
+    "Tian Zhou",
+    "Junjin Deng",
+    "Shuyang Liu",
+    "Jing Liu",
+    "Tingting Lu",
+    "Cheng Ran",
+    "Jiaquan Li",
+    "Wenqing Zuo",
+    "Zhilin Wang",
+    "Jiazhou Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213385",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 8.0,
+   "matched": [
+    "broiler"
+   ],
+   "abstract_zh": "隨著全球對家禽生產中抗生素生長促進劑的限制，益生菌已成為具有潛力的替代品。本研究評估了由唾液乳桿菌、嗜酸乳桿菌和羅伊氏乳桿菌以 38:9:1 比例組成的複合益生菌配方，對嶺南黃羽肉雞生長性能和腸道菌相的影響。試驗共選用 700 隻一日齡肉雞，隨機分為對照組（基礎日糧）或益生菌組（基礎日糧加飲水中添加 $1.45 \\times 10^9\\text{ CFU/L}$ 之複合益生菌，於 22 至 63 日齡期間間歇性投餵）。測定生長性能、血清生化參數及腸道形態，並對糞便、迴腸和盲腸樣本進行 16S rRNA 定序。結果顯示，補充益生菌對生長性能、血清生化指標或腸道絨毛形態無顯著影響。然而，益生菌組在 43–63 日齡及整個試驗期間的淘汰率顯著降低。16S rRNA 定序顯示，益生菌組的盲腸微生物豐富度顯著增加，但群落均勻度未改變，同時伴隨迴腸中乳桿菌豐度下降以及盲腸中阿克曼氏菌（*Akkermansia*）豐度增加。盲腸微生物群的功能預測顯示，包括 NOD 樣受體信號通路等炎症和免疫相關通路在內的 84 個通路以及多個核心功能類別顯著下調，僅有 3 個通路顯著上調。綜上所述，儘管該複合益生菌未能改善生長性能，但它能有效降低淘汰率，這可能透過富集有益的阿克曼氏菌及調節腸道炎症相關通路來實現。"
+  },
+  {
    "doi": "10.1002/age.70219",
    "title": "Genome‐Wide Characterization of Heterozygosity‐Rich Regions in Kazakh Native Sheep Breeds",
    "abstract": "Heterozygosity‐rich regions (HRR) are genomic segments characterized by high heterozygosity that may arise from admixture, introgression, or balancing selection and may harbor loci associated with adaptation and fitness‐related traits. This study aimed to characterize HRR patterns in five Kazakh sheep breeds using a publicly available OvineSNP50 genotyping dataset. After quality control, ~25 000 SNPs were retained for 1634 Akzhaiyk, 1089 Edilbay, 532 Kazakh Fine‐Wool, 932 Kazakh Semi‐Coarse, and 282 Saryarka sheep. HRR were detected separately in each breed using the sliding‐window approach in detectRUNS R package, with a minimum segment length of 250 kb, at least 10 SNPs per window and segment, and a maximum of two opposing homozygous and one missing SNP per window. The average number of HRR per individual ranged from 40.75 ± 6.38 in Saryarka to 54.75 ± 7.34 in Kazakh Fine‐Wool sheep. HRR lengths ranged from 259.07 kb to 3.26 Mb, with an average of 0.7 Mb across breeds. Seventeen HRR islands, defined as regions shared by HRR in at least 25% of individuals within a breed, were identified, including regions on chromosomes 8 and 17 shared across all breeds. Genes overlapping these islands were associated with cellular homeostasis, immunity, metabolism, growth, and stress response, while the HRR islands overlapped with QTL associated with health, wool characteristics, and reproduction. These findings highlight the potential of HRR analysis to identify candidate genomic regions relevant to adaptation and economically important traits, providing insights for the conservation and genetic improvement of Kazakh sheep populations.",
@@ -2447,6 +2546,24 @@
    "abstract_zh": "反芻動物間的乳品甲烷強度經常被進行比較，但聯合國糧食及農業組織企業統計資料庫（FAOSTAT）僅針對牛隻識別出乳牛群；對於水牛、山羊、綿羊和駱駝，則僅報告全群甲烷排放量。針對 2020–2023 年間的 186 個國家，我們利用各國泌乳動物的比例，將非牛類畜群的甲烷分配至乳品。這使合併強度比值從牛隻的 2.9–17.9 降至 1.1–5.2；在 107 個多物種國家中，牛隻在 53 個國家中擁有最低的報告乳品分配強度（若採用全則為 89 個）。在篩選後的主要分析中（排除一筆不合理的蒙古綿羊乳系列資料），全球比值減少了 0.64 g CH4 kg−1；三因子分解顯示，國家佔比貢獻了 +0.48 g CH4 kg−1，物種組成貢獻了 −0.10，物種內部強度則貢獻了 −1.02。若保留該系列資料，相應的組成份則分別為 +0.57、−1.43 與 +0.21。在明確界線與具影響力的記錄之前，跨物種比較僅屬會計建構。"
   },
   {
+   "doi": "10.1080/00071668.2026.2731577",
+   "title": "Effects of different laying management strategies on subsequent fear responses in aviary laying hens",
+   "abstract": "1. This study investigated subsequent effects of different floor laying management strategies on the fear response of laying hens housed in two different aviary styles (Big Dutchman® NaturaStep and Natura60).2. Tonic immobility (TI) responses in hens were measured as reactions to a ground robot moving or a human walking on the litter area, compared with control/standard practices. Management strategies were started at 16 weeks of age (WOA) and ended at 32 WOA.3. Twenty birds from six groups (three treatments × two aviary styles) were chosen at random for TI testing at 36, 44, and 55 WOA. For this purpose, randomly collected hens were gently taken out of their pens and transported to the testing room using a mobile multi-tier cage. Each individual hen was placed gently on its back on a flat surface, and TI was induced by gently pressing on its breast. If TI was induced, the length of time to the first head movement, the latency to return to an upright position, and the number of attempts to induce TI were recorded.4. Aviary style significantly affected the length of time to first head movement (p < 0.05). Hens at 55 WOA remained in TI significantly longer than those of earlier ages (p = 0.004). There were no significant effects of stressors/management strategies or aviary style on time to upright position. The average number of attempts required to induce TI was similar for all birds.5. The results indicated that neither stressors or aviary styles had any significant effects on the traits investigated. Older hens tended to exhibit higher levels of fearfulness compared to younger hens.",
+   "authors": [
+    "M. Petek",
+    "J. M. Siegford"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2731577",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 6.0,
+   "matched": [
+    "laying hen"
+   ],
+   "abstract_zh": "1. 本研究探討不同地面鋪面管理策略對飼養於兩種不同平飼系統（Big Dutchman® NaturaStep 及 Natura60）中產蛋雞恐懼反應之後續影響。\n2. 測量母雞的強直不動（tonic immobility, TI）反應，作為其對地墊區移動地面機器人或步行人類之反應，並與對照／標準做法進行比較。管理策略從 16 週齡（WOA）開始，至 32 週齡結束。\n3. 隨機選取六個組別（三個處理 × 兩個平飼系統）中各二十隻雞，分別在 36、44 及 55 週齡進行 TI 測試。為此目的，隨機捕獲母雞並溫和地将其移出欄舍，使用移動式多層籠具運送至測試室。將每隻母雞輕輕仰躺於平坦表面上，並透過輕壓其胸部來引發強直不動。若成功引發 TI，則記錄至首次頭部移動的時間長度、恢復直立姿勢的潛伏期，以及引發 TI 所需的嘗試次數。\n4. 平飼系統顯著影響首次頭部移動的時間長度（p < 0.05）。55 週齡母雞處於 TI 的時間顯著長於較年輕的母雞（p = 0.004）。壓力源／管理策略或平飼系統對恢復直立姿勢的時間無顯著影響。所有雞隻引發 TI 所需的平均嘗試次數相近。\n5. 結果顯示，壓力源或平飼系統對所調查的性狀皆無顯著影響。與較年輕的母雞相比，較年長的母雞傾向表現出較高的恐懼程度。"
+  },
+  {
    "doi": "10.1080/00071668.2026.2721464",
    "title": "In silico evaluation of selected plant-based compounds as potent dual target inhibitors against highly pathogenic avian influenza H5N1 virus",
    "abstract": "1. Influenza viruses remain a serious global health issue due to their high morbidity and mortality rates. Among them, avian influenza H5N1 virus is highly pathogenic, causing up to 100% mortality in poultry. As the avian influenza H5N1 virus continues to mutate across different regions, understanding multiple viral proteins, particularly the mutated haemagglutinin (HA) and neuraminidase (NA), is crucial for effective control.2. In this study, dual-target inhibitors capable of neutralising both HA and NA were developed, and a comprehensive in silico analysis was performed on different variants collected over the past decade. Structural modelling revealed conserved domains in NA (A0A1I9QM14, China) and HA (A0A0A0V4U2, Bali), which were selected for ligand docking.3. Twenty active compounds, traditionally used as natural feed additives in broiler chicken diets, were screened using protein-ligand docking, ADME profiling, and molecular dynamics (MD) simulations. Quercetin and luteolin emerged as promising dual-target inhibitors, showing high binding affinity, drug-likeness, and favourable toxicity profiles. The binding free energy (ΔG = −8 ± 0.2 kcal/mol) from docking studies confirmed their inhibitory potential against avian influenza H5N1 virus HA and NA.4. The results demonstrated that virtual screening of natural compounds can effectively identify those effective against influenza virus surface proteins. This integrative computational-experimental strategy supported the development of novel plant-derived antiviral agents with potential applications for disease control.",
@@ -2694,6 +2811,28 @@
    "abstract_zh": "背景：阿爾ジェ利亞的單峰駱駝飼養正轉向定居式舍飼，然而其對群體健康與繁殖成效的影響仍缺乏充分記錄。本研究探討阿爾及利亞阿爾瓦德（El Oued）地區之飼養系統、環境限制及疾病負擔與難產之間的關聯。方法：這是一項為期 12 個月的觀察性研究，涵蓋 55 個農場（45 個粗放式、10 個半精集約式）以及 70 頭焦點成年母駱駝，整合了問卷調查、臨床評估及回溯性記錄。群體總疾病負擔（Total Disease Burden, TDB；0–24 分量表）使用負二項迴歸進行建模（n = 55）。指數化係數被解釋為預期 TDB 分數的比值。結果：飼料、水資源與健康限制呈高度相關（斯皮爾曼相關係數 Spearman’s ρ = 0.89–0.96）。半精集約化管理的預期 TDB 分數高於粗放式管理（比值 = 1.71，95% 信賴區間：1.28–2.29，p < 0.001），飼料（比值 = 1.15，p = 0.015）與水資源短缺（比值 = 1.10，p = 0.048）亦然。舍飼群體回報了較高的牧草物種豐富度及較高的母駝體重；然而，當前的個別臨床發病率與歷史難產率呈正相關。一項探索性隨機森林模型將群體規模和 TDB 列為農場層級難產的主要預測因子，儘管其袋外誤差（25.5%）超過了多數類別基準的 16.4% 誤差。結論：半精集約化管理與資源限制和較高的綜合疾病負擔分數相關。僅憑牧草物種豐富度和體重增加，不應被解讀為健康狀況較佳的指標。該探索性分類器突顯了進行更大規模研究以驗證預測性繁殖模型的必要性。"
   },
   {
+   "doi": "10.3390/ani16213356",
+   "title": "Can Leukocyte Morphology Contribute to Welfare Assessment in Beef Cattle Raised Under Intensive and Extensive Farming Systems?",
+   "abstract": "To investigate the potential contribution of leukocyte morphology to animal welfare assessment, this study evaluated leukocyte profiles in beef cattle raised under intensive and extensive production systems. A total of 664 blood samples were collected at the end of the production cycle from commercial farms in Mato Grosso do Sul, Brazil. Welfare assessments included qualitative behavioral assessment, health indicators, hematocrit, total and differential leukocyte counts, neutrophil-to-lymphocyte (N/L) ratio, and leukocyte morphology using an image-supported scoring system. In pooled descriptive data, severe neutrophil morphological alterations were observed in 27.1% of cattle from intensive systems and 11.4% from extensive systems, while atypical lymphocytes were observed in 21.8% and 9.6%, respectively. Exploratory season-specific generalized estimating equation (GEE) analyses indicated higher neutrophil counts and N/L ratios in cattle from intensive systems in both autumn and spring. In autumn, lymphocyte counts were lower in cattle from the intensive system, and severe neutrophil morphological alterations and atypical lymphocytes had higher estimated probabilities. In spring, no clear evidence of differences between systems was observed for lymphocyte counts or leukocyte morphology. Qualitative behavioral assessment revealed variation among farms, including farms within the same production system. Health alterations, including nasal discharge, coughing, and swelling, were recorded exclusively in the evaluated intensive systems. These findings indicate differences in leukocyte morphology among cattle from the evaluated farms and suggest that leukocyte morphological assessment may provide a useful complementary animal-based indicator within multidimensional welfare assessment frameworks.",
+   "authors": [
+    "Laura Rios Ribeiro",
+    "Juliana do Canto Olegário",
+    "Alexandre de Oliveira Bezerra",
+    "Ricardo Martins Santos",
+    "Cesar Augusto Taconeli",
+    "Carla Forte Maiolino Molento"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213356",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 5.0,
+   "matched": [
+    "cattle"
+   ],
+   "abstract_zh": "為探討白血球形態對動物福利評估潛在的貢獻，本研究評估了在密集式與粗放式生產系統下飼養之肉牛的白血球相。本研究自巴西南馬托格羅索州（Mato Grosso do Sul）的商業農場，在生產週期結束時共採集了 664 個血液樣本。福利評估包含質化行為評估、健康指標、紅血球容積比（hematocrit）、總白血球及白血球分類計數、嗜中性球與淋巴球比值（N/L ratio），以及利用影像支援評分系統進行的白血球形態評估。在合併的描述性數據中，密集式系統牛隻有 27.1%、粗放式系統有 11.4% 觀察到嚴重的嗜中性球形態改變；非典型淋巴球則分別佔 21.8% 與 9.6%。探索性季節特定廣義估計方程式（GEE）分析顯示，在秋季與春季，密集式系統牛隻的嗜中性球計數與 N/L 比值均較高。在秋季，密集式系統牛隻的淋巴球計數較低，且嚴重嗜中性球形態改變與非典型淋巴球具有較高的估計機率。在春季，淋巴球計數或白血球形態在不同系統間未觀察到明顯差異。質化行為評估顯示農場間存在差異，包含同一生產系統內的農場。健康狀況改變（包含鼻分泌物、咳嗽與腫脹）僅在所評估的密集式系統中記錄到。這些發現指出受評估農場之牛隻的白血球形態存在差異，並表明白血球形態評估可作為多維度動物福利評估框架中一項有用的互補性動物基礎指標。"
+  },
+  {
    "doi": "10.3390/ani16213348",
    "title": "High Salinity Stress Affects Flavor Free Amino Acid Content and GLUL Gene Expression in Crassostrea hongkongensis",
    "abstract": "Crassostrea hongkongensis (C. hongkongensis) is an important aquacultured bivalve species inhabiting estuarine environments, where salinity fluctuations can influence its amino acid composition and associated taste attributes. In this study, the effect of hyper-salinity stress on free amino acid metabolism and glutamate–ammonia ligase (ChGLUL) expression was investigated. Tissue expression analysis showed that ChGLUL was significantly upregulated in hepatopancreas, gill, mantle, gonad, and adductor muscle following hyper-salinity stress, with the most pronounced increase observed in the gonads (7.08-fold). Hyper-salinity markedly elevated the activities of glutamine synthetase (GS) and glutamate decarboxylase (GAD), whereas ChGLUL silencing suppressed stress-induced enzyme activities. Metabolically, hyper-salinity stress increased total free amino acids (TFAAs) and total flavor free amino acids (FFAAs) in the mixed tissues, characterized by markedly increased sweet (glycine and alanine) and bitter amino acids but decreased umami amino acids (glutamic and aspartic acids). Conversely, ChGLUL silencing led to decreased total FFAAs and sweet amino acids but increased umami amino acids. Furthermore, ChGLUL knockdown significantly reduced the expression of key genes in flavor amino acid metabolism, including GAD1, PHGDH, and PAH. Collectively, these findings demonstrate that hyper-salinity stress affects both the flavor free amino acid content and ChGLUL expression in C. hongkongensis.",
@@ -2749,26 +2888,99 @@
    "abstract_zh": "本研究評估了在生長期與肥育期中，補充不同劑量之胍基乙酸（GAA）對尼洛代牛（Bos indicus）肌肉生成、蛋白質代謝週轉及能量代謝相關基因轉錄豐度的影響。試驗選用51頭公牛，在生長期分別補充 0、3、6 或 9 g GAA·kg−1 補充料乾物質（DM），在肥育期則分別補充 0、0.3、0.6 或 0.9 g GAA·kg−1 日糧乾物質（DM）。於各階段結束時採集背最長肌（Longissimus thoracis）樣本進行即時定量反轉錄聚合酶連鎖反應（RT-qPCR）分析。在生長期，GAA 補充提高了與肌生成調節（PAX7、MYF5 及 MYOG）和合成代謝訊號傳遞（MTOR 及 EIF4E）相關基因的轉錄豐度，呈現出與肌生成調節及蛋白質代謝週轉相關基因調控一致的轉錄表現譜，且不同劑量之反應有所差異。在肥育期，持續補充 GAA 降低了 MYF5、MYOG、EIF4E、FBXO32 及 SLC2A4 的基因轉錄豐度，而 MTOR 與 GSK3B 則對遞增的 GAA 劑量表現出正向二次方反應。然而，這些分子層面的反應並未伴隨生長性能、屠體性狀或大多數肉質變數的改善。在生長期與肥育期結束時觀察到的基因表現差異，應在日糧、管理、飼養系統以及 GAA 暴露持續時間的脈絡下進行解讀。"
   },
   {
-   "doi": "10.3390/ani16213356",
-   "title": "Can Leukocyte Morphology Contribute to Welfare Assessment in Beef Cattle Raised Under Intensive and Extensive Farming Systems?",
-   "abstract": "To investigate the potential contribution of leukocyte morphology to animal welfare assessment, this study evaluated leukocyte profiles in beef cattle raised under intensive and extensive production systems. A total of 664 blood samples were collected at the end of the production cycle from commercial farms in Mato Grosso do Sul, Brazil. Welfare assessments included qualitative behavioral assessment, health indicators, hematocrit, total and differential leukocyte counts, neutrophil-to-lymphocyte (N/L) ratio, and leukocyte morphology using an image-supported scoring system. In pooled descriptive data, severe neutrophil morphological alterations were observed in 27.1% of cattle from intensive systems and 11.4% from extensive systems, while atypical lymphocytes were observed in 21.8% and 9.6%, respectively. Exploratory season-specific generalized estimating equation (GEE) analyses indicated higher neutrophil counts and N/L ratios in cattle from intensive systems in both autumn and spring. In autumn, lymphocyte counts were lower in cattle from the intensive system, and severe neutrophil morphological alterations and atypical lymphocytes had higher estimated probabilities. In spring, no clear evidence of differences between systems was observed for lymphocyte counts or leukocyte morphology. Qualitative behavioral assessment revealed variation among farms, including farms within the same production system. Health alterations, including nasal discharge, coughing, and swelling, were recorded exclusively in the evaluated intensive systems. These findings indicate differences in leukocyte morphology among cattle from the evaluated farms and suggest that leukocyte morphological assessment may provide a useful complementary animal-based indicator within multidimensional welfare assessment frameworks.",
+   "doi": "10.1002/age.70228",
+   "title": "Functional Effects of IGF2BP2 Genetic Variants on Growth Traits in Sheep",
+   "abstract": "Growth traits are economically important in sheep, but the regulatory variants contributing to body‐weight variation remain incompletely characterized. A selective‐sweep analysis identified a candidate region on chromosome 1 containing IGF2BP2 . Sequence comparison indicated that IGF2BP2 is highly conserved across mammals. Genotyping of Hu sheep, Hulunbuir sheep, and Tan sheep identified Chr1 g.202274996G&gt;A was significantly associated with sheep body weight at 6 months of age. Epigenomic data indicated that the region containing this variant has features of an active cis‐regulatory element, and dual‐luciferase assays showed that the A allele reduced enhancer activity relative to the G allele. In isogenic sheep fetal fibroblast clones generated by cytosine base editing, the AA genotype was associated with lower IGF2BP2 and CCAR1 expression than the GG genotype. MeRIP‐qPCR further indicated genotype‐dependent differences in m 6 A‐enriched CCAR1 RNA. Together, these findings support Chr1 g.202274996G&gt;A as a candidate regulatory variant affecting IGF2BP2 expression and body weight in Hu sheep, and provide a potential molecular marker for the genetic improvement of growth traits in sheep.",
    "authors": [
-    "Laura Rios Ribeiro",
-    "Juliana do Canto Olegário",
-    "Alexandre de Oliveira Bezerra",
-    "Ricardo Martins Santos",
-    "Cesar Augusto Taconeli",
-    "Carla Forte Maiolino Molento"
+    "Tingting Li",
+    "Enzhao Dong",
+    "Haitao Wang",
+    "Na Zhang",
+    "Jianning He",
+    "Qiuyue Liu"
    ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213356",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
+   "journal": "Animal Genetics",
+   "url": "https://doi.org/10.1002/age.70228",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
    "score": 5.0,
    "matched": [
-    "cattle"
+    "sheep"
    ],
-   "abstract_zh": "為探討白血球形態對動物福利評估潛在的貢獻，本研究評估了在密集式與粗放式生產系統下飼養之肉牛的白血球相。本研究自巴西南馬托格羅索州（Mato Grosso do Sul）的商業農場，在生產週期結束時共採集了 664 個血液樣本。福利評估包含質化行為評估、健康指標、紅血球容積比（hematocrit）、總白血球及白血球分類計數、嗜中性球與淋巴球比值（N/L ratio），以及利用影像支援評分系統進行的白血球形態評估。在合併的描述性數據中，密集式系統牛隻有 27.1%、粗放式系統有 11.4% 觀察到嚴重的嗜中性球形態改變；非典型淋巴球則分別佔 21.8% 與 9.6%。探索性季節特定廣義估計方程式（GEE）分析顯示，在秋季與春季，密集式系統牛隻的嗜中性球計數與 N/L 比值均較高。在秋季，密集式系統牛隻的淋巴球計數較低，且嚴重嗜中性球形態改變與非典型淋巴球具有較高的估計機率。在春季，淋巴球計數或白血球形態在不同系統間未觀察到明顯差異。質化行為評估顯示農場間存在差異，包含同一生產系統內的農場。健康狀況改變（包含鼻分泌物、咳嗽與腫脹）僅在所評估的密集式系統中記錄到。這些發現指出受評估農場之牛隻的白血球形態存在差異，並表明白血球形態評估可作為多維度動物福利評估框架中一項有用的互補性動物基礎指標。"
+   "abstract_zh": "生長性狀對綿羊具有經濟重要性，但促成體重變異的調控變異仍尚未完全解析。選擇清除分析（selective-sweep analysis）識別出第一染色體上包含 $IGF2BP2$ 的候選區域。序列比對顯示，$IGF2BP2$ 在哺乳動物中高度保守。對湖羊、呼倫貝爾羊和灘羊的基因型鑑定發現，Chr1 g.202274996G>A 與綿羊 6 月齡體重顯著相關。表觀基因體數據顯示，包含此變異的區域具有活性順式調控元件（cis-regulatory element）的特徵，雙螢光素酶實驗表明，相較於 G 等位基因，A 等位基因降低了增強子活性。在使用胞嘧啶鹼基編輯（cytosine base editing）生成的同基因綿羊胎兒成纖維細胞株中，AA 基因型與較低的 $IGF2BP2$ 及 $CCAR1$ 表達量相關（相較於 GG 基因型）。甲基化 RNA 免疫沉澱定量 PCR（MeRIP-qPCR）進一步顯示，富含 $\\text{m}^6\\text{A}$ 的 $CCAR1$ RNA 表現出基因型依賴性的差異。綜上所述，這些發現支持 Chr1 g.202274996G>A 作為影響湖羊 $IGF2BP2$ 表達及體重的候選調控變異，並為綿羊生長性狀的遺傳改良提供了潛在的分子標誌。"
+  },
+  {
+   "doi": "10.3390/ani16213393",
+   "title": "RNA Modification Profiles and m6A Regulatory Patterns in the Lungs of Sheep at Different Altitudes",
+   "abstract": "The lung is a key organ for oxygen uptake and gas exchange and plays an important role in adaptation to hypoxic environments at high altitudes. RNA modifications represent an important layer of epitranscriptomic regulation and participate in cellular processes by affecting RNA stability, splicing, translation, and degradation. In this study, the right lung parenchyma from low-altitude Hu sheep (LL), mid-altitude Tibetan sheep (ML), and high-altitude Tibetan sheep (HL) were used to investigate altitude-associated RNA modification profiles and m6A regulatory patterns. A UPLC-MS/MS platform was employed to quantitatively detect 55 RNA modifications, while RT-qPCR and Western blot analyses were performed to evaluate the expression of HIF1α, HIF2α, and m6A-related regulatory factors. The results showed distinct differences in lung RNA modification profiles among the three groups. Compared with the LL and ML groups, the HL group exhibited reduced m6A and m6Am levels, whereas several non- m6A modifications, including t6A, m1G, m2G, m7G, m3C, and m5C, showed increasing trends. The expression levels of HIF1α and HIF2α were higher in the ML and HL groups than in the LL group. In addition, METTL3, METTL14, WTAP, and several YTH family reader proteins were downregulated in the HL group at both the protein and mRNA levels. These findings indicate that sheep lung RNA modification profiles and the m6A regulatory machinery differ among groups with different altitude-related adaptation backgrounds. Collectively, these findings reveal epitranscriptomic differences associated with altitude and breed in sheep lungs and provide a basis for further investigation of the role of m6A regulation in high-altitude adaptation.",
+   "authors": [
+    "Yan Lei",
+    "Chao Yuan",
+    "Bowen Chen",
+    "Tingting Guo",
+    "Fan Wang",
+    "Wenhao Li",
+    "Zengkui Lu",
+    "Jianbin Liu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213393",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 5.0,
+   "matched": [
+    "sheep"
+   ],
+   "abstract_zh": "肺臟是用於攝取氧氣與進行氣體交換的關鍵器官，並在適應高海拔低氧環境中扮演重要角色。RNA修飾代表了表觀轉錄體調控的重要層面，透過影響RNA的穩定性、剪接、轉譯與降解來參與細胞過程。本研究以低海拔湖羊（LL）、中海拔藏羊（ML）及高海拔藏羊（HL）的右肺實質為材料，探討與海拔高度相關的RNA修飾圖譜與m6A調控模式。採用UPLC-MS/MS平台定量檢測55種RNA修飾，並進行RT-qPCR與西方墨點法分析以評估HIF1α、HIF2α及m6A相關調控因子的表現量。結果顯示，三組間的肺部RNA修飾圖譜存在明顯差異。與LL組和ML組相比，HL組的m6A與m6Am水平均下降，而多種非m6A修飾（包含t6A、m1G、m2G、m7G、m3C及m5C）則呈現上升趨勢。ML組和HL組的HIF1α與HIF2α表現量高於LL組。此外，HL組的METTL3、METTL14、WTAP以及多種YTH家族讀取蛋白在蛋白質與mRNA水平均表現下調。這些結果表明，不同海拔適應背景的綿羊其肺部RNA修飾圖譜與m6A調控機制有所不同。綜上所述，這些發現揭示了綿羊肺部與海拔及品種相關的表觀轉錄體差異，並為進一步探討m6A調控在高海拔適應中的作用提供了基礎。"
+  },
+  {
+   "doi": "10.3390/ani16213384",
+   "title": "Influence of Donor Cells on the Efficiency of Cloned Ỉ Pig Production",
+   "abstract": "In this study, we investigated the effects of donor cell on the efficiency of producing cloned Ỉ pigs, an endangered Vietnamese breed. Cloned Ỉ pig embryos were generated using somatic cell nuclear transfer technology (SCNT). The results demonstrated that pregnancy, farrowing, and piglet production rates of Ỉ pig fibroblasts (ID:6004) at the 5th and 6th passages were significantly higher compared with those observed at the 4th and 7th passages. Under the conditions of this study, no significant effect of donor cell sex or cell lines on the efficiency of cloned Ỉ pig embryo transfer was observed. The pregnancy, farrowing, and piglet production rates did not differ significantly between donor cell groups of male and female origin (p &gt; 0.05). Similarly, no significant differences were observed in pregnancy rates, farrowing outcomes, or one-week survival of live cloned piglets among the three donor cell lines (IDs: 6004, 9154, and 9157) (p &gt; 0.05). These findings contribute to improving the efficiency of the somatic cell nuclear transfer (SCNT) technique in efforts to conserve the critically endangered Vietnamese Ỉ pig.",
+   "authors": [
+    "Au Thi Hoang",
+    "Vu Thi Thu Huong",
+    "Huu Xuan Quan",
+    "Hieu Trung Phan",
+    "Đat Van Le",
+    "Huong Thi Nguyen",
+    "Huong Le Thi Nguyen",
+    "Nhung Tuyet Thi Nguyen",
+    "Yen Kim Thi Pham",
+    "Duc Viet Phan",
+    "Van Anh Thi Nguyen",
+    "Nhien Thi Nguyen",
+    "Lan Doan Pham",
+    "Van Khanh Nguyen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213384",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 5.0,
+   "matched": [
+    "pig"
+   ],
+   "abstract_zh": "在這項研究中，我們探討了供體細胞對複製瀕危越南Ỉ豬效率的影響。複製Ỉ豬胚胎是利用體細胞核移植（SCNT）技術生產的。結果顯示，第5代與第6代Ỉ豬纖維母細胞（編號：6004）的妊娠率、分娩率和小豬產出率，顯著高於第4代與第7代。在本研究條件下，未觀察到供體細胞性別或細胞株對複製Ỉ豬胚胎移植效率有顯著影響。來自雄性與雌性來源的供體細胞組別在妊娠率、分娩率和小豬產出率上無顯著差異（p > 0.05）。同樣地，三個供體細胞株（編號：6004、9154和9157）在妊娠率、分娩結果或複製活小豬的一週存活率方面，亦未觀察到顯著差異（p > 0.05）。這些發現有助於提升體細胞核移植（SCNT）技術的效率，以用於保育極度瀕危的越南Ỉ豬。"
+  },
+  {
+   "doi": "10.3390/ani16213383",
+   "title": "Abortion Storms in Dromedary Camels: Causes, Pathogenesis, Risks, Diagnosis, and Control",
+   "abstract": "Abortion storms are a significant reproductive and economic challenge for dromedary camels, especially in the Arabian Peninsula and North Africa. They are characterized by an abrupt increase in pregnancy losses within a short period of time. The camel’s seasonal breeding pattern, which restricts opportunities for rebreeding within the same reproductive season, amplifies their impact. Abortion storms are multifactorial phenomena that arise from intricate relationships between infectious agents, host susceptibility, environmental factors, and management techniques. Bacterial pathogens like Brucella spp., Chlamydia abortus, and Coxiella burnetii, as well as protozoal infections like Trypanosoma evansi and Toxoplasma gondii are thought to be the main infectious causes. However, viral, fungal, nutritional, environmental, and management-related factors may also play a role. This narrative review addresses the biological mechanisms underlying herd-level outbreaks and summarizes the current understanding of the etiology, pathogenesis, and risk factors related to abortion storms in dromedary camels. Relevant literature was identified through structured searches of PubMed, Scopus, and Web of Science, supplemented by Google Scholar and reference-list screening, covering published evidence on abortion and abortion storms in dromedary camels. It offers helpful advice for field research, clinical assessment, sample collection, laboratory diagnosis, outbreak response, and long-term prevention in addition to addressing current diagnostic issues. In order to lessen the frequency and effects of abortion storms in camel populations, standardized diagnostic procedures, enhanced surveillance systems, and integrated herd health strategies are highlighted as key knowledge gaps and future research priorities.",
+   "authors": [
+    "Ahmed Ali",
+    "Derar R. Derar"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213383",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 5.0,
+   "matched": [
+    "breeding",
+    "nutrition"
+   ],
+   "abstract_zh": "單峰駱駝的流產風暴（abortion storms）是其繁殖與經濟上面臨的一大挑戰，尤其在阿拉伯半島和北非地區。其特徵為在短時間內妊娠損失急劇增加。駱駝具有季節性繁殖特性，限制了在同一繁殖季內重新配種的機會，因而放大了流產風暴的影響。流產風暴是多重因素造成的現象，源於傳染原、宿主易感性、環境因素與飼養管理技術之間的複雜關係。布魯氏菌（Brucella spp.）、流產衣原體（Chlamydia abortus）和Ｑ熱柯克斯體（Coxiella burnetii）等細菌病原體，以及伊氏錐蟲（Trypanosoma evansi）和弓蟲（Toxoplasma gondii）等原蟲感染，被認為是主要的感染性病因。然而，病毒、真菌、營養、環境及管理相關因素亦可能扮演一定角色。本篇敘述性文獻回顧探討了群體層級爆發背後的生物學機制，並總結了目前對單峰駱駝流產風暴之病因學、致病機轉與風險因子的理解。透過對 PubMed、Scopus 和 Web of Science 進行結構化檢索，並輔以 Google Scholar 與文獻清單篩選，識別出涵蓋單峰駱駝流產及流產風暴已發表證據的相關文獻。除了探討當前的診斷問題外，本文亦為實地研究、臨床評估、樣品採集、實驗室診斷、疫情應對及長期預防提供了實用的建議。為了降低駱駝族群中流產風暴的發生率與影響，本文強調標準化診斷程序、強化監測系統以及整合性牛（駱駝）群健康策略為關鍵的知識缺口與未來研究重點。"
   },
   {
    "doi": "10.1002/age.70207",
@@ -3013,20 +3225,28 @@
    "abstract_zh": "遺傳改良結合養豬生產的緊迫挑戰，會干擾母豬的體況，並可能損害後備母豬的免疫力與繁殖力。本研究旨在評估後備母豬在優飼期間餵食免疫調節性濃縮蛋白之生產與繁殖反應。試驗共使用196頭呈現第二次發情之後備母豬。採用完全隨機設計，設有兩個處理（0；40公克/天之免疫調節性濃縮蛋白），並按輕與重後備母豬進行逢機區集分配。收集生產與繁殖性能數據以及代謝參數，並進行變異數分析，顯著水準設為5%。經驗證，平均活仔豬體重存在處理×體重×批次的交互作用（p = 0.003）。餵食添加免疫調節性濃縮蛋白飼糧之後備母豬，其葡萄糖或三酸甘油酯參數無顯著差異（p > 0.05）。含40公克/天免疫調節性濃縮蛋白之優飼飼糧，並未造成現代輕與重後備母豬之體況或繁殖性能產生差異。因此，在所評估的營養條件下，補充免疫調節性濃縮蛋白並未改變各體重組別後備母豬的代謝圖譜。"
   },
   {
-   "doi": "10.1080/00071668.2026.2731577",
-   "title": "Effects of different laying management strategies on subsequent fear responses in aviary laying hens",
+   "doi": "10.1080/00439339.2026.2749768",
+   "title": "Effects of light, sound, vibration, and odour stimuli on incubation performance and chick quality in broilers and layers: a systematic review and meta-analysis",
    "abstract": "",
    "authors": [
-    "M. Petek",
-    "J. M. Siegford"
+    "Bruno Ferreira Machado",
+    "Paula Gabriela da Silva Pires",
+    "Gabriel da Silva Oliveira",
+    "Concepta McManus",
+    "Carlos Eduardo Bites Romanini",
+    "Betina Raquel Cunha dos Santos",
+    "Juahil Martins de Oliveira Junior",
+    "Ivan Bianchi",
+    "Fabiana Moreira",
+    "Vanessa Peripolli"
    ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2731577",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
+   "journal": "World's Poultry Science Journal",
+   "url": "https://doi.org/10.1080/00439339.2026.2749768",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
    "score": 4.0,
    "matched": [
-    "laying hen"
+    "broiler"
    ],
    "abstract_zh": ""
   },
@@ -3206,6 +3426,48 @@
     "genetic diversity"
    ],
    "abstract_zh": "人類活動造成的水文改變已深刻地改變了自然水文情勢，這被普遍認為是濕地生態系統中水鳥多樣性的關鍵驅動因素。然而，將水位與多維度水鳥多樣性及季節變化連結的路徑仍所知有限，從而限制了針對性的保育與永續的濕地管理。為了解決這些問題，本研究基於長江中下游平原石臼湖的年度調查數據，探討了水位對全年、越冬期和非越冬期等不同時期之水鳥分類、功能及演化多樣性的直接與間接影響。分段結構方程模型顯示，水位主要透過以當地棲地條件（包括水域面積與植被狀況）為中介的間接路徑來影響多維度水鳥多樣性。這些間接路徑的強度在越冬期與非越冬期之間有所不同。此外，廣義加法模型揭示了多維度水鳥多樣性對這些棲地變數具有季節差異的響應模式，這與水位受季節調節的影響一致。總體而言，我們的研究結果揭示了水鳥群落對水位變化的季節性差異響應。這些發現強調了在湖泊未來水庫建設後，需要進行具針對性且能因應季節變化的水文管理，並為石臼湖及類似濕地生態系統的水鳥保育提供實務指引。"
+  },
+  {
+   "doi": "10.3390/ani16213390",
+   "title": "Computer Vision-Based Characterization of Temporal Feeding Dynamic in Group-Housed Dairy Goats",
+   "abstract": "Feeding behavior is closely related to nutrient intake, health, and production performance, yet its temporal dynamics are difficult to quantify in group-housed dairy goats. We developed a computer vision-based framework to characterize feeding dynamics under commercial farm conditions. Video data were collected from 550 Guanzhong dairy goats housed in five pens over three consecutive days. YOLO11, RF-DETR, and RT-DETR were compared for feeding-area goat detection, and temporal feeding features were analyzed to characterize high feeding activity (HFA) and low feeding activity (LFA). In a subsequent recording phase, head-down feeding behavior was assessed in 150 goats originating from the classified source pens. A total of 24 of these goats (12 HFA and 12 LFA) were selected for exploratory milk-production and serum comparisons. RF-DETR showed the best overall detection performance, with a precision (P) of 87.39%, recall (R) of 84.00%, F1-score of 85.66%, mean average precision (mAP)@0.5 of 90.38%, and mAP@0.5:0.95 of 53.30%. Goats exhibited a “rapid entry–peak aggregation–gradual departure” feeding pattern after feed delivery. Among the temporal features, rise time of feeding-area goat count (RTFGC), fall time of feeding-area goat count (FTFGC), and feeding-area goat count increase rate (FGCIR) were the most informative features for distinguishing HFA from LFA. HFA goats reached peak feeding-area occupancy earlier, entered the feeding area at a higher rate, and maintained feeding activity for longer than LFA goats. HFA goats also showed higher head-down feeding proportions, greater average daily dry matter intake (DMI), and higher milk yield, as well as distinct serum immune, antioxidant, and neuroendocrine-related profiles. These findings indicate that feeding dynamics derived from video observations can provide a quantitative digital behavioral phenotype for characterizing individual differences in dairy goat feeding activity and their associations with production and physiological status.",
+   "authors": [
+    "Yifeng Song",
+    "Qier Mu",
+    "Na Liu",
+    "Yuan Wang",
+    "Junqing Guo",
+    "Jingwei Qi",
+    "Xiaoping An"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213390",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 3.0,
+   "matched": [
+    "goat"
+   ],
+   "abstract_zh": "採食行為與營養攝取、健康及生產性能密切相關，然而在群養乳山羊中，其時間動態難以量化。本研究開發了一個基於電腦視覺的框架，以表徵商業牧場條件下的採食動態。我們連續三天收集了 5 種欄舍中 550 隻關中乳山羊的影像數據。比較了 YOLO11、RF-DETR 與 RT-DETR 用於採食區山羊偵測的效能，並分析時間採食特徵以表徵高採食活動（HFA）與低採食活動（LFA）。在隨後的記錄階段，對來自已分類來源欄舍的 150 隻山羊進行低頭採食行為評估。從中選出共 24 隻山羊（12 隻 HFA 與 12 隻 LFA）進行探索性產奶量與血清學比較。RF-DETR 顯示出最佳的整體偵測效能，其準確率（precision, P）為 87.39%、召回率（recall, R）為 84.00%、F1 分數為 85.66%、平均精確度均值（mAP）@0.5 為 90.38%，且 mAP@0.5:0.95 為 53.30%。山羊在給料後表現出「快速進入－尖峰聚集－逐漸離開」的採食模式。在時間特徵中，採食區山羊數量上升時間（RTFGC）、採食區山羊數量下降時間（FTFGC）以及採食區山羊數量增加率（FGCIR）是用於區分 HFA 與 LFA 最具資訊量的特徵。與 LFA 山羊相比，HFA 山羊較早達到採食區佔有率峰值、以較高速率進入採食區，且維持採食活動的時間更長。HFA 山羊亦表現出較高的低頭採食比例、較高的平均每日乾物質採食量（DMI）與產奶量，以及截然不同的血清免疫、抗氧化與神經內分泌相關特徵譜。這些發現表明，源自影像觀測的採食動態可提供一個量化的數位行為表型，用於表徵乳山羊採食活動的個體差異及其與生產和生理狀態的關聯。"
+  },
+  {
+   "doi": "10.3390/ani16213386",
+   "title": "Association of Ruminal Volatile Fatty Acids with Average Daily Gain in Growing Sheep and Goats: A Systematic Review and Meta-Regression Analysis",
+   "abstract": "This study assessed how ruminal volatile fatty acid (VFA) biomarkers—acetic acid, propionic acid, the acetate-to-propionate ratio (A:P), and total VFA—relate to average daily gain (ADG) in growing sheep and goats, and their added predictive value over covariates. A systematic search identified 84 unique studies (290 treatment groups; complete data: 82 studies, 283 groups). Two analytic strategies were used: inverse-variance-weighted multilevel meta-regression and an unweighted mixed model, adjusting for dry matter intake, initial body weight, crude protein, neutral detergent fiber, and species. Under inverse-variance weighting with cluster-robust inference, acetic acid (β = 0.00088; robust p = 0.003), propionic acid (β = 0.00188; robust p &lt; 0.001), and total VFA (β = 0.00088; robust p &lt; 0.001) were positively related to ADG, whereas A:P was not significant (robust p = 0.074) and behaved inconsistently (p = 0.015). The mixed linear framework gave consistent results (marginal R2 = 0.610–0.642). Leave-one-out cross-validation showed propionic acid gave the largest predictive gain (overall ΔCV-R2 = 0.124, 95% CI 0.012–0.326; RMSE reduced 10.84%). In conclusion, acetic acid, propionic acid, and total VFA are robustly associated with ADG, but their incremental explanatory power is modest; propionic acid offers the largest cross-study predictive increment, whereas A:P is unreliable.",
+   "authors": [
+    "Youtong Huang",
+    "Aihong Lao",
+    "Fuquan Yin"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213386",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 3.0,
+   "matched": [
+    "sheep"
+   ],
+   "abstract_zh": "本研究評估了瘤胃揮發性脂肪酸（VFA）生物標記——乙酸、丙酸、乙酸與丙酸比值（A:P）及總 VFA——與生長期綿羊和山羊平均日增重（ADG）的關係，及其相較於共變數所增加的預測價值。透過系統性文獻檢索，共識別出 84 項獨立研究（290 個處理組；完整資料：82 項研究，283 個處理組）。本研究採用兩種分析策略：反變異數加權多層次統合迴歸以及未加權混合模型，並對乾物質攝取量、初始體重、粗蛋白質、中性洗劑纖維及物種進行調整。在具群聚穩健推論的反變異數加權下，乙酸（β = 0.00088；穩健 p = 0.003）、丙酸（β = 0.00188；穩健 p < 0.001）以及總 VFA（β = 0.00088；穩健 p < 0.001）與 ADG 呈顯著正相關，而 A:P 則無顯著相關（穩健 p = 0.074）且表現不一致（p = 0.015）。混合線性框架得出了一致的結果（邊際 R2 = 0.610–0.642）。留一法交叉驗證顯示，丙酸提供了最大的預測增益（整體 ΔCV-R2 = 0.124，95% CI 0.012–0.326；RMSE 降低 10.84%）。結論顯示，乙酸、丙酸和總 VFA 與 ADG 具有穩健的相關性，但其漸進解釋能力適中；丙酸可提供最大的跨研究預測增量，而 A:P 則不可靠。"
   },
   {
    "doi": "10.1080/00439339.2026.2731346",
@@ -3543,28 +3805,6 @@
    "abstract_zh": "具商業重要性的東南亞淡水物種──易危鯰魚黑翅琵琶魚（*Wallago attu*），因棲地退化與過漁而面臨族群數量下降。本研究首次記錄了黑翅琵琶魚在圓形產卵池之人工飼養條件下的求偶行為與催產。荷爾蒙催產係使用鮭魚促性腺激素釋放激素類似物與嗎酮之混合物（雌魚為 0.5 mL kg−1；雄魚為 0.2 mL kg−1）。雄魚展現出優勢的求偶行為，其特徵為具侵略性的追逐，並以 U 形身體纏繞雌魚腹部達 5.15 ± 0.17 秒，進而促成同步釋放配子。荷爾蒙給藥後的產卵潛伏期出現在 9 至 10 小時的時間範圍內。研究結果顯示，產卵後移除親魚可顯著提高受精率與孵化率，其百分比達 88.12 ± 0.26%，相較之下，含有親魚的水槽則為 67.78 ± 1.78%。此觀察結果暗示存在卵掠食現象。與水草相比，塑膠繩能作為有效的人工基質，提高受精率（86.42 ± 1.18%）與孵化率（89.28 ± 0.80%）。本文所呈現之發現為建立黑翅琵琶魚高效人工繁殖與孵化場操作規程奠定資訊基礎。此類操作規程將進一步支持該物種之保育及水產養殖的可持續發展。"
   },
   {
-   "doi": "10.3390/ani16213352",
-   "title": "Matrix Metalloproteinase-9 Concentration in Peritoneal Fluid of Horses with and Without Strongyle Infection",
-   "abstract": "Strongyle infections are common in horses and can cause clinically relevant disease, yet their associated inflammatory responses remain incompletely understood. Matrix metalloproteinase-9 (MMP-9), a key mediator of extracellular matrix degradation and inflammation, has been proposed as a biomarker in various equine diseases. This study investigated whether strongyle infection is associated with increased MMP-9 concentrations in equine peritoneal fluid (PF). A total of 83 horses presenting with colic, weight loss, or faecal water were included, and strongyle infection was determined semi-quantitatively by combined sedimentation–flotation. MMP-9 concentrations in non-anticoagulated and citrate-anticoagulated PF were measured using ELISA, and non-parametric statistical tests were applied. MMP-9 measurements in non-anticoagulated samples were strongly correlated with the values from citrate-anticoagulated samples. No significant differences in MMP-9 concentrations, total nucleated cell count (TNCC), total protein (TP) or lactate were observed between strongyle-positive and -negative horses, nor across faecal egg count categories. In contrast, MMP-9 concentrations showed significant positive correlations with inflammatory parameters, including TNCC and TP, irrespective of strongyle infection. These findings indicate that peritoneal MMP-9 reflects non-specific inflammatory processes rather than strongyle infection. The lack of association may also reflect limitations of faecal egg counts and sampling site, suggesting that PF is not optimal for detecting parasite-specific inflammation.",
-   "authors": [
-    "Kristina Kunze",
-    "Katharina Lisa Adamasky",
-    "Roswitha Merle",
-    "Georg von Samson-Himmelstjerna",
-    "Ina-Gabriele Richter",
-    "Heidrun Gehlen"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213352",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 2.0,
-   "matched": [
-    "disease"
-   ],
-   "abstract_zh": "圓柱線蟲感染在馬匹中很常見，且會引起臨床相關疾病，然而其相關的發炎反應仍尚未完全釐清。基質金屬蛋白酶-9（MMP-9）是細胞外基質降解和發炎反應的關鍵調節因子，已被提出可作為多種馬匹疾病的生物標記。本研究旨在探討圓柱線蟲感染是否與馬匹腹膜液（PF）中MMP-9濃度的升高有關。本研究共納入83匹呈現絞痛、體重減輕或糞便含水量異常的馬匹，並透過沉淀浮選法結合半定量方式判定圓柱線蟲感染。本研究使用ELISA測定未抗凝固與檸檬酸鹽抗凝固腹膜液中的MMP-9濃度，並應用無母數統計檢定。未抗凝固樣本中的MMP-9測定值與檸檬酸鹽抗凝固樣本的數值呈高度相關。圓柱線蟲陽性與陰性馬匹之間，以及不同糞便蟲卵數（FEC）分級之間，在MMP-9濃度、總有核細胞計數（TNCC）、總蛋白質（TP）或乳酸濃度方面均未觀察到顯著差異。相比之下，無論是否感染圓柱線蟲，MMP-9濃度皆與發炎參數（包括TNCC和TP）呈顯著正相關。這些發現表明，腹膜液中的MMP-9反映的是非特異性發炎過程，而非圓柱線蟲感染。缺乏相關性也可能反映了糞便蟲卵數與採樣部位的侷限性，這表明腹膜液並非檢測寄生虫特異性發炎的最佳檢體。"
-  },
-  {
    "doi": "10.3390/ani16213369",
    "title": "Performance of a Sensor-Based Health Monitoring System for the Detection of Clinical Mastitis in Dairy Cows",
    "abstract": "Mastitis is one of the most important production diseases in dairy farming and affects animal welfare, milk quality, and farm profitability. The use of automated health-monitoring systems has increased, and temperature-sensing reticular boluses are used to detect mastitis and other diseases or physiological responses. This study aimed to evaluate whether mastitis alerts generated by the smaXtec system are associated with subsequently diagnosed clinical mastitis under field conditions. An alert-based prospective case series was conducted on nine dairy farms in northern and western Germany. All cows receiving a smaXtec mastitis alert were included if a corresponding milk sample was available. Clinical examination, quarter milk sampling and microbiological analysis were performed. Among the 102 alerted cows, 40 were diagnosed with clinical mastitis within a 4-day observation period, with most of the cases being non-severe. This corresponded to a positive predictive value of 39.2%. We conclude that accelerometer- and temperature-based monitoring may support the detection of clinical mastitis, but this study showed limited diagnostic value under practical field conditions, when used as a stand-alone tool.",
@@ -3585,27 +3825,6 @@
     "disease"
    ],
    "abstract_zh": "乳房炎是乳牛養殖中最重要的生產疾病之一，會影響動物福利、乳品品質以及牧場獲利能力。自動化健康監測系統的使用日益普及，其中感溫網胃膠囊已被用於偵測乳房炎及其他疾病或生理反應。本研究旨在評估在實場飼養條件下，由 smaXtec 系統產生的乳房炎警報是否與隨後診斷出的臨床型乳房炎有關。本研究於德國北部和西部的九個乳牛場進行以警報為基礎的前瞻性病例系列研究。所有收到 smaXtec 乳房炎警報且有對應乳樣可用的乳牛皆被納入研究。進行了臨床檢查、分房乳樣採集與微生物學分析。在 102 頭收到警報的乳牛中，有 40 頭在 4 天的觀察期內被診斷出罹患臨床型乳房炎，其中多數病例為非嚴重型。這相當於 39.2% 的陽性預測值。我們得出結論，基於加速度計與溫度感測的監測有助於臨床型乳房炎的偵測，但本研究顯示，當其作為單一獨立工具應用於實際牧場環境時，其診斷價值有限。"
-  },
-  {
-   "doi": "10.3390/ani16213359",
-   "title": "Modulatory Effects of Water Extract from Eleutherine americana on Intestinal Health: Insights from Growth, Morphology, Microbiota and Metabolomics in Plectropomus leopardus",
-   "abstract": "This study evaluated dietary Eleutherine americana water extract (EAW, 0 [NC], 1 [LD], 5 [MD], and 10 [HD] mL/kg) in 480 juvenile leopard coral grouper (Plectropomus leopardus; initial body weight, 11.72 ± 0.34 g) over 8 weeks, with four replicate tanks of 30 fish per treatment. EAW did not significantly improve growth performance, but survival was higher in MD and HD than in NC (p &lt; 0.05). Histological observations indicated more intact mucosal folds, greater crypt depth, and higher goblet-cell counts. Metabolomic analysis showed lower carnitine levels and higher phospholipid and prostaglandin metabolites, with annotated differences in bile acid biosynthesis, amino acid metabolism, and carbon metabolism pathways. Intestinal microbiota profiles showed lower relative abundances of Pseudomonadota and Basidiomycota in EAW groups, lower Actinomycetota in LD and MD, and higher Bacteroidota and Bacillota in MD. At the genus level, Bradyrhizobium, Microbacterium, and Sphingobium abundances were lower, and Afipia abundance was higher, in EAW groups. Functional profiles varied in carbohydrate, amino acid, and lipid metabolism categories. Microbiota–metabolite correlation networks identified Pseudomonadota, Actinomycetota, hexosylceramides, and carnitines as highly connected features. Network pharmacology identified pdgfra, pdgfrb, and sirt1 as candidate targets of the major EAW components eleutherol, eleutherin, and isoeleutherin. The survival and intestinal findings support further evaluation of EAW as a feed additive for intestinal health in leopard coral grouper.",
-   "authors": [
-    "Hongbiao Dong",
-    "Xiangbing Zeng",
-    "Yongchao Hu",
-    "Xiaoting Zheng",
-    "Jiasong Zhang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213359",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 2.0,
-   "matched": [
-    "amino acid"
-   ],
-   "abstract_zh": "本研究評估在為期 8 週的實驗中，於 480 尾幼斑點星斑（Plectropomus leopardus；初始體重 11.72 ± 0.34 公克）的飼料中添加不同劑量的黃莫地黃水萃取物（EAW，分別為 0 [NC]、1 [LD]、5 [MD] 及 10 [HD] mL/kg），每組設有 4 個重複水槽，每槽 30 尾魚。結果顯示，EAW 未顯著改善生長效能，但 MD 組與 HD 組的存活率高於 NC 組（p < 0.05）。組織學觀察顯示，EAW 組具有更完整的黏膜皺褶、更大的隱窩深度以及較高的杯狀細胞數量。代謝體學分析顯示，EAW 組的肉鹼（carnitine）濃度較低，而磷脂質與前列腺素代謝物較高，並在膽酸生合成、胺基酸代謝及碳代謝途徑中呈現註解差異。腸道微生物相分析顯示，EAW 組的變形菌門（Pseudomonadota）與擔子菌門（Basidiomycota）相對豐度較低，LD 組與 MD 組的放線菌門（Actinomycetota）相對豐度較低，而 MD 組的擬桿菌門（Bacteroidota）與厚壁菌門（Bacillota）相對豐度較高。在屬的層級上，EAW 組的慢生根瘤菌屬（Bradyrhizobium）、微桿菌屬（Microbacterium）及鞘脂單胞菌屬（Sphingobium）豐度較低，而阿菲波菌屬（Afipia）豐度較高。功能性預測顯示其在碳水化合物、胺基酸及脂質代謝等類別有所差異。微生物相與代謝物相關性網路識別出變形菌門、放線菌門、己糖神經醯胺（hexosylceramides）與肉鹼為高度連接的特徵。網路藥理學識別出 pdgfra、pdgfrb 及 sirt1 為 EAW 主要成分（番紅花素酮 [eleutherol]、黃莫地黃素 [eleutherin] 及異黃莫地黃素 [isoeleutherin]）的候選標靶。本研究在存活率與腸道方面的發現，支持進一步評估 EAW 作為斑點星斑腸道健康飼料添加劑的潛力。"
   },
   {
    "doi": "10.3390/ani16213355",
@@ -3631,6 +3850,68 @@
     "breeding"
    ],
    "abstract_zh": "圈養繁殖計畫對於保育瀕危鮭科魚類 *Salmo carpio* 至關重要。然而，標準的人工孵化場作業依賴人工擠卵，其對該魚種之生殖生理與福利的影響尚所知有限。本先期研究探討了圈養雌性 *S. carpio* 對人工擠卵的生理與生殖反應。將四十五尾成熟雌魚分為三組：擠卵前（PRE）、擠卵後 1 天（POST1）以及擠卵後 21 天（POST21）。評估血漿中 17β-雌二醇、睪固酮、黃體素、皮質醇、葡萄糖的濃度，以及抗氧化酶活性（超氧化物歧化酶 SOD、過氧化氫酶 CAT、穀胱甘肽過氧化物酶 GPx），並同時進行卵巢組織學分析。儘管對循環類固醇或葡萄糖濃度未檢測到影響，但與 PRE 和 POST1 魚隻相比，POST21 雌魚顯現出顯著較高的皮質醇以及增加的 SOD 與 CAT 活性（p < 0.05）；而與 PRE 相比，POST1 與 POST21 均顯示出較高的 GPx 活性，這表明在擠卵事件後，壓力反應與氧化挑戰具有延遲調控的特性。卵巢組織學未顯示出明顯的組織病理學改變。PRE 組卵巢的特徵為存在初級生長卵母細胞和三級卵黃生成期卵母細胞。在所有實驗組中皆識別出初級生長卵母細胞。在 POST1 觀察到次級卵黃生成期卵母細胞，伴隨排卵後濾泡與閉鎖卵母細胞。在 POST21，組織學檢查顯示有初級生長和早期卵黃生成期卵母細胞，同時肉眼亦可辨識出成熟卵母細胞，支持了在生殖季節期間卵巢生殖活動的持續性。總體而言，雌魚在所檢測的期間內維持了卵巢活動，而在 POST21 組中觀察到產卵後恢復期間的延遲性全身性壓力。因此，種魚管理應包含足夠的恢復期並減少操作，以維護其動物福利與生殖表現。"
+  },
+  {
+   "doi": "10.3390/ani16213352",
+   "title": "Matrix Metalloproteinase-9 Concentration in Peritoneal Fluid of Horses with and Without Strongyle Infection",
+   "abstract": "Strongyle infections are common in horses and can cause clinically relevant disease, yet their associated inflammatory responses remain incompletely understood. Matrix metalloproteinase-9 (MMP-9), a key mediator of extracellular matrix degradation and inflammation, has been proposed as a biomarker in various equine diseases. This study investigated whether strongyle infection is associated with increased MMP-9 concentrations in equine peritoneal fluid (PF). A total of 83 horses presenting with colic, weight loss, or faecal water were included, and strongyle infection was determined semi-quantitatively by combined sedimentation–flotation. MMP-9 concentrations in non-anticoagulated and citrate-anticoagulated PF were measured using ELISA, and non-parametric statistical tests were applied. MMP-9 measurements in non-anticoagulated samples were strongly correlated with the values from citrate-anticoagulated samples. No significant differences in MMP-9 concentrations, total nucleated cell count (TNCC), total protein (TP) or lactate were observed between strongyle-positive and -negative horses, nor across faecal egg count categories. In contrast, MMP-9 concentrations showed significant positive correlations with inflammatory parameters, including TNCC and TP, irrespective of strongyle infection. These findings indicate that peritoneal MMP-9 reflects non-specific inflammatory processes rather than strongyle infection. The lack of association may also reflect limitations of faecal egg counts and sampling site, suggesting that PF is not optimal for detecting parasite-specific inflammation.",
+   "authors": [
+    "Kristina Kunze",
+    "Katharina Lisa Adamasky",
+    "Roswitha Merle",
+    "Georg von Samson-Himmelstjerna",
+    "Ina-Gabriele Richter",
+    "Heidrun Gehlen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213352",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 2.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": "圓柱線蟲感染在馬匹中很常見，且會引起臨床相關疾病，然而其相關的發炎反應仍尚未完全釐清。基質金屬蛋白酶-9（MMP-9）是細胞外基質降解和發炎反應的關鍵調節因子，已被提出可作為多種馬匹疾病的生物標記。本研究旨在探討圓柱線蟲感染是否與馬匹腹膜液（PF）中MMP-9濃度的升高有關。本研究共納入83匹呈現絞痛、體重減輕或糞便含水量異常的馬匹，並透過沉淀浮選法結合半定量方式判定圓柱線蟲感染。本研究使用ELISA測定未抗凝固與檸檬酸鹽抗凝固腹膜液中的MMP-9濃度，並應用無母數統計檢定。未抗凝固樣本中的MMP-9測定值與檸檬酸鹽抗凝固樣本的數值呈高度相關。圓柱線蟲陽性與陰性馬匹之間，以及不同糞便蟲卵數（FEC）分級之間，在MMP-9濃度、總有核細胞計數（TNCC）、總蛋白質（TP）或乳酸濃度方面均未觀察到顯著差異。相比之下，無論是否感染圓柱線蟲，MMP-9濃度皆與發炎參數（包括TNCC和TP）呈顯著正相關。這些發現表明，腹膜液中的MMP-9反映的是非特異性發炎過程，而非圓柱線蟲感染。缺乏相關性也可能反映了糞便蟲卵數與採樣部位的侷限性，這表明腹膜液並非檢測寄生虫特異性發炎的最佳檢體。"
+  },
+  {
+   "doi": "10.3390/ani16213359",
+   "title": "Modulatory Effects of Water Extract from Eleutherine americana on Intestinal Health: Insights from Growth, Morphology, Microbiota and Metabolomics in Plectropomus leopardus",
+   "abstract": "This study evaluated dietary Eleutherine americana water extract (EAW, 0 [NC], 1 [LD], 5 [MD], and 10 [HD] mL/kg) in 480 juvenile leopard coral grouper (Plectropomus leopardus; initial body weight, 11.72 ± 0.34 g) over 8 weeks, with four replicate tanks of 30 fish per treatment. EAW did not significantly improve growth performance, but survival was higher in MD and HD than in NC (p &lt; 0.05). Histological observations indicated more intact mucosal folds, greater crypt depth, and higher goblet-cell counts. Metabolomic analysis showed lower carnitine levels and higher phospholipid and prostaglandin metabolites, with annotated differences in bile acid biosynthesis, amino acid metabolism, and carbon metabolism pathways. Intestinal microbiota profiles showed lower relative abundances of Pseudomonadota and Basidiomycota in EAW groups, lower Actinomycetota in LD and MD, and higher Bacteroidota and Bacillota in MD. At the genus level, Bradyrhizobium, Microbacterium, and Sphingobium abundances were lower, and Afipia abundance was higher, in EAW groups. Functional profiles varied in carbohydrate, amino acid, and lipid metabolism categories. Microbiota–metabolite correlation networks identified Pseudomonadota, Actinomycetota, hexosylceramides, and carnitines as highly connected features. Network pharmacology identified pdgfra, pdgfrb, and sirt1 as candidate targets of the major EAW components eleutherol, eleutherin, and isoeleutherin. The survival and intestinal findings support further evaluation of EAW as a feed additive for intestinal health in leopard coral grouper.",
+   "authors": [
+    "Hongbiao Dong",
+    "Xiangbing Zeng",
+    "Yongchao Hu",
+    "Xiaoting Zheng",
+    "Jiasong Zhang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213359",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 2.0,
+   "matched": [
+    "amino acid"
+   ],
+   "abstract_zh": "本研究評估在為期 8 週的實驗中，於 480 尾幼斑點星斑（Plectropomus leopardus；初始體重 11.72 ± 0.34 公克）的飼料中添加不同劑量的黃莫地黃水萃取物（EAW，分別為 0 [NC]、1 [LD]、5 [MD] 及 10 [HD] mL/kg），每組設有 4 個重複水槽，每槽 30 尾魚。結果顯示，EAW 未顯著改善生長效能，但 MD 組與 HD 組的存活率高於 NC 組（p < 0.05）。組織學觀察顯示，EAW 組具有更完整的黏膜皺褶、更大的隱窩深度以及較高的杯狀細胞數量。代謝體學分析顯示，EAW 組的肉鹼（carnitine）濃度較低，而磷脂質與前列腺素代謝物較高，並在膽酸生合成、胺基酸代謝及碳代謝途徑中呈現註解差異。腸道微生物相分析顯示，EAW 組的變形菌門（Pseudomonadota）與擔子菌門（Basidiomycota）相對豐度較低，LD 組與 MD 組的放線菌門（Actinomycetota）相對豐度較低，而 MD 組的擬桿菌門（Bacteroidota）與厚壁菌門（Bacillota）相對豐度較高。在屬的層級上，EAW 組的慢生根瘤菌屬（Bradyrhizobium）、微桿菌屬（Microbacterium）及鞘脂單胞菌屬（Sphingobium）豐度較低，而阿菲波菌屬（Afipia）豐度較高。功能性預測顯示其在碳水化合物、胺基酸及脂質代謝等類別有所差異。微生物相與代謝物相關性網路識別出變形菌門、放線菌門、己糖神經醯胺（hexosylceramides）與肉鹼為高度連接的特徵。網路藥理學識別出 pdgfra、pdgfrb 及 sirt1 為 EAW 主要成分（番紅花素酮 [eleutherol]、黃莫地黃素 [eleutherin] 及異黃莫地黃素 [isoeleutherin]）的候選標靶。本研究在存活率與腸道方面的發現，支持進一步評估 EAW 作為斑點星斑腸道健康飼料添加劑的潛力。"
+  },
+  {
+   "doi": "10.1080/00439339.2026.2749807",
+   "title": "Part 2: precision nutrition targeting the gut barrier–nutrient transporter interface under heat stress in poultry",
+   "abstract": "",
+   "authors": [
+    "Nursultan Arapbai Uulu",
+    "Gozde Erek",
+    "Kazim Sahin"
+   ],
+   "journal": "World's Poultry Science Journal",
+   "url": "https://doi.org/10.1080/00439339.2026.2749807",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 2.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1186/s40104-026-01506-8",
@@ -3940,6 +4221,105 @@
     "bovine"
    ],
    "abstract_zh": "牛子宮頸會經歷內分泌依賴性的生理變化，這些變化可能會影響局部的免疫活性，並使子宮頸發炎的判讀變得複雜。本研究評估了分娩後放牧乳牛的巨觀子宮頸外觀、子宮頸嗜中性球浸潤、繁殖階段以及子宮內膜炎之間的關係。選取泌乳天數 $\\ge$ 45 天、未懷孕的荷斯登 $\\times$ 澤西混種泌乳牛（$n = 80$），進行繁殖檢查、子宮頸視訊內視鏡檢查、超音波檢查、子宮頸與子宮內膜細胞學檢查，以及血清黃體素測定。巨觀子宮頸外觀分為 C0、C1 或 C2 型，而子宮頸多形核嗜中性球（PMN）百分比則作為主要的比例結果，以校正的分數邏輯斯迴歸（fractional logistic regression）進行分析。次要分析則採用 $\\ge$ 5% 的子宮頸 PMN 閾值作為操作性定義。C0、C1 和 C2 型的發生率分別為 30.0%、50.0% 和 20.0%，且有 20.0% 的牛隻子宮頸 PMN $\\ge$ 5%。巨觀子宮頸外觀與子宮頸 PMN 百分比（$p = 0.931$）或子宮頸 PMN $\\ge$ 5%（$p = 1.000$）無顯著關聯。濾泡期牛隻的子宮頸 PMN 百分比高於黃體期牛隻（$p < 0.001$）。在使用分數邏輯斯迴歸校正胎次與細胞學子宮內膜炎後，此關聯仍然存在（$\\beta = 2.42$；95% 信賴區間，0.81–4.03；$p = 0.003$），校正後的邊際差為 10.48 個百分點（95% 信賴區間，1.42–19.54；$p = 0.023$）。補充性的兩部分分析支持此關聯，顯示在濾泡期期間，可偵測到子宮頸 PMN 的勝算較高（勝算比 $\\text{OR} = 4.71$；95% 信賴區間，1.73–12.82；$p = 0.002$），且在陽性觀察值中的平均 PMN 比例也較高（平均比值 $= 4.11$；95% 信賴區間，1.40–12.06；$p = 0.010$）。在次要的佛斯懲罰邏輯斯迴歸（Firth penalized logistic regression）中，濾泡期仍與子宮頸 PMN $\\ge$ 5% 相關（校正勝算比 $\\text{aOR} = 5.38$；95% 信賴區間，1.39–20.83；$p = 0.015$）。子宮頸與子宮內膜的 PMN 百分比呈微弱的正相關（$\\rho = 0.240$；$p = 0.033$），而子宮頸 PMN $\\ge$ 5% 與細胞學子宮內膜炎之間的一致性有限（$\\kappa = 0.258$）。子宮頸嗜中性球浸潤與細胞學子宮內膜炎皆與隨後的妊娠無顯著關聯，而血清黃體素濃度則與妊娠呈現探索性的正相關。子宮頸嗜中性球浸潤與繁殖階段相關，此關係獨立於胎次與細胞學子宮內膜炎之外，且不依賴未經驗證的診斷閾值。因此，子宮頸細胞學檢查結果應在乳牛的繁殖與生理脈絡下進行判讀。"
+  },
+  {
+   "doi": "10.3390/ani16213395",
+   "title": "Predicting the Dietary Metabolizable Energy and Crude Protein Levels of 1- to 70-Day-Old Hy-Line Brown Male Chicks Using Response Surface Methodology and Artificial Neural Network Models",
+   "abstract": "To determine dietary metabolizable energy (ME) and crude protein (CP) levels of Hy-Line Brown male chicks and compare response surface methodology (RSM) with artificial neural network (ANN) modeling, a total of 2160 birds were assigned to a 4 × 3 factorial design with three growth stages. Both RSM and ANN were fitted to predict body weight gain (BWG) and feed-to-gain ratio (F/G), with performance evaluated via LOOCV, leave-2-treatments-out validation, and bootstrap resampling. The 22–56-day stage yielded the best model performance overall. For F/G, both models achieved strong and comparable fit (in-sample R2 ≈ 0.86–0.88; LOOCV retention ≈ 97%), and both remained predictive under leave-2-treatments-out validation (RSM R2 = 0.72, ANN R2 = 0.45). For BWG, model performance was weaker, and ANN’s apparent in-sample advantage over RSM (R2 = 0.585 vs. 0.388 at 22–56 d) did not hold under leave-2-treatments-out validation (ANN R2 = −12.7 vs. RSM R2 = −0.24). Lastly, multi-objective optimization combining both models predicted stage-specific nutrient combinations. The results of this study provide empirical support and a methodological reference for establishing stage-specific nutritional standards for Hy-Line Brown male chicks.",
+   "authors": [
+    "Heng Zhang",
+    "Xiangyu Zhang",
+    "Peipei Yan",
+    "Kun Zhang",
+    "Xuelan Liu",
+    "Chunyan Fu",
+    "Qingtao Gao",
+    "Yan Shang",
+    "Xia Li",
+    "Tianhong Shi"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213395",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 1.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": "為測定海蘭褐（Hy-Line Brown）公雏之日糧代謝能（ME）與粗蛋白（CP）需量，並比較反應面法（RSM）與人工神經網路（ANN）之建模效果，本研究將 2160 隻雛鳥依 4 × 3 因子設計分配至三個生長期。同時擬合 RSM 與 ANN 以預測體重增量（BWG）與料肉比（F/G），並透過留一法交叉驗證（LOOCV）、留二處理交叉驗證及拔靴重抽法（bootstrap resampling）評估其效能。22–56 日齡階段之整體模型表現最佳。在 F/G 方面，兩者皆達到強大且相當的擬合度（樣本內 $R^2 \\approx 0.86\\text{–}0.88$；LOOCV 保留率 $\\approx 97\\%$），且在留二處理交叉驗證下仍具預測力（RSM $R^2 = 0.72$、ANN $R^2 = 0.45$）。在 BWG 方面，模型表現較弱，且 ANN 在 22–56 日齡時相對於 RSM 的明顯樣本內優勢（$R^2 = 0.585$ 對 $0.388$）在留二處理交叉驗證中並不成立（ANN $R^2 = -12.7$ 對 RSM $R^2 = -0.24$）。最後，結合兩者之多目標最佳化預測出各生長階段之營養素組合。本研究結果為建立海蘭褐公雛分階段營養標準提供了實證支持與方法學參考。"
+  },
+  {
+   "doi": "10.3390/ani16213391",
+   "title": "In Vitro Functional Characterization of the -143A&gt;C Variant in the Porcine DLD Promoter and Its Modulation of KLF2-Dependent Repression and Myoblast Phenotypes",
+   "abstract": "Meat quality in pigs is fundamentally shaped by the relative abundance and metabolic properties of distinct skeletal muscle fiber types. Dihydrolipoyl dehydrogenase (DLDH), an indispensable catalytic subunit of mitochondrial dehydrogenase complexes, has been documented to link with myocyte development; nevertheless, the effects of the causal regulatory variants governing transcription of its encoding gene DLD on the myogenic fate remain largely uncharacterized. In this study, comparative polymorphism analysis between Large White and Min pigs uncovered a regulatory single nucleotide polymorphism (SNP) at position -143A&gt;C within the porcine DLD promoter. Mechanistic dissection using dual-luciferase reporter, electrophoretic mobility shift, and chromatin immunoprecipitation assays revealed that the C allele strengthens Krüppel-like factor 2 (KLF2) DNA-binding affinity and potentiates KLF2-mediated transcriptional repression, leading to significantly reduced DLD expression. Functional characterization in porcine primary myoblasts demonstrated that DLD promotes myoblast proliferation by accelerating G2/M transition and upregulating cell-cycle regulators while suppressing terminal differentiation. Furthermore, DLD overexpression inhibited slow-twitch (myosin heavy chain (MYH) 7-positive) myogenic differentiation and suppressed the expression of myogenic regulatory factors MYOD and MYOG, whereas DLD knockdown produced converse effects. Taken together, these multiple lines of evidence suggest that the −143 A&gt;C variant may reinforce transcriptional repression of DLD by increasing KLF2-binding occupancy. Because reduced DLD expression favors MYH7-positive myotube formation in our myoblast assays, this variant is hypothesized to influence myotube subtype balance. These findings may provide a potential molecular mechanism contributing to pork-quality variation and suggest the −143 A&gt;C variant on the DLD promoter as a candidate marker for future genomic-selection studies.",
+   "authors": [
+    "Mengke Song",
+    "Rongru Zhu",
+    "Wentao Wang",
+    "Yuanlu Sun",
+    "Xiaomei Ma",
+    "Siqi Yang",
+    "Ming Tian",
+    "Xinmiao He",
+    "Bohan Rong",
+    "Xiuqin Yang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213391",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 1.0,
+   "matched": [
+    "meat quality"
+   ],
+   "abstract_zh": "豬隻的肉質主要取決於不同骨骼肌纖維類型的相對豐度與代謝特性。二氫硫辛酸脫氫酶（Dihydrolipoyl dehydrogenase, DLDH）作為粒線體脫氫酶複合體中不可或缺的催化次單位，已被記錄與肌細胞發育有關；然而，調控其編碼基因 *DLD* 轉錄之因果調節變異對肌源性命運的影響仍屬未知。在本研究中，對大白豬與版納微型豬進行比較多型性分析，在豬 *DLD* 啟動子上游 -143A>C 的位置發現了一個調節性單核苷酸多型性（SNP）。利用雙螢光素酶報導基因、電泳遷移率遲滯及染色質免疫沉澱分析等機轉解析顯示，C 等位基因增強了 Krüppel 樣因子 2（KLF2）的 DNA 結合親和力，並促進 KLF2 媒介的轉錄抑制，導致 *DLD* 表現量顯著降低。對豬原代成肌細胞的功能特性分析表明，DLD 透過加速 G2/M 期轉換和上調細胞週期調節因子來促進成肌細胞增殖，同時抑制終末分化。此外，DLD 過表現抑制了慢肌（肌球蛋白重鏈（MYH）7 陽性）肌源性分化，並抑制了肌源性調節因子 MYOD 和 MYOG 的表現，而 DLD 基因靜默則產生相反的效果。綜上所述，這些多重證據表明 -143 A>C 變異可能透過增加 KLF2 的結合佔有率，來強化 *DLD* 的轉錄抑制。由於在本研究的成肌細胞實驗中，*DLD* 表現量的降低有利於 MYH7 陽性肌管的形成，因此推測此變異會影響肌管亞型的平衡。這些發現可能為豬肉品質差異提供潛在的分子機制，並指出 *DLD* 啟動子上的 -143 A>C 變異可作為未來基因體選擇研究的候選標記。"
+  },
+  {
+   "doi": "10.3390/ani16213387",
+   "title": "Climate-Driven Changes in the Habitat Suitability and Potential Co-Occurrence of Daurian Ground Squirrels and Pikas in Inner Mongolia: Implications for Brucellosis Surveillance",
+   "abstract": "Where a multi-host pathogen can circulate depends on where its hosts overlap, not on any single host’s range, yet climate-change projections for zoonoses rarely model two hosts jointly or test how a warming signal is channeled toward their overlap. We addressed this gap for brucellosis, which remains endemic across the pastoral landscapes of Inner Mongolia, China, by building ENMeval-optimized MaxEnt niche models for two candidate sylvatic hosts (infection of which with Brucella in this region has not been established), the Daurian ground squirrel (Spermophilus dauricus, n = 620) and the Daurian pika (Ochotona dauurica, n = 17, with a three-method variable-screening pipeline and small-sample controls), projecting both onto current climate and eight CMIP6 scenarios (SSP1-2.6/2-4.5/3-7.0/5-8.5 × 2050s/2070s; validation AUC = 0.808 for the squirrel and 0.940 for the pika), combining them into a joint host co-occurrence index (JCI) that describes potential habitat overlap rather than disease risk, and fitting a path model that describes how climate anomaly relates to each host’s suitability and to the JCI. The two hosts diverge sharply: by the 2070s, suitable habitat contracts by 9.6–84.3% for the generalist ground squirrel but by &gt;99.9% for the pika under the fitted model, whose projected collapse follows from a threshold in mean wettest-quarter temperature (≈18–19 °C) that is exceeded almost everywhere in the future; this loss is robust to occurrence filtering, regularization, binary thresholds and a second climate model but depends on the temperature variable and on climates beyond those sampled by the 17 records. This asymmetry carries over to the overlap: the current 66,737 km2 zone where both hosts co-occur shrinks by &gt;99.9% under six of eight future scenarios, a collapse that is robust to how the joint index is constructed (geometric mean, minimum, or arithmetic mean all show the same pattern). The path model shows that climate anomaly is the better linear predictor of the squirrel’s own habitat trajectory (standardized β = −0.195 vs. −0.059 for the pika), whereas the pika’s habitat change has nearly double the standardized association with JCI change (β = 0.635 vs. 0.324); the latter association is largely a mathematical consequence of how the JCI is constructed, and under spatially corrected estimation, the climate effect on pika suitability is statistically indistinguishable from zero (95% CI −0.305 to 0.184). An exploratory next-generation-matrix calculation with uncalibrated parameters shows the same direction of change under most parameter combinations (the area with R0 &gt; 1 declines under all but one) but is sensitive to its assumptions and is not a validated epidemiological prediction. These results identify the pika as the more informative indicator of change in host overlap for ecological monitoring; whether it matters more for brucellosis maintenance or spillover is unknown and requires serological, abundance and contact-rate data. The approach offers a reproducible template (joint niche modeling coupled to path analysis and exploratory transmission-threshold modeling) for exploring multi-host co-occurrence under climate change beyond this system.",
+   "authors": [
+    "Haiyan Jiang",
+    "Nan Yang",
+    "Jinyang Dong",
+    "Liyan Zhang",
+    "Liqiong Yan",
+    "Xiaoli Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213387",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": "多宿主病原體能夠傳播的區域取決於其宿主的重疊範圍，而非單一宿主的棲息範圍；然而，針對人畜共通傳染病的氣候變遷預測，極少同時對兩個宿主進行聯合建模，亦少測試暖化訊號如何引導至其重疊區域。本研究填補了此一知識缺口以探討布魯氏菌病（brucellosis），該病目前在中國內蒙古的牧區仍屬地方性流行。我們為兩個候選野生宿主（該區域內布魯氏菌對此二者的感染尚未確立）建立經 ENMeval 優化的 MaxEnt 生態棲位模型：達烏爾黃鼠（*Spermophilus dauricus*，n = 620）與達烏爾鼠兔（*Ochotona dauurica*，n = 17，採用三種方法的變數篩選流程及小樣本控制）；將兩者投影至當代氣候及八種 CMIP6 情境（SSP1-2.6/2-4.5/3-7.0/5-8.5 × 2050年代/2070年代；黃鼠驗證 AUC = 0.808，鼠兔驗證 AUC = 0.940）；將其結合成描述潛在棲息地重疊而非疾病風險的聯合宿主共存指數（JCI）；並配適一條徑路模型，用以描述氣候異常如何與各宿主的適宜性及 JCI 產生關聯。這兩個宿主出現顯著分歧：在配適模型下，至 2070 年代，廣布型的黃鼠其適宜棲息地縮減了 9.6–84.3%，而鼠兔的縮減幅度則超過 99.9%。鼠兔預期中的崩解源自於最濕季平均溫度的閾值（約 18–19 °C），該閾值在未來幾乎全面被超越；此種棲息地喪失對出現紀錄篩選、正則化、二元閾值以及第二個氣候模型具備穩健性，但取決於溫度變數以及超出 17 筆紀錄取樣範圍的氣候條件。這種不對稱性延伸至重疊區域：目前兩宿主共存達 66,737 平方公里的區域，在八個未來情境中的六個下縮減超過 99.9%，此崩解現象對聯合指數的建構方式（幾何平均數、最小值或算術平均數均顯示相同模式）具備穩健性。徑路模型顯示，氣候異常是黃鼠自身棲息地軌跡較佳的線性預測因子（標準化 β = −0.195，相較於鼠兔的 −0.059），而鼠兔的棲息地變化與 JCI 變化的標準化關聯性則接近兩倍（β = 0.635 相較於 0.324）；後者的關聯性在很大程度上是 JCI 建構方式的數學結果，且在空間校正估計下，氣候對鼠兔適宜性的影響在統計學上與零無顯著差異（95% 信賴區間為 −0.305 至 0.184）。使用未校準參數進行的探索性世代交替矩陣（next-generation matrix）計算，在多數參數組合下顯示出相同的變化方向（$R_0 > 1$ 的區域在除了一種情況外均呈現下降），但對其假設敏感，且並非經過驗證的流行病學預測。這些結果指出，鼠兔是生態監測中反映宿主重疊變化的更具資訊性之指標；其對於布魯氏菌病的維持或溢出是否更為重要則屬未知，尚需血清學、族群豐度及接觸率數據。本方法提供了一個可重複使用的模板（結合生態棲位聯合建模、徑路分析與探索性傳播閾值建模），用以探討此系統以外氣候變遷下的多宿主共存。"
+  },
+  {
+   "doi": "10.3390/ani16213377",
+   "title": "Dietary Ursolic Acid Supplementation Induces Beneficial Changes in Skeletal Muscle mRNA Expression and Improves Functional Mobility in Older Cats with Sarcopenia: A Proof-of-Concept Study",
+   "abstract": "Cats frequently lose mobility when they become older, ill, or injured, leading to additional impairments in health and quality of life. To help address this problem, a dietary supplement for cats containing ursolic acid was tested. Ursolic acid is a natural dietary compound that promotes muscle health and mobility in several non-feline species. A 60-day proof-of-concept efficacy study of ursolic acid dietary supplementation was conducted in older domestic shorthair cats with sarcopenia (age-related skeletal muscle atrophy). In feline skeletal muscle, 12 mg of ursolic acid per day generated beneficial changes in skeletal muscle mRNA expression, including repression of mRNAs that promote muscle atrophy and weakness and induction of mRNAs that promote muscle health. Furthermore, ursolic acid generated significant improvements in several important measures of feline mobility, including jumping, playing with toys, rising from a resting position, and transitioning from a standing position to a sitting or lying position. These findings identify ursolic acid supplementation as a new nutritional approach for promoting beneficial molecular and functional mobility outcomes in cats.",
+   "authors": [
+    "Scott M. Ebert",
+    "Celine S. Nicolas",
+    "Andrew R. Judge",
+    "Jaime G. Lopez",
+    "Alan T. Taylor",
+    "Kotha Sekharam",
+    "John J. Talley",
+    "Christophe A. Rème",
+    "Christopher M. Adams"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213377",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 1.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": "貓隻常因高齡、疾病或受傷而失去活動能力，進而導致健康與生活品質的額外受損。為協助解決此問題，本研究測試了一種含有熊果酸（ursolic acid）的貓用膳食補充劑。熊果酸是一種天然膳食化合物，能促進多種非貓科動物的肌肉健康與活動能力。本研究針對患有肌少症（與年齡相關的骨骼肌萎縮）的高齡家貓，進行為期 60 天的熊果酸膳食補充概念驗證（proof-of-concept）療效研究。在貓骨骼肌中，每日 12 毫克的熊果酸可對骨骼肌 mRNA 表現產生有益的變化，包括抑制促進肌肉萎縮與無力的 mRNA，以及誘導促進肌肉健康的 mRNA。此外，熊果酸在多項重要的貓隻活動能力指標上帶來顯著改善，包括跳躍、玩玩具、從休息姿勢起身，以及從站立姿勢轉換為坐姿或躺姿。這些發現確立了補充熊果酸作為一種新的營養方法，可促進貓隻在分子與功能上的活動能力達到有益的成果。"
   },
   {
    "doi": "10.1002/age.70205",
@@ -5385,24 +5765,6 @@
    "abstract_zh": "股骨頭骺板is滑脫（Slipped capital femoral epiphysis, SCFE），亦稱為自發性股骨頭骺板骨折，是貓少見的骨科疾病，其特徵為在沒有明顯外傷的情況下，股骨頭骨骺透過近端股骨骺板分離。緬因貓，特別是公貓，似乎對此疾病具有易感性。本病例報告描述了兩隻絕育公緬因貓，年齡分別為21個月大與16個月大，主訴為後肢跛行且無已知之顯著外傷史。第一隻貓表現出2級後肢跛行、雙側後肢肌肉萎縮，以及在雙側髖關節操作時出現疼痛與彈響音。放射線學檢查顯示雙側SCFE伴隨繼發性退化性改變。第二隻貓表現出1級後肢跛行、關節鬆弛以及疼痛，無可觸及之彈響音。放射線學檢查懷疑右側股骨頭骺板分離，隨後透過電腦斷層掃描確診。兩隻貓皆接受了股骨頭頸切除術（FHNE），其中第一隻貓在單次麻醉過程中進行了雙側FHNE。術後臨床檢查與飼主回報顯示，兩隻貓的後肢功能均有所改善，且臨床上明顯的跛行消失。術後六個月進行的放射線學檢查記錄了手術變化，並伴隨與肌肉萎縮一致的後肢軟組織體積持續減少。這些病例突顯了緬因貓SCFE多變的臨床與影像學表現，以及放射線學與電腦斷層掃描在診斷中的互補角色。儘管在接受FHNE後觀察到臨床改善，但缺乏標準化的功能評估，限制了對術后恢復程度的明確結論。"
   },
   {
-   "doi": "10.3390/ani16213372",
-   "title": "Computerized Cognitive Enrichment as a Conservation Engagement Tool: Shifting Visitor Perceptions of the Endangered Hawaiian Monk Seal (Neomonachus schauinslandi)",
-   "abstract": "Public viewing of cognitive enrichment may offer opportunities to connect visitors with endangered species through observation of animal learning and problem-solving. We examined visitor responses to a narrated demonstration involving a Hawaiian monk seal (Neomonachus schauinslandi) using the Enclosure Video Enrichment system at Sea Life Park Hawaiʻi. In this exploratory single-group study, 104 adults completed questionnaires before and immediately after the session. Six agreement items assessed perceptions of cognition, connection, caring, and protection; two questions addressed endangered status and the ability to learn a computer game. Paired responses were analyzed using Wilcoxon signed-rank and exact McNemar tests, with Bonferroni adjustment across eight comparisons. Ratings increased significantly for five agreement items after adjustment, with the largest mean changes in connection and perceived problem-solving. Protection ratings were high initially and did not increase significantly after adjustment. Correct computer-game responses increased while endangered-status knowledge remained high. The single-group design limits causal interpretation and attribution to computerized enrichment specifically. These findings highlight public enrichment demonstrations as a promising setting for conservation education. Future studies should assess whether changes in perceptions and connection persist and contribute to behaviors that support endangered species recovery.",
-   "authors": [
-    "Amber M. Ramos",
-    "Danni Robinette",
-    "Shivang Sharma",
-    "Kelley A. Winship"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213372",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "公開展示認知豐富化活動（cognitive enrichment），可透過觀察動物的學習與解決問題過程，提供參觀者與瀕危物種連結的機會。我們以夏威夷海洋公園（Sea Life Park Hawaiʻi）使用「圍欄影片豐富化系統」的一場包含解說的夏威夷僧海豹（Neomonachus schauinslandi）示範活動為對象，檢視參觀者的反應。在這項探索性單組研究中，104名成年人在活動前及活動結束後立即填寫了問卷。6個同意度題項評估了對認知、連結、關懷與保育的看法；另有2題探討瀕危狀態及學習電腦遊戲的能力。配對反應以威爾卡森符號等級檢定（Wilcoxon signed-rank test）及精確麥克納馬爾檢定（exact McNemar test）進行分析，並對8項比較進行邦ferroni校正（Bonferroni adjustment）。校正後，有5個同意度題項的評分顯著增加，其中以「連結」和「對解決問題的感知」之平均變化最大。「保育」評分在活動前即已偏高，經校正後未顯著增加。電腦遊戲的正確回答增加，而對瀕危狀態的認知則維持在高水準。單組設計限制了因果推論以及對電腦化豐富化活動的特定歸因。這些發現凸顯了公開的豐富化活動示範作為保育教育之絕佳場域的潛力。未來研究應評估對感知和連結的改變是否能持續，並進一步促進支持瀕危物種復育的行為。"
-  },
-  {
    "doi": "10.3390/ani16213373",
    "title": "Congenital Caudal Vertebral Anomalies in a Pedigree of Beagles",
    "abstract": "Despite increased recognition of caudal vertebral anomalies in the domestic dog (Canis lupus familiaris), studies describing tail deformities remain limited. To address this gap in the literature, this study aimed to identify and classify the caudal vertebral anomaly phenotypes in a pedigree of Beagles. Subjects included 67 dogs (36 males and 31 females), aged eight months to eight years old (M= 38.8 ± 25.6 months). All 67 dogs were visually examined, and tails were palpated to determine if they had any kinks, bends, misalignments, or deformities in their tail prior to radiographic assessment. Radiographs of the caudal vertebrae were obtained from 53 dogs and evaluated for congenital anomalies, including block vertebrae, hemivertebrae, brachyury (very short tail), and axial deviations. Of the 53 radiographed dogs, 25 (47.2%) exhibited at least one congenital caudal vertebral anomaly, with block vertebrae being the most common finding (43.4%). Four dogs (7.6%) had mild congenital abnormalities detected radiographically that were not identified during physical examination. Based on pedigree structure, an autosomal recessive trait is suspected. These findings demonstrate a high prevalence of caudal vertebral anomalies within this pedigree of Beagles and emphasize the importance of radiographic evaluation for accurate identification and phenotypic classification.",
@@ -5425,6 +5787,24 @@
    "abstract_zh": "儘管人們對家犬（Canis lupus familiaris）尾椎異常的認知有所增加，但描述尾巴畸形的研究仍然有限。為填補文獻中的這一空白，本研究旨在識別並分類米格犬譜系中的尾椎異常表現型。受試者包括 67 隻犬（36 隻公犬和 31 隻母犬），年齡介於 8 個月至 8 歲之間（平均值 = 38.8 ± 25.6 個月）。所有 67 隻犬均接受視診，並觸診尾巴以確定在進行放射線評估前，其尾巴是否有任何扭結、彎曲、錯位或畸形。本研究取得 53 隻犬的尾椎X光片，並評估其先天性異常，包括融合椎、半椎、短尾（極短尾）及軸向偏斜。在接受X光檢查的 53 隻犬中，有 25 隻（47.2%）表現出至少一種先天性尾椎異常，其中以融合椎最為常見（43.4%）。有 4 隻犬（7.6%）被X光檢查出輕微的先天性異常，但這些異常在身體檢查中未被發現。根據譜系結構，懷疑這是一種體染色體隱性性狀。這些發現證明了此米格犬譜系中尾椎異常的高盛行率，並強調了放射線評估對於準確識別和表現型分類的重要性。"
   },
   {
+   "doi": "10.3390/ani16213372",
+   "title": "Computerized Cognitive Enrichment as a Conservation Engagement Tool: Shifting Visitor Perceptions of the Endangered Hawaiian Monk Seal (Neomonachus schauinslandi)",
+   "abstract": "Public viewing of cognitive enrichment may offer opportunities to connect visitors with endangered species through observation of animal learning and problem-solving. We examined visitor responses to a narrated demonstration involving a Hawaiian monk seal (Neomonachus schauinslandi) using the Enclosure Video Enrichment system at Sea Life Park Hawaiʻi. In this exploratory single-group study, 104 adults completed questionnaires before and immediately after the session. Six agreement items assessed perceptions of cognition, connection, caring, and protection; two questions addressed endangered status and the ability to learn a computer game. Paired responses were analyzed using Wilcoxon signed-rank and exact McNemar tests, with Bonferroni adjustment across eight comparisons. Ratings increased significantly for five agreement items after adjustment, with the largest mean changes in connection and perceived problem-solving. Protection ratings were high initially and did not increase significantly after adjustment. Correct computer-game responses increased while endangered-status knowledge remained high. The single-group design limits causal interpretation and attribution to computerized enrichment specifically. These findings highlight public enrichment demonstrations as a promising setting for conservation education. Future studies should assess whether changes in perceptions and connection persist and contribute to behaviors that support endangered species recovery.",
+   "authors": [
+    "Amber M. Ramos",
+    "Danni Robinette",
+    "Shivang Sharma",
+    "Kelley A. Winship"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213372",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "公開展示認知豐富化活動（cognitive enrichment），可透過觀察動物的學習與解決問題過程，提供參觀者與瀕危物種連結的機會。我們以夏威夷海洋公園（Sea Life Park Hawaiʻi）使用「圍欄影片豐富化系統」的一場包含解說的夏威夷僧海豹（Neomonachus schauinslandi）示範活動為對象，檢視參觀者的反應。在這項探索性單組研究中，104名成年人在活動前及活動結束後立即填寫了問卷。6個同意度題項評估了對認知、連結、關懷與保育的看法；另有2題探討瀕危狀態及學習電腦遊戲的能力。配對反應以威爾卡森符號等級檢定（Wilcoxon signed-rank test）及精確麥克納馬爾檢定（exact McNemar test）進行分析，並對8項比較進行邦ferroni校正（Bonferroni adjustment）。校正後，有5個同意度題項的評分顯著增加，其中以「連結」和「對解決問題的感知」之平均變化最大。「保育」評分在活動前即已偏高，經校正後未顯著增加。電腦遊戲的正確回答增加，而對瀕危狀態的認知則維持在高水準。單組設計限制了因果推論以及對電腦化豐富化活動的特定歸因。這些發現凸顯了公開的豐富化活動示範作為保育教育之絕佳場域的潛力。未來研究應評估對感知和連結的改變是否能持續，並進一步促進支持瀕危物種復育的行為。"
+  },
+  {
    "doi": "10.3390/ani16213371",
    "title": "Mitochondrial DNA Lineages of Eurasian Otters (Lutra lutra) in Central Anatolia: A Phylogenetic Bridge Between Asia and Europe?",
    "abstract": "The Eurasian otter (Lutra lutra), a semi-aquatic carnivore listed as “Near Threatened” by the IUCN (International Union for Conservation of Nature), is widespread across Eurasia but remains poorly studied genetically in various regions. We analyzed the Central Anatolian population along the Kızılırmak River using mitochondrial (mt) DNA from non-invasively collected samples to examine whether Anatolian otters connect phylogenetically typical European and Caucasian lineages and whether Anatolia could have harbored a late-glacial source population for otter migration to Europe via western (Balkan) and/or eastern (east of the Black Sea) routes. Thirty spraints were collected from five localities, including four previously known sites and one newly identified in the Sulakyurt district, northeast of Kırıkkale province. We amplified a short (256 bp) mtD-loop fragment and a longer (820 bp) fragment spanning the Cytb, tRNA-Thr, tRNA-Pro, and D-loop from 14 samples and included all corresponding Lutra lutra mtDNA sequences available in GenBank in our analyses. Six short-fragment samples from Kapulukaya, Kesikköprü, and Kalecik carried the widespread northern Eurasian haplotype Lut1, while eight samples from Kalecik, Kesikköprü, Hirfanlı, and Hamzalı revealed a novel haplotype (H256-TR). The long fragments represented two additional haplotypes (H820-37, H820-38), distributed across the same localities. Median-joining network analysis of the short fragment produced a star-like topology with no clear phylogeographic structuring, whereas the longer fragment resolved two weakly separated phylogenetic groups. Central Anatolian haplotypes were positioned between Far Eastern and northern Eurasian lineages, with H820-38 phylogenetically connecting Caucasian and European haplotypes. This finding is consistent with the hypothesis of possible western and eastern postglacial migration routes from Anatolia to Europe, although broader spatial sampling is needed for confirmation.",
@@ -5443,32 +5823,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "歐亞水獺（*Lutra lutra*）是一種半水棲食肉動物，被國際自然保護聯盟（IUCN）列為「近危」（Near Threatened）物種。牠們廣泛分佈於歐亞大陸，但在許多地區的遺傳學研究仍然不足。我們利用非侵入性採樣獲得的粒線體（mt）DNA，分析了克孜勒河（Kızılırmak River）沿岸的中安那托利亞族群，以檢視安那托利亞水獺是否連接了具親緣地理學典型特徵的歐洲與高加索譜系，以及安那托利亞是否曾透過西部（巴爾幹）及／或東部（黑海以東）路徑，孕育了供水獺向歐洲遷徙的末次冰期源族群。本研究從五個地點（包含四個已知地點及一個位於克勒克卡萊省東北部蘇拉克尤爾特區的新發現地點）採集了三十個糞便樣本。我們從 14 個樣本中擴增出一個短的（256 bp）mtD-loop 片段，以及一個涵蓋 Cytb、tRNA-Thr、tRNA-Pro 和 D-loop 的較長（820 bp）片段，並將 GenBank 中所有可取得的對應歐亞水來自粒線體 DNA 序列納入分析。來自卡普盧卡亞（Kapulukaya）、克西克科普呂（Kesikköprü）和卡莱吉克（Kalecik）的六個短片段樣本帶有廣泛分佈的歐亞大陸北部單倍型 Lut1，而來自卡莱吉克、克西克科普呂、希爾凡勒（Hirfanlı）和哈姆扎勒（Hamzalı）的八個樣本則揭示了一個新的單倍型（H256-TR）。長片段則代表了另外兩個單倍型（H820-37、H820-38），分佈於相同的採樣地點。短片段的中位數連接網路分析（median-joining network analysis）產生了呈星狀的拓樸結構，且沒有明顯的親緣地理結構；相較之下，較長的片段則解析出兩個微弱分離的親緣演化群。中安那托利亞的單倍型位於遠東與歐亞大陸北部譜系之間，其中 H820-38 在親緣演化上連接了高加索與歐洲的單倍型。此發現與安那托利亞至歐洲存在西部與東部冰期後遷徙路徑的假設一致，儘管仍需更廣泛的空間採樣來加以確認。"
-  },
-  {
-   "doi": "10.3390/ani16213366",
-   "title": "Effects of One-Step Laparoscopic Abomasopexy and Laparotomic Omentopexy Treatments of Left Displaced Abomasum on Metabolic and Inflammatory Stress Responses, Liver Health and Milk Yield in Multiparous Cows",
-   "abstract": "Metabolic and inflammatory stress during the postoperative period following left displaced abomasum (LDA) correction poses significant risks to dairy cows’ health and productivity. This study aimed to evaluate the differences in metabolic and inflammatory responses between LDA cows treated with laparoscopic abomasopexy in one-step and left paralumbar fossa omentopexy, focusing on myeloperoxidase (MPO), metabolic- and liver-related biochemical markers, antioxidative response, and milk yield. Sixteen LDA cows were randomly assigned to one-step laparoscopic abomasopexy (LPS, n = 8) or left laparotomic omentopexy (LPT, n = 8), matched by parity and days in milk with healthy cows (CON, n = 8), and evaluated for blood indices and milk production during lactation. Blood samples were collected before (D0) surgery and 1 (D1), 3 (D3), 10 (D10), and 30 (D30) days following surgery, while milk yield was recorded monthly. MPO activity exhibited significantly higher values in both LPS (p &lt; 0.001) and LPT (p &lt; 0.001) cows compared to CON on D1, but also significantly lower values in LPS than in LPT cows (p &lt; 0.001). In addition, both LPS and CON cows displayed significantly lower MPO levels than LPT cows on D3 (p &lt; 0.001; p &lt; 0.001; respectively), D10 (p &lt; 0.001; p &lt; 0.001; respectively), and D30 (p &lt; 0.001; p = 0.008; respectively). Serum paraoxonase-1 (PON1) activity was significantly suppressed on D1 in both the LPS and LPT groups compared to CON cows (p &lt; 0.05); however, overall PON1 activity remained significantly lower in the LPT group throughout the monitoring period (p = 0.016), despite a non-significant treatment × day interaction (p = 0.099). Significant treatment × day interactions were found for total bilirubin concentrations (p = 0.019), aspartate aminotransferase (AST, p &lt; 0.001), and gamma-glutamyl transferase (GGT, p = 0.011) activities. Compared to control, AST and GGT activities were significantly elevated on D1 in both LPS (p = 0.037; p = 0.028, respectively) and LPT (p = 0.007; p = 0.045, respectively), while total bilirubin concentrations showed marked elevation on D1 in the LPT group compared to both CON and LPS cows (p = 0.031). Non-esterified fatty acids, beta-hydroxybutyrate and total bilirubin showed more favorable patterns in the LPS compared to LPT group too. Compared to LPT cows, milk yield was higher in LPS cows on days 30 (p &lt; 0.001), 60 (p = 0.016), and 90 (p = 0.005) of lactation. In conclusion, this study underlines the benefits of laparoscopic abomasopexy in one step during the postoperative period, as it reduced the inflammatory response, could positively impact recovery of milk production, and eventually enhanced liver metabolism in LDA cows. In addition, our results suggest that MPO shows potential for use as an exploratory biomarker for monitoring the scale of postoperative tissue damage in dairy cows.",
-   "authors": [
-    "Sveta Arsić",
-    "Radiša Prodanović",
-    "Sreten Nedić",
-    "Dušan Bošnjaković",
-    "Ivan Vujanac",
-    "Danijela Kirovski",
-    "Predrag Simeunović",
-    "Aleksandra Mitrović",
-    "Ljubomir Jovanović",
-    "Jovan Bojkovski",
-    "Sunčica Borozan",
-    "Svetlana Nedić"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213366",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "左移第四胃（LDA）整復術後之術後期間的代謝與發炎壓力，對乳牛的健康與生產力構成重大風險。本研究旨在評估接受一步法腹腔鏡第四胃固定術與左側腰部網膜固定術的LDA病牛之間，其代謝與發炎反應的差異，重點關注髓過氧化酶（MPO）、代謝及肝臟相關生化標記、抗氧化反應與乳量。十六頭LDA乳牛隨機分配至一步法腹腔鏡第四胃固定術（LPS，n = 8）或左側剖腹網膜固定術（LPT，n = 8），並依胎次與泌乳天數與健康乳牛（CON，n = 8）進行配對，評估其泌乳期間的血液指標與產乳量。血樣於手術前（D0）以及術後第1（D1）、3（D3）、10（D10）和30（D30）天採集，乳量則每月記錄一次。在D1時，LPS（p < 0.001）與LPT（p < 0.001）乳牛的MPO活性顯著高於CON，但LPS的MPO活性亦顯著低於LPT乳牛（p < 0.001）。此外，在D3（分別為p < 0.001；p < 0.001）、D10（分別為p < 0.001；p < 0.001）及D30（分別為p < 0.001；p = 0.008），LPS與CON乳牛的MPO濃度皆顯著低於LPT乳牛。與CON乳牛相比，LPS與LPT組之血清對氧磷酶-1（PON1）活性在D1時均顯著受到抑制（p < 0.05）；然而，儘管處理與天數的交戶作用無顯著差異（p = 0.099），在整個監測期間，LPT組的整體PON1活性仍顯著較低（p = 0.016）。總膽紅素濃度（p = 0.019）、天門冬胺酸轉胺酶（AST，p < 0.001）及γ-麩胺醯轉移酶（GGT，p = 0.011）活性均呈現顯著的處理×天數互動效應。與對照組相比，LPS（分別為p = 0.037；p = 0.028）與LPT（分別為p = 0.007；p = 0.045）的AST與GGT活性在D1時均顯著升高，而LPT組的總膽紅素濃度在D1時較CON與LPS乳牛明顯升高（p = 0.031）。游離脂肪酸、β-羥丁酸和總膽紅素在LPS組中也表現出比LPT組更為理想的變化模式。與LPT乳牛相比，LPS乳牛在泌乳第30天（p < 0.001）、第60天（p = 0.016）和第90天（p = 0.005）的乳量較高。總結來說，本研究強調了一步法腹腔鏡第四胃固定術在術後期間的益處，因為它能降低發炎反應、對產乳量之恢復產生積極影響，並最終改善LDA乳牛的肝臟代謝。此外，我們的結果顯示，MPO具有作為探索性生物標記的潛力，可用於監測乳牛術後組織損傷的嚴重程度。"
   },
   {
    "doi": "10.3390/ani16213357",
@@ -5492,53 +5846,80 @@
    "abstract_zh": "本研究比較了血清學與分子檢測方法，利用124隻無症狀流浪狗的配對血液與尿液樣本來檢測鉤端螺旋體屬（Leptospira spp.）。透過顯微凝集試驗（MAT）篩檢血清中針對十種血清群／血清型的抗體。尿液樣本則使用四種PCR檢測進行分析：商業化即時定量PCR（qPCR）、lipL32 qPCR、傳統rrs PCR及多重PCR（mPCR）。血清學暴露檢出率為26隻（20.97%），而商業化qPCR、rrs qPCR、lipL32 qPCR與mPCR檢測的陽性結果分別為31隻（25.00%）、34（27.42%）、25（20.16%）及23隻（18.55%）。與商業化qPCR相比，lipL32 qPCR、rrs qPCR與mPCR的陽性百分比一致性（PPA）分別為80.65%、87.10%與67.74%，陰性百分比一致性（NPA）則分別為100.00%、92.47%與97.85%。有19個尿液樣本在所有四種PCR檢測中皆呈陽性。整體而言，42.74%（53/124）的犬隻至少有一項血清學或分子檢測呈陽性，其中包括九個缺乏可靠序列確認的傳統PCR陽性結果。對24個樣本進行定序與系統發生樹分析，鑑定出問約氏鉤端螺旋體（L. interrogans）與博格貝特森氏鉤端螺旋體（L. borgpetersenii），這是波士尼亞與赫塞哥維納首次對鉤端螺旋體進行分子特性鑑定。研究結果證明瞭血清學與分子檢測方法在鉤端螺旋體監測上的互補價值，同時強調瞭對未經確認的分子檢測結果進行謹慎判讀的必要性。"
   },
   {
-   "doi": "10.3390/ani16213346",
-   "title": "Seasonal Dynamics of Bat Activity in the Bosphorus Region (Istanbul, Türkiye): Acoustic Evidence for a Potential Migration Corridor Between Europe and Asia",
-   "abstract": "Long-distance migratory bats may face concentrated risks where movements funnel through geographic corridors, yet migration in southeastern Europe remains poorly documented. Istanbul and the Bosphorus are internationally recognized as a major migration bottleneck for birds, but their importance for bats has not been systematically investigated. We used passive acoustic monitoring at four stations along the Bosphorus from April to November 2022 to characterize bat activity and species occurrence, with detailed seasonal and meteorological analyses focused on Pipistrellus pipistrellus, P. nathusii, and the Nyctalus noctula/N. leisleri acoustic group. Across 3613 station-hour observations and 259,654 bat passes, at least twelve species were identified, including the globally Vulnerable N. lasiopterus. Pipistrellus pipistrellus was active throughout most of the season, whereas 84 to 93% of P. nathusii passes occurred after mid-August, peaking synchronously at all four stations between 26 and 29 September. Season-specific wind associations were weak, not supported by cross-validation, and shared by the resident P. pipistrellus, indicating weather effects on local activity rather than directed movement. These patterns are consistent with seasonal bat migration through the Istanbul–Bosphorus region and support the hypothesis that the strait forms a migration corridor, highlighting its potential importance for conservation and wind-energy planning.",
+   "doi": "10.3390/ani16213340",
+   "title": "Shared Call Structure and Fine-Scale Spatial Variation in Calls Attributed to Boesemania microlepis in the Cambodian Mekong River",
+   "abstract": "Passive acoustic monitoring supports studies of fish activity and habitats in changing tropical rivers, yet cross-site consistency and local variation in calls remain poorly quantified. We monitored four sites (West, Middle, East, and Dock) across approximately 2 km of the Kampi reach of the Cambodian Mekong River. Automated detection and manual review were combined with fish surveys, hydrological observations, and background sound measurements. Published acoustic features and captures at the study sites supported attribution to Boesemania microlepis. At all sites, calls shared pulsed, harmonic structure, with site-median harmonic spacing of 114.8–119.1 Hz; 77.3–94.2% occurred at 16:00–20:00 local time. Rates of confirmed received events across daytime and nighttime recordings were 2.32–6.06 calls per minute of valid recording. Date-paired comparisons showed that Dock’s 95% cumulative-energy frequency was 200.0–235.1 Hz lower than at the other sites. Within-sequence call repetition rates at East were 0.327 and 0.241 calls/s lower than at West and Middle, respectively (Holm-adjusted p &lt; 0.05). Dock’s lower-frequency spectrum coincided with deeper surrounding water, whereas detection and repetition rates followed distinct site patterns. Shared structure and local variation provide a quantitative basis for cross-site identification and habitat monitoring that integrates call features, activity timing, and environmental conditions.",
    "authors": [
-    "Tuğçe Nur İlbaş Gür",
-    "Emrah Çoraman"
+    "Longfei Huang",
+    "Shuqi Long",
+    "Qingcheng Tang",
+    "Wenyin Wu",
+    "Daoping Yu",
+    "Yuxi Lian",
+    "Minmin Chen"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213346",
+   "url": "https://doi.org/10.3390/ani16213340",
    "date": "2026-10-26",
    "first_seen": "2026-10-27",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "長距離遷徙的蝙蝠在移動通過地理走廊時，可能會面臨高度集中的風險，然而東南歐地區的蝙蝠遷徙狀況仍缺乏充分紀錄。伊斯坦堡與博斯普魯斯海峽國際間公認是鳥類的重要遷徙瓶頸，但其對蝙蝠的重要性尚未經過系統性調查。我們於2022年4月至11月期間，在博斯普魯斯海峽沿線的四個測站使用被動式聲學監測，以描述蝙蝠活動與物種出現狀況，並針對伏翼（Pipistrellus pipistrellus）、納氏伏翼（P. nathusii）以及大山蝠／夜蝠（Nyctalus noctula/N. leisleri）聲學類群進行詳細的季節與氣象分析。在3,613個測站-小時的觀測量與259,654次蝙蝠通過記錄中，辨識出至少十二種蝙蝠，其中包括全球易危（Vulnerable）的大魔王山蝠（N. lasiopterus）。伏翼在大部分季節中皆有活動，而84%至93%的納氏伏翼通過記錄則發生在8月中旬之後，並於9月26日至29日間在所有四個測站同步達到高峰。特定季節的風向關聯性微弱、未獲得交叉驗證支持，且與留棲的伏翼相同，這顯示天候對當地活動的影響大於定向移動。這些模式與透過伊斯坦堡-博斯普魯斯地區的季節性蝙蝠遷徙一致，並支持該海峽形成遷徙走廊的假說，凸顯其在保育與風力發電規劃上的潛在重要性。"
+   "abstract_zh": "被動式聲學監測有助於研究變遷中熱帶河流的魚類活動與棲地，然而其聲音信號在不同樣點間的一致性與區域變異性仍缺乏充分的量化評估。我們在柬埔寨湄公河堪比（Kampi）河段約 2 公里範圍內的四個樣點（西側、中側、東側與碼頭）進行了監測。結合自動偵測與人工審查，並輔以魚類調查、水文觀測及背景噪音測量。已發表的聲學特徵與研究樣點的捕獲紀錄支持將這些聲音歸屬於大鱗結魚（*Boesemania microlepis*）。在所有樣點中，聲音皆具有脈衝式諧波結構，樣點中位數諧波間距為 114.8–119.1 Hz；77.3–94.2% 的聲音發生於當地時間 16:00–20:00。在有效錄音的日間與夜間時段中，經確認的接收事件發生率為每分鐘有效錄音 2.32–6.06 次鳴叫。日期配對比較顯示，碼頭樣點的 95% 累積能量頻率比其他樣點低 200.0–235.1 Hz。東側樣點的序列內鳴叫重複率分別比西側與中側樣點低 0.327 與 0.241 次/秒（經 Holm 法校正之 $p < 0.05$）。碼頭較低的頻譜與周圍較深的水域相吻合，而偵測率與重複率則呈現出不同的樣點模式。共享的結構與區域變異為跨樣點識別及棲地監測提供了量化基礎，並整合了鳴叫特徵、活動時間與環境條件。"
   },
   {
-   "doi": "10.3390/ani16213349",
-   "title": "Clinical Veterinarian Perspectives on Euthanasia for Pets",
-   "abstract": "The euthanasia of pets is a frequent discussion topic in veterinary practice. This study aimed to determine the levels of agreement with euthanasia decisions for pet animals by clinical veterinarians in different clinical scenarios; evaluate the differences in agreement levels according to species (including cats, dogs, and small mammals); and investigate the correlation between these decisions and demographic variables. The study sample consisted of 374 veterinarians actively practicing in clinical veterinary medicine in Türkiye. Data were collected via an online survey administered to the participants. The attitudes of participants toward euthanasia varied according to the animal species and case characteristics. The agreement with euthanasia decisions significantly varied in certain cases based on characteristics, such as the participants’ professional experience, pet ownership status, and prior experience with performing euthanasia. Thus, the euthanasia decision is a multidimensional process in which clinical, ethical, and individual factors are simultaneously evaluated. A detailed examination of the ethical, professional, and individual rationales underlying euthanasia decisions through qualitative studies is warranted based on the case scenarios used in this research, which can benefit pets, veterinarians, and animal owners.",
+   "doi": "10.3390/ani16213365",
+   "title": "The Clinical Encounter as a Gateway to One Health: Rethinking Communication Education in Veterinary Curricula",
+   "abstract": "Communication is an accepted clinical competency in veterinary medicine, taught and increasingly assessed during the veterinarian–client consultation. However, the same encounter is also the profession’s most frequent point of contact with antimicrobial stewardship, zoonotic risk, food safety and public trust in science, and the population- and public-facing communication demanded by the One Health role remains comparatively overlooked in veterinary curricula. This narrative review reframes the clinical consultation not as the boundary of veterinary communication but as its gateway. Synthesizing current literature on communication teaching in veterinary education, it argues that provision is heavily weighted towards the dyadic core and comparatively silent on interprofessional, community, public health and digital communication. On this basis, it proposes an integrated Communication Competency Continuum, in which five transversal competencies (relational, informational, behavior change, risk and audience adaptation) are progressively re-contextualized from the clinical dyad outward to the One Health mandate, anchored in established competency frameworks and made explicitly assessable. Offered as a conceptual contribution rather than a prescription, the continuum is not intended to replace clinical communication training, which should be preserved, but to extend it, so that veterinary communication education matches the breadth of the profession’s role.",
    "authors": [
-    "Emine Merve Danış",
-    "Aşkın Yaşar"
+    "Rita Payan-Carreira",
+    "Margarida Simões"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213349",
+   "url": "https://doi.org/10.3390/ani16213365",
    "date": "2026-10-26",
    "first_seen": "2026-10-27",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "寵物安樂死是獸醫實務中經常討論的議題。本研究旨在探討臨床獸醫師對不同臨床情境下寵物安樂死決策的同意程度；評估根據物種（包含貓、狗及小型哺乳動物）而產生的同意程度差異；並調查這些決策與人口統計變項之間的相關性。研究樣本包含 374 名在土耳其從事臨床獸醫實務的現職獸醫師。數據透過對參與者進行的線上問卷調查收集。參與者對安樂死的態度因動物物種和病例特徵而異。在某些情況下，對安樂死決策的同意程度會根據參與者的職業經驗、寵物飼養狀況以及執行安樂死的過往經驗等特徵而有顯著差異。因此，安樂死決策是一個同時評估臨床、倫理和個人因素的多維度過程。基於本研究所使用的病例情境，未來有必要透過質性研究詳細檢視安樂死決策背後的倫理、專業與個人理由，這將能造福寵物、獸醫師及動物飼主。"
+   "abstract_zh": "溝通是獸醫學中公認的臨床能力，在獸醫與客戶的會診過程中會進行教學且日益受到評估。然而，同樣的會診情境也是該專業最常接觸抗生素管理、人畜共通傳染病風險、食品安全及大眾對科學信任的環節，而「健康一體」（One Health）角色所要求的群體及大眾導向溝通，在獸醫課程中卻相對被忽視。本篇敘事性文獻綜述重新界定臨床會診，不將其視為獸醫溝通的界線，而是其入口。透過綜合當前關於獸醫教育中溝通教學的文獻，本文主張現行教育資源重度傾斜於二元對立的核心（dyadic core），而對跨專業、社區、公共衛生及數位溝通相對靜默。基於此，本文提出一個整合的「溝通能力連續體」（Communication Competency Continuum），其中五項橫向能力（關係建立、資訊傳遞、行為改變、風險溝通及受眾調整）從臨床雙向互動逐步向外重新情境化，延伸至「健康一體」的使命，並立基於既有的能力框架中且明確可評估。作為一項概念性貢獻而非處方，此連續體無意取代應被保留的臨床溝通訓練，而是加以擴展，使獸醫溝通教育能與該專業角色的廣度相匹配。"
   },
   {
-   "doi": "10.3390/ani16213364",
-   "title": "Feeding Behaviour and Faecal Particle Size in Lambs Fed Concentrate-Based Diets with Grass and Maize Silages of Various Feed Values",
-   "abstract": "Maize silage is increasingly used for ruminants in Nordic countries. We evaluated effects of maize maturity at harvest and maize silage inclusion rate on intake, dietary selection, chewing behaviour and faecal particle size in lambs fed concentrate-based diets. Forty crossbred ram lambs were housed in pairs (five pens per treatment) in a 2 × 2 factorial arrangement. Diets contained 58% concentrate and 42% forage (dry matter (DM) basis); forage was early- (dough stage) or late-harvested (dent stage) maize silage, alone or mixed 50:50 with grass silage. After approximately three weeks on the diets, data were collected over four days, including 24 h of video-recorded behaviour. Daily DM and neutral detergent fibre (NDF) intakes were not affected by diet. Refusals contained more NDF, more particles of 8–19 mm and &lt;1 mm and fewer particles of 1–8 mm than the offered feed; selection for 1–8 mm particles was greatest with late-harvested maize as the sole forage. Lambs fed maize silage as sole forage spent less time eating (daily and per kg DM intake) and had fewer faecal particles &lt;0.212 mm and more of 0.212–0.500 mm than lambs fed grass–maize diets. Maturity and inclusion rate had limited effects on intake and feeding behaviour.",
+   "doi": "10.3390/ani16213345",
+   "title": "Improving Femoral Tunnel Placement in Canine Cranial Cruciate Ligament Reconstruction Using a Novel Adjustable Aiming Device: Evaluation Through Simulated Surgical Trials",
+   "abstract": "Accurate femoral tunnel placement in canine cranial cruciate ligament (CrCL) reconstruction is challenging because of small joint anatomy and limited dedicated instrumentation. This study evaluated an adjustable femoral tunnel aiming device combined with patient-specific preoperative planning. Thirteen surgeons (six experienced and seven novices) performed simulated tunnel positioning using the device and a freehand technique. Outcomes included aperture positional error, measured as Euclidean distance (ED), angular deviation (AD), positioning time, and intra- and intersurgeon variability. Device-guided positioning reduced EDs (4.1–4.7 mm vs. 5.1–6.2 mm; p = 0.0275) and ADs (6.4–8.2° vs. 10.7–12.6°; p = 0.0038). Neither surgeon experience nor its interaction with technique significantly affected EDs or ADs. The device significantly reduced intrasurgeon variability in both outcomes and intersurgeon ADs variability among experienced surgeons. However, systematic distal bias (3.1–3.4 mm; p &lt; 0.001) was observed with device-guided positioning. These findings support improved positioning accuracy and consistency with the device in simulated canine CrCL reconstruction. Further device refinement and hands-on practice may help address systematic deviations, while additional cadaveric and clinical validation is required before clinical application.",
    "authors": [
-    "Carl Helander",
-    "Konstantinos Zaralis",
-    "Peder Nørgaard"
+    "Tsai-Yu Lee",
+    "Cheng-Chung Lin",
+    "Shih-Yuan Yang",
+    "Yu-Chih Wang",
+    "Ching-Ho Wu"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213364",
+   "url": "https://doi.org/10.3390/ani16213345",
    "date": "2026-10-26",
    "first_seen": "2026-10-27",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "青貯玉米在北歐國家 zunehmend（註：此處依語境譯為「日益被廣泛」）被用於反芻動物。本研究評估了收穫時的玉米成熟度與青貯玉米添加比例，對飼喂以精料為主之日糧的羔羊其採食量、日糧選擇、咀嚼行為及糞便粒徑之影響。四十隻雜交公羔羊以兩隻為一組關於欄內（每個處理五欄），採 2 × 2 因子設計。日糧包含 58% 精料與 42% 粗料（以乾物質（DM）計）；粗料為早收（糊熟期）或晚收（乳黃熟期）之青貯玉米，單獨使用或與牧草青貯以 50:50 比例混合。試驗飼糧餵養約三週後，進行為期四天的數據收集，包含 24 小時的錄影行為記錄。每日乾物質與中性洗滌纖維（NDF）採食量不受日糧影響。與所提供的飼料相比，剩餘飼料含有較高的 NDF、較多 8–19 mm 與 &lt;1 mm 的顆粒，以及較少 1–8 mm 的顆粒；當以晚收玉米作為唯一粗料時，對 1–8 mm 顆粒的選擇性最高。與飼喂牧草－玉米混合日糧的羔羊相比，飼喂青貯玉米作為唯一粗料的羔羊，其進食時間較短（每日及每公斤乾物質採食量之進食時間），且糞便中 &lt;0.212 mm 的顆粒較少，0.212–0.500 mm 的顆粒較多。成熟度與添加比例對採食量及進食行為的影響有限。"
+   "abstract_zh": "由於犬隻關節解剖構造微小且缺乏專用器械，要在犬隻cranial cruciate ligament（CrCL）重建手術中精確定位股骨隧道具有相當大的挑戰性。本研究評估了一款結合病患專屬術前規畫的可調式股骨隧道瞄準器。十三位外科醫師（六位具經驗者與七位新手）使用該器械及徒手技術進行了模擬隧道定位。評估指標包含以歐幾里得距離（ED）測量的開口位置誤差、角度偏差（AD）、定位時間，以及術中與術間變異性。器械輔助定位減少了ED（4.1–4.7 mm 對比 5.1–6.2 mm；p = 0.0275）與AD（6.4–8.2° 對比 10.7–12.6°；p = 0.0038）。外科醫師的經驗及其與技術的互動效應均未顯著影響ED或AD。該器械顯著降低了兩項指標的術中變異性，以及具經驗外科醫師之間的AD變異性。然而，器械輔助定位被觀察到有系統性的遠端偏差（3.1–3.4 mm；p < 0.001）。這些發現支持該器械在模擬犬隻CrCL重建中能提高定位的準確性與一致性。在應用於臨床之前，需要進一步改良器械及實際操作練習來解決系統性偏差問題，並進行額外的遺體與臨床驗證。"
+  },
+  {
+   "doi": "10.3390/ani16213347",
+   "title": "Multi-Fish Tracking in Complex Underwater Environments Using BF-DETR and DAPS-Enhanced BoT-SORT",
+   "abstract": "Reliable multi-object tracking of fish is essential for individual-level behavior analysis and intelligent aquaculture monitoring. However, degraded underwater imagery, ambiguous boundaries in dense groups, and high inter-individual appearance similarity often lead to missed detections, association errors, and identity switches. We propose BF-DETR-DAPS-BoT-SORT, a tracking-by-detection framework integrating fish detection, identity representation, and trajectory association. BF-DETR incorporates a Fish Morphology Enhancement Module (FMEM) to model local texture, directional structure, and contextual information, and a Boundary-Contrast Separation Module (BCSM) to distinguish adjacent individuals. We further develop the Detail-Aware Part Similarity Network (DAPS), which combines underwater texture enhancement, dual-axis local representations, and part-similarity learning to capture subtle appearance differences under changes in swimming direction. DAPS features are integrated into BoT-SORT for data association. On task-specific datasets constructed from continuous underwater videos, BF-DETR achieved mAP@0.5 and mAP@0.5:0.95 values of 96.63% and 77.53%, respectively. The complete framework achieved MOTA, HOTA, and IDF1 scores of 93.1%, 75.8%, and 91.2%, respectively, with 13 identity switches. Compared with BoT-SORT, HOTA and IDF1 increased by 1.4 and 2.1 percentage points, while identity switches decreased from 18 to 13. These results indicate improved trajectory continuity and identity consistency in complex underwater scenes, supporting reliable individual-level fish behavior analysis.",
+   "authors": [
+    "Binhong Zhou",
+    "Xiang Liu",
+    "Yuling Liu",
+    "Yihan Yan",
+    "Jiaxian Mu",
+    "Xiaoyan Chen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213347",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "可靠的魚類多物件追蹤對於個體層級的行為分析與智慧化水產養殖監測至關重要。然而，退化的水下影像、密集魚群中模糊的邊界以及個體間高度相似的外觀，經常導致漏檢、關聯錯誤與身分切換。我們提出了一種名為 BF-DETR-DAPS-BoT-SORT 的基於檢測的追蹤（tracking-by-detection）框架，整合了魚類檢測、身分特徵表示與軌跡關聯。BF-DETR 包含用於建模局部紋理、方向結構與上下文資訊的魚類形態增強模組（FMEM），以及用於區分相鄰個體的邊界對比分離模組（BCSM）。我們進一步開發瞭細節感知局部相似性網路（DAPS），其結合了水下紋理增強、雙軸局部特徵表示與局部相似性學習，以捕捉游泳方向改變下的微小外觀差異。DAPS 的特徵被整合至 BoT-SORT 中以進行資料關聯。在從連續水下影片構建的任務專用資料集上，BF-DETR 的 mAP@0.5 與 mAP@0.5:0.95 分別達到 96.63% 與 77.53%。完整的框架實現了 93.1% 的 MOTA、75.8% 的 HOTA 以及 91.2% 的 IDF1 分數，且僅有 13 次身分切換。與 BoT-SORT 相比，HOTA 與 IDF1 分別提升了 1.4 與 2.1 個百分點，而身分切換次數從 18 次減少至 13 次。這些結果顯示出在複雜水下場景中軌跡連續性與身分一致性的提升，為可靠的個體層級魚類行為分析提供了支援。"
   },
   {
    "doi": "10.3390/ani16213341",
@@ -5567,6 +5948,100 @@
    "abstract_zh": "角膜傷口癒合很大程度上取決於基質纖維母細胞的活化，這些細胞負責協調細胞外基質重塑與組織再生。儘管先進富血小板纖維蛋白（A-PRF+）已成為再生醫學中一種極具潛力的生物材料，但其對馬匹角膜纖維母細胞的生物學影響仍所知甚少。在本研究中，我們從基質外植體分離出原代馬匹角膜纖維母細胞，並以 A-PRF+ conditioned medium（A-PRF+ 條件培養基）進行處理。我們利用比色分析法、螢光成像、流式細胞儀與 ELISA（酵素聯結免疫吸附分析法），評估了細胞代謝活性、活力、細胞內活性氧類、傷口癒合、細胞週期進展、生長因子分泌以及第一型膠原蛋白的表現。A-PRF+ 顯著增強了纖維母細胞的代謝活性、增加了細胞內活性氧類的產生、加速了傷口癒合與細胞週期的重新進入，並刺激了 PDGF-BB、TGF-β1 與 VEGF-A 的分泌。此外，處理增加了第一型膠原蛋白陽性纖維母細胞的百分比，支持了增強的細胞外基質產生。總體而言，這些發現表明 A-PRF+ 透過刺激原代馬匹角膜纖維母細胞的代謝、增生、遷移與分泌活性，對其發揮了有益的影響。這些結果為使用基於 A-PRF+ 的眼藥水作為改善馬匹角膜癒合的再生策略提供了實驗基礎。"
   },
   {
+   "doi": "10.3390/ani16213346",
+   "title": "Seasonal Dynamics of Bat Activity in the Bosphorus Region (Istanbul, Türkiye): Acoustic Evidence for a Potential Migration Corridor Between Europe and Asia",
+   "abstract": "Long-distance migratory bats may face concentrated risks where movements funnel through geographic corridors, yet migration in southeastern Europe remains poorly documented. Istanbul and the Bosphorus are internationally recognized as a major migration bottleneck for birds, but their importance for bats has not been systematically investigated. We used passive acoustic monitoring at four stations along the Bosphorus from April to November 2022 to characterize bat activity and species occurrence, with detailed seasonal and meteorological analyses focused on Pipistrellus pipistrellus, P. nathusii, and the Nyctalus noctula/N. leisleri acoustic group. Across 3613 station-hour observations and 259,654 bat passes, at least twelve species were identified, including the globally Vulnerable N. lasiopterus. Pipistrellus pipistrellus was active throughout most of the season, whereas 84 to 93% of P. nathusii passes occurred after mid-August, peaking synchronously at all four stations between 26 and 29 September. Season-specific wind associations were weak, not supported by cross-validation, and shared by the resident P. pipistrellus, indicating weather effects on local activity rather than directed movement. These patterns are consistent with seasonal bat migration through the Istanbul–Bosphorus region and support the hypothesis that the strait forms a migration corridor, highlighting its potential importance for conservation and wind-energy planning.",
+   "authors": [
+    "Tuğçe Nur İlbaş Gür",
+    "Emrah Çoraman"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213346",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "長距離遷徙的蝙蝠在移動通過地理走廊時，可能會面臨高度集中的風險，然而東南歐地區的蝙蝠遷徙狀況仍缺乏充分紀錄。伊斯坦堡與博斯普魯斯海峽國際間公認是鳥類的重要遷徙瓶頸，但其對蝙蝠的重要性尚未經過系統性調查。我們於2022年4月至11月期間，在博斯普魯斯海峽沿線的四個測站使用被動式聲學監測，以描述蝙蝠活動與物種出現狀況，並針對伏翼（Pipistrellus pipistrellus）、納氏伏翼（P. nathusii）以及大山蝠／夜蝠（Nyctalus noctula/N. leisleri）聲學類群進行詳細的季節與氣象分析。在3,613個測站-小時的觀測量與259,654次蝙蝠通過記錄中，辨識出至少十二種蝙蝠，其中包括全球易危（Vulnerable）的大魔王山蝠（N. lasiopterus）。伏翼在大部分季節中皆有活動，而84%至93%的納氏伏翼通過記錄則發生在8月中旬之後，並於9月26日至29日間在所有四個測站同步達到高峰。特定季節的風向關聯性微弱、未獲得交叉驗證支持，且與留棲的伏翼相同，這顯示天候對當地活動的影響大於定向移動。這些模式與透過伊斯坦堡-博斯普魯斯地區的季節性蝙蝠遷徙一致，並支持該海峽形成遷徙走廊的假說，凸顯其在保育與風力發電規劃上的潛在重要性。"
+  },
+  {
+   "doi": "10.3390/ani16213364",
+   "title": "Feeding Behaviour and Faecal Particle Size in Lambs Fed Concentrate-Based Diets with Grass and Maize Silages of Various Feed Values",
+   "abstract": "Maize silage is increasingly used for ruminants in Nordic countries. We evaluated effects of maize maturity at harvest and maize silage inclusion rate on intake, dietary selection, chewing behaviour and faecal particle size in lambs fed concentrate-based diets. Forty crossbred ram lambs were housed in pairs (five pens per treatment) in a 2 × 2 factorial arrangement. Diets contained 58% concentrate and 42% forage (dry matter (DM) basis); forage was early- (dough stage) or late-harvested (dent stage) maize silage, alone or mixed 50:50 with grass silage. After approximately three weeks on the diets, data were collected over four days, including 24 h of video-recorded behaviour. Daily DM and neutral detergent fibre (NDF) intakes were not affected by diet. Refusals contained more NDF, more particles of 8–19 mm and &lt;1 mm and fewer particles of 1–8 mm than the offered feed; selection for 1–8 mm particles was greatest with late-harvested maize as the sole forage. Lambs fed maize silage as sole forage spent less time eating (daily and per kg DM intake) and had fewer faecal particles &lt;0.212 mm and more of 0.212–0.500 mm than lambs fed grass–maize diets. Maturity and inclusion rate had limited effects on intake and feeding behaviour.",
+   "authors": [
+    "Carl Helander",
+    "Konstantinos Zaralis",
+    "Peder Nørgaard"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213364",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "青貯玉米在北歐國家 zunehmend（註：此處依語境譯為「日益被廣泛」）被用於反芻動物。本研究評估了收穫時的玉米成熟度與青貯玉米添加比例，對飼喂以精料為主之日糧的羔羊其採食量、日糧選擇、咀嚼行為及糞便粒徑之影響。四十隻雜交公羔羊以兩隻為一組關於欄內（每個處理五欄），採 2 × 2 因子設計。日糧包含 58% 精料與 42% 粗料（以乾物質（DM）計）；粗料為早收（糊熟期）或晚收（乳黃熟期）之青貯玉米，單獨使用或與牧草青貯以 50:50 比例混合。試驗飼糧餵養約三週後，進行為期四天的數據收集，包含 24 小時的錄影行為記錄。每日乾物質與中性洗滌纖維（NDF）採食量不受日糧影響。與所提供的飼料相比，剩餘飼料含有較高的 NDF、較多 8–19 mm 與 &lt;1 mm 的顆粒，以及較少 1–8 mm 的顆粒；當以晚收玉米作為唯一粗料時，對 1–8 mm 顆粒的選擇性最高。與飼喂牧草－玉米混合日糧的羔羊相比，飼喂青貯玉米作為唯一粗料的羔羊，其進食時間較短（每日及每公斤乾物質採食量之進食時間），且糞便中 &lt;0.212 mm 的顆粒較少，0.212–0.500 mm 的顆粒較多。成熟度與添加比例對採食量及進食行為的影響有限。"
+  },
+  {
+   "doi": "10.3390/ani16213349",
+   "title": "Clinical Veterinarian Perspectives on Euthanasia for Pets",
+   "abstract": "The euthanasia of pets is a frequent discussion topic in veterinary practice. This study aimed to determine the levels of agreement with euthanasia decisions for pet animals by clinical veterinarians in different clinical scenarios; evaluate the differences in agreement levels according to species (including cats, dogs, and small mammals); and investigate the correlation between these decisions and demographic variables. The study sample consisted of 374 veterinarians actively practicing in clinical veterinary medicine in Türkiye. Data were collected via an online survey administered to the participants. The attitudes of participants toward euthanasia varied according to the animal species and case characteristics. The agreement with euthanasia decisions significantly varied in certain cases based on characteristics, such as the participants’ professional experience, pet ownership status, and prior experience with performing euthanasia. Thus, the euthanasia decision is a multidimensional process in which clinical, ethical, and individual factors are simultaneously evaluated. A detailed examination of the ethical, professional, and individual rationales underlying euthanasia decisions through qualitative studies is warranted based on the case scenarios used in this research, which can benefit pets, veterinarians, and animal owners.",
+   "authors": [
+    "Emine Merve Danış",
+    "Aşkın Yaşar"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213349",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "寵物安樂死是獸醫實務中經常討論的議題。本研究旨在探討臨床獸醫師對不同臨床情境下寵物安樂死決策的同意程度；評估根據物種（包含貓、狗及小型哺乳動物）而產生的同意程度差異；並調查這些決策與人口統計變項之間的相關性。研究樣本包含 374 名在土耳其從事臨床獸醫實務的現職獸醫師。數據透過對參與者進行的線上問卷調查收集。參與者對安樂死的態度因動物物種和病例特徵而異。在某些情況下，對安樂死決策的同意程度會根據參與者的職業經驗、寵物飼養狀況以及執行安樂死的過往經驗等特徵而有顯著差異。因此，安樂死決策是一個同時評估臨床、倫理和個人因素的多維度過程。基於本研究所使用的病例情境，未來有必要透過質性研究詳細檢視安樂死決策背後的倫理、專業與個人理由，這將能造福寵物、獸醫師及動物飼主。"
+  },
+  {
+   "doi": "10.3390/ani16213360",
+   "title": "From Effusion to Diagnosis: Integrating the FIP Effusion Index and Cell Tube Block Immunohistochemistry in a Geriatric Cat",
+   "abstract": "Feline infectious peritonitis (FIP) can be overlooked in older cats with competing causes of effusion. An older female domestic shorthair cat with hyperthyroidism and a hypertrophic cardiomyopathy phenotype developed abdominal effusion in December 2023. Initial effusion total protein was 5.46 g/dL, the albumin-to-globulin ratio was 0.48 and delta total nucleated cell ratio (ΔTNC) was 60.58, yielding a retrospectively calculated FIP Effusion Index of 126.2. Coronavirus RT-PCR detected FCoV RNA, with M1058L mutation positivity, and cell tube block immunohistochemistry (CTB-IHC) demonstrated viral antigen within macrophages. A second sample collected from scant residual effusion 9 days after the initiation of GS-441524 had a ΔTNC of 2.15 and a FIP Effusion Index of 7.17, despite a higher total protein concentration and a lower albumin-to-globulin ratio. GS-441524 treatment began on 20 December 2023 and ended on 22 March 2024. Abdominal fluid was no longer detected at the assessment on 25 January. No confirmed FIP relapse was documented before death during cardiopulmonary decompensation in January 2026. This case illustrates complementary contributions of the FIP Effusion Index and CTB-IHC, with an exploratory observation of serial FIP Effusion Index change. Threshold comparison is retrospective. The lower index was observed during treatment alongside markedly reduced effusion, but this observation does not establish a treatment effect or validate treatment monitoring.",
+   "authors": [
+    "Ricardo Lopes",
+    "Cátia Fernandes",
+    "Hugo Lima de Carvalho",
+    "Gonçalo Barros",
+    "Filipe Sampaio"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213360",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "貓傳染性腹膜炎（FIP）在伴隨其他腹水成因的高齡貓中容易被忽略。一隻患有甲狀腺功能亢進及肥厚性心肌病表現型的高齡雌性米克斯貓，於2023年12月出現腹水。初始腹水總蛋白為 5.46 g/dL，白蛋白與球蛋白比值為 0.48， delta 總有核細胞計數比值（ΔTNC）為 60.58，回溯計算出的 FIP 腹水指數為 126.2。冠狀病毒 RT-PCR 檢測出 FCoV RNA，且 M1058L 突變呈陽性，細胞管嵌段免疫組織化學染色（CTB-IHC）證實巨噬細胞內含有病毒抗原。在開始投予 GS-441524 後 9 天採集之微量殘餘腹水的第二個樣本中，儘管總蛋白濃度更高且白蛋白與球蛋白比值更低，其 ΔTNC 為 2.15，FIP 腹水指數為 7.17。GS-441524 治療於 2023 年 12 月 20 日開始，至 2024 年 3 月 22 日結束。於 1月 25 日的評估中已偵測不到腹水。在 2026 年 1 月因心肺代償失調死亡之前，未記錄到確診的 FIP 復發。本病例闡明瞭 FIP 腹水指數與 CTB-IHC 的互補作用，並對連續 FIP 腹水指數的變化進行了探索性觀察。閾值比較為回溯性。較低的指數是在治療期間伴隨腹水顯著減少時觀察到的，但此觀察結果並未確立治療效果或驗證治療監測。"
+  },
+  {
+   "doi": "10.3390/ani16213366",
+   "title": "Effects of One-Step Laparoscopic Abomasopexy and Laparotomic Omentopexy Treatments of Left Displaced Abomasum on Metabolic and Inflammatory Stress Responses, Liver Health and Milk Yield in Multiparous Cows",
+   "abstract": "Metabolic and inflammatory stress during the postoperative period following left displaced abomasum (LDA) correction poses significant risks to dairy cows’ health and productivity. This study aimed to evaluate the differences in metabolic and inflammatory responses between LDA cows treated with laparoscopic abomasopexy in one-step and left paralumbar fossa omentopexy, focusing on myeloperoxidase (MPO), metabolic- and liver-related biochemical markers, antioxidative response, and milk yield. Sixteen LDA cows were randomly assigned to one-step laparoscopic abomasopexy (LPS, n = 8) or left laparotomic omentopexy (LPT, n = 8), matched by parity and days in milk with healthy cows (CON, n = 8), and evaluated for blood indices and milk production during lactation. Blood samples were collected before (D0) surgery and 1 (D1), 3 (D3), 10 (D10), and 30 (D30) days following surgery, while milk yield was recorded monthly. MPO activity exhibited significantly higher values in both LPS (p &lt; 0.001) and LPT (p &lt; 0.001) cows compared to CON on D1, but also significantly lower values in LPS than in LPT cows (p &lt; 0.001). In addition, both LPS and CON cows displayed significantly lower MPO levels than LPT cows on D3 (p &lt; 0.001; p &lt; 0.001; respectively), D10 (p &lt; 0.001; p &lt; 0.001; respectively), and D30 (p &lt; 0.001; p = 0.008; respectively). Serum paraoxonase-1 (PON1) activity was significantly suppressed on D1 in both the LPS and LPT groups compared to CON cows (p &lt; 0.05); however, overall PON1 activity remained significantly lower in the LPT group throughout the monitoring period (p = 0.016), despite a non-significant treatment × day interaction (p = 0.099). Significant treatment × day interactions were found for total bilirubin concentrations (p = 0.019), aspartate aminotransferase (AST, p &lt; 0.001), and gamma-glutamyl transferase (GGT, p = 0.011) activities. Compared to control, AST and GGT activities were significantly elevated on D1 in both LPS (p = 0.037; p = 0.028, respectively) and LPT (p = 0.007; p = 0.045, respectively), while total bilirubin concentrations showed marked elevation on D1 in the LPT group compared to both CON and LPS cows (p = 0.031). Non-esterified fatty acids, beta-hydroxybutyrate and total bilirubin showed more favorable patterns in the LPS compared to LPT group too. Compared to LPT cows, milk yield was higher in LPS cows on days 30 (p &lt; 0.001), 60 (p = 0.016), and 90 (p = 0.005) of lactation. In conclusion, this study underlines the benefits of laparoscopic abomasopexy in one step during the postoperative period, as it reduced the inflammatory response, could positively impact recovery of milk production, and eventually enhanced liver metabolism in LDA cows. In addition, our results suggest that MPO shows potential for use as an exploratory biomarker for monitoring the scale of postoperative tissue damage in dairy cows.",
+   "authors": [
+    "Sveta Arsić",
+    "Radiša Prodanović",
+    "Sreten Nedić",
+    "Dušan Bošnjaković",
+    "Ivan Vujanac",
+    "Danijela Kirovski",
+    "Predrag Simeunović",
+    "Aleksandra Mitrović",
+    "Ljubomir Jovanović",
+    "Jovan Bojkovski",
+    "Sunčica Borozan",
+    "Svetlana Nedić"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213366",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "左移第四胃（LDA）整復術後之術後期間的代謝與發炎壓力，對乳牛的健康與生產力構成重大風險。本研究旨在評估接受一步法腹腔鏡第四胃固定術與左側腰部網膜固定術的LDA病牛之間，其代謝與發炎反應的差異，重點關注髓過氧化酶（MPO）、代謝及肝臟相關生化標記、抗氧化反應與乳量。十六頭LDA乳牛隨機分配至一步法腹腔鏡第四胃固定術（LPS，n = 8）或左側剖腹網膜固定術（LPT，n = 8），並依胎次與泌乳天數與健康乳牛（CON，n = 8）進行配對，評估其泌乳期間的血液指標與產乳量。血樣於手術前（D0）以及術後第1（D1）、3（D3）、10（D10）和30（D30）天採集，乳量則每月記錄一次。在D1時，LPS（p < 0.001）與LPT（p < 0.001）乳牛的MPO活性顯著高於CON，但LPS的MPO活性亦顯著低於LPT乳牛（p < 0.001）。此外，在D3（分別為p < 0.001；p < 0.001）、D10（分別為p < 0.001；p < 0.001）及D30（分別為p < 0.001；p = 0.008），LPS與CON乳牛的MPO濃度皆顯著低於LPT乳牛。與CON乳牛相比，LPS與LPT組之血清對氧磷酶-1（PON1）活性在D1時均顯著受到抑制（p < 0.05）；然而，儘管處理與天數的交戶作用無顯著差異（p = 0.099），在整個監測期間，LPT組的整體PON1活性仍顯著較低（p = 0.016）。總膽紅素濃度（p = 0.019）、天門冬胺酸轉胺酶（AST，p < 0.001）及γ-麩胺醯轉移酶（GGT，p = 0.011）活性均呈現顯著的處理×天數互動效應。與對照組相比，LPS（分別為p = 0.037；p = 0.028）與LPT（分別為p = 0.007；p = 0.045）的AST與GGT活性在D1時均顯著升高，而LPT組的總膽紅素濃度在D1時較CON與LPS乳牛明顯升高（p = 0.031）。游離脂肪酸、β-羥丁酸和總膽紅素在LPS組中也表現出比LPT組更為理想的變化模式。與LPT乳牛相比，LPS乳牛在泌乳第30天（p < 0.001）、第60天（p = 0.016）和第90天（p = 0.005）的乳量較高。總結來說，本研究強調了一步法腹腔鏡第四胃固定術在術後期間的益處，因為它能降低發炎反應、對產乳量之恢復產生積極影響，並最終改善LDA乳牛的肝臟代謝。此外，我們的結果顯示，MPO具有作為探索性生物標記的潛力，可用於監測乳牛術後組織損傷的嚴重程度。"
+  },
+  {
    "doi": "10.3390/ani16213358",
    "title": "Transcriptomic Analysis Reveals Candidate Genes and Potential Pathways Associated with Spinal Deformity and Conjoined Twin Malformation in Oncorhynchus mykiss Larvae",
    "abstract": "Rainbow trout (Oncorhynchus mykiss) is a globally cultured cold-water salmonid, yet triploid larvae often develop spinal ventral lordosis and conjoined twin malformations with unclear molecular mechanisms. Here, RNA-seq of 15 dph normal (N), spinal-deformed (SD) and conjoined (CT) triploid larvae yielded 54.13 Gb of valid data, identifying 4292, 3601 and 2699 DEGs for SD vs. N, CT vs. SD and CT vs. N groups, respectively. Five shared disrupted cascades (cell adhesion, neuroactive ligand-receptor interaction, phagosome, cytokine-receptor interaction, and PI3K-Akt signaling) were identified, while potential calcium/MAPK and steroid-biosynthesis-related pathways were predominantly perturbed in SD and CT larvae, respectively. Filtered PPI sub-networks displayed distinct predicted topological phenotype-associated candidate transcripts, with coagulation and complement transcripts forming core hubs in SD larvae and steroid-related transcripts showing weak connectivity in CT groups. Three discriminative transcripts with inverse expression patterns were screened. This study reveals conserved and phenotype-specific transcriptional phenotype-associated candidate transcripts of the two malformations and provides candidate phenotype-associated transcripts for subsequent functional verification of larval malformations. It should be noted that all transcriptomic data originate from whole-larval homogenates; expression signatures of conjoined-twin larvae may be confounded by altered tissue-type proportions rather than malformation-exclusive regulatory mechanisms.",
@@ -5589,64 +6064,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "虹鱒（Oncorhynchus mykiss）是一種全球養殖的冷水性鮭科魚類，然而三倍體仔魚常出現脊椎腹側前凸與連胎畸形，其分子機制尚不清楚。本研究對孵化後 15 天（dph）正常（N）、脊椎畸形（SD）及連胎（CT）三倍體仔魚進行 RNA-seq，獲得 54.13 Gb 的有效數據，在 SD 對 N、CT 對 SD 及 CT 對 N 組中分別鑑定出 4292、3601 和 2699 個差異表達基因（DEGs）。研究識別出五個共同受損的級聯反應（細胞黏附、神經活性配體-受體相互作用、吞噬體、細胞激素-受體相互作用及 PI3K-Akt 信號傳導），而潛在的鈣/MAPK 和類固醇生物合成相關路徑則分別在 SD 和 CT 仔魚中受到顯著擾動。篩選出的蛋白質-蛋白質相互作用（PPI）子網路顯示出明顯的預測拓樸表型相關候選轉錄本，其中凝血與補體轉錄本在 SD 仔魚中形成核心樞紐，而類固醇相關轉錄本在 CT 組中顯示出較弱的連接性。篩選出了三個具有相反表達模式的鑑別性轉錄本。本研究揭示了這兩種畸形保守且具表型特異性的轉錄表型相關候選轉錄本，並為後續仔魚畸形的功能驗證提供了候選表型相關轉錄本。需要注意的是，所有轉錄體數據均源自全魚勻漿；連胎仔魚的表達特徵可能受到改變的組織類型比例之混淆，而非畸形專屬的調控機制。"
-  },
-  {
-   "doi": "10.3390/ani16213347",
-   "title": "Multi-Fish Tracking in Complex Underwater Environments Using BF-DETR and DAPS-Enhanced BoT-SORT",
-   "abstract": "Reliable multi-object tracking of fish is essential for individual-level behavior analysis and intelligent aquaculture monitoring. However, degraded underwater imagery, ambiguous boundaries in dense groups, and high inter-individual appearance similarity often lead to missed detections, association errors, and identity switches. We propose BF-DETR-DAPS-BoT-SORT, a tracking-by-detection framework integrating fish detection, identity representation, and trajectory association. BF-DETR incorporates a Fish Morphology Enhancement Module (FMEM) to model local texture, directional structure, and contextual information, and a Boundary-Contrast Separation Module (BCSM) to distinguish adjacent individuals. We further develop the Detail-Aware Part Similarity Network (DAPS), which combines underwater texture enhancement, dual-axis local representations, and part-similarity learning to capture subtle appearance differences under changes in swimming direction. DAPS features are integrated into BoT-SORT for data association. On task-specific datasets constructed from continuous underwater videos, BF-DETR achieved mAP@0.5 and mAP@0.5:0.95 values of 96.63% and 77.53%, respectively. The complete framework achieved MOTA, HOTA, and IDF1 scores of 93.1%, 75.8%, and 91.2%, respectively, with 13 identity switches. Compared with BoT-SORT, HOTA and IDF1 increased by 1.4 and 2.1 percentage points, while identity switches decreased from 18 to 13. These results indicate improved trajectory continuity and identity consistency in complex underwater scenes, supporting reliable individual-level fish behavior analysis.",
-   "authors": [
-    "Binhong Zhou",
-    "Xiang Liu",
-    "Yuling Liu",
-    "Yihan Yan",
-    "Jiaxian Mu",
-    "Xiaoyan Chen"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213347",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "可靠的魚類多物件追蹤對於個體層級的行為分析與智慧化水產養殖監測至關重要。然而，退化的水下影像、密集魚群中模糊的邊界以及個體間高度相似的外觀，經常導致漏檢、關聯錯誤與身分切換。我們提出了一種名為 BF-DETR-DAPS-BoT-SORT 的基於檢測的追蹤（tracking-by-detection）框架，整合了魚類檢測、身分特徵表示與軌跡關聯。BF-DETR 包含用於建模局部紋理、方向結構與上下文資訊的魚類形態增強模組（FMEM），以及用於區分相鄰個體的邊界對比分離模組（BCSM）。我們進一步開發瞭細節感知局部相似性網路（DAPS），其結合了水下紋理增強、雙軸局部特徵表示與局部相似性學習，以捕捉游泳方向改變下的微小外觀差異。DAPS 的特徵被整合至 BoT-SORT 中以進行資料關聯。在從連續水下影片構建的任務專用資料集上，BF-DETR 的 mAP@0.5 與 mAP@0.5:0.95 分別達到 96.63% 與 77.53%。完整的框架實現了 93.1% 的 MOTA、75.8% 的 HOTA 以及 91.2% 的 IDF1 分數，且僅有 13 次身分切換。與 BoT-SORT 相比，HOTA 與 IDF1 分別提升了 1.4 與 2.1 個百分點，而身分切換次數從 18 次減少至 13 次。這些結果顯示出在複雜水下場景中軌跡連續性與身分一致性的提升，為可靠的個體層級魚類行為分析提供了支援。"
-  },
-  {
-   "doi": "10.3390/ani16213360",
-   "title": "From Effusion to Diagnosis: Integrating the FIP Effusion Index and Cell Tube Block Immunohistochemistry in a Geriatric Cat",
-   "abstract": "Feline infectious peritonitis (FIP) can be overlooked in older cats with competing causes of effusion. An older female domestic shorthair cat with hyperthyroidism and a hypertrophic cardiomyopathy phenotype developed abdominal effusion in December 2023. Initial effusion total protein was 5.46 g/dL, the albumin-to-globulin ratio was 0.48 and delta total nucleated cell ratio (ΔTNC) was 60.58, yielding a retrospectively calculated FIP Effusion Index of 126.2. Coronavirus RT-PCR detected FCoV RNA, with M1058L mutation positivity, and cell tube block immunohistochemistry (CTB-IHC) demonstrated viral antigen within macrophages. A second sample collected from scant residual effusion 9 days after the initiation of GS-441524 had a ΔTNC of 2.15 and a FIP Effusion Index of 7.17, despite a higher total protein concentration and a lower albumin-to-globulin ratio. GS-441524 treatment began on 20 December 2023 and ended on 22 March 2024. Abdominal fluid was no longer detected at the assessment on 25 January. No confirmed FIP relapse was documented before death during cardiopulmonary decompensation in January 2026. This case illustrates complementary contributions of the FIP Effusion Index and CTB-IHC, with an exploratory observation of serial FIP Effusion Index change. Threshold comparison is retrospective. The lower index was observed during treatment alongside markedly reduced effusion, but this observation does not establish a treatment effect or validate treatment monitoring.",
-   "authors": [
-    "Ricardo Lopes",
-    "Cátia Fernandes",
-    "Hugo Lima de Carvalho",
-    "Gonçalo Barros",
-    "Filipe Sampaio"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213360",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "貓傳染性腹膜炎（FIP）在伴隨其他腹水成因的高齡貓中容易被忽略。一隻患有甲狀腺功能亢進及肥厚性心肌病表現型的高齡雌性米克斯貓，於2023年12月出現腹水。初始腹水總蛋白為 5.46 g/dL，白蛋白與球蛋白比值為 0.48， delta 總有核細胞計數比值（ΔTNC）為 60.58，回溯計算出的 FIP 腹水指數為 126.2。冠狀病毒 RT-PCR 檢測出 FCoV RNA，且 M1058L 突變呈陽性，細胞管嵌段免疫組織化學染色（CTB-IHC）證實巨噬細胞內含有病毒抗原。在開始投予 GS-441524 後 9 天採集之微量殘餘腹水的第二個樣本中，儘管總蛋白濃度更高且白蛋白與球蛋白比值更低，其 ΔTNC 為 2.15，FIP 腹水指數為 7.17。GS-441524 治療於 2023 年 12 月 20 日開始，至 2024 年 3 月 22 日結束。於 1月 25 日的評估中已偵測不到腹水。在 2026 年 1 月因心肺代償失調死亡之前，未記錄到確診的 FIP 復發。本病例闡明瞭 FIP 腹水指數與 CTB-IHC 的互補作用，並對連續 FIP 腹水指數的變化進行了探索性觀察。閾值比較為回溯性。較低的指數是在治療期間伴隨腹水顯著減少時觀察到的，但此觀察結果並未確立治療效果或驗證治療監測。"
-  },
-  {
-   "doi": "10.3390/ani16213345",
-   "title": "Improving Femoral Tunnel Placement in Canine Cranial Cruciate Ligament Reconstruction Using a Novel Adjustable Aiming Device: Evaluation Through Simulated Surgical Trials",
-   "abstract": "Accurate femoral tunnel placement in canine cranial cruciate ligament (CrCL) reconstruction is challenging because of small joint anatomy and limited dedicated instrumentation. This study evaluated an adjustable femoral tunnel aiming device combined with patient-specific preoperative planning. Thirteen surgeons (six experienced and seven novices) performed simulated tunnel positioning using the device and a freehand technique. Outcomes included aperture positional error, measured as Euclidean distance (ED), angular deviation (AD), positioning time, and intra- and intersurgeon variability. Device-guided positioning reduced EDs (4.1–4.7 mm vs. 5.1–6.2 mm; p = 0.0275) and ADs (6.4–8.2° vs. 10.7–12.6°; p = 0.0038). Neither surgeon experience nor its interaction with technique significantly affected EDs or ADs. The device significantly reduced intrasurgeon variability in both outcomes and intersurgeon ADs variability among experienced surgeons. However, systematic distal bias (3.1–3.4 mm; p &lt; 0.001) was observed with device-guided positioning. These findings support improved positioning accuracy and consistency with the device in simulated canine CrCL reconstruction. Further device refinement and hands-on practice may help address systematic deviations, while additional cadaveric and clinical validation is required before clinical application.",
-   "authors": [
-    "Tsai-Yu Lee",
-    "Cheng-Chung Lin",
-    "Shih-Yuan Yang",
-    "Yu-Chih Wang",
-    "Ching-Ho Wu"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213345",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "由於犬隻關節解剖構造微小且缺乏專用器械，要在犬隻cranial cruciate ligament（CrCL）重建手術中精確定位股骨隧道具有相當大的挑戰性。本研究評估了一款結合病患專屬術前規畫的可調式股骨隧道瞄準器。十三位外科醫師（六位具經驗者與七位新手）使用該器械及徒手技術進行了模擬隧道定位。評估指標包含以歐幾里得距離（ED）測量的開口位置誤差、角度偏差（AD）、定位時間，以及術中與術間變異性。器械輔助定位減少了ED（4.1–4.7 mm 對比 5.1–6.2 mm；p = 0.0275）與AD（6.4–8.2° 對比 10.7–12.6°；p = 0.0038）。外科醫師的經驗及其與技術的互動效應均未顯著影響ED或AD。該器械顯著降低了兩項指標的術中變異性，以及具經驗外科醫師之間的AD變異性。然而，器械輔助定位被觀察到有系統性的遠端偏差（3.1–3.4 mm；p < 0.001）。這些發現支持該器械在模擬犬隻CrCL重建中能提高定位的準確性與一致性。在應用於臨床之前，需要進一步改良器械及實際操作練習來解決系統性偏差問題，並進行額外的遺體與臨床驗證。"
   },
   {
    "doi": "10.3390/ani16213361",
@@ -5694,41 +6111,249 @@
    "abstract_zh": "刺鳅（Mastacembelus armatus）池塘養殖常遭受反覆發生的非特異性死亡，然而腸道菌相轉變、宿主組織學改變與魚體生理狀態之間的關聯，以及底泥菌相的潛在作用仍不清楚。在本研究中，我們收集了健康（H）、瀕死（M）與剛死亡（D）的魚類以及池塘底泥（S），並進行組織病理學檢查、16S rRNA 擴增子定序，結合 FEAST 來源追蹤分析。組織學顯示，M 組魚類出現嚴重的腸絨毛萎縮、上皮脫落及廣泛的肝細胞空泡化。16S rRNA 定序結果顯示，與健康（H）組相比，M 與 D 組腸道微生物豐富度的阿伐多樣性（Chao1）顯著下降（$p < 0.05$）。健康魚類的腸道以變形菌門（Proteobacteria）和關鍵屬鯨桿菌屬（Cetobacterium，約佔 40% 的相對豐度）為主。在 M/D 組中，鯨桿菌屬幾乎消失，而厚壁菌門（Firmicutes）與梭桿菌門（Fusobacteriota）成為優勢菌群，且潛在條件致病菌群（梭桿菌屬 Fusobacterium、梭菌科 Clostridiaceae）的相對豐度顯著升高。貝塔多樣性與 LEfSe 分析顯示，M 與 D 魚類的微生物群落重疊，且與健康（H）魚類顯著不同。FEAST 模型輸出顯示，經條件估算源自底泥的比例從健康（H）組的大約 28% 增加到 M 組的約 99%。由 PICRUSt2 預測的功能圖譜從氧化磷酸化轉向肽聚醣生物合成及肽酶相關的功能潛能。綜上所述，我們的結果證明了腸道菌相失調、腸道屏障受損與魚體生理衰退之間存在強烈的關聯。我們觀察到受損的腸道狀態與腸道菌群中源自底泥的潛在條件致病菌比例增加具有相關性。"
   },
   {
-   "doi": "10.3390/ani16213340",
-   "title": "Shared Call Structure and Fine-Scale Spatial Variation in Calls Attributed to Boesemania microlepis in the Cambodian Mekong River",
-   "abstract": "Passive acoustic monitoring supports studies of fish activity and habitats in changing tropical rivers, yet cross-site consistency and local variation in calls remain poorly quantified. We monitored four sites (West, Middle, East, and Dock) across approximately 2 km of the Kampi reach of the Cambodian Mekong River. Automated detection and manual review were combined with fish surveys, hydrological observations, and background sound measurements. Published acoustic features and captures at the study sites supported attribution to Boesemania microlepis. At all sites, calls shared pulsed, harmonic structure, with site-median harmonic spacing of 114.8–119.1 Hz; 77.3–94.2% occurred at 16:00–20:00 local time. Rates of confirmed received events across daytime and nighttime recordings were 2.32–6.06 calls per minute of valid recording. Date-paired comparisons showed that Dock’s 95% cumulative-energy frequency was 200.0–235.1 Hz lower than at the other sites. Within-sequence call repetition rates at East were 0.327 and 0.241 calls/s lower than at West and Middle, respectively (Holm-adjusted p &lt; 0.05). Dock’s lower-frequency spectrum coincided with deeper surrounding water, whereas detection and repetition rates followed distinct site patterns. Shared structure and local variation provide a quantitative basis for cross-site identification and habitat monitoring that integrates call features, activity timing, and environmental conditions.",
+   "doi": "10.1080/00439339.2026.2749767",
+   "title": "Bacteriophage applications in the poultry industry: from current practices to next-generation technologies",
+   "abstract": "",
    "authors": [
-    "Longfei Huang",
-    "Shuqi Long",
-    "Qingcheng Tang",
-    "Wenyin Wu",
-    "Daoping Yu",
-    "Yuxi Lian",
-    "Minmin Chen"
+    "Wun-Yuan Wu",
+    "Yuan-Yu Lin"
    ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213340",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
+   "journal": "World's Poultry Science Journal",
+   "url": "https://doi.org/10.1080/00439339.2026.2749767",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "被動式聲學監測有助於研究變遷中熱帶河流的魚類活動與棲地，然而其聲音信號在不同樣點間的一致性與區域變異性仍缺乏充分的量化評估。我們在柬埔寨湄公河堪比（Kampi）河段約 2 公里範圍內的四個樣點（西側、中側、東側與碼頭）進行了監測。結合自動偵測與人工審查，並輔以魚類調查、水文觀測及背景噪音測量。已發表的聲學特徵與研究樣點的捕獲紀錄支持將這些聲音歸屬於大鱗結魚（*Boesemania microlepis*）。在所有樣點中，聲音皆具有脈衝式諧波結構，樣點中位數諧波間距為 114.8–119.1 Hz；77.3–94.2% 的聲音發生於當地時間 16:00–20:00。在有效錄音的日間與夜間時段中，經確認的接收事件發生率為每分鐘有效錄音 2.32–6.06 次鳴叫。日期配對比較顯示，碼頭樣點的 95% 累積能量頻率比其他樣點低 200.0–235.1 Hz。東側樣點的序列內鳴叫重複率分別比西側與中側樣點低 0.327 與 0.241 次/秒（經 Holm 法校正之 $p < 0.05$）。碼頭較低的頻譜與周圍較深的水域相吻合，而偵測率與重複率則呈現出不同的樣點模式。共享的結構與區域變異為跨樣點識別及棲地監測提供了量化基礎，並整合了鳴叫特徵、活動時間與環境條件。"
+   "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16213365",
-   "title": "The Clinical Encounter as a Gateway to One Health: Rethinking Communication Education in Veterinary Curricula",
-   "abstract": "Communication is an accepted clinical competency in veterinary medicine, taught and increasingly assessed during the veterinarian–client consultation. However, the same encounter is also the profession’s most frequent point of contact with antimicrobial stewardship, zoonotic risk, food safety and public trust in science, and the population- and public-facing communication demanded by the One Health role remains comparatively overlooked in veterinary curricula. This narrative review reframes the clinical consultation not as the boundary of veterinary communication but as its gateway. Synthesizing current literature on communication teaching in veterinary education, it argues that provision is heavily weighted towards the dyadic core and comparatively silent on interprofessional, community, public health and digital communication. On this basis, it proposes an integrated Communication Competency Continuum, in which five transversal competencies (relational, informational, behavior change, risk and audience adaptation) are progressively re-contextualized from the clinical dyad outward to the One Health mandate, anchored in established competency frameworks and made explicitly assessable. Offered as a conceptual contribution rather than a prescription, the continuum is not intended to replace clinical communication training, which should be preserved, but to extend it, so that veterinary communication education matches the breadth of the profession’s role.",
+   "doi": "10.3390/ani16213394",
+   "title": "Grey Squirrel Density and Damage in Relation to the Presence of Predators",
+   "abstract": "The grey squirrel (Sciurus carolinensis) is an invasive species in Great Britain that causes substantial economic and ecological damage through stripping bark from broadleaf trees. The relationship between grey squirrel abundance and tree damage remains poorly understood, as does the potential role of recovering native predators in mitigating these impacts. We conducted an observational survey of 22 woodland sites across England and Wales with differing occurrences of pine martens (Martes martes) and northern goshawks (Accipiter gentilis), estimating grey squirrel density and quantifying bark-stripping damage. Grey squirrel density varied across sites. No significant relationship was detected between squirrel density and observed tree damage when analyses were restricted to sites where squirrels were present. However, when sites with no detected squirrels were included, squirrel density was positively associated with tree damage. Predator occurrence was associated with significantly lower grey squirrel densities. In contrast, predator presence was not significantly associated with the proportion of trees exhibiting bark-stripping damage. These findings suggest that predators may contribute to grey squirrel population suppression but that bark stripping is influenced by factors beyond contemporary squirrel abundance. Forest management practices that facilitate predator presence should be encouraged to support reduction in grey squirrel density and therefore improve future tree health. Further research should focus on fresh damage assessments and predator-mediated behavioural responses to better understand the mechanisms linking predator recovery, squirrel abundance and tree damage.",
    "authors": [
-    "Rita Payan-Carreira",
-    "Margarida Simões"
+    "Cally Ham",
+    "Eleanor R. Scopes",
+    "Nicola Rae",
+    "Josh Weaver",
+    "Robin Gill"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213365",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-27",
+   "url": "https://doi.org/10.3390/ani16213394",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "溝通是獸醫學中公認的臨床能力，在獸醫與客戶的會診過程中會進行教學且日益受到評估。然而，同樣的會診情境也是該專業最常接觸抗生素管理、人畜共通傳染病風險、食品安全及大眾對科學信任的環節，而「健康一體」（One Health）角色所要求的群體及大眾導向溝通，在獸醫課程中卻相對被忽視。本篇敘事性文獻綜述重新界定臨床會診，不將其視為獸醫溝通的界線，而是其入口。透過綜合當前關於獸醫教育中溝通教學的文獻，本文主張現行教育資源重度傾斜於二元對立的核心（dyadic core），而對跨專業、社區、公共衛生及數位溝通相對靜默。基於此，本文提出一個整合的「溝通能力連續體」（Communication Competency Continuum），其中五項橫向能力（關係建立、資訊傳遞、行為改變、風險溝通及受眾調整）從臨床雙向互動逐步向外重新情境化，延伸至「健康一體」的使命，並立基於既有的能力框架中且明確可評估。作為一項概念性貢獻而非處方，此連續體無意取代應被保留的臨床溝通訓練，而是加以擴展，使獸醫溝通教育能與該專業角色的廣度相匹配。"
+   "abstract_zh": "灰squirrel（Sciurus carolinensis）是英國的外來入侵物種，透過剝除闊葉樹的樹皮，造成重大的經濟與生態損害。灰squirrel的豐度與樹木受損之間的關係目前仍所知有限，原生掠食者的復育在減緩這些衝擊方面可能扮演的角色亦然。我們對英格蘭和威爾斯境內 22 個松貂（Martes martes）與北方蒼鷹（Accipiter gentilis）出現狀況互異的林地進行了觀察調查，估計灰squirrel的密度並量化樹皮剝落的損害。灰squirrel的密度在各地點間有所不同。當分析僅限於有灰squirrel出沒的地點時，squirrel密度與觀察到的樹木受損之間並無顯著關聯。然而，當納入未檢出灰squirrel的地點時，squirrel密度與樹木受損呈正相關。掠食者的出現與顯著較低的灰squirrel密度相關。相對地，掠食者的存在與出現樹皮剝落損害的樹木比例並無顯著相關。這些發現顯示，掠食者可能有助於抑制灰squirrel族群，但樹皮剝落受當前squirrel豐度以外因素的影響。應鼓勵促進掠食者存在的森林管理實務，以支持降低灰squirrel密度，進而改善未來的樹林健康。未來的研究應著重於新近損害評估與掠食者媒介的行為反應，以更深入了解連結掠食者復育、squirrel豐度及樹木受損的機制。"
+  },
+  {
+   "doi": "10.3390/ani16213389",
+   "title": "Community Member Experiences with Conversation-Based Companion Animal Adoption Policies at a Large, Non-Profit Animal Shelter",
+   "abstract": "Conversation-based companion animal adoption policies have been used by U.S. animal rehoming organizations since the 1990s. These policies differ from traditional adoption approaches that often use screenings or restrictions to determine adopter suitability. Personal accounts indicate that adopter experiences vary significantly depending on the adoption policies an organization uses and therefore should not be assessed collectively. With recent research indicating that conversation-based policies may lead to more equitable access to the human–animal bond, there is a need to understand how these specific policies are experienced by adopters. This study used a phenomenological approach to understand how adopters perceive conversation-based adoption policies. The researchers conducted semi-structured interviews with 30 community members at the Wisconsin Humane Society Milwaukee Campus. Participants described a consistent adoption experience, highlighting strengths, aspects for improvement, and how they view such policies affecting their community. Moreover, participants identified key aspects of the organization’s adoption policies that both allow for and could be expanded to create more equitable access to the human–animal bond. Animal shelters and rescues should use these findings to optimize community participation in adoption programs and advance animal welfare.",
+   "authors": [
+    "Kaleigh M. O’Reilly",
+    "Liana R. Moss",
+    "Alexis Bettencourt",
+    "Lindsay Hamrick",
+    "Kevin N. Morris"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213389",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "美國動物安置組織自1990年代起便開始採用以對話為基礎的伴侶動物領養政策。這些政策不同於傳統的領養方法，傳統方法通常透過資格審查或限制來決定領養人的適任性。個人經歷顯示，領養人的體驗會根據組織所採用的領養政策而有顯著差異，因此不應將其一概而論。鑑於近期的研究表明，以對話為基礎的政策可能會帶來更公平的人與動物連結管道，因此有必要了解領養人對這些特定政策的實際體驗。本研究採用現象學方法，以了解領養人如何看待以對話為基礎的領養政策。研究人員對威斯康辛人道協會密爾瓦基校區的30位社區成員進行了半結構式訪談。參與者描述了一致的領養體驗，並強調了其優勢、待改進之處，以及他們如何看待此類政策對其社區的影響。此外，參與者指出該組織領養政策中的關鍵面向，這些面向既能促成、亦可擴展以創造更公平的人與動物連結管道。動物收容所與救援組織應利用這些研究結果來優化社區對領養計畫的參與，並推進動物福利。"
+  },
+  {
+   "doi": "10.3390/ani16213382",
+   "title": "Procyanidin Protects Against Polystyrene Microplastic-Induced Male Reproductive Injury Through the NRF2/SLC7A11/GPX4 Pathway",
+   "abstract": "Polystyrene microplastics (PS-MPs) are ubiquitous environmental contaminants of emerging concern owing to their potential adverse effects on male reproductive health. However, the mechanisms underlying PS-MP-induced reproductive injury remain poorly understood, and effective protective interventions are lacking. Here, we investigated the protective effects of procyanidin (PC), a naturally occurring polyphenolic antioxidant, against PS-MP-induced reproductive injury in mice and elucidated the underlying mechanisms using TM3 Leydig cells. In mice, PC treatment attenuated the PS-MP-induced reductions in serum testosterone levels, sperm concentration, survival, and motility. PC also reduced the incidence of sperm abnormalities and the severity of histopathological lesions in the testes and epididymis. PS-MP exposure increased testicular Fe2+ levels and lipid peroxidation while decreasing GSH levels and GSH-Px, CAT, and T-SOD activities; these changes were reversed by PC. PS-MP exposure also downregulated the expression of NRF2, SLC7A11, and GPX4 and altered the expression of ferroptosis-related markers; PC treatment largely reversed these changes. In TM3 cells, PC reduced PS-MP-induced Fe2+ accumulation and lipid peroxidation, preserved mitochondrial membrane potential, and attenuated mitochondrial permeability transition pore (MPTP) opening. These effects were weakened by Erastin, an inhibitor of system Xc− that suppresses SLC7A11-mediated cystine uptake, and by ML385, an NRF2 inhibitor, suggesting the involvement of ferroptosis-related and NRF2-mediated signaling. Molecular docking predicted potential interactions between PC and NRF2 and SLC7A11. Collectively, these findings indicate that PC protects against PS-MP-induced male reproductive injury, potentially by modulating the NRF2/SLC7A11/GPX4 pathway.",
+   "authors": [
+    "Shihui Zhang",
+    "Qiang Shan",
+    "Boshi Xu",
+    "Shuo Li",
+    "Zheng Cao",
+    "Yanan Li",
+    "Lijia Zhao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213382",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "聚苯乙烯微塑膠（PS-MPs）是普遍存在的環境汙染物，因其對男性生殖健康的潛在不良影響而日益受到關注。然而，PS-MP誘導生殖損傷的潛在機制仍不甚清楚，且缺乏有效的保護性介入措施。在本研究中，我們探討了原花青素（PC，一種天然的多酚類抗氧化劑）對小鼠PS-MP誘導生殖損傷的保護作用，並使用TM3雷氏細胞闡明其潛在機制。在小鼠中，PC治療減輕了PS-MP引起的血清睪固酮濃度、精子濃度、存活率和活動力的下降。PC還降低了精子異常的發生率，以及睪丸和副睪組織病理學病變的嚴重程度。PS-MP暴露增加了睪丸Fe2+濃度和脂質過氧化，同時降低了GSH濃度以及GSH-Px、CAT和T-SOD活性；這些變化可被PC逆轉。PS-MP暴露還下調了NRF2、SLC7A11和GPX4的表現，並改變了鐵凋亡（ferroptosis）相關標記物的表現；PC治療在很大程度上逆轉了這些變化。在TM3細胞中，PC減少了PS-MP誘導的Fe2+累積和脂質過氧化，維持了粒線體膜電位，並減輕了粒線體通透性轉移孔（MPTP）的開放。這些作用會被Erastin（抑制SLC7A11介導之胱胺酸攝取的系統Xc−抑制劑）以及ML385（一種NRF2抑制劑）所削弱，這表明鐵凋亡相關和NRF2介導的訊息傳遞參與其中。分子模擬對接預測了PC與NRF2和SLC7A11之間的潛在交互作用。綜上所述，這些發現表明PC能保護PS-MP引起的男性生殖損傷，其機制可能透過調控NRF2/SLC7A11/GPX4途徑實現。"
+  },
+  {
+   "doi": "10.3390/ani16213381",
+   "title": "Indole-3-Lactic Acid Modulates Feeding Behavior and Appetite-Related Signals in Weaned Piglets",
+   "abstract": "Gut microbiota-derived metabolites act as important mediators linking the gut microbiome with host physiological functions and participate in the regulation of metabolic homeostasis and behavior. However, whether the tryptophan metabolite indole-3-lactic acid (ILA) regulates feeding behavior in piglets and its potential central regulatory mechanisms remain unclear. In this study, 12 weaned piglets were used as a model to investigate the effects of ILA on feeding behavior regulation. The results showed that ILA supplementation did not significantly affect growth performance (p &gt; 0.05), although final body weight, average daily gain, and average daily feed intake were numerically higher in the ILA group than in the control group. ILA also altered feeding behavior patterns, characterized by reduced daily feeding frequency (p &lt; 0.05) and increased feeding rate (p = 0.053). Furthermore, ILA significantly increased serum concentrations of several appetite-related gastrointestinal hormones, including glucagon-like peptide-1, peptide YY, ghrelin, and cholecystokinin, and modified serum lipid metabolism-related parameters (p &lt; 0.05). Hypothalamic transcriptomic analysis identified 240 differentially expressed genes in the ILA group compared with the CON group, with enrichment of genes involved in neural signaling and appetite regulation. These findings suggest that ILA may influence feeding behavior in weaned piglets, accompanied by numerical increases in feed intake and growth-related parameters, as well as changes in peripheral appetite-related gastrointestinal hormones and hypothalamic transcriptional responses.",
+   "authors": [
+    "Keyi Chen",
+    "Xinghua Dong",
+    "Huixuan He",
+    "Yu Huang",
+    "Yong Su"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213381",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "腸道菌群衍生的代謝物作為重要媒介，連結了腸道微生物組與宿主生理功能，並參與調節代謝恆定與行為。然而，色胺酸代謝物吲哚-3-乳酸（ILA）是否調節仔豬的攝食行為及其潛在的中樞調節機制仍不清楚。本研究以12頭離乳仔豬作為模型，探討ILA對攝食行為調節的影響。結果顯示，補充ILA對生長性能並無顯著影響（p > 0.05），儘管ILA組的最終體重、平均日增重和平均日採食量在數值上高於對照組。ILA也改變了攝食行為模式，其特徵為每日進食頻率降低（p < 0.05）以及進食速率增加（p = 0.053）。此外，ILA顯著增加了多種與食慾相關的血清胃腸道荷爾蒙濃度，包括升糖素類似肽-1、肽YY、飢餓素和膽囊收縮素，並改變了血清脂質代謝相關參數（p < 0.05）。下視丘轉錄體分析顯示，與CON組相比，ILA組有240個差異表現基因，並富集了參與神經信號傳遞與食慾調節的基因。這些發現表明，ILA可能會影響離乳仔豬的攝食行為，並伴隨採食量與生長相關參數的數值增加，以及周邊食慾相關胃腸道荷爾蒙和下視丘轉錄反應的改變。"
+  },
+  {
+   "doi": "10.3390/ani16213380",
+   "title": "Impact of Sugar Beet Pulp-Based Diets on the Chemical Composition, Mineral Profile, and Chitin Yield of Black Soldier Fly (Hermetia illucens L.) Larvae",
+   "abstract": "Utilizing agro-industrial by-products such as sugar beet pulp (SBP) in black soldier fly (Hermetia illucens L.) rearing is an attractive strategy for circular feed production; however, its consequences on larval chemical composition and cuticular mineralization require detailed characterization. This study evaluated the effects of SBP inclusion, with or without Trichoderma sp. inoculation or beet molasses addition, on the proximate composition, macro- and trace mineral profiles, and gravimetric chitin yield of whole H. illucens larvae. Five-day-old larvae were reared across three independent biological cycles (n = 3 rearing containers per treatment) on four diets: Control (100% wheat bran), Option 1 (60% wheat bran + 40% SBP), Option 2 (60% wheat bran + 40% SBP with Trichoderma sp. at 1 × 106 CFU/g), and Option 3 (60% wheat bran + 30% SBP + 10% molasses). Larvae were harvested without a pre-harvest fasting period to reflect commercial whole-larva processing. Dietary inclusion of SBP significantly decreased larval crude protein (44.66 ± 2.88% DM in Option 1, 44.36 ± 3.12% DM in Option 2, and 45.25 ± 0.97% DM in Option 3 vs. 50.85 ± 3.23% DM in Control; p = 0.038), reflecting the lower protein density of SBP. Crude fat (32.18–36.32% DM; p = 0.774) and water-soluble carbohydrates (1.80–2.20% DM; p = 0.388) did not differ significantly among treatments. SBP inclusion markedly increased the crude ash content (10.59–13.68% DM vs. 5.75 ± 0.52% DM in Control; p &lt; 0.001) and whole-body calcium (7.46–8.84% DM vs. 2.43 ± 1.39% DM in Control; p = 0.003), driving the larval Ca:P ratio from 2.45:1 to 8.04:1. Manganese concentrations were elevated in all SBP diets (661.2–700.6 mg/kg vs. 589.9 ± 71.7 mg/kg in Control; p = 0.041), while iron was significantly higher in Option 1 (286.9 ± 71.5 mg/kg vs. 168.9 ± 34.4 mg/kg in Control; p = 0.024). The gravimetric chitin yield was significantly higher on 40% SBP diets (7.75 ± 0.22% DM in Option 1; 7.82 ± 0.18% DM in Option 2) than in the Control (7.34 ± 0.15% DM; p = 0.004), whereas Option 3 yielded the lowest chitin content (7.14 ± 0.12% DM). Fungal inoculation produced no significant differences over SBP alone. These results demonstrate that SBP-based diets substantially increase whole-body ash and calcium levels while altering chitin yields, providing critical compositional benchmarks for tailoring insect meal to non-ruminant livestock feeding.",
+   "authors": [
+    "Nerijus Naglius",
+    "Povilas Mulerčikas",
+    "Aurelija Ramanauskaitė",
+    "Irmantas Parasotas",
+    "Gintarė Naglė"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213380",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "利用如甜菜粕（SBP）等農工業副產物來飼養黑水虻（Hermetia illucens L.）是實現循環飼料生產的一項具吸引力的策略；然而，其對幼蟲化學組成及表皮礦化作用的影響則需要詳細的特性分析。本研究評估了添加甜菜粕（伴隨或不伴隨木黴菌（Trichoderma sp.）接種或添加甜菜糖蜜）對黑水虻全蟲幼蟲的一般成分、巨量與微量礦物質譜及重量法幾 chitin（幾丁質）產量的影響。日齡五天的幼蟲在三個獨立的生物循環中（每個處理 n = 3 個飼養容器）以四種飼料進行飼養：對照組（100% 麥麩）、選項 1（60% 麥麩 + 40% 甜菜粕）、選項 2（60% 麥麩 + 40% 甜菜粕加 1 × 10^6 CFU/g 的木黴菌），以及選項 3（60% 麥麩 + 30% 甜菜粕 + 10% 糖蜜）。幼蟲在收穫前未進行絕食處理，以反映商業全蟲加工的情況。飼糧中添加甜菜粕顯著降低了幼蟲的粗蛋白質含量（選項 1 為 44.66 ± 2.88% 乾物質，選項 2 為 44.36 ± 3.12% 乾物質，選項 3 為 45.25 ± 0.97% 乾物質，相對照組之 50.85 ± 3.23% 乾物質；p = 0.038），這反映出甜菜粕較低的蛋白質濃度。粗脂肪（32.18–36.32% 乾物質；p = 0.774）和水溶性碳水化合物（1.80–2.20% 乾物質；p = 0.388）在各處理間無顯著差異。添加甜菜粕顯著增加了粗灰分含量（10.59–13.68% 乾物質，相對照組之 5.75 ± 0.52% 乾物質；p < 0.001）以及全蟲鈣含量（7.46–8.84% 乾物質，相對照組之 2.43 ± 1.39% 乾物質；p = 0.003），使幼蟲的鈣磷比（Ca:P ratio）從 2.45:1 提高至 8.04:1。所有甜菜粕飼糧中的錳濃度均升高（661.2–700.6 mg/kg，相對照組之 589.9 ± 71.7 mg/kg；p = 0.041），而選項 1 的鐵含量則顯著較高（286.9 ± 71.5 mg/kg，相對照組之 168.9 ± 34.4 mg/kg；p = 0.024）。40% 甜菜粕飼糧的重量法幾丁質產量顯著高於對照組（7.34 ± 0.15% 乾物質；p = 0.004），其中選項 1 為 7.75 ± 0.22% 乾物質、選項 2 為 7.82 ± 0.18% 乾物質；而選項 3 的幾丁質含量最低（7.14 ± 0.12% 乾物質）。真菌接種與單獨添加甜菜粕相比，並未產生顯著差異。這些結果表明，基於甜菜粕的飼糧會大幅增加全蟲的灰分和鈣含量，同時改變幾丁質產量，為調整昆蟲蛋白粉以供非反芻家畜餵養提供了關鍵的組成基準。"
+  },
+  {
+   "doi": "10.3390/ani16213379",
+   "title": "Development and Preliminary Evaluation of a Teacher-Supervised AI-Assisted Closed-Loop Learning Model for an Undergraduate Animal Physiology Laboratory Course",
+   "abstract": "Animal Physiology Laboratory requires students to integrate physiological knowledge, experimental procedures, animal handling, real-time signal interpretation, and post-class reflection. To address the fragmentation of conventional laboratory teaching, this study developed an AI-assisted closed-loop learning model integrating online preparation, virtual simulation, predictive interpretation, hands-on animal experimentation, real-time physiological signal acquisition, troubleshooting-oriented review, and teacher-supervised AI-assisted feedback. Two evaluations were conducted at class-level: (1) a non-concurrent historical cohort comparison of students in Animal Science and Veterinary Medicine who entered the university in 2020 or 2021 (pre-reform cohorts) and 2022 or 2023 (post-reform cohorts); and (2) a cluster-randomized comparison involving 386 Veterinary Medicine students from 14 classes, allocated to either traditional teaching (7 classes; n = 190) or the AI-assisted group (7 classes; n = 196). The lab course lasted 8 weeks, while the teaching team, instructional content, laboratory resources, assessment criteria, and grading rubrics were matched between groups. The historical cohorts had higher reported final grades after the curriculum reform in both majors (p &lt; 0.05). In the cluster randomized comparision, baseline prerequisite-course scores were comparable between the traditional and AI-assisted groups (81.93 ± 0.65 vs. 81.13 ± 0.59, p = 0.3807), and the final laboratory scores were higher in the AI-assisted group (94.27 ± 0.27 vs. 89.09 ± 1.16, p &lt; 0.01). Although postrequisite-course scores and score gains from prerequisite to postrequisite courses were slightly higher in the AI-assisted group, neither difference was statistically significant (p = 0.1470 and p = 0.3022, respectively). These findings suggest that the AI-assisted closed-loop learning model can improve course-specific learning performance in veterinary physiology laboratory education. Its longer-term effects on subsequent-course performance require further investigation.",
+   "authors": [
+    "Qiongzhen Xian",
+    "Shengfeng Chen",
+    "Yinshan Bai",
+    "Kuiqing Cui",
+    "Lian Liu",
+    "Wei Wang",
+    "Shuo Zhou",
+    "Xiaoshu Zhan"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213379",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "動物生理學實驗要求學生整合生理學知識、實驗程序、動物保定、即時訊號判讀與課後反思。為解決傳統實驗教學片段化之問題，本研究開發了一個結合線上預習、虛擬模擬、預測性判讀、實際動物實驗、即時生理訊號擷取、以問題排解為導向的複習，以及教師監督之AI輔助回饋的AI輔助閉環學習模型。本研究進行了兩項班級層級的評估：(1) 非同期歷史世代比較，對象為2020或2021年（改革前世代）與2022或2023年（改革後世代）入學之動物科學系與獸醫學系學生；以及 (2) 叢集隨機比較，納入來自14個班級共386名獸醫學系學生，隨機分派至傳統教學組（7個班，n = 190）或AI輔助組（7個班，n = 196）。實驗課程為期8週，兩組間之教學團隊、教學內容、實驗室資源、評量標準與成績評定規準皆保持一致。課程改革後，兩個系所之歷史世代的期末總成績皆較高（p < 0.05）。在叢集隨機比較中，傳統組與AI輔助組之先修課程基準成績具可比性（81.93 ± 0.65 對 81.13 ± 0.59，p = 0.3807），而AI輔助組的實驗期末成績較高（94.27 ± 0.27 對 89.09 ± 1.16，p < 0.01）。儘管AI輔助組之後續課程成績及從先修至後續課程之成績進步幅度略高，但兩項差異均無統計顯著性（分別為 p = 0.1470 與 p = 0.3022）。這些結果顯示，AI輔助閉環學習模型能提升獸醫生理學實驗教育中特定課程之學習成效，而其對後續課程表現的較長期影響則需要進一步探討。"
+  },
+  {
+   "doi": "10.3390/ani16213378",
+   "title": "Omeprazole Exposure Before Referral in Dogs with Chronic Inflammatory Enteropathy: A Retrospective Observational Single-Centre Study",
+   "abstract": "Omeprazole, a proton pump inhibitor, is widely used in veterinary medicine, although it may be frequently prescribed for conditions in which evidence of benefit is limited. This retrospective observational single-centre study evaluated omeprazole exposure before referral in dogs subsequently diagnosed with chronic inflammatory enteropathy. Medical records from 151 dogs were reviewed, including omeprazole exposure during the six months preceding referral, documented indication, dose and administration frequency. Indications were classified according to American College of Veterinary Internal Medicine consensus recommendations. Overall, 83/151 dogs (55.0%; 95% CI, 47.0–62.7%) had documented omeprazole exposure within six months of referral. Of these, 30/83 (36.1%; 95% CI, 26.6–46.9%) had a documented consensus-consistent indication, whereas 53/83 (63.9%; 95% CI, 53.1–73.4%) did not. Non-specific gastrointestinal signs were the most common documented indication (42/83; 50.6%), followed by suspected gastrointestinal bleeding or gastrointestinal ulceration or erosion (21/83; 25.3%) and suspected gastro-oesophageal reflux or reflux-associated oesophagitis (9/83; 10.8%). Among dogs with a clearly documented once or twice daily oral dosing regimen, once daily administration was more common than twice daily administration (38/65; 58.5% versus 27/65; 41.5%). Omeprazole exposure was common before referral, and a substantial proportion of exposed dogs had no documented indication consistent with ACVIM consensus recommendations. Interpretation was limited by the retrospective design and dependence on the completeness of referring veterinary clinical records.",
+   "authors": [
+    "Amy Norman",
+    "Michelle Walton-Clark"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213378",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "奧美拉唑（omeprazole）作為一種質子幫浦抑制劑（proton pump inhibitor），在獸醫臨床上被廣泛使用，儘管它經常被處方用於其益處證據有限的疾病。本回顧性單中心觀察性研究評估了隨後被診斷為慢性發炎性腸病（chronic inflammatory enteropathy）的犬隻在轉診前的奧美拉唑暴露情況。本研究回顧了 151 隻犬的醫療記錄，包括轉診前六個月內的奧美拉唑暴露情況、記錄在案的適應症、劑量及給藥頻率。適應症根據美國獸醫內科學會（American College of Veterinary Internal Medicine）的共識建議進行分類。整體而言，有 83/151 隻犬（55.0%；95% 信賴區間，47.0–62.7%）在轉診前六個月內有記錄在案的奧美拉唑暴露史。在這些犬隻中，30/83 隻（36.1%；95% 信賴區間，26.6–46.9%）具有符合共識建議的記錄適應症，而 53/83 隻（63.9%；95% 信賴區間，53.1–73.4%）則無。非特異性胃腸道症狀是最常見的記錄適應症（42/83；50.6%），其次為疑似胃腸道出血或胃腸道潰瘍或糜爛（21/83；25.3%），以及疑似胃食道逆流或逆流相關性食道炎（9/83；10.8%）。在具有明確記錄每日一次或每日 zweimal（原文 twice，即每日兩次）口服給藥方案的犬隻中，每日一次給藥比每日兩次給藥更為常見（38/65；58.5% 對比 27/65；41.5%）。奧美拉唑暴露在轉診前相當普遍，且相當大比例的暴露犬隻並無符合 ACVIM 共識建議的記錄適應症。本研究的解讀受限於回顧性設計以及對轉診獸醫臨床記錄完整性的依賴。"
+  },
+  {
+   "doi": "10.3390/ani16213376",
+   "title": "Artificial Intelligence and Metazoan Nervous Systems: From Local Processing to Valenced States of the Organism and the Inference of Suffering",
+   "abstract": "Recognising animals as sentient does not establish whether an individual animal is suffering at a particular time. This structured critical narrative review examines how biological evidence can support that inference. Drawing on evolutionary and comparative neuroscience, animal-welfare research and studies of artificial systems, we examine proposed links among stimulus detection, wider neural modulation, valuation, recurrent integration and consequences for the whole organism. Artificial systems provide comparisons in which learning and adaptive processing can be implemented without independently establishing subjective experience. Their implementation neither establishes feeling nor shows that these functions are unnecessary in conscious animals. Amphioxus, zebrafish, birds, mammals and octopus illustrate distinct questions about neural organisation, internal-state regulation and valuation. Birch et al.’s dimensions guide comparison of possible forms of experience without ranking species on a single scale. Exploratory literature searches, a targeted PubMed audit and a supplementary Scopus coverage check informed source identification and verification. Evidence was appraised separately for each claim, considering alternative explanations, marker validity, dependence among measures, interventions and changes over time. The framework distinguishes capacity for experience, occurrence of a particular state and its welfare significance while assessing confidence in each inference. The proposed biological links organise this assessment; they are not a validated causal sequence or scale of consciousness. Both brief severe experiences and sustained adverse states warrant consideration. AI can extend observation, but its classifications require independent biological validation and evaluation under their intended conditions of use.",
+   "authors": [
+    "Çağrı Çağlar Sinmez",
+    "René van den Hoven",
+    "Tünay Karan",
+    "Ali Cesur Onmaz",
+    "Kübra İpek Özek"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213376",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "承認動物具有感知能力，並無法直接判定某個個體動物在特定時間是否正在受苦。本結構化評論性文獻回顧探討生物學證據如何支持此類推論。藉由借鏡演化與比較神經科學、動物福利研究以及人工系統研究，我們檢視了刺激偵測、更廣泛的神經調節、價值評估、遞迴整合以及對整體生物之影響之間所提出的關聯。人工系統提供了比較基準，在這些系統中，學習與適應性處理機製的實作無需先獨立確立主觀體驗。這些系統的實作既未確立感受的存在，亦未顯示這些功能在具意識的動物身上是不必要的。文昌魚、斑馬魚、鳥類、哺乳動物和章魚闡述了關於神經組織、內部狀態調節與價值評估的獨特問題。伯奇（Birch）等人提出的維度有助於比較可能的體驗形式，而無需將物種按單一尺度進行排名的先後順序。探索性文獻搜尋、針對性的 PubMed 審查以及補充性的 Scopus 涵蓋範圍檢查，為資料來源的識別與驗證提供了依據。本研究對每項主張的證據進行個別評估，同時考慮替代解釋、標記的有效性、量測間的相依性、介入措施以及隨時間的變化。此框架區分了體驗能力、特定狀態的發生及其福利意義，並評估了對各項推論的信心水準。所提出的生物學關聯有助於組織這項評估；它們並非已驗證的因果序列或意識量尺。短暫而嚴重的體驗以及持續的不良狀態皆值得關注。人工智慧可以擴展觀測範圍，但其分類結果需要獨立的生物學驗證，並在預期的使用條件下進行評估。"
+  },
+  {
+   "doi": "10.3390/ani16213374",
+   "title": "De Novo Genome Assemblies of Kazakh Horses: Adai, Zhabe, Mugalzhar and Naiman",
+   "abstract": "Kazakh horses represent an important cultural heritage of the Kazakh people, shaped over thousands of years across the territory of present-day Kazakhstan. Long-term adaptation to extreme natural conditions has led to the development of a unique set of characteristics that ensure the high survivability, ecological plasticity and economic value of these horses. Long- and short-read sequencing was performed for three breeds (Adai, Zhabe, Mugalzhar), while Naiman was sequenced exclusively with nanopore long-read data. The resulting reads were assembled, and the genomes were subsequently annotated. The assembled genomes showed high contiguity with an average contig N50 value of 9.68 Mb (9,681,711 bp) for Adai, Zhabe and Mugalzhar, while the resulting contig N50 was 17.09 Mb (17,090,216 bp) for Naiman, and average assembly length was 2.42 Gb (2,442,471,376 bp). These are individual reference assemblies that establish foundations for future comparative genomics and pangenome development. Gene annotation yielded 19,584, 19,941, 18,695 and 20,572 protein-coding genes for Adai, Zhabe, Mugalzhar and Naiman, respectively. These assemblies complement existing assemblies for future genetic analysis, research into the geographic and breed origins of domestic horses, and breed conservation efforts, and will contribute to ongoing equine pangenome efforts.",
+   "authors": [
+    "Rakhim Kanat",
+    "Yuliya Tugunova",
+    "Zagipa Sapakhova",
+    "Tatyana Ulyanova",
+    "Dinara Salimova",
+    "Ulbolsyn Kaisarova",
+    "Indira Beishova",
+    "Malika Shamekova"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213374",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "哈薩克馬是哈薩克族重要的文化遺產，經過數千年來在現今哈薩克領土上的演化而形成。長期對極端自然條件的適應，促使這些馬匹發展出一套獨特的特徵，確保了其高度的生存能力、生態可塑性與經濟價值。本研究對三個品種（阿代馬、札貝馬、穆加爾扎爾馬）進行了長讀長與短讀長定序，而乃蠻馬則僅使用奈米孔長讀長數據進行定序。隨後將所得的讀長進行組裝與基因體註解。組裝後的基因體顯示出高度的連續性，阿代馬、札貝馬和穆加爾扎爾馬的平均重疊群（contig）N50 值為 9.68 Mb（9,681,711 bp），而乃蠻馬的重疊群 N50 值則為 17.09 Mb（17,090,216 bp），平均組裝長度為 2.42 Gb（2,442,471,376 bp）。這些是個體參考基因體組裝，為未來的比較基因體學與泛基因體（pangenome）發展奠定了基礎。經基因註解後，阿代馬、札貝馬、穆加爾扎爾馬和乃蠻馬分別產出 19,584、19,941、18,695 和 20,572 個蛋白質編碼基因。這些基因體組裝互補了現有的組裝成果，有助於未來的遺傳分析、家馬地理與品種起源研究以及品種保育工作，並將促進當前的馬屬泛基因體研究計畫。"
+  },
+  {
+   "doi": "10.3390/ani16213375",
+   "title": "Retrospective Evaluation of Livestock Monitoring Replay Controllers Under Limited Evidence and Distribution Shift",
+   "abstract": "Livestock monitoring systems must determine which records to inspect, assess whether the evidence supports an answer, and decide when to abstain. We constructed a retrospective replay benchmark using public MmCows records, with separate animals for development and evaluation. The benchmark included 120 current-state episodes and 62 scripted temporal and history checks from four evaluation cows. Across all 182 episodes, conditional routing used 2.51 stored-record calls per episode, compared with 2.82 for a fixed sequence. Task success was lower (90.11% versus 93.96%), while errors among accepted answers were higher (14/85 versus 2/68, or 16.47% versus 2.94%). Conditional routing did not save calls within the current-state episodes. Requiring two supporting cameras reduced errors and coverage, while the learned policy did not outperform a revisable fixed order. Raw confidence, temperature scaling, and isotonic calibration each retained 24 errors among 940 cases. Exploratory image analyses showed poor transfer to the Cow Behavior Video Dataset 5 (CBVD-5), and personalized forecasts showed no clear advantage over seven-day means. Verification accepted all 31 synthetically constructed correlated errors with valid record structure. The framework identifies limitations in evidence acquisition and verification, while the small number of animals and constructed task mixture limit conclusions about farm-level performance.",
+   "authors": [
+    "Xiao Yang",
+    "Jinchang Zhang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213375",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "牲畜監控系統必須決定要檢查哪些紀錄、評估證據是否支援某個答案，以及決定何時應拒絕回答。我們利用公開的 MmCows 紀錄建構了一個回顧性重播基準測試，並將不同的動物分別用於開發與評估。此基準測試包含來自 4 頭評估用牛隻的 120 個現狀情境（episodes），以及 62 個有腳本的時間與歷史檢查。在總共 182 個情境中，條件式路由（conditional routing）每個情境平均使用 2.51 次儲存紀錄呼叫，而固定順序則為 2.82 次。任務成功率較低（90.11% 對比 93.96%），而接受答案中的錯誤率較高（14/85 對比 2/68，即 16.47% 對比 2.94%）。條件式路由並未在現狀情境中減少呼叫次數。要求兩個支援攝影機降低了錯誤率與覆蓋率，而學習得到的策略並未優於可修正的固定順序。原始信賴度、溫度縮放（temperature scaling）與等張校準（isotonic calibration）在 940 個案例中各自保留了 24 個錯誤。探索性影像分析顯示，其向牛隻行為視訊資料集 5（CBVD-5）的遷移效果不佳，且個人化預測相比於七天平均值並未展現出明顯優勢。驗證接受了所有 31 個具備有效紀錄結構、以合成方式建構的相關錯誤。此框架指出了證據獲取與驗證方面的侷限性，而少數的動物數量與建構的任務組合則限制了對農場層級效能的推論。"
+  },
+  {
+   "doi": "10.3390/ani16213370",
+   "title": "Correction: Huang et al. The Impact of Mutant EDNRB on the Two-End Black Coat Color Phenotype in Chinese Local Pigs. Animals 2025, 15, 478",
+   "abstract": "Error in Figure [...]",
+   "authors": [
+    "Min Huang",
+    "Zuohao Wen",
+    "Tao Huang",
+    "Xiaolong Zhou",
+    "Zhijun Wang",
+    "Songbai Yang",
+    "Ayong Zhao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213370",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "圖 [...] 中的錯誤"
+  },
+  {
+   "doi": "10.1002/age.70226",
+   "title": "Generative Adversarial Networks for Omics Data: An Overview and Future Directions for Livestock Applications",
+   "abstract": "Generative adversarial networks (GANs) are artificial intelligence models designed to generate novel data that is indistinguishable from real data. Originally developed to generate images to complement existing datasets and create more diverse samples, GAN‐based data can enhance downstream analysis for machine learning and deep learning applications. GAN‐based approaches are also versatile and suitable for augmenting omics data, improving downstream analyses such as genotype prediction, biomarker detection, and protein de novo design. In addition, GANs can preserve and reconstruct genomic regions under selective pressure, increase sample sizes from underrepresented groups, and mitigate class imbalance effects in genomic analyses, transcriptomics, and single‐cell omics. Recent work also demonstrates that GAN‐generated data can support privacy‐preserving data sharing and the design of novel biological sequences and proteins. This literature review presents the foundational concepts of GANs, explores diverse applications across omics fields, and highlights novel opportunities for applying GAN approaches in livestock genomics.",
+   "authors": [
+    "Edgar Caballero Vargas",
+    "Tiago Bresolin"
+   ],
+   "journal": "Animal Genetics",
+   "url": "https://doi.org/10.1002/age.70226",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "生成對抗網路（GANs）是一種人工智慧模型，旨在生成與真實資料無法區分的全新資料。最初開發 GAN 是為了生成影像以互補現有資料集並建立更多樣化的樣本，基於 GAN 的資料可以增強機器學習與深度學習應用的下游分析。基於 GAN 的方法亦具有高度通用性，適合用於擴增體學資料，進而改善下游分析，例如基因型預測、生物標記偵測以及蛋白質從頭設計（de novo design）。此外，GAN 還能保留並重建承受選擇壓力的基因體區域、增加代表性不足群體的樣本數，並減輕基因體學、轉錄體學與單細胞體學中類別不平衡的影響。近期研究也表明，GAN 生成的資料可以支援保護隱私的資料分享，以及新穎生物序列和蛋白質的設計。本篇文獻綜述介紹了 GAN 的基礎概念，探討其在各個體學領域的多樣化應用，並突顯將 GAN 方法應用於家畜基因體學的新穎契機。"
   }
  ]
 }
