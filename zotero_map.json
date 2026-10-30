@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "name": "review",
+      "collection": "558W3H3I",
+      "tag": "綜述回顧",
+      "keywords": []
+    },
+    {
+      "name": "genetics_breeding",
+      "collection": "SPSZNDFX",
+      "tag": "遺傳育種",
+      "keywords": ["gblup", "genomic selection", "gwas", "genetic selection", "heritability", "genetic parameters", "crossbreeding", "genetic diversity", "breeding"]
+    },
+    {
+      "name": "precision_farming",
+      "collection": "46JWK6M2",
+      "tag": "精準飼養",
+      "keywords": ["precision livestock farming", "rfid", "electronic feeder", "automated monitoring"]
+    },
+    {
+      "name": "physiology",
+      "collection": "3KV3CHRM",
+      "tag": "生理",
+      "keywords": ["reproduction", "fertility", "artificial insemination", "semen", "ovulation"]
+    },
+    {
+      "name": "nutrition",
+      "collection": "X9MF7ZVZ",
+      "tag": "營養",
+      "keywords": ["nutrition", "amino acid", "mycotoxin", "feed efficiency", "residual feed intake", "feed conversion ratio", "fcr"]
+    },
+    {
+      "name": "disease_health",
+      "collection": "7Z26W6CE",
+      "tag": "疾病與健康",
+      "keywords": ["disease", "salmonella", "immunology", "antimicrobial resistance"]
+    },
+    {
+      "name": "meat_egg_quality",
+      "collection": "ZEHGMRM3",
+      "tag": "肉品蛋品品質",
+      "keywords": ["meat quality", "egg quality", "carcass"]
+    }
+  ],
+  "default": {
+    "collection": "9FFW9UD8",
+    "tag": "待分類"
+  }
+}
