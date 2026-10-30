@@ -73,6 +73,7 @@
 <body>
 <header>
   <h1>📡 Paper Radar<span id="updated"></span></h1>
+  <div id="stats" style="font-size:12.5px;color:var(--muted);margin:2px 0 8px;"></div>
   <div class="controls">
     <button data-filter="all" class="active">All</button>
     <button data-filter="unread">Unread</button>
@@ -98,6 +99,11 @@ function mark(doi) { return marks[doi] || {}; }
 function toggle(doi, key) {
   marks[doi] = mark(doi);
   marks[doi][key] = !marks[doi][key];
+  if (key === "read") {
+    // stamp the date so we can compute reading streaks; clear it if un-marking
+    if (marks[doi].read) marks[doi].readDate = new Date().toISOString().slice(0, 10);
+    else delete marks[doi].readDate;
+  }
   save(); render();
   pushMarksToGitHub();
 }
@@ -182,7 +188,43 @@ function toggleZh(btn) {
   btn.classList.toggle("on", !showing);
 }
 
+function computeStreak(threshold) {
+  // consecutive days (ending today or yesterday) with >= threshold papers read,
+  // based on each mark's readDate. Today not yet hitting threshold doesn't break
+  // a streak built up to yesterday — the day just isn't finished yet.
+  const counts = {};
+  Object.values(marks).forEach(m => {
+    if (m.readDate) counts[m.readDate] = (counts[m.readDate] || 0) + 1;
+  });
+  const d = new Date();
+  const todayStr = d.toISOString().slice(0, 10);
+  if ((counts[todayStr] || 0) < threshold) d.setDate(d.getDate() - 1);
+  let streak = 0;
+  while ((counts[d.toISOString().slice(0, 10)] || 0) >= threshold) {
+    streak++;
+    d.setDate(d.getDate() - 1);
+  }
+  return streak;
+}
+
+function renderStats() {
+  const el = document.getElementById("stats");
+  if (!el) return;
+  const today = new Date().toISOString().slice(0, 10);
+  const d7 = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
+  const todayCount = papers.filter(p => p.first_seen === today).length;
+  const weekCount = papers.filter(p => p.first_seen >= d7).length;
+  const readCount = papers.filter(p => mark(p.doi).read).length;
+  const streak = computeStreak(3);
+  const totalReadAllTime = Object.values(marks).filter(m => m.read).length;
+  el.textContent =
+    `📥 今天新進 ${todayCount} 篇 · 近7天 ${weekCount} 篇 · ✅ 已讀 ${readCount}/${papers.length} 篇` +
+    (streak > 0 ? ` · 🔥 連續 ${streak} 天讀滿3篇` : "") +
+    ` · 🏆 累計已讀 ${totalReadAllTime} 篇`;
+}
+
 function render() {
+  renderStats();
   const list = document.getElementById("list");
   const q = query.toLowerCase();
   const shown = papers.filter(p => {
