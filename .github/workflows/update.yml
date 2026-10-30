@@ -23,10 +23,16 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 fetch_and_score.py
 
+      - name: Sync starred/liked papers to Zotero
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ZOTERO_USER_ID: ${{ secrets.ZOTERO_USER_ID }}
+        run: python3 sync_to_zotero.py
+
       - name: Commit update
         run: |
           git config user.name "paper-radar-bot"
           git config user.email "actions@github.com"
-          git add docs/papers.json
-          git diff --cached --quiet || git commit -m "auto-update papers.json ($(date -u +%F))"
+          git add docs/papers.json marks.json
+          git diff --cached --quiet || git commit -m "auto-update papers.json / sync marks ($(date -u +%F))"
           git push
