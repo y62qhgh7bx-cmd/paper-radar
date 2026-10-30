@@ -34,5 +34,17 @@ jobs:
           git config user.name "paper-radar-bot"
           git config user.email "actions@github.com"
           git add docs/papers.json marks.json
-          git diff --cached --quiet || git commit -m "auto-update papers.json / sync marks ($(date -u +%F))"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "auto-update papers.json / sync marks ($(date -u +%F))"
+          # The live page can PUT marks.json directly via the GitHub API at any
+          # time, so a plain push can race with it. Pull --rebase and retry a
+          # few times before giving up.
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+          echo "::error::Could not push after 5 attempts"
+          exit 1
