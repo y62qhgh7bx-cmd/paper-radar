@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T01:41:58+00:00",
+ "updated": "2026-10-30T09:12:06+00:00",
  "papers": [
   {
    "doi": "10.1002/age.70224",
@@ -6582,6 +6582,25 @@
    "abstract_zh": "美國動物安置組織自1990年代起便開始採用以對話為基礎的伴侶動物領養政策。這些政策不同於傳統的領養方法，傳統方法通常透過資格審查或限制來決定領養人的適任性。個人經歷顯示，領養人的體驗會根據組織所採用的領養政策而有顯著差異，因此不應將其一概而論。鑑於近期的研究表明，以對話為基礎的政策可能會帶來更公平的人與動物連結管道，因此有必要了解領養人對這些特定政策的實際體驗。本研究採用現象學方法，以了解領養人如何看待以對話為基礎的領養政策。研究人員對威斯康辛人道協會密爾瓦基校區的30位社區成員進行了半結構式訪談。參與者描述了一致的領養體驗，並強調了其優勢、待改進之處，以及他們如何看待此類政策對其社區的影響。此外，參與者指出該組織領養政策中的關鍵面向，這些面向既能促成、亦可擴展以創造更公平的人與動物連結管道。動物收容所與救援組織應利用這些研究結果來優化社區對領養計畫的參與，並推進動物福利。"
   },
   {
+   "doi": "10.3390/ani16213381",
+   "title": "Indole-3-Lactic Acid Modulates Feeding Behavior and Appetite-Related Signals in Weaned Piglets",
+   "abstract": "Gut microbiota-derived metabolites act as important mediators linking the gut microbiome with host physiological functions and participate in the regulation of metabolic homeostasis and behavior. However, whether the tryptophan metabolite indole-3-lactic acid (ILA) regulates feeding behavior in piglets and its potential central regulatory mechanisms remain unclear. In this study, 12 weaned piglets were used as a model to investigate the effects of ILA on feeding behavior regulation. The results showed that ILA supplementation did not significantly affect growth performance (p &gt; 0.05), although final body weight, average daily gain, and average daily feed intake were numerically higher in the ILA group than in the control group. ILA also altered feeding behavior patterns, characterized by reduced daily feeding frequency (p &lt; 0.05) and increased feeding rate (p = 0.053). Furthermore, ILA significantly increased serum concentrations of several appetite-related gastrointestinal hormones, including glucagon-like peptide-1, peptide YY, ghrelin, and cholecystokinin, and modified serum lipid metabolism-related parameters (p &lt; 0.05). Hypothalamic transcriptomic analysis identified 240 differentially expressed genes in the ILA group compared with the CON group, with enrichment of genes involved in neural signaling and appetite regulation. These findings suggest that ILA may influence feeding behavior in weaned piglets, accompanied by numerical increases in feed intake and growth-related parameters, as well as changes in peripheral appetite-related gastrointestinal hormones and hypothalamic transcriptional responses.",
+   "authors": [
+    "Keyi Chen",
+    "Xinghua Dong",
+    "Huixuan He",
+    "Yu Huang",
+    "Yong Su"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213381",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "腸道菌群衍生的代謝物作為重要媒介，連結了腸道微生物組與宿主生理功能，並參與調節代謝恆定與行為。然而，色胺酸代謝物吲哚-3-乳酸（ILA）是否調節仔豬的攝食行為及其潛在的中樞調節機制仍不清楚。本研究以12頭離乳仔豬作為模型，探討ILA對攝食行為調節的影響。結果顯示，補充ILA對生長性能並無顯著影響（p > 0.05），儘管ILA組的最終體重、平均日增重和平均日採食量在數值上高於對照組。ILA也改變了攝食行為模式，其特徵為每日進食頻率降低（p < 0.05）以及進食速率增加（p = 0.053）。此外，ILA顯著增加了多種與食慾相關的血清胃腸道荷爾蒙濃度，包括升糖素類似肽-1、肽YY、飢餓素和膽囊收縮素，並改變了血清脂質代謝相關參數（p < 0.05）。下視丘轉錄體分析顯示，與CON組相比，ILA組有240個差異表現基因，並富集了參與神經信號傳遞與食慾調節的基因。這些發現表明，ILA可能會影響離乳仔豬的攝食行為，並伴隨採食量與生長相關參數的數值增加，以及周邊食慾相關胃腸道荷爾蒙和下視丘轉錄反應的改變。"
+  },
+  {
    "doi": "10.3390/ani16213382",
    "title": "Procyanidin Protects Against Polystyrene Microplastic-Induced Male Reproductive Injury Through the NRF2/SLC7A11/GPX4 Pathway",
    "abstract": "Polystyrene microplastics (PS-MPs) are ubiquitous environmental contaminants of emerging concern owing to their potential adverse effects on male reproductive health. However, the mechanisms underlying PS-MP-induced reproductive injury remain poorly understood, and effective protective interventions are lacking. Here, we investigated the protective effects of procyanidin (PC), a naturally occurring polyphenolic antioxidant, against PS-MP-induced reproductive injury in mice and elucidated the underlying mechanisms using TM3 Leydig cells. In mice, PC treatment attenuated the PS-MP-induced reductions in serum testosterone levels, sperm concentration, survival, and motility. PC also reduced the incidence of sperm abnormalities and the severity of histopathological lesions in the testes and epididymis. PS-MP exposure increased testicular Fe2+ levels and lipid peroxidation while decreasing GSH levels and GSH-Px, CAT, and T-SOD activities; these changes were reversed by PC. PS-MP exposure also downregulated the expression of NRF2, SLC7A11, and GPX4 and altered the expression of ferroptosis-related markers; PC treatment largely reversed these changes. In TM3 cells, PC reduced PS-MP-induced Fe2+ accumulation and lipid peroxidation, preserved mitochondrial membrane potential, and attenuated mitochondrial permeability transition pore (MPTP) opening. These effects were weakened by Erastin, an inhibitor of system Xc− that suppresses SLC7A11-mediated cystine uptake, and by ML385, an NRF2 inhibitor, suggesting the involvement of ferroptosis-related and NRF2-mediated signaling. Molecular docking predicted potential interactions between PC and NRF2 and SLC7A11. Collectively, these findings indicate that PC protects against PS-MP-induced male reproductive injury, potentially by modulating the NRF2/SLC7A11/GPX4 pathway.",
@@ -6603,25 +6622,6 @@
    "abstract_zh": "聚苯乙烯微塑膠（PS-MPs）是普遍存在的環境汙染物，因其對男性生殖健康的潛在不良影響而日益受到關注。然而，PS-MP誘導生殖損傷的潛在機制仍不甚清楚，且缺乏有效的保護性介入措施。在本研究中，我們探討了原花青素（PC，一種天然的多酚類抗氧化劑）對小鼠PS-MP誘導生殖損傷的保護作用，並使用TM3雷氏細胞闡明其潛在機制。在小鼠中，PC治療減輕了PS-MP引起的血清睪固酮濃度、精子濃度、存活率和活動力的下降。PC還降低了精子異常的發生率，以及睪丸和副睪組織病理學病變的嚴重程度。PS-MP暴露增加了睪丸Fe2+濃度和脂質過氧化，同時降低了GSH濃度以及GSH-Px、CAT和T-SOD活性；這些變化可被PC逆轉。PS-MP暴露還下調了NRF2、SLC7A11和GPX4的表現，並改變了鐵凋亡（ferroptosis）相關標記物的表現；PC治療在很大程度上逆轉了這些變化。在TM3細胞中，PC減少了PS-MP誘導的Fe2+累積和脂質過氧化，維持了粒線體膜電位，並減輕了粒線體通透性轉移孔（MPTP）的開放。這些作用會被Erastin（抑制SLC7A11介導之胱胺酸攝取的系統Xc−抑制劑）以及ML385（一種NRF2抑制劑）所削弱，這表明鐵凋亡相關和NRF2介導的訊息傳遞參與其中。分子模擬對接預測了PC與NRF2和SLC7A11之間的潛在交互作用。綜上所述，這些發現表明PC能保護PS-MP引起的男性生殖損傷，其機制可能透過調控NRF2/SLC7A11/GPX4途徑實現。"
   },
   {
-   "doi": "10.3390/ani16213381",
-   "title": "Indole-3-Lactic Acid Modulates Feeding Behavior and Appetite-Related Signals in Weaned Piglets",
-   "abstract": "Gut microbiota-derived metabolites act as important mediators linking the gut microbiome with host physiological functions and participate in the regulation of metabolic homeostasis and behavior. However, whether the tryptophan metabolite indole-3-lactic acid (ILA) regulates feeding behavior in piglets and its potential central regulatory mechanisms remain unclear. In this study, 12 weaned piglets were used as a model to investigate the effects of ILA on feeding behavior regulation. The results showed that ILA supplementation did not significantly affect growth performance (p &gt; 0.05), although final body weight, average daily gain, and average daily feed intake were numerically higher in the ILA group than in the control group. ILA also altered feeding behavior patterns, characterized by reduced daily feeding frequency (p &lt; 0.05) and increased feeding rate (p = 0.053). Furthermore, ILA significantly increased serum concentrations of several appetite-related gastrointestinal hormones, including glucagon-like peptide-1, peptide YY, ghrelin, and cholecystokinin, and modified serum lipid metabolism-related parameters (p &lt; 0.05). Hypothalamic transcriptomic analysis identified 240 differentially expressed genes in the ILA group compared with the CON group, with enrichment of genes involved in neural signaling and appetite regulation. These findings suggest that ILA may influence feeding behavior in weaned piglets, accompanied by numerical increases in feed intake and growth-related parameters, as well as changes in peripheral appetite-related gastrointestinal hormones and hypothalamic transcriptional responses.",
-   "authors": [
-    "Keyi Chen",
-    "Xinghua Dong",
-    "Huixuan He",
-    "Yu Huang",
-    "Yong Su"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213381",
-   "date": "2026-10-27",
-   "first_seen": "2026-10-28",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "腸道菌群衍生的代謝物作為重要媒介，連結了腸道微生物組與宿主生理功能，並參與調節代謝恆定與行為。然而，色胺酸代謝物吲哚-3-乳酸（ILA）是否調節仔豬的攝食行為及其潛在的中樞調節機制仍不清楚。本研究以12頭離乳仔豬作為模型，探討ILA對攝食行為調節的影響。結果顯示，補充ILA對生長性能並無顯著影響（p > 0.05），儘管ILA組的最終體重、平均日增重和平均日採食量在數值上高於對照組。ILA也改變了攝食行為模式，其特徵為每日進食頻率降低（p < 0.05）以及進食速率增加（p = 0.053）。此外，ILA顯著增加了多種與食慾相關的血清胃腸道荷爾蒙濃度，包括升糖素類似肽-1、肽YY、飢餓素和膽囊收縮素，並改變了血清脂質代謝相關參數（p < 0.05）。下視丘轉錄體分析顯示，與CON組相比，ILA組有240個差異表現基因，並富集了參與神經信號傳遞與食慾調節的基因。這些發現表明，ILA可能會影響離乳仔豬的攝食行為，並伴隨採食量與生長相關參數的數值增加，以及周邊食慾相關胃腸道荷爾蒙和下視丘轉錄反應的改變。"
-  },
-  {
    "doi": "10.3390/ani16213380",
    "title": "Impact of Sugar Beet Pulp-Based Diets on the Chemical Composition, Mineral Profile, and Chitin Yield of Black Soldier Fly (Hermetia illucens L.) Larvae",
    "abstract": "Utilizing agro-industrial by-products such as sugar beet pulp (SBP) in black soldier fly (Hermetia illucens L.) rearing is an attractive strategy for circular feed production; however, its consequences on larval chemical composition and cuticular mineralization require detailed characterization. This study evaluated the effects of SBP inclusion, with or without Trichoderma sp. inoculation or beet molasses addition, on the proximate composition, macro- and trace mineral profiles, and gravimetric chitin yield of whole H. illucens larvae. Five-day-old larvae were reared across three independent biological cycles (n = 3 rearing containers per treatment) on four diets: Control (100% wheat bran), Option 1 (60% wheat bran + 40% SBP), Option 2 (60% wheat bran + 40% SBP with Trichoderma sp. at 1 × 106 CFU/g), and Option 3 (60% wheat bran + 30% SBP + 10% molasses). Larvae were harvested without a pre-harvest fasting period to reflect commercial whole-larva processing. Dietary inclusion of SBP significantly decreased larval crude protein (44.66 ± 2.88% DM in Option 1, 44.36 ± 3.12% DM in Option 2, and 45.25 ± 0.97% DM in Option 3 vs. 50.85 ± 3.23% DM in Control; p = 0.038), reflecting the lower protein density of SBP. Crude fat (32.18–36.32% DM; p = 0.774) and water-soluble carbohydrates (1.80–2.20% DM; p = 0.388) did not differ significantly among treatments. SBP inclusion markedly increased the crude ash content (10.59–13.68% DM vs. 5.75 ± 0.52% DM in Control; p &lt; 0.001) and whole-body calcium (7.46–8.84% DM vs. 2.43 ± 1.39% DM in Control; p = 0.003), driving the larval Ca:P ratio from 2.45:1 to 8.04:1. Manganese concentrations were elevated in all SBP diets (661.2–700.6 mg/kg vs. 589.9 ± 71.7 mg/kg in Control; p = 0.041), while iron was significantly higher in Option 1 (286.9 ± 71.5 mg/kg vs. 168.9 ± 34.4 mg/kg in Control; p = 0.024). The gravimetric chitin yield was significantly higher on 40% SBP diets (7.75 ± 0.22% DM in Option 1; 7.82 ± 0.18% DM in Option 2) than in the Control (7.34 ± 0.15% DM; p = 0.004), whereas Option 3 yielded the lowest chitin content (7.14 ± 0.12% DM). Fungal inoculation produced no significant differences over SBP alone. These results demonstrate that SBP-based diets substantially increase whole-body ash and calcium levels while altering chitin yields, providing critical compositional benchmarks for tailoring insect meal to non-ruminant livestock feeding.",
@@ -6639,6 +6639,47 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "利用如甜菜粕（SBP）等農工業副產物來飼養黑水虻（Hermetia illucens L.）是實現循環飼料生產的一項具吸引力的策略；然而，其對幼蟲化學組成及表皮礦化作用的影響則需要詳細的特性分析。本研究評估了添加甜菜粕（伴隨或不伴隨木黴菌（Trichoderma sp.）接種或添加甜菜糖蜜）對黑水虻全蟲幼蟲的一般成分、巨量與微量礦物質譜及重量法幾 chitin（幾丁質）產量的影響。日齡五天的幼蟲在三個獨立的生物循環中（每個處理 n = 3 個飼養容器）以四種飼料進行飼養：對照組（100% 麥麩）、選項 1（60% 麥麩 + 40% 甜菜粕）、選項 2（60% 麥麩 + 40% 甜菜粕加 1 × 10^6 CFU/g 的木黴菌），以及選項 3（60% 麥麩 + 30% 甜菜粕 + 10% 糖蜜）。幼蟲在收穫前未進行絕食處理，以反映商業全蟲加工的情況。飼糧中添加甜菜粕顯著降低了幼蟲的粗蛋白質含量（選項 1 為 44.66 ± 2.88% 乾物質，選項 2 為 44.36 ± 3.12% 乾物質，選項 3 為 45.25 ± 0.97% 乾物質，相對照組之 50.85 ± 3.23% 乾物質；p = 0.038），這反映出甜菜粕較低的蛋白質濃度。粗脂肪（32.18–36.32% 乾物質；p = 0.774）和水溶性碳水化合物（1.80–2.20% 乾物質；p = 0.388）在各處理間無顯著差異。添加甜菜粕顯著增加了粗灰分含量（10.59–13.68% 乾物質，相對照組之 5.75 ± 0.52% 乾物質；p < 0.001）以及全蟲鈣含量（7.46–8.84% 乾物質，相對照組之 2.43 ± 1.39% 乾物質；p = 0.003），使幼蟲的鈣磷比（Ca:P ratio）從 2.45:1 提高至 8.04:1。所有甜菜粕飼糧中的錳濃度均升高（661.2–700.6 mg/kg，相對照組之 589.9 ± 71.7 mg/kg；p = 0.041），而選項 1 的鐵含量則顯著較高（286.9 ± 71.5 mg/kg，相對照組之 168.9 ± 34.4 mg/kg；p = 0.024）。40% 甜菜粕飼糧的重量法幾丁質產量顯著高於對照組（7.34 ± 0.15% 乾物質；p = 0.004），其中選項 1 為 7.75 ± 0.22% 乾物質、選項 2 為 7.82 ± 0.18% 乾物質；而選項 3 的幾丁質含量最低（7.14 ± 0.12% 乾物質）。真菌接種與單獨添加甜菜粕相比，並未產生顯著差異。這些結果表明，基於甜菜粕的飼糧會大幅增加全蟲的灰分和鈣含量，同時改變幾丁質產量，為調整昆蟲蛋白粉以供非反芻家畜餵養提供了關鍵的組成基準。"
+  },
+  {
+   "doi": "10.3390/ani16213379",
+   "title": "Development and Preliminary Evaluation of a Teacher-Supervised AI-Assisted Closed-Loop Learning Model for an Undergraduate Animal Physiology Laboratory Course",
+   "abstract": "Animal Physiology Laboratory requires students to integrate physiological knowledge, experimental procedures, animal handling, real-time signal interpretation, and post-class reflection. To address the fragmentation of conventional laboratory teaching, this study developed an AI-assisted closed-loop learning model integrating online preparation, virtual simulation, predictive interpretation, hands-on animal experimentation, real-time physiological signal acquisition, troubleshooting-oriented review, and teacher-supervised AI-assisted feedback. Two evaluations were conducted at class-level: (1) a non-concurrent historical cohort comparison of students in Animal Science and Veterinary Medicine who entered the university in 2020 or 2021 (pre-reform cohorts) and 2022 or 2023 (post-reform cohorts); and (2) a cluster-randomized comparison involving 386 Veterinary Medicine students from 14 classes, allocated to either traditional teaching (7 classes; n = 190) or the AI-assisted group (7 classes; n = 196). The lab course lasted 8 weeks, while the teaching team, instructional content, laboratory resources, assessment criteria, and grading rubrics were matched between groups. The historical cohorts had higher reported final grades after the curriculum reform in both majors (p &lt; 0.05). In the cluster randomized comparision, baseline prerequisite-course scores were comparable between the traditional and AI-assisted groups (81.93 ± 0.65 vs. 81.13 ± 0.59, p = 0.3807), and the final laboratory scores were higher in the AI-assisted group (94.27 ± 0.27 vs. 89.09 ± 1.16, p &lt; 0.01). Although postrequisite-course scores and score gains from prerequisite to postrequisite courses were slightly higher in the AI-assisted group, neither difference was statistically significant (p = 0.1470 and p = 0.3022, respectively). These findings suggest that the AI-assisted closed-loop learning model can improve course-specific learning performance in veterinary physiology laboratory education. Its longer-term effects on subsequent-course performance require further investigation.",
+   "authors": [
+    "Qiongzhen Xian",
+    "Shengfeng Chen",
+    "Yinshan Bai",
+    "Kuiqing Cui",
+    "Lian Liu",
+    "Wei Wang",
+    "Shuo Zhou",
+    "Xiaoshu Zhan"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213379",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "動物生理學實驗要求學生整合生理學知識、實驗程序、動物保定、即時訊號判讀與課後反思。為解決傳統實驗教學片段化之問題，本研究開發了一個結合線上預習、虛擬模擬、預測性判讀、實際動物實驗、即時生理訊號擷取、以問題排解為導向的複習，以及教師監督之AI輔助回饋的AI輔助閉環學習模型。本研究進行了兩項班級層級的評估：(1) 非同期歷史世代比較，對象為2020或2021年（改革前世代）與2022或2023年（改革後世代）入學之動物科學系與獸醫學系學生；以及 (2) 叢集隨機比較，納入來自14個班級共386名獸醫學系學生，隨機分派至傳統教學組（7個班，n = 190）或AI輔助組（7個班，n = 196）。實驗課程為期8週，兩組間之教學團隊、教學內容、實驗室資源、評量標準與成績評定規準皆保持一致。課程改革後，兩個系所之歷史世代的期末總成績皆較高（p < 0.05）。在叢集隨機比較中，傳統組與AI輔助組之先修課程基準成績具可比性（81.93 ± 0.65 對 81.13 ± 0.59，p = 0.3807），而AI輔助組的實驗期末成績較高（94.27 ± 0.27 對 89.09 ± 1.16，p < 0.01）。儘管AI輔助組之後續課程成績及從先修至後續課程之成績進步幅度略高，但兩項差異均無統計顯著性（分別為 p = 0.1470 與 p = 0.3022）。這些結果顯示，AI輔助閉環學習模型能提升獸醫生理學實驗教育中特定課程之學習成效，而其對後續課程表現的較長期影響則需要進一步探討。"
+  },
+  {
+   "doi": "10.3390/ani16213376",
+   "title": "Artificial Intelligence and Metazoan Nervous Systems: From Local Processing to Valenced States of the Organism and the Inference of Suffering",
+   "abstract": "Recognising animals as sentient does not establish whether an individual animal is suffering at a particular time. This structured critical narrative review examines how biological evidence can support that inference. Drawing on evolutionary and comparative neuroscience, animal-welfare research and studies of artificial systems, we examine proposed links among stimulus detection, wider neural modulation, valuation, recurrent integration and consequences for the whole organism. Artificial systems provide comparisons in which learning and adaptive processing can be implemented without independently establishing subjective experience. Their implementation neither establishes feeling nor shows that these functions are unnecessary in conscious animals. Amphioxus, zebrafish, birds, mammals and octopus illustrate distinct questions about neural organisation, internal-state regulation and valuation. Birch et al.’s dimensions guide comparison of possible forms of experience without ranking species on a single scale. Exploratory literature searches, a targeted PubMed audit and a supplementary Scopus coverage check informed source identification and verification. Evidence was appraised separately for each claim, considering alternative explanations, marker validity, dependence among measures, interventions and changes over time. The framework distinguishes capacity for experience, occurrence of a particular state and its welfare significance while assessing confidence in each inference. The proposed biological links organise this assessment; they are not a validated causal sequence or scale of consciousness. Both brief severe experiences and sustained adverse states warrant consideration. AI can extend observation, but its classifications require independent biological validation and evaluation under their intended conditions of use.",
+   "authors": [
+    "Çağrı Çağlar Sinmez",
+    "René van den Hoven",
+    "Tünay Karan",
+    "Ali Cesur Onmaz",
+    "Kübra İpek Özek"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213376",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "承認動物具有感知能力，並無法直接判定某個個體動物在特定時間是否正在受苦。本結構化評論性文獻回顧探討生物學證據如何支持此類推論。藉由借鏡演化與比較神經科學、動物福利研究以及人工系統研究，我們檢視了刺激偵測、更廣泛的神經調節、價值評估、遞迴整合以及對整體生物之影響之間所提出的關聯。人工系統提供了比較基準，在這些系統中，學習與適應性處理機製的實作無需先獨立確立主觀體驗。這些系統的實作既未確立感受的存在，亦未顯示這些功能在具意識的動物身上是不必要的。文昌魚、斑馬魚、鳥類、哺乳動物和章魚闡述了關於神經組織、內部狀態調節與價值評估的獨特問題。伯奇（Birch）等人提出的維度有助於比較可能的體驗形式，而無需將物種按單一尺度進行排名的先後順序。探索性文獻搜尋、針對性的 PubMed 審查以及補充性的 Scopus 涵蓋範圍檢查，為資料來源的識別與驗證提供了依據。本研究對每項主張的證據進行個別評估，同時考慮替代解釋、標記的有效性、量測間的相依性、介入措施以及隨時間的變化。此框架區分了體驗能力、特定狀態的發生及其福利意義，並評估了對各項推論的信心水準。所提出的生物學關聯有助於組織這項評估；它們並非已驗證的因果序列或意識量尺。短暫而嚴重的體驗以及持續的不良狀態皆值得關注。人工智慧可以擴展觀測範圍，但其分類結果需要獨立的生物學驗證，並在預期的使用條件下進行評估。"
   },
   {
    "doi": "10.3390/ani16213378",
@@ -6679,28 +6720,6 @@
    "abstract_zh": "哈薩克馬是哈薩克族重要的文化遺產，經過數千年來在現今哈薩克領土上的演化而形成。長期對極端自然條件的適應，促使這些馬匹發展出一套獨特的特徵，確保了其高度的生存能力、生態可塑性與經濟價值。本研究對三個品種（阿代馬、札貝馬、穆加爾扎爾馬）進行了長讀長與短讀長定序，而乃蠻馬則僅使用奈米孔長讀長數據進行定序。隨後將所得的讀長進行組裝與基因體註解。組裝後的基因體顯示出高度的連續性，阿代馬、札貝馬和穆加爾扎爾馬的平均重疊群（contig）N50 值為 9.68 Mb（9,681,711 bp），而乃蠻馬的重疊群 N50 值則為 17.09 Mb（17,090,216 bp），平均組裝長度為 2.42 Gb（2,442,471,376 bp）。這些是個體參考基因體組裝，為未來的比較基因體學與泛基因體（pangenome）發展奠定了基礎。經基因註解後，阿代馬、札貝馬、穆加爾扎爾馬和乃蠻馬分別產出 19,584、19,941、18,695 和 20,572 個蛋白質編碼基因。這些基因體組裝互補了現有的組裝成果，有助於未來的遺傳分析、家馬地理與品種起源研究以及品種保育工作，並將促進當前的馬屬泛基因體研究計畫。"
   },
   {
-   "doi": "10.3390/ani16213379",
-   "title": "Development and Preliminary Evaluation of a Teacher-Supervised AI-Assisted Closed-Loop Learning Model for an Undergraduate Animal Physiology Laboratory Course",
-   "abstract": "Animal Physiology Laboratory requires students to integrate physiological knowledge, experimental procedures, animal handling, real-time signal interpretation, and post-class reflection. To address the fragmentation of conventional laboratory teaching, this study developed an AI-assisted closed-loop learning model integrating online preparation, virtual simulation, predictive interpretation, hands-on animal experimentation, real-time physiological signal acquisition, troubleshooting-oriented review, and teacher-supervised AI-assisted feedback. Two evaluations were conducted at class-level: (1) a non-concurrent historical cohort comparison of students in Animal Science and Veterinary Medicine who entered the university in 2020 or 2021 (pre-reform cohorts) and 2022 or 2023 (post-reform cohorts); and (2) a cluster-randomized comparison involving 386 Veterinary Medicine students from 14 classes, allocated to either traditional teaching (7 classes; n = 190) or the AI-assisted group (7 classes; n = 196). The lab course lasted 8 weeks, while the teaching team, instructional content, laboratory resources, assessment criteria, and grading rubrics were matched between groups. The historical cohorts had higher reported final grades after the curriculum reform in both majors (p &lt; 0.05). In the cluster randomized comparision, baseline prerequisite-course scores were comparable between the traditional and AI-assisted groups (81.93 ± 0.65 vs. 81.13 ± 0.59, p = 0.3807), and the final laboratory scores were higher in the AI-assisted group (94.27 ± 0.27 vs. 89.09 ± 1.16, p &lt; 0.01). Although postrequisite-course scores and score gains from prerequisite to postrequisite courses were slightly higher in the AI-assisted group, neither difference was statistically significant (p = 0.1470 and p = 0.3022, respectively). These findings suggest that the AI-assisted closed-loop learning model can improve course-specific learning performance in veterinary physiology laboratory education. Its longer-term effects on subsequent-course performance require further investigation.",
-   "authors": [
-    "Qiongzhen Xian",
-    "Shengfeng Chen",
-    "Yinshan Bai",
-    "Kuiqing Cui",
-    "Lian Liu",
-    "Wei Wang",
-    "Shuo Zhou",
-    "Xiaoshu Zhan"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213379",
-   "date": "2026-10-27",
-   "first_seen": "2026-10-28",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "動物生理學實驗要求學生整合生理學知識、實驗程序、動物保定、即時訊號判讀與課後反思。為解決傳統實驗教學片段化之問題，本研究開發了一個結合線上預習、虛擬模擬、預測性判讀、實際動物實驗、即時生理訊號擷取、以問題排解為導向的複習，以及教師監督之AI輔助回饋的AI輔助閉環學習模型。本研究進行了兩項班級層級的評估：(1) 非同期歷史世代比較，對象為2020或2021年（改革前世代）與2022或2023年（改革後世代）入學之動物科學系與獸醫學系學生；以及 (2) 叢集隨機比較，納入來自14個班級共386名獸醫學系學生，隨機分派至傳統教學組（7個班，n = 190）或AI輔助組（7個班，n = 196）。實驗課程為期8週，兩組間之教學團隊、教學內容、實驗室資源、評量標準與成績評定規準皆保持一致。課程改革後，兩個系所之歷史世代的期末總成績皆較高（p < 0.05）。在叢集隨機比較中，傳統組與AI輔助組之先修課程基準成績具可比性（81.93 ± 0.65 對 81.13 ± 0.59，p = 0.3807），而AI輔助組的實驗期末成績較高（94.27 ± 0.27 對 89.09 ± 1.16，p < 0.01）。儘管AI輔助組之後續課程成績及從先修至後續課程之成績進步幅度略高，但兩項差異均無統計顯著性（分別為 p = 0.1470 與 p = 0.3022）。這些結果顯示，AI輔助閉環學習模型能提升獸醫生理學實驗教育中特定課程之學習成效，而其對後續課程表現的較長期影響則需要進一步探討。"
-  },
-  {
    "doi": "10.3390/ani16213370",
    "title": "Correction: Huang et al. The Impact of Mutant EDNRB on the Two-End Black Coat Color Phenotype in Chinese Local Pigs. Animals 2025, 15, 478",
    "abstract": "Error in Figure [...]",
@@ -6736,25 +6755,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "牲畜監控系統必須決定要檢查哪些紀錄、評估證據是否支援某個答案，以及決定何時應拒絕回答。我們利用公開的 MmCows 紀錄建構了一個回顧性重播基準測試，並將不同的動物分別用於開發與評估。此基準測試包含來自 4 頭評估用牛隻的 120 個現狀情境（episodes），以及 62 個有腳本的時間與歷史檢查。在總共 182 個情境中，條件式路由（conditional routing）每個情境平均使用 2.51 次儲存紀錄呼叫，而固定順序則為 2.82 次。任務成功率較低（90.11% 對比 93.96%），而接受答案中的錯誤率較高（14/85 對比 2/68，即 16.47% 對比 2.94%）。條件式路由並未在現狀情境中減少呼叫次數。要求兩個支援攝影機降低了錯誤率與覆蓋率，而學習得到的策略並未優於可修正的固定順序。原始信賴度、溫度縮放（temperature scaling）與等張校準（isotonic calibration）在 940 個案例中各自保留了 24 個錯誤。探索性影像分析顯示，其向牛隻行為視訊資料集 5（CBVD-5）的遷移效果不佳，且個人化預測相比於七天平均值並未展現出明顯優勢。驗證接受了所有 31 個具備有效紀錄結構、以合成方式建構的相關錯誤。此框架指出了證據獲取與驗證方面的侷限性，而少數的動物數量與建構的任務組合則限制了對農場層級效能的推論。"
-  },
-  {
-   "doi": "10.3390/ani16213376",
-   "title": "Artificial Intelligence and Metazoan Nervous Systems: From Local Processing to Valenced States of the Organism and the Inference of Suffering",
-   "abstract": "Recognising animals as sentient does not establish whether an individual animal is suffering at a particular time. This structured critical narrative review examines how biological evidence can support that inference. Drawing on evolutionary and comparative neuroscience, animal-welfare research and studies of artificial systems, we examine proposed links among stimulus detection, wider neural modulation, valuation, recurrent integration and consequences for the whole organism. Artificial systems provide comparisons in which learning and adaptive processing can be implemented without independently establishing subjective experience. Their implementation neither establishes feeling nor shows that these functions are unnecessary in conscious animals. Amphioxus, zebrafish, birds, mammals and octopus illustrate distinct questions about neural organisation, internal-state regulation and valuation. Birch et al.’s dimensions guide comparison of possible forms of experience without ranking species on a single scale. Exploratory literature searches, a targeted PubMed audit and a supplementary Scopus coverage check informed source identification and verification. Evidence was appraised separately for each claim, considering alternative explanations, marker validity, dependence among measures, interventions and changes over time. The framework distinguishes capacity for experience, occurrence of a particular state and its welfare significance while assessing confidence in each inference. The proposed biological links organise this assessment; they are not a validated causal sequence or scale of consciousness. Both brief severe experiences and sustained adverse states warrant consideration. AI can extend observation, but its classifications require independent biological validation and evaluation under their intended conditions of use.",
-   "authors": [
-    "Çağrı Çağlar Sinmez",
-    "René van den Hoven",
-    "Tünay Karan",
-    "Ali Cesur Onmaz",
-    "Kübra İpek Özek"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213376",
-   "date": "2026-10-27",
-   "first_seen": "2026-10-28",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "承認動物具有感知能力，並無法直接判定某個個體動物在特定時間是否正在受苦。本結構化評論性文獻回顧探討生物學證據如何支持此類推論。藉由借鏡演化與比較神經科學、動物福利研究以及人工系統研究，我們檢視了刺激偵測、更廣泛的神經調節、價值評估、遞迴整合以及對整體生物之影響之間所提出的關聯。人工系統提供了比較基準，在這些系統中，學習與適應性處理機製的實作無需先獨立確立主觀體驗。這些系統的實作既未確立感受的存在，亦未顯示這些功能在具意識的動物身上是不必要的。文昌魚、斑馬魚、鳥類、哺乳動物和章魚闡述了關於神經組織、內部狀態調節與價值評估的獨特問題。伯奇（Birch）等人提出的維度有助於比較可能的體驗形式，而無需將物種按單一尺度進行排名的先後順序。探索性文獻搜尋、針對性的 PubMed 審查以及補充性的 Scopus 涵蓋範圍檢查，為資料來源的識別與驗證提供了依據。本研究對每項主張的證據進行個別評估，同時考慮替代解釋、標記的有效性、量測間的相依性、介入措施以及隨時間的變化。此框架區分了體驗能力、特定狀態的發生及其福利意義，並評估了對各項推論的信心水準。所提出的生物學關聯有助於組織這項評估；它們並非已驗證的因果序列或意識量尺。短暫而嚴重的體驗以及持續的不良狀態皆值得關注。人工智慧可以擴展觀測範圍，但其分類結果需要獨立的生物學驗證，並在預期的使用條件下進行評估。"
   },
   {
    "doi": "10.1002/age.70226",
@@ -6806,6 +6806,48 @@
    "abstract_zh": "本探索性橫斷研究分析了來自英國一家鮮食貓糧公司現有及潛在客戶的 5,653 隻貓之飼主回報問卷數據，旨在識別與伴侶貓體態相關的因素，並比較飼主使用結構化體態評分（BCS）工具與憑直覺判斷所作出的分類差異。與憑直覺判斷相比，飼主使用結構化 BCS 工具將較少數目的貓分類為理想體態，且對過輕貓隻的一致性低於過重貓隻。本研究針對過重、過輕及理想體態建立了多變量邏輯斯迴歸模型。較高比例的鮮食與理想體態的高勝算比相關（OR 1.22, 95% CI: 1.04–1.42），而乾糧與過重相關（OR 1.83, 95% CI: 1.33–2.51），濕糧則與過輕相關（OR 1.51, 95% CI: 1.06–2.16），儘管此關聯性對不同模型設定的穩健性較低。其他相關因素包括特定的額外熱量來源、餵食習慣、零食種類、活動量、豐富化環境、家庭組成及既有的的人口統計學因素。這些具假設生成性的研究結果突顯了結構化與非結構化飼主評估之間的落差，並找出了值得在更具代表性的族群中進行前瞻性評估的相關因素。"
   },
   {
+   "doi": "10.3390/ani16213396",
+   "title": "Feasibility of Serum and Faecal Interleukin Assessment in Equine Surgical Colic: A Pilot Study",
+   "abstract": "Cytokines may provide information about inflammation in equine colic, but their clinical relevance remains uncertain. This pilot study assessed short-term changes in serum and faecal interleukin (IL)-1β, IL-6 and IL-8 in eight horses undergoing colic surgery and compared measurements with six healthy controls. Colic horses were sampled at admission (D0), 24 h (D1) and day 7 (D7); controls provided serum at D0 and faeces at all three time points. Cytokines were assayed using MILLIPLEX and MAGPIX. Admission faeces were unavailable from 3/8 colic horses (37.5%). Serum IL-1β and IL-6 were below detection limits in 29/29 analysed samples (100%) for each cytokine. Serum IL-8 varied markedly without significant temporal change. Thirty-nine faecal extracts were analysed without faecal assay validation. Faecal estimates were generally lower in colic horses, with nominal between-group differences for IL-6 at D1 (p = 0.045), IL-1β at D7 (p = 0.033) and IL-8 at D7 (p = 0.004). No consistent temporal pattern in faecal estimates or significant association between serum and faecal IL-8 was detected. These findings do not establish the usefulness of these cytokines for clinical monitoring and highlight sampling and analytical limitations that should be addressed in larger, clinically diverse cohorts.",
+   "authors": [
+    "Erwan Degorce",
+    "Daria Lorek",
+    "Agnieszka Żak-Bochenek",
+    "Dorota Długopolska",
+    "Paweł Golonka",
+    "Artur Niedźwiedź",
+    "Natalia Siwińska"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213396",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "細胞激素可能有助於了解馬匹腹痛（絞痛）的發炎狀況，但其臨床相關性仍未確定。本先導研究評估了八匹接受腹痛手術的馬匹在短期內血清與糞便中介白素（IL）-1β、IL-6 與 IL-8 的變化，並將測量結果與六匹健康對照馬進行比較。腹痛馬匹於入院時（D0）、24 小時（D1）及第 7 天（D7）進行採樣；對照組於 D0 提供血清，並在所有三個時間點提供糞便。細胞激素使用 MILLIPLEX 與 MAGPIX 進行分析。8 匹腹痛馬中有 3 匹（37.5%）無法取得入院時的糞便。在 29 個分析樣本中，血清 IL-1β 與 IL-6 均低於各自的檢測極限（各占 100%）。血清 IL-8 呈顯著變異，但無顯著的時間變化。共分析了 39 個糞便萃取物，但未進行糞便檢測驗證。腹痛馬的糞便估算值普遍較低，其中 IL-6 在 D1 ($p = 0.045$)、IL-1β 在 D7 ($p = 0.033$) 以及 IL-8 在 D7 ($p = 0.004$) 顯示名義上的組間差異。未發現糞便估算值呈現一致的時間模式，亦未發現血清與糞便 IL-8 之間有顯著的相關性。這些發現未能確立這些細胞激素用於臨床監控的效用，並凸顯了未來在較大且臨床多樣化的族群中應予解決的採樣與分析限制。"
+  },
+  {
+   "doi": "10.3390/ani16213398",
+   "title": "Evaluation of Digital Tomosynthesis for Detecting Articular Cartilage Lesions in Equine Distal Interphalangeal and Metacarpophalangeal Joints: Comparison with Computed Tomography Arthrography",
+   "abstract": "Conventional radiography has limited sensitivity for detecting equine cartilage lesions. This prospective ex vivo study compared digital tomosynthesis (DT), computed tomography (CT), digital tomosynthesis arthrography (DTA), and computed tomography arthrography (CTA) for detecting artificial and naturally occurring partial- and full-thickness cartilage lesions in distal interphalangeal and metacarpophalangeal joints. Sixteen distal forelimbs from nine horses were examined under simulated weight-bearing (SWB) and non-weight-bearing (NWB) conditions. Three blinded observers evaluated 24 regions per limb, using gross examination as the reference standard. Sensitivity, specificity, and agreement were calculated, and mixed-effects logistic regression was performed. Gross examination identified lesions in 141 of 384 regions. Mean sensitivities (95% confidence intervals), reported for SWB and NWB, respectively, were highest for CTA [60.8% (56.7–64.9); 57.0% (53.4–60.5)], followed by DTA [14.7% (10.6–18.7); 29.1% (24.5–33.9)], CT [13.0% (9.3–16.7); 15.4% (12.0–18.8)], and DT [0.5% (0.0–1.0); 1.7% (0.9–2.4)]. Mean specificities ranged from 96.8% (95.3–98.4) to 99.7% (99.3–100.0). For agreement with gross examination, CTA had the highest pooled Cohen’s κ. Contrast medium administration was associated with higher odds of true-positive and lower odds of true-negative classification. Weight-bearing did not consistently improve lesion detection. Clinical performance requires evaluation in living horses.",
+   "authors": [
+    "Alisa Hahn",
+    "Miguel Valdés Vázquez",
+    "Gabriel Manso-Díaz",
+    "Dagmar Berner",
+    "Joana Maia Ramos",
+    "Marcus G. Doherr",
+    "Christoph J. Lischer"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213398",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "傳統X光攝影對於偵測馬匹軟骨病灶的敏感度有限。本前瞻性體外研究比較了數位體層合成（DT）、電腦斷層掃描（CT）、數位體層合成造影（DTA）與電腦斷層造影（CTA）在偵測遠端指關節及掌指關節中，人工製造與自然發生的部分及全層軟骨病灶之效能。本研究檢視來自9匹馬的16隻遠端前肢，分別在模擬負重（SWB）與非負重（NWB）條件下進行檢查。三位採盲法評估的觀察者針對每肢評估24個區域，並以肉眼檢查作為參考標準。計算敏感度、特異度與一致性，並執行混合效應羅吉斯迴歸。肉眼檢查在384個區域中的141個區域識別出病灶。平均敏感度（95%信賴區間）分別以模擬負重及非負重報告，最高者為CTA [60.8% (56.7–64.9)；57.0% (53.4–60.5)]，其次依序為DTA [14.7% (10.6–18.7)；29.1% (24.5–33.9)]、CT [13.0% (9.3–16.7)；15.4% (12.0–18.8)]以及DT [0.5% (0.0–1.0)；1.7% (0.9–2.4)]。平均特異度介於96.8% (95.3–98.4)至99.7% (99.3–100.0)之間。在與肉眼檢查的一致性方面，CTA具有最高的合併柯hen氏kappa值（Cohen's κ）。對比劑之給予與較高的真陽性分類機率及較低的真陰性分類機率相關。負重並未一致性地改善病灶偵測。其臨床效能尚需於活體馬匹中進行評估。"
+  },
+  {
    "doi": "10.3390/ani16213402",
    "title": "Correction: Zheng et al. Effects of Bacillus coagulans on Growth Performance, Digestive Enzyme Activity, and Intestinal Microbiota of the Juvenile Fourfinger Threadfin (Eleutheronema tetradactylum). Animals 2025, 15, 515",
    "abstract": "In the original publication [...]",
@@ -6851,27 +6893,6 @@
    "abstract_zh": "超音波引導腹橫肌平面阻滯可能為馬匹腹部手術提供軀體鎮痛，但針對成年馬的相關證據仍然有限。本前瞻性、盲化、隨機、配對研究評估了兩點式腹橫肌平面阻滯應用於八匹健康、站立、未鎮靜母馬的可行性、感覺效應與運動效應。每匹馬的一側注射 2% 利多卡因（每注射點 2 毫克/公斤，容積為 0.1 毫升/公斤），對側則注射生理食鹽水。兩側皆於 21 個感覺評估點評估對標準化機械刺激的反應，持續 300 分鐘。所有馬匹皆成功完成阻滯，無明顯不適或手術併發症。生理食鹽水處理側未發生去感覺化。注射利多卡因後，感覺阻滯的中位開始時間為 10 分鐘，於 30 分鐘時達到高峰，中位持續時間為 258（233–260）分鐘。膝部與中間水平面的去感覺化顯著大於髖結節水平面。八匹馬中有七匹發生短暫性運動障礙，其中兩匹為重度。該技術產生了多節段（multi-metameric）的去感覺化，主要集中在腹尾側脅部，但有限的背側覆蓋範圍以及頻繁的運動障礙可能會限制其臨床應用。未來的劑量最佳化以及臨床安全性與療效研究仍有待進行。"
   },
   {
-   "doi": "10.3390/ani16213396",
-   "title": "Feasibility of Serum and Faecal Interleukin Assessment in Equine Surgical Colic: A Pilot Study",
-   "abstract": "Cytokines may provide information about inflammation in equine colic, but their clinical relevance remains uncertain. This pilot study assessed short-term changes in serum and faecal interleukin (IL)-1β, IL-6 and IL-8 in eight horses undergoing colic surgery and compared measurements with six healthy controls. Colic horses were sampled at admission (D0), 24 h (D1) and day 7 (D7); controls provided serum at D0 and faeces at all three time points. Cytokines were assayed using MILLIPLEX and MAGPIX. Admission faeces were unavailable from 3/8 colic horses (37.5%). Serum IL-1β and IL-6 were below detection limits in 29/29 analysed samples (100%) for each cytokine. Serum IL-8 varied markedly without significant temporal change. Thirty-nine faecal extracts were analysed without faecal assay validation. Faecal estimates were generally lower in colic horses, with nominal between-group differences for IL-6 at D1 (p = 0.045), IL-1β at D7 (p = 0.033) and IL-8 at D7 (p = 0.004). No consistent temporal pattern in faecal estimates or significant association between serum and faecal IL-8 was detected. These findings do not establish the usefulness of these cytokines for clinical monitoring and highlight sampling and analytical limitations that should be addressed in larger, clinically diverse cohorts.",
-   "authors": [
-    "Erwan Degorce",
-    "Daria Lorek",
-    "Agnieszka Żak-Bochenek",
-    "Dorota Długopolska",
-    "Paweł Golonka",
-    "Artur Niedźwiedź",
-    "Natalia Siwińska"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213396",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "細胞激素可能有助於了解馬匹腹痛（絞痛）的發炎狀況，但其臨床相關性仍未確定。本先導研究評估了八匹接受腹痛手術的馬匹在短期內血清與糞便中介白素（IL）-1β、IL-6 與 IL-8 的變化，並將測量結果與六匹健康對照馬進行比較。腹痛馬匹於入院時（D0）、24 小時（D1）及第 7 天（D7）進行採樣；對照組於 D0 提供血清，並在所有三個時間點提供糞便。細胞激素使用 MILLIPLEX 與 MAGPIX 進行分析。8 匹腹痛馬中有 3 匹（37.5%）無法取得入院時的糞便。在 29 個分析樣本中，血清 IL-1β 與 IL-6 均低於各自的檢測極限（各占 100%）。血清 IL-8 呈顯著變異，但無顯著的時間變化。共分析了 39 個糞便萃取物，但未進行糞便檢測驗證。腹痛馬的糞便估算值普遍較低，其中 IL-6 在 D1 ($p = 0.045$)、IL-1β 在 D7 ($p = 0.033$) 以及 IL-8 在 D7 ($p = 0.004$) 顯示名義上的組間差異。未發現糞便估算值呈現一致的時間模式，亦未發現血清與糞便 IL-8 之間有顯著的相關性。這些發現未能確立這些細胞激素用於臨床監控的效用，並凸顯了未來在較大且臨床多樣化的族群中應予解決的採樣與分析限制。"
-  },
-  {
    "doi": "10.3390/ani16213403",
    "title": "Melatonin Ameliorates Stress-Induced Oocyte Developmental Impairment: Evidence from In Vivo and In Vitro Models",
    "abstract": "Stress compromises oocyte quality and reproductive performance, yet the comparative efficacy of MT and other antioxidants under stress remains unclear. This study compared MT and EGCG using an in vivo mouse restraint stress model and an in vitro porcine oocyte maturation model. In stressed mice, MT (0.1, 1, and 10 mg/kg) and EGCG (35, 65, and 100 mg/kg), administered via intraperitoneal (i.p.) injection every 12 h during the 48 h restraint period, improved oocyte developmental rates at appropriate doses, with MT showing superior efficacy at the optimal dose (1 mg/kg). Notably, MT, but not EGCG, reduced serum cortisol and CRH levels in stressed mice. In porcine oocytes, CRH supplementation during 48 h in vitro maturation (IVM) impaired oocyte maturation and embryo development, and MT dose-dependently rescued these defects, accompanied by reduced reactive oxygen species (ROS) accumulation and decreased cumulus cell apoptosis. RT-PCR analysis revealed that porcine oocytes and cumulus cells expressed MT1, but not MT2, transcripts. Collectively, evidence from two complementary models (mouse in vivo and porcine in vitro) supports MT as a promising supplement for oocyte protection under stress, through systemic and cellular mechanisms demonstrated in different species.",
@@ -6891,27 +6912,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "壓力會損害卵母細胞品質與生殖表現，然而在壓力狀態下，褪黑激素（MT）與其他抗氧化劑的相對功效仍不清楚。本研究利用小鼠活體（in vivo）約束壓力模型與豬卵母細胞體外（in vitro）成熟模型，比較了 MT 與 EGCG 的效果。在受壓力的小鼠中，於 48 小時約束期間每 12 小時透過腹腔注射（i.p.）給予適當劑量的 MT（0.1、1 和 10 mg/kg）與 EGCG（35、65 和 100 mg/kg），均能改善卵母細胞發育率，其中 MT 在最適劑量（1 mg/kg）下表現出更佳的功效。值得注意的是，MT（而非 EGCG）降低了受壓力小鼠的血清皮質醇（cortisol）與促腎上腺皮質激素釋放激素（CRH）濃度。在豬卵母細胞中，於 48 小時體外成熟（IVM）期間補充 CRH 會損害卵母細胞成熟與胚胎發育，而 MT 則以劑量依賴的方式挽救這些缺陷，並伴隨活性氧（ROS）累積的減少及卵丘細胞細胞凋亡的降低。RT-PCR 分析顯示，豬卵母細胞與卵丘細胞表現 MT1 轉錄本，但不表現 MT2。綜上所述，來自兩個互補模型（小鼠活體與豬體外）的證據支持 MT 作為一種有潛力的補充劑，能透過在不同物種中展現的全身性與細胞性機制，在壓力下保護卵母細胞。"
-  },
-  {
-   "doi": "10.3390/ani16213398",
-   "title": "Evaluation of Digital Tomosynthesis for Detecting Articular Cartilage Lesions in Equine Distal Interphalangeal and Metacarpophalangeal Joints: Comparison with Computed Tomography Arthrography",
-   "abstract": "Conventional radiography has limited sensitivity for detecting equine cartilage lesions. This prospective ex vivo study compared digital tomosynthesis (DT), computed tomography (CT), digital tomosynthesis arthrography (DTA), and computed tomography arthrography (CTA) for detecting artificial and naturally occurring partial- and full-thickness cartilage lesions in distal interphalangeal and metacarpophalangeal joints. Sixteen distal forelimbs from nine horses were examined under simulated weight-bearing (SWB) and non-weight-bearing (NWB) conditions. Three blinded observers evaluated 24 regions per limb, using gross examination as the reference standard. Sensitivity, specificity, and agreement were calculated, and mixed-effects logistic regression was performed. Gross examination identified lesions in 141 of 384 regions. Mean sensitivities (95% confidence intervals), reported for SWB and NWB, respectively, were highest for CTA [60.8% (56.7–64.9); 57.0% (53.4–60.5)], followed by DTA [14.7% (10.6–18.7); 29.1% (24.5–33.9)], CT [13.0% (9.3–16.7); 15.4% (12.0–18.8)], and DT [0.5% (0.0–1.0); 1.7% (0.9–2.4)]. Mean specificities ranged from 96.8% (95.3–98.4) to 99.7% (99.3–100.0). For agreement with gross examination, CTA had the highest pooled Cohen’s κ. Contrast medium administration was associated with higher odds of true-positive and lower odds of true-negative classification. Weight-bearing did not consistently improve lesion detection. Clinical performance requires evaluation in living horses.",
-   "authors": [
-    "Alisa Hahn",
-    "Miguel Valdés Vázquez",
-    "Gabriel Manso-Díaz",
-    "Dagmar Berner",
-    "Joana Maia Ramos",
-    "Marcus G. Doherr",
-    "Christoph J. Lischer"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213398",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "傳統X光攝影對於偵測馬匹軟骨病灶的敏感度有限。本前瞻性體外研究比較了數位體層合成（DT）、電腦斷層掃描（CT）、數位體層合成造影（DTA）與電腦斷層造影（CTA）在偵測遠端指關節及掌指關節中，人工製造與自然發生的部分及全層軟骨病灶之效能。本研究檢視來自9匹馬的16隻遠端前肢，分別在模擬負重（SWB）與非負重（NWB）條件下進行檢查。三位採盲法評估的觀察者針對每肢評估24個區域，並以肉眼檢查作為參考標準。計算敏感度、特異度與一致性，並執行混合效應羅吉斯迴歸。肉眼檢查在384個區域中的141個區域識別出病灶。平均敏感度（95%信賴區間）分別以模擬負重及非負重報告，最高者為CTA [60.8% (56.7–64.9)；57.0% (53.4–60.5)]，其次依序為DTA [14.7% (10.6–18.7)；29.1% (24.5–33.9)]、CT [13.0% (9.3–16.7)；15.4% (12.0–18.8)]以及DT [0.5% (0.0–1.0)；1.7% (0.9–2.4)]。平均特異度介於96.8% (95.3–98.4)至99.7% (99.3–100.0)之間。在與肉眼檢查的一致性方面，CTA具有最高的合併柯hen氏kappa值（Cohen's κ）。對比劑之給予與較高的真陽性分類機率及較低的真陰性分類機率相關。負重並未一致性地改善病灶偵測。其臨床效能尚需於活體馬匹中進行評估。"
   },
   {
    "doi": "10.3390/ani16213423",
