@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-31T01:29:13+00:00",
+ "updated": "2026-11-01T00:45:51+00:00",
  "papers": [
+  {
+   "doi": "10.1186/s12711-026-01102-4",
+   "title": "Genetics of energy allocation to growth in Angus cattle: trait derivation, model comparison, and relationships with feed efficiency and body composition traits",
+   "abstract": "Background Improving feed efficiency while understanding resource-allocation trade-offs remains a challenge in livestock breeding. We defined an energy allocation coefficient to growth ( α ) as the ratio of estimated net energy retained in growth to net energy available after accounting for predicted maintenance requirements and investigated its genetic background in American Angus cattle. We compared a two-step (TS) approach, treating α as a derived pseudo-phenotype in linear animal models, with a one-step (OS) approach, jointly estimating breeding values and variance components through a nonlinear energy-balance model. Genetic parameters were estimated using pedigree- and genomic-based models, and genetic relationships with growth, feed efficiency, and body composition traits were evaluated. Results The derived α averaged 0.77 ± 0.28 and ranged from 0.07 to 3.10. Log( α ) was heritable (h² ≈ 0.13–0.20), with highly consistent breeding value rankings across approaches ( ρ &gt; 0.94). Genetic correlations were 0.63 ± 0.03 with average daily gain, −​0.80 ± 0.02 with feed conversion ratio, −​0.54 ± 0.03 with residual feed intake, and 0.61 ± 0.03 with residual average daily gain, indicating substantial but incomplete genetic overlap with conventional growth and feed efficiency traits. The genetic correlation with dry matter intake was weak (−​0.14 ± 0.04) and close to zero with body composition traits (−​0.13 to 0.04). Conclusions The α is a derived indicator of relative energy allocation toward growth, calculated using a nutritional energy-balance framework, and contains additive genetic variation in American Angus cattle. Despite modest differences in variance partitioning between TS and OS, the underlying genetic signal was largely consistent across model formulations. The TS framework is compatible with standard genetic evaluation procedures and provides a practical approach for genetic analysis of this derived coefficient. The incomplete genetic overlap between α and conventional feed efficiency traits supports further evaluation of α as a complementary indicator of efficiency from a resource-allocation perspective. Future work should evaluate its relationships with health, reproduction, and resilience-related traits to determine whether α provides additional information for investigating resource-allocation trade-offs and future breeding applications.",
+   "authors": [
+    "Qianqian Huang",
+    "Nicolas C. Friggens",
+    "Hinayah R. de Oliveira",
+    "Allan P. Schinckel",
+    "Guilherme J. M. Rosa",
+    "Andre Garcia",
+    "Kelli Retallick",
+    "Miguel H. A. Santana",
+    "Luiz F. Brito"
+   ],
+   "journal": "Genetics Selection Evolution",
+   "url": "https://doi.org/10.1186/s12711-026-01102-4",
+   "date": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "score": 50.0,
+   "matched": [
+    "cattle",
+    "feed efficiency",
+    "residual feed intake",
+    "feed conversion ratio",
+    "genetic parameters",
+    "breeding",
+    "reproduction",
+    "nutrition"
+   ],
+   "abstract_zh": "背景：在家畜育種中，改善飼料效率同時理解資源分配權衡（trade-offs）仍然是一項挑戰。我們將生長能量分配係數（$\\alpha$）定義為：扣除預測的維持需求後可用淨能量中，用於生長所保留的估計淨能量之比率，並探討了美國安格斯牛的其遺傳背景。我們比較了兩步法（TS）與一步法（OS）：TS 將 $\\alpha$ 視為線性動物模型中的衍生偽表型（derived pseudo-phenotype），而 OS 則透過非線性能量平衡模型聯合估計育種值與變異成分。利用譜系與基因體模型估計遺傳參數，並評估其與生長、飼料效率及體組成性狀的遺傳相關。結果：衍生出的 $\\alpha$ 平均值為 0.77 ± 0.28，範圍介於 0.07 至 3.10 之間。$\\log(\\alpha)$ 具遺傳力（$h^2 \\approx 0.13\\text{--}0.20$），不同方法間的育種值排序高度一致（$\\rho > 0.94$）。與平均日增重的遺傳相關為 0.63 ± 0.03，與飼料增重比為 $-0.80 ± 0.02$，與殘餘飼料採食量為 $-0.54 ± 0.03$，與殘餘平均日增重為 0.61 ± 0.03，這表明其與傳統生長和飼料效率性狀存在實質但並不完全重疊的遺傳關係。與乾物質採食量的遺傳相關較弱（$-0.14 ± 0.04$），與體組成性狀的相關則接近零（$-0.13$ 至 $0.04$）。結論：$\\alpha$ 是利用營養能量平衡框架計算得出的相對生長能量分配衍生指標，在美國安格斯牛中包含加成性遺傳變異。儘管 TS 與 OS 在變異數分割上有微小差異，但潛在的遺傳訊號在不同模型設定間大致保持一致。TS 框架與標準遺傳評估程序相容，為此衍生係數的遺傳分析提供了實用的方法。$\\alpha$ 與傳統飼料效率性狀之間不完全的遺傳重疊，支持進一步評估 $\\alpha$ 作為從資源分配角度出發之效率互補指標的潛力。未來的工作應評估其與健康、繁殖及韌性相關性狀的關係，以確定 $\\alpha$ 是否能為研究資源分配權衡與未來的育種應用提供額外資訊。"
+  },
   {
    "doi": "10.1002/age.70224",
    "title": "Resequencing‐Based GWAS Highlights SNP and Indel Loci and lncRNA Candidates for Carcass Yield and Meat Quality in Yellow‐Feathered Broilers",
@@ -1030,6 +1062,33 @@
     "mycotoxin"
    ],
    "abstract_zh": "金針菇廢菌包（SFVS）富含營養，但其高粗纖維含量以及玉米赤黴烯酮（ZEN）和脫氧雪腐鐮刀菌烯醇（DON）的汙染可能會限制其作為飼料的使用。本研究最佳化了含SFVS混合物的多菌株固態發酵（SSF）條件，並使用420隻一日齡雄性黃羽肉雞評估其飼養價值。最佳條件為：釀酒酵母、凝結芽孢桿菌、酪酸梭菌和枯草芽孢桿菌的接種比例為2:1:2:3，發酵天數5天，水分含量47%，接種量7%。在混合物中，ZEN和DON的濃度分別從8622.43和1612.74 μg/kg降至1349.82和750.21 μg/kg（分別降低了84.35%和53.48%）。發酵提高了粗蛋白和總測得胺基酸含量，降低了粗纖維含量（p < 0.01），並提高了乾物質、粗蛋白和粗纖維的體外消化率（p < 0.05）。在為期42天的試驗中，與未發酵混合物處理組相比，添加3%和5%的發酵混合物提高了21日齡和42日齡的體重（BW）以及平均日增重（ADG），同時降低了飼料轉換率（FCR）（p < 0.05）。在3%和5%的添加量下，血清抗氧化狀態和空腸形態有所改善，而胸肉的蒸煮損失和整體質地未受負面影響；盲腸菌群結構總體上更接近對照組（CON）。7%的添加量則沒有帶來額外的好處。"
+  },
+  {
+   "doi": "10.1186/s40104-026-01510-y",
+   "title": "Integrating pangenome and imputation framework reveals structural variants affecting stature and milk composition traits in French dairy cattle",
+   "abstract": "Background Structural variants (SVs) are most effectively identified using long-read (LR) sequencing. However, such data remain scarce, and sequenced samples often lack associated phenotypic information. To overcome this limitation, we integrated pangenome-based (variation graph-based) and imputation approaches to enable large-scale SV association studies in the three main French dairy cattle breeds. Results A variation graph was constructed using 69,892 deletions, 89,900 insertions, and 17,402 duplications detected in 176 LR samples. We subsequently genotyped 939 samples for each SV in the panel by realigning their short-read (SR) sequences to the graph. Validation analyses showed high genotype concordance rates for deletions (0.79) and insertions (0.79); however, concordance for duplications was low (0.14), leading to their exclusion from further analyses. The retained SVs were combined with single nucleotide variants (SNVs) to build a sequence-level imputation reference panel. Using SNP genotyping array data, we imputed SVs and SNVs for 11,902 Holstein, 3,753 Montbéliarde, and 3,053 Normande bulls. After quality control, more than 14 million SNVs and 40 thousand SVs were retained for within-breed genome-wide association studies (GWAS) using daughter yield deviations for stature and four milk production and composition traits. The GWAS results revealed genetic architectures consistent with previous findings and identified 40 genome-wide significant associations between structural variant and key phenotypes. Conditional analyses identified that ten of these SVs as potential candidate variants underlying QTLs related to milk fat and protein contents, as well as stature. Conclusions By integrating LR, SR, and SNP genotyping data within a unified pangenome and imputation framework, we demonstrate a scalable strategy to systematically interrogate the contribution of SVs to complex traits. The resulting genetic architectures were highly consistent with previous findings, validating both the robustness and transferability of our approach. Our findings highlight the added value of integrating SVs into routine genomic analyses and provide a scalable framework for incorporating SVs into genomic selection in dairy cattle.",
+   "authors": [
+    "Maulana Mughitz Naji",
+    "Valentin Sorin",
+    "Cécile Grohs",
+    "Sébastien Fritz",
+    "Christophe Klopp",
+    "Thomas Faraut",
+    "Didier Boichard",
+    "Mekki Boussaha",
+    "Marie-Pierre Sanchez"
+   ],
+   "journal": "Journal of Animal Science and Biotechnology",
+   "url": "https://doi.org/10.1186/s40104-026-01510-y",
+   "date": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "score": 16.0,
+   "matched": [
+    "cattle",
+    "genomic selection",
+    "gwas"
+   ],
+   "abstract_zh": "背景：結構變異（Structural variants, SVs）透過長讀長（long-read, LR）定序能獲得最有效的識別。然而，這類數據仍然稀缺，且定序樣本往往缺乏相關的表現型資訊。為了克服這項限制，我們整合了基於泛基因組（變異圖譜）與基因型 imputations（推填）的方法，在法國三個主要乳牛品種中實現大規模的 SV 關聯分析。\n結果：利用 176 個長讀長樣本中檢測到的 69,892 個缺失、89,900 個插入以及 17,402 個重複，建構了一個變異圖譜。隨後，我們透過將這面板中各 SV 的短讀長（short-read, SR）序列重新比對至該圖譜，對 939 個樣本進行基因型分型。驗證分析顯示，缺失（0.79）與插入（0.79）具有高度的基因型一致率；然而，重複的一致率偏低（0.14），導致其被排除於後續分析之外。保留下來的 SV 與單核苷酸變異（SNVs）相結合，建立了序列層級的 imputation 參考面板。利用 SNP 晶片分型數據，我們對 11,902 頭荷斯坦牛（Holstein）、3,753 頭蒙貝利亞德牛（Montbéliarde）以及 3,053 頭諾曼第牛（Normande）公牛進行了 SV 與 SNV 的 imputation。經過品管後，保留了超過 14 百萬個 SNV 與 4 万個 SV，用於對體型以及四種乳量與乳成分性狀的女牛產乳離差（daughter yield deviations）進行品種內的全基因體關聯分析（GWAS）。GWAS 結果顯示出與先前發現一致的遺傳架構，並在結構變異與關鍵表現型之間識別出 40 個達全基因體顯著水準的關聯。條件分析識別出其中 10 個 SV 作為與乳脂、乳蛋白含量及體型相關之 QTL 的潛在候選變異。\n結論：透過在統一的泛基因組與 imputation 架構中整合 LR、SR 和 SNP 分型數據，我們展示了一項可擴展的策略，以系統性地探討 SV 對複雜性狀的貢獻。所得的遺傳架構與先前的發現高度一致，驗證了我們方法的穩健性與可轉移性。我們的發現突顯了將 SV 納入常規基因體分析的附加價值，並為將 SV 納入乳牛基因體選拔提供了一個可擴展的架構。"
   },
   {
    "doi": "10.1080/00071668.2026.2699735",
@@ -3114,6 +3173,27 @@
    "abstract_zh": "生長性狀是養豬育種中的關鍵經濟指標，而識別與體重、背脂厚度、眼肌深度、體長、胸圍和胸寬相關的分子標記，對於提升標記輔助選擇（MAS）的效率具有重要意義。在本研究中，以 400 頭法國大白母豬和 40 頭法國長白母豬作為實驗群體。利用 PCR 擴增與定序技術，對 $ARHGEF37$ 基因內的單核苷酸多型性（SNPs）進行基因分型。系統性地分析了基因型頻率、等位基因頻率及遺傳多樣性參數，並使用單因子變異數分析（ANOVA）評估不同基因型、單倍型與生長性狀之間的關聯性。在法國大白群體中，數個變異位點與生長性狀顯示出名義上的關聯，儘管經過 FDR 校正後皆未達顯著水準；因此，推測 $ARHGEF37$ 是一個需要在更大群體中進行驗證的候選基因。此外，單倍型分析顯示，特定的單倍型組合對體重、背脂厚度和胸圍等具經濟重要性的性狀展現出協同改善效果，為標記輔助選擇提供了潛在的遺傳標靶。"
   },
   {
+   "doi": "10.1080/00071668.2026.2751450",
+   "title": "Dietary astaxanthin enhances egg yolk redness and carotenoid deposition in laying hens fed β-apo-8′-carotenoic acid ethyl ester and canthaxanthin",
+   "abstract": "1. This study evaluated the effects of dietary astaxanthin supplementation on yolk pigmentation, carotenoid deposition and yolk quality in laying hens fed diets containing β-apo-8′-carotenoic acid ethyl ester (apo-ester) and canthaxanthin.2. A total of 168 NovoColor hens (71 weeks of age) were assigned to one of 14 dietary treatments. Treatments included a low-pigment control (CON), canthaxanthin-only (CAN), an apo-ester (AE) plus canthaxanthin treatment, with graded levels of astaxanthin (AX) supplementation (from 5 to 100 mg/kg). Each treatment consisted of six replicates of two individually housed hens. The study lasted for 4 weeks. Egg production performance, yolk colour, carotenoid deposition and yolk index were determined.3. Dietary treatments did not affect laying performance (p > 0.05). Increasing dietary AX supplementation increased yolk concentrations of AE, CAN and AX and improved yolk pigmentation (p < 0.05). Both CAN and AX deposition efficiencies showed both linear and quadratic responses to increasing AX inclusion, whereas AE deposition responded quadratically (p < 0.05), with AE and CAN deposition peaking at 50 mg/kg astaxanthin.4. Yolk pigmentation increased rapidly after dietary introduction and reached a plateau by d 8. Eggs from carotenoid-supplemented hens had higher yolk index values than eggs from CON hens (p < 0.05), while yolk index decreased with storage duration.5. In conclusion, dietary AX enhanced yolk pigmentation and carotenoid deposition without compromising laying performance, supporting its use as a complementary red pigment in layer diets. The higher egg yolk index from hens fed carotenoid-containing diets may contribute to maintaining yolk quality during ambient storage.",
+   "authors": [
+    "H. Liu",
+    "M. Umar Faruk",
+    "A. Schattner",
+    "P. Jenn",
+    "R. Aureli"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2751450",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "score": 6.0,
+   "matched": [
+    "laying hen"
+   ],
+   "abstract_zh": "1. 本研究旨在評估在含有 $\\beta$-阿朴-8'-胡蘿蔔素酸乙酯（阿朴酯）與斑蝥黃素的飼糧中，添加蝦紅素對產蛋雞蛋黃著色、類胡蘿蔔素沉積及蛋黃品質之影響。\n\n2. 試驗選用 168 隻 71 週齡之 NovoColor 產蛋雞，隨機分配至 14 種飼糧處理組中。處理組包含低色素對照組（CON）、單獨添加斑蝥黃素組（CAN）、阿朴酯（AE）加斑蝥黃素組，以及不同梯度（5 至 100 mg/kg）之蝦紅素（AX）補充組。每個處理組設有 6 個重複，每個重複包含 2 隻單籠飼養之產蛋雞。試驗期為 4 週。試驗期間測定產蛋性能、蛋黃顏色、類胡蘿蔔素沉積及蛋黃指數。\n\n3. 飼糧處理對產蛋性能無顯著影響（$p > 0.05$）。提高飼糧中蝦紅素的添加量會增加蛋黃中阿朴酯、斑蝥黃素及蝦紅素之濃度，並改善蛋黃著色（$p < 0.05$）。隨著蝦紅素添加量之增加，斑蝥黃素與蝦紅素之沉積效率皆呈線性及二次方反應，而阿朴酯之沉積則呈二次方反應（$p < 0.05$），其中阿朴酯與斑蝥黃素之沉積在蝦紅素添加量為 50 mg/kg 時達到高峰。\n\n4. 飼糧引入色素後，蛋黃著色迅速增加，並於第 8 天達到高原期。攝取補充類胡蘿蔔素飼糧之產蛋雞所產下的蛋，其蛋黃指數高於對照組（$p < 0.05$），而蛋黃指數則隨著儲存時間之延長而下降。\n\n5. 總結而言，飼糧添加蝦紅素可增進蛋黃著色及類胡蘿蔔素沉積，且不影響產蛋性能，支持其作為蛋雞飼糧中補充性紅色色素之應用。餵食含類胡蘿蔔素飼糧之蛋雞所產之較高蛋黃指數，有助於維持室溫儲存期間的蛋黃品質。"
+  },
+  {
    "doi": "10.3390/ani16213431",
    "title": "Effects of Dietary Protease at Different Levels of Probiotics on the Growth Potential, Enzyme Activities, Physiological and Hematoimmune Responses of Striped Catfish (Pangasianodon hypophthalmus (Sauvage, 1878))",
    "abstract": "Probiotics and exogenous enzymes play essential roles in the growth and health of aquatic animals. This study explored the interactive effects of probiotics (Prob) and exogenous protease (Prot) on the growth indices, digestive and antioxidant enzyme activities, body composition, hematoimmune parameters and serum biochemical indices of striped catfish (n = 600, ≈10.17 ± 0.03 g). In this context, ten diets were formulated with a crude protein level of 35.23% by incorporating Prob (0.0, 1.0, 2.0, 3.0, and 4.0 g/kg) at each Prot level (0.5 and 1.0 g/kg). After a 14-day acclimatization period, the fish were stocked in ten groups, each in triplicate (20 fish/aquaria (40 × 40 × 70 cm, i.e., width × depth × length)) in a 2 × 5 factorial design and fed for 90 days at 3% of their body weight. The results of the current study revealed significant improvements in growth performance with Prob supplementation at both Prot levels (0.5 and 1.0 g/kg). At 0.5 g/kg Prot, FBW and AWG increased with increasing Prob supplementation, reaching their highest mean values at 4.0 g/kg Prob. However, WG% was highest (498.49%), and FCR was lowest (1.33) at 2.0 g/kg Prob, with no substantial further improvement at higher Prob levels. In contrast, at 1.0 g/kg Prot, the optimal Prob level shifted to 1.0 g/kg, resulting in a WG% of 486.99% and an FCR of 1.37. Similarly, the main effect and interactive effect were significant for digestive and antioxidant enzymes in response to dietary Prot and Prob. However, the levels of malondialdehyde (MDA), white blood cells (WBCs), and liver enzymes significantly decreased, reversing the growth trend. Furthermore, hematoimmunological parameters, including red blood cell (RBC) count, hemoglobin (Hb) concentration, hematocrit (HCT), lysozyme activity, and immunoglobulin M (IgM), showed the highest mean values at 4.0 g/kg Prob with 0.5 g/kg Prot, although the differences among the 2.0, 3.0, and 4.0 g/kg Prob treatments were not statistically significant. At 1.0 g/kg Prot, these parameters generally showed the highest mean values at 1.0–2.0 g/kg Prob. Moreover, the proximate analysis (crude protein, crude fat, moisture and ash) was not significantly (p &gt; 0.05) affected by either supplement. The polynomial broken-line regression analysis based on WG% indicated that the optimum Prob level with 0.5 g/kg protease was 1.46 g/kg, whereas at 1.0 g/kg protease supplementation, the optimal probiotic level was estimated at 1.39 g/kg. In conclusion, dietary supplementation with Prob and Prot enhances the growth and health status of P. hypophthalmus, suggesting a sustainable and economical approach for intensive catfish farming.",
@@ -3858,27 +3938,6 @@
     "sheep"
    ],
    "abstract_zh": "理解野生有蹄類與同域放牧家畜之間的食性關係，對於保育高寒草原生態系統中的受脅物種至關重要。普氏原羚（*Procapra przewalskii*）是青海湖流域特有的瀕危有蹄類動物，然而其多個亞群與同域放牧家畜之間的食性關係仍所知甚少，尤其是在較細的分類學尺度上。本研究利用2023年4月（冬末放牧季）來自八個研究樣點的糞便顯微組織學分析（fecal microhistology），在科、屬、種水平上比較了兩者的食物組成、多樣性、均勻度、生態位寬度與重疊度。在普氏原羚的糞便樣本中所識別出的植物分類群多於家畜，且原羚的食物多樣性、均勻度和生態位寬度估算值普遍較高。兩種草食性動物皆主要依賴禾草類及似禾草類植物（graminoids），顯示其具有共同的食性基礎。然而，在科水平上的食性重疊度（Pianka指數 = 0.830–0.976）高於屬（0.718–0.946）和種（0.629–0.946）水平，且不同亞群之間存在顯著差異。這些結果表明，在冬末期間，兩者雖具有廣泛共同的食性基礎，但在較細的分類學尺度上，其資源利用存在明顯的分化。這些研究結果可為青海湖流域的普氏原羚保育與草地管理提供科學依據。"
-  },
-  {
-   "doi": "10.1080/00071668.2026.2751450",
-   "title": "Dietary astaxanthin enhances egg yolk redness and carotenoid deposition in laying hens fed β-apo-8′-carotenoic acid ethyl ester and canthaxanthin",
-   "abstract": "",
-   "authors": [
-    "H. Liu",
-    "M. Umar Faruk",
-    "A. Schattner",
-    "P. Jenn",
-    "R. Aureli"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2751450",
-   "date": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "score": 4.0,
-   "matched": [
-    "laying hen"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1002/age.70217",
@@ -7166,48 +7225,6 @@
    "abstract_zh": "本探索性橫斷研究分析了來自英國一家鮮食貓糧公司現有及潛在客戶的 5,653 隻貓之飼主回報問卷數據，旨在識別與伴侶貓體態相關的因素，並比較飼主使用結構化體態評分（BCS）工具與憑直覺判斷所作出的分類差異。與憑直覺判斷相比，飼主使用結構化 BCS 工具將較少數目的貓分類為理想體態，且對過輕貓隻的一致性低於過重貓隻。本研究針對過重、過輕及理想體態建立了多變量邏輯斯迴歸模型。較高比例的鮮食與理想體態的高勝算比相關（OR 1.22, 95% CI: 1.04–1.42），而乾糧與過重相關（OR 1.83, 95% CI: 1.33–2.51），濕糧則與過輕相關（OR 1.51, 95% CI: 1.06–2.16），儘管此關聯性對不同模型設定的穩健性較低。其他相關因素包括特定的額外熱量來源、餵食習慣、零食種類、活動量、豐富化環境、家庭組成及既有的的人口統計學因素。這些具假設生成性的研究結果突顯了結構化與非結構化飼主評估之間的落差，並找出了值得在更具代表性的族群中進行前瞻性評估的相關因素。"
   },
   {
-   "doi": "10.3390/ani16213403",
-   "title": "Melatonin Ameliorates Stress-Induced Oocyte Developmental Impairment: Evidence from In Vivo and In Vitro Models",
-   "abstract": "Stress compromises oocyte quality and reproductive performance, yet the comparative efficacy of MT and other antioxidants under stress remains unclear. This study compared MT and EGCG using an in vivo mouse restraint stress model and an in vitro porcine oocyte maturation model. In stressed mice, MT (0.1, 1, and 10 mg/kg) and EGCG (35, 65, and 100 mg/kg), administered via intraperitoneal (i.p.) injection every 12 h during the 48 h restraint period, improved oocyte developmental rates at appropriate doses, with MT showing superior efficacy at the optimal dose (1 mg/kg). Notably, MT, but not EGCG, reduced serum cortisol and CRH levels in stressed mice. In porcine oocytes, CRH supplementation during 48 h in vitro maturation (IVM) impaired oocyte maturation and embryo development, and MT dose-dependently rescued these defects, accompanied by reduced reactive oxygen species (ROS) accumulation and decreased cumulus cell apoptosis. RT-PCR analysis revealed that porcine oocytes and cumulus cells expressed MT1, but not MT2, transcripts. Collectively, evidence from two complementary models (mouse in vivo and porcine in vitro) supports MT as a promising supplement for oocyte protection under stress, through systemic and cellular mechanisms demonstrated in different species.",
-   "authors": [
-    "Chaoqun Cong",
-    "Junyu Wang",
-    "Yaqi Zhou",
-    "Xuedi Bian",
-    "Fuyin Fu",
-    "Mingjiu Luo",
-    "Shuai Gong"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213403",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "壓力會損害卵母細胞品質與生殖表現，然而在壓力狀態下，褪黑激素（MT）與其他抗氧化劑的相對功效仍不清楚。本研究利用小鼠活體（in vivo）約束壓力模型與豬卵母細胞體外（in vitro）成熟模型，比較了 MT 與 EGCG 的效果。在受壓力的小鼠中，於 48 小時約束期間每 12 小時透過腹腔注射（i.p.）給予適當劑量的 MT（0.1、1 和 10 mg/kg）與 EGCG（35、65 和 100 mg/kg），均能改善卵母細胞發育率，其中 MT 在最適劑量（1 mg/kg）下表現出更佳的功效。值得注意的是，MT（而非 EGCG）降低了受壓力小鼠的血清皮質醇（cortisol）與促腎上腺皮質激素釋放激素（CRH）濃度。在豬卵母細胞中，於 48 小時體外成熟（IVM）期間補充 CRH 會損害卵母細胞成熟與胚胎發育，而 MT 則以劑量依賴的方式挽救這些缺陷，並伴隨活性氧（ROS）累積的減少及卵丘細胞細胞凋亡的降低。RT-PCR 分析顯示，豬卵母細胞與卵丘細胞表現 MT1 轉錄本，但不表現 MT2。綜上所述，來自兩個互補模型（小鼠活體與豬體外）的證據支持 MT 作為一種有潛力的補充劑，能透過在不同物種中展現的全身性與細胞性機制，在壓力下保護卵母細胞。"
-  },
-  {
-   "doi": "10.3390/ani16213396",
-   "title": "Feasibility of Serum and Faecal Interleukin Assessment in Equine Surgical Colic: A Pilot Study",
-   "abstract": "Cytokines may provide information about inflammation in equine colic, but their clinical relevance remains uncertain. This pilot study assessed short-term changes in serum and faecal interleukin (IL)-1β, IL-6 and IL-8 in eight horses undergoing colic surgery and compared measurements with six healthy controls. Colic horses were sampled at admission (D0), 24 h (D1) and day 7 (D7); controls provided serum at D0 and faeces at all three time points. Cytokines were assayed using MILLIPLEX and MAGPIX. Admission faeces were unavailable from 3/8 colic horses (37.5%). Serum IL-1β and IL-6 were below detection limits in 29/29 analysed samples (100%) for each cytokine. Serum IL-8 varied markedly without significant temporal change. Thirty-nine faecal extracts were analysed without faecal assay validation. Faecal estimates were generally lower in colic horses, with nominal between-group differences for IL-6 at D1 (p = 0.045), IL-1β at D7 (p = 0.033) and IL-8 at D7 (p = 0.004). No consistent temporal pattern in faecal estimates or significant association between serum and faecal IL-8 was detected. These findings do not establish the usefulness of these cytokines for clinical monitoring and highlight sampling and analytical limitations that should be addressed in larger, clinically diverse cohorts.",
-   "authors": [
-    "Erwan Degorce",
-    "Daria Lorek",
-    "Agnieszka Żak-Bochenek",
-    "Dorota Długopolska",
-    "Paweł Golonka",
-    "Artur Niedźwiedź",
-    "Natalia Siwińska"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213396",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "細胞激素可能有助於了解馬匹腹痛（絞痛）的發炎狀況，但其臨床相關性仍未確定。本先導研究評估了八匹接受腹痛手術的馬匹在短期內血清與糞便中介白素（IL）-1β、IL-6 與 IL-8 的變化，並將測量結果與六匹健康對照馬進行比較。腹痛馬匹於入院時（D0）、24 小時（D1）及第 7 天（D7）進行採樣；對照組於 D0 提供血清，並在所有三個時間點提供糞便。細胞激素使用 MILLIPLEX 與 MAGPIX 進行分析。8 匹腹痛馬中有 3 匹（37.5%）無法取得入院時的糞便。在 29 個分析樣本中，血清 IL-1β 與 IL-6 均低於各自的檢測極限（各占 100%）。血清 IL-8 呈顯著變異，但無顯著的時間變化。共分析了 39 個糞便萃取物，但未進行糞便檢測驗證。腹痛馬的糞便估算值普遍較低，其中 IL-6 在 D1 ($p = 0.045$)、IL-1β 在 D7 ($p = 0.033$) 以及 IL-8 在 D7 ($p = 0.004$) 顯示名義上的組間差異。未發現糞便估算值呈現一致的時間模式，亦未發現血清與糞便 IL-8 之間有顯著的相關性。這些發現未能確立這些細胞激素用於臨床監控的效用，並凸顯了未來在較大且臨床多樣化的族群中應予解決的採樣與分析限制。"
-  },
-  {
    "doi": "10.3390/ani16213398",
    "title": "Evaluation of Digital Tomosynthesis for Detecting Articular Cartilage Lesions in Equine Distal Interphalangeal and Metacarpophalangeal Joints: Comparison with Computed Tomography Arthrography",
    "abstract": "Conventional radiography has limited sensitivity for detecting equine cartilage lesions. This prospective ex vivo study compared digital tomosynthesis (DT), computed tomography (CT), digital tomosynthesis arthrography (DTA), and computed tomography arthrography (CTA) for detecting artificial and naturally occurring partial- and full-thickness cartilage lesions in distal interphalangeal and metacarpophalangeal joints. Sixteen distal forelimbs from nine horses were examined under simulated weight-bearing (SWB) and non-weight-bearing (NWB) conditions. Three blinded observers evaluated 24 regions per limb, using gross examination as the reference standard. Sensitivity, specificity, and agreement were calculated, and mixed-effects logistic regression was performed. Gross examination identified lesions in 141 of 384 regions. Mean sensitivities (95% confidence intervals), reported for SWB and NWB, respectively, were highest for CTA [60.8% (56.7–64.9); 57.0% (53.4–60.5)], followed by DTA [14.7% (10.6–18.7); 29.1% (24.5–33.9)], CT [13.0% (9.3–16.7); 15.4% (12.0–18.8)], and DT [0.5% (0.0–1.0); 1.7% (0.9–2.4)]. Mean specificities ranged from 96.8% (95.3–98.4) to 99.7% (99.3–100.0). For agreement with gross examination, CTA had the highest pooled Cohen’s κ. Contrast medium administration was associated with higher odds of true-positive and lower odds of true-negative classification. Weight-bearing did not consistently improve lesion detection. Clinical performance requires evaluation in living horses.",
@@ -7227,26 +7244,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "傳統X光攝影對於偵測馬匹軟骨病灶的敏感度有限。本前瞻性體外研究比較了數位體層合成（DT）、電腦斷層掃描（CT）、數位體層合成造影（DTA）與電腦斷層造影（CTA）在偵測遠端指關節及掌指關節中，人工製造與自然發生的部分及全層軟骨病灶之效能。本研究檢視來自9匹馬的16隻遠端前肢，分別在模擬負重（SWB）與非負重（NWB）條件下進行檢查。三位採盲法評估的觀察者針對每肢評估24個區域，並以肉眼檢查作為參考標準。計算敏感度、特異度與一致性，並執行混合效應羅吉斯迴歸。肉眼檢查在384個區域中的141個區域識別出病灶。平均敏感度（95%信賴區間）分別以模擬負重及非負重報告，最高者為CTA [60.8% (56.7–64.9)；57.0% (53.4–60.5)]，其次依序為DTA [14.7% (10.6–18.7)；29.1% (24.5–33.9)]、CT [13.0% (9.3–16.7)；15.4% (12.0–18.8)]以及DT [0.5% (0.0–1.0)；1.7% (0.9–2.4)]。平均特異度介於96.8% (95.3–98.4)至99.7% (99.3–100.0)之間。在與肉眼檢查的一致性方面，CTA具有最高的合併柯hen氏kappa值（Cohen's κ）。對比劑之給予與較高的真陽性分類機率及較低的真陰性分類機率相關。負重並未一致性地改善病灶偵測。其臨床效能尚需於活體馬匹中進行評估。"
-  },
-  {
-   "doi": "10.3390/ani16213401",
-   "title": "Ultrasound-Guided Two-Point Transversus Abdominis Plane in Adult Horses: An Experimental Study Assessing Wall Sensitivity",
-   "abstract": "Ultrasound-guided transversus abdominis plane blocks may provide somatic analgesia for equine abdominal procedures, but evidence in adult horses remains limited. This prospective, blinded, randomized, paired study evaluated the feasibility, sensory effects, and motor effects of a two-point transversus abdominis plane block in eight healthy, standing, unsedated mares. Each horse received lidocaine 2% (2 mg/kg in 0.1 mL/kg per injection site) on one side and saline on the contralateral side. Responses to standardized mechanical stimulation were assessed at 21 sensory evaluation points per side for 300 min. The block was completed successfully in all horses without visible discomfort or procedural complications. No desensitization occurred on saline-treated sides. Following lidocaine administration, sensory blockade began at a median of 10 min, peaked at 30 min, and lasted a median of 258 (233–260) minutes. Desensitization was significantly greater at the stifle and intermediate horizontal levels than at the coxal tuberosity level. Transient motor impairment occurred in seven of eight horses and was severe in two. The technique produced multi-metameric desensitization, predominantly in the ventrocaudal flank, but limited dorsal coverage and frequent motor impairment may restrict its clinical application. Further dose optimization and clinical safety and efficacy studies are warranted.",
-   "authors": [
-    "Francisco Medina-Bautista",
-    "Chiara Di Franco",
-    "Irene Nocera",
-    "María del Mar Granados",
-    "Juan Morgaz",
-    "Angela Briganti"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213401",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "超音波引導腹橫肌平面阻滯可能為馬匹腹部手術提供軀體鎮痛，但針對成年馬的相關證據仍然有限。本前瞻性、盲化、隨機、配對研究評估了兩點式腹橫肌平面阻滯應用於八匹健康、站立、未鎮靜母馬的可行性、感覺效應與運動效應。每匹馬的一側注射 2% 利多卡因（每注射點 2 毫克/公斤，容積為 0.1 毫升/公斤），對側則注射生理食鹽水。兩側皆於 21 個感覺評估點評估對標準化機械刺激的反應，持續 300 分鐘。所有馬匹皆成功完成阻滯，無明顯不適或手術併發症。生理食鹽水處理側未發生去感覺化。注射利多卡因後，感覺阻滯的中位開始時間為 10 分鐘，於 30 分鐘時達到高峰，中位持續時間為 258（233–260）分鐘。膝部與中間水平面的去感覺化顯著大於髖結節水平面。八匹馬中有七匹發生短暫性運動障礙，其中兩匹為重度。該技術產生了多節段（multi-metameric）的去感覺化，主要集中在腹尾側脅部，但有限的背側覆蓋範圍以及頻繁的運動障礙可能會限制其臨床應用。未來的劑量最佳化以及臨床安全性與療效研究仍有待進行。"
   },
   {
    "doi": "10.3390/ani16213402",
@@ -7272,6 +7269,68 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "（請提供您需要翻譯的學術摘要內容）"
+  },
+  {
+   "doi": "10.3390/ani16213401",
+   "title": "Ultrasound-Guided Two-Point Transversus Abdominis Plane in Adult Horses: An Experimental Study Assessing Wall Sensitivity",
+   "abstract": "Ultrasound-guided transversus abdominis plane blocks may provide somatic analgesia for equine abdominal procedures, but evidence in adult horses remains limited. This prospective, blinded, randomized, paired study evaluated the feasibility, sensory effects, and motor effects of a two-point transversus abdominis plane block in eight healthy, standing, unsedated mares. Each horse received lidocaine 2% (2 mg/kg in 0.1 mL/kg per injection site) on one side and saline on the contralateral side. Responses to standardized mechanical stimulation were assessed at 21 sensory evaluation points per side for 300 min. The block was completed successfully in all horses without visible discomfort or procedural complications. No desensitization occurred on saline-treated sides. Following lidocaine administration, sensory blockade began at a median of 10 min, peaked at 30 min, and lasted a median of 258 (233–260) minutes. Desensitization was significantly greater at the stifle and intermediate horizontal levels than at the coxal tuberosity level. Transient motor impairment occurred in seven of eight horses and was severe in two. The technique produced multi-metameric desensitization, predominantly in the ventrocaudal flank, but limited dorsal coverage and frequent motor impairment may restrict its clinical application. Further dose optimization and clinical safety and efficacy studies are warranted.",
+   "authors": [
+    "Francisco Medina-Bautista",
+    "Chiara Di Franco",
+    "Irene Nocera",
+    "María del Mar Granados",
+    "Juan Morgaz",
+    "Angela Briganti"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213401",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "超音波引導腹橫肌平面阻滯可能為馬匹腹部手術提供軀體鎮痛，但針對成年馬的相關證據仍然有限。本前瞻性、盲化、隨機、配對研究評估了兩點式腹橫肌平面阻滯應用於八匹健康、站立、未鎮靜母馬的可行性、感覺效應與運動效應。每匹馬的一側注射 2% 利多卡因（每注射點 2 毫克/公斤，容積為 0.1 毫升/公斤），對側則注射生理食鹽水。兩側皆於 21 個感覺評估點評估對標準化機械刺激的反應，持續 300 分鐘。所有馬匹皆成功完成阻滯，無明顯不適或手術併發症。生理食鹽水處理側未發生去感覺化。注射利多卡因後，感覺阻滯的中位開始時間為 10 分鐘，於 30 分鐘時達到高峰，中位持續時間為 258（233–260）分鐘。膝部與中間水平面的去感覺化顯著大於髖結節水平面。八匹馬中有七匹發生短暫性運動障礙，其中兩匹為重度。該技術產生了多節段（multi-metameric）的去感覺化，主要集中在腹尾側脅部，但有限的背側覆蓋範圍以及頻繁的運動障礙可能會限制其臨床應用。未來的劑量最佳化以及臨床安全性與療效研究仍有待進行。"
+  },
+  {
+   "doi": "10.3390/ani16213396",
+   "title": "Feasibility of Serum and Faecal Interleukin Assessment in Equine Surgical Colic: A Pilot Study",
+   "abstract": "Cytokines may provide information about inflammation in equine colic, but their clinical relevance remains uncertain. This pilot study assessed short-term changes in serum and faecal interleukin (IL)-1β, IL-6 and IL-8 in eight horses undergoing colic surgery and compared measurements with six healthy controls. Colic horses were sampled at admission (D0), 24 h (D1) and day 7 (D7); controls provided serum at D0 and faeces at all three time points. Cytokines were assayed using MILLIPLEX and MAGPIX. Admission faeces were unavailable from 3/8 colic horses (37.5%). Serum IL-1β and IL-6 were below detection limits in 29/29 analysed samples (100%) for each cytokine. Serum IL-8 varied markedly without significant temporal change. Thirty-nine faecal extracts were analysed without faecal assay validation. Faecal estimates were generally lower in colic horses, with nominal between-group differences for IL-6 at D1 (p = 0.045), IL-1β at D7 (p = 0.033) and IL-8 at D7 (p = 0.004). No consistent temporal pattern in faecal estimates or significant association between serum and faecal IL-8 was detected. These findings do not establish the usefulness of these cytokines for clinical monitoring and highlight sampling and analytical limitations that should be addressed in larger, clinically diverse cohorts.",
+   "authors": [
+    "Erwan Degorce",
+    "Daria Lorek",
+    "Agnieszka Żak-Bochenek",
+    "Dorota Długopolska",
+    "Paweł Golonka",
+    "Artur Niedźwiedź",
+    "Natalia Siwińska"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213396",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "細胞激素可能有助於了解馬匹腹痛（絞痛）的發炎狀況，但其臨床相關性仍未確定。本先導研究評估了八匹接受腹痛手術的馬匹在短期內血清與糞便中介白素（IL）-1β、IL-6 與 IL-8 的變化，並將測量結果與六匹健康對照馬進行比較。腹痛馬匹於入院時（D0）、24 小時（D1）及第 7 天（D7）進行採樣；對照組於 D0 提供血清，並在所有三個時間點提供糞便。細胞激素使用 MILLIPLEX 與 MAGPIX 進行分析。8 匹腹痛馬中有 3 匹（37.5%）無法取得入院時的糞便。在 29 個分析樣本中，血清 IL-1β 與 IL-6 均低於各自的檢測極限（各占 100%）。血清 IL-8 呈顯著變異，但無顯著的時間變化。共分析了 39 個糞便萃取物，但未進行糞便檢測驗證。腹痛馬的糞便估算值普遍較低，其中 IL-6 在 D1 ($p = 0.045$)、IL-1β 在 D7 ($p = 0.033$) 以及 IL-8 在 D7 ($p = 0.004$) 顯示名義上的組間差異。未發現糞便估算值呈現一致的時間模式，亦未發現血清與糞便 IL-8 之間有顯著的相關性。這些發現未能確立這些細胞激素用於臨床監控的效用，並凸顯了未來在較大且臨床多樣化的族群中應予解決的採樣與分析限制。"
+  },
+  {
+   "doi": "10.3390/ani16213403",
+   "title": "Melatonin Ameliorates Stress-Induced Oocyte Developmental Impairment: Evidence from In Vivo and In Vitro Models",
+   "abstract": "Stress compromises oocyte quality and reproductive performance, yet the comparative efficacy of MT and other antioxidants under stress remains unclear. This study compared MT and EGCG using an in vivo mouse restraint stress model and an in vitro porcine oocyte maturation model. In stressed mice, MT (0.1, 1, and 10 mg/kg) and EGCG (35, 65, and 100 mg/kg), administered via intraperitoneal (i.p.) injection every 12 h during the 48 h restraint period, improved oocyte developmental rates at appropriate doses, with MT showing superior efficacy at the optimal dose (1 mg/kg). Notably, MT, but not EGCG, reduced serum cortisol and CRH levels in stressed mice. In porcine oocytes, CRH supplementation during 48 h in vitro maturation (IVM) impaired oocyte maturation and embryo development, and MT dose-dependently rescued these defects, accompanied by reduced reactive oxygen species (ROS) accumulation and decreased cumulus cell apoptosis. RT-PCR analysis revealed that porcine oocytes and cumulus cells expressed MT1, but not MT2, transcripts. Collectively, evidence from two complementary models (mouse in vivo and porcine in vitro) supports MT as a promising supplement for oocyte protection under stress, through systemic and cellular mechanisms demonstrated in different species.",
+   "authors": [
+    "Chaoqun Cong",
+    "Junyu Wang",
+    "Yaqi Zhou",
+    "Xuedi Bian",
+    "Fuyin Fu",
+    "Mingjiu Luo",
+    "Shuai Gong"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213403",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "壓力會損害卵母細胞品質與生殖表現，然而在壓力狀態下，褪黑激素（MT）與其他抗氧化劑的相對功效仍不清楚。本研究利用小鼠活體（in vivo）約束壓力模型與豬卵母細胞體外（in vitro）成熟模型，比較了 MT 與 EGCG 的效果。在受壓力的小鼠中，於 48 小時約束期間每 12 小時透過腹腔注射（i.p.）給予適當劑量的 MT（0.1、1 和 10 mg/kg）與 EGCG（35、65 和 100 mg/kg），均能改善卵母細胞發育率，其中 MT 在最適劑量（1 mg/kg）下表現出更佳的功效。值得注意的是，MT（而非 EGCG）降低了受壓力小鼠的血清皮質醇（cortisol）與促腎上腺皮質激素釋放激素（CRH）濃度。在豬卵母細胞中，於 48 小時體外成熟（IVM）期間補充 CRH 會損害卵母細胞成熟與胚胎發育，而 MT 則以劑量依賴的方式挽救這些缺陷，並伴隨活性氧（ROS）累積的減少及卵丘細胞細胞凋亡的降低。RT-PCR 分析顯示，豬卵母細胞與卵丘細胞表現 MT1 轉錄本，但不表現 MT2。綜上所述，來自兩個互補模型（小鼠活體與豬體外）的證據支持 MT 作為一種有潛力的補充劑，能透過在不同物種中展現的全身性與細胞性機制，在壓力下保護卵母細胞。"
   },
   {
    "doi": "10.3390/ani16213423",
@@ -7327,25 +7386,6 @@
    "abstract_zh": "豬基因組中相向轉錄基因對（convergent gene pairs）的基因間區經常維持開放染色質構形與容許性轉錄微環境，使其成為基因組安全港（genomic safe harbors, GSHs）的潛在候選標的。然而，相向轉錄基因對 $ABCF1$ 與 $PPP1R10$ 的分子特徵與啟動子活性尚未被釐清，因而阻礙了其作為 GSH 潛力的利用。為了解決此問題，我們在電腦中系統性預測了這兩個基因的順式作用調控元件（包含 CpG 島），透過雙螢光素酶報導基因檢測，評估了一系列序列截短之啟動子片段在豬胎兒纖維母細胞（PFFs）與 PK-15 細胞中的轉錄活性，比較了它們在七個物種中的啟動子區域，並特徵化了其蛋白質結構與側翼基因組地景。$ABCF1$ 啟動子包含典型 TATA、CCAAT 與 GC 框以及三個 CpG 島，其最短片段 P217（−217 至 −1 bp）在兩種細胞株中皆展現最高活性。$PPP1R10$ 啟動子具有三重 TATA 框排列且偵測不到 CpG 島，其核心片段 P211（−211 至 −1 bp）在兩種細胞株的所有截短片段中展現最高活性，且在 PK-15 細胞中的數值活性高於猿猴病毒 40（SV40）啟動子。在這兩個基因間區上下游 100 kb 範圍內未發現典型致癌基因。$ABCF1$ 與 $PPP1R10$ 皆為缺乏跨膜域的細胞內可溶性蛋白質。$ABCF1$ 主要由 $\\alpha$ 螺旋組成，定位於細胞質與核膜，並調節細胞質轉譯。相較之下，$PPP1R10$ 豐富分佈無規則捲曲，特異性結合至核染色質，並參與 PP1 磷酸酶調控網路。綜上所述，本研究描繪了這兩個基因的核心活性啟動子區域，並突顯此染色體區段作為候選基因組安全港位點的潛力，此假說尚待進一步的實驗驗證。"
   },
   {
-   "doi": "10.3390/ani16213419",
-   "title": "Bimodal Copulatory Locomotion and Ritualized Male–Male Combat in the Amazonian Lancehead (Bothrops atrox): Linking Sexual Size Dimorphism to Reproductive Mechanics and Sexual Conflict",
-   "abstract": "Reproductive behaviors in secretive Neotropical pitvipers are rarely documented under natural conditions, limiting empirical assessments of sexual selection, locomotor mechanics, and mating systems. Here, we present focal videography and photographic documentation of free-ranging Amazonian Lanceheads (Bothrops atrox) from coastal French Guiana during the rainy season. A prolonged copulation (~3 h) revealed a remarkable bimodal locomotor sequence: the pair moved from terrestrial litter across a 20 m-wide forest stream and back to land without cloacal separation. Video analysis demonstrates female-driven locomotion, wherein the substantially larger female pulls the coupled male through the water column against his counter-directional swimming movements. This behavior illustrates female locomotor dominance under sexual size dimorphism and the widely mechanical resilience of the spine-bearing crotaline hemipenis during forced aquatic displacement. Sequential photographic documentation captures ritualized male–male combat with synchronized vertical displays, anterior-trunk swaying, neck hooking, and topping attempts, confirming that stereotypic motor patterns described in western Amazonia are conserved in eastern Guiana Shield populations. These postural dynamics represent transient physical contests over spatial priority rather than permanent dominance hierarchies. Together, this evidence indicates that empirical validation for female behavioral control during copulation and expands the geographic framework supporting the prolonged mate-searching polygyny hypothesis in B. atrox.",
-   "authors": [
-    "Ligia G. S. Amorim",
-    "Vincent Prémel",
-    "Lucas Aosf",
-    "Karina Nunes Kasperoviczus",
-    "Selma Maria de Almeida-Santos"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213419",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-30",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "隱蔽性高的新熱帶蝮蛇之繁殖行為在自然條件下極少被記錄，這限制了對性擇、移動力學與交配系統的經驗性評估。在此，我們呈現在雨季期間來自法屬圭亞那沿海的自由活動亞馬遜矛頭蝮（Bothrops atrox）之焦點錄影與攝影紀錄。長達約3小時的持續交配揭示了一個顯著的雙峰移動序列：該對蛇在未分離總排泄腔的情況下，從陸地落葉層移動跨越一條寬20公尺的森林溪流，隨後再回到陸地上。影片分析顯示了由雌性主導的移動，其中體型大得多的雌性拖著與其交配的雄性穿過水體，對抗雄性反方向的游泳動作。此行為展現了在性雙形下雌性的移動主導地位，以及具棘刺的蝮亞科半陰莖在被迫進行水域位移期間，其廣泛的機械韌性。連續的攝影紀錄捕捉到儀式化的雄-雄爭鬥，伴隨同步的垂直展示、前軀擺動、頸部勾纏與壓制嘗試，證實了西亞馬遜地區所描述的定型動作模式在東部圭亞那地盾族群中具保守性。這些姿勢動力學代表了爭奪空間優先權的暫時性體力競賽，而非永久的優勢階級。綜上所述，這些證據表明了對交配期間雌性行為控制的實證支持，並擴展了支持亞馬遜矛頭蝮之長期尋偶一夫多妻假說的地理框架。"
-  },
-  {
    "doi": "10.3390/ani16213417",
    "title": "Molecular Identification of Clinostomum chaacci (Digenea: Clinostomidae) Metacercariae Reveals Two New Siluriform Hosts in the Peruvian Amazon",
    "abstract": "Clinostomum chaacci Sereno-Uribe, López-Jiménez, González-García, Ortega-Olivares &amp; García-Varela, 2025 is a recently described clinostomid trematode whose metacercariae have been molecularly identified in freshwater fishes from Mexico and South America. In October 2025, 29 siluriform fishes, comprising 18 Pimelodella cristata (Müller &amp; Troschel, 1849) (Heptapteridae) and 11 Rineloricaria morrowi Fowler, 1940 (Loricariidae), were examined from the Nanay River, Loreto, Peru. Eight metacercariae were found encysted in the cephalic integument. The specimens were characterized morphologically and identified through Bayesian phylogenetic analyses of the mitochondrial Cox1 gene and the nuclear 28S rDNA. The new Cox1 sequences from both hosts were identical and nested within the C. chaacci clade, differing by 0.42–5.27% from conspecific isolates, whereas the 28S rDNA sequence differed by only 0–0.08% from reference sequences of C. chaacci. Morphometric data partially overlapped with those of C. chaacci metacercariae previously reported from Peru. The records from P. cristata and R. morrowi represent two new second intermediate hosts and add Loricariidae to the known host spectrum of C. chaacci, providing further evidence that a taxonomically diverse assemblage of fishes participates in its transmission in the western Amazon Basin.",
@@ -7389,6 +7429,43 @@
    "abstract_zh": "本研究設計並評估了四座實驗室規模的生物濾床，用於處理三甲胺（TMA）。每座生物濾床的高為 68 公分，直徑為 15 公分。濾材由乳牛糞堆肥、牛舍墊料、碎玉米芯、木屑和鋸木屑的各種混合物組成。本研究旨在比較填充不同濾材成分的生物濾床對三甲胺的去除效率，並分析運行期間濾材表面微生物群落結構的演替模式。受污染氣流是透過將空氣打入三甲胺溶液中人工產生，進氣濃度介於 1.88 至 4.23 mg/m3 之間。在空床停留時間（EBRT）介於 42.7 至 28.0 秒的條件下，四座生物濾床的去除效率均超過 60%。然而，各生物濾床的性能有所差異。以體積比 10:9:1 混合成熟堆肥、木屑和碎玉米芯的生物濾床表現出最高的去除效率（>83%）。在生物濾床出口處檢測到氨氣，作為微生物降解三甲胺的副產物，同時伴隨著濾材中銨態氮的累積。高效生物濾床的微生物群落分析顯示，在為期 95 天的運行過程中，微生物的複雜性和多樣性逐漸增加。糖黴菌屬（Glycomyces）在整個運行期間皆為優勢屬，且與三甲胺去除效率呈顯著正相關，但其在三甲胺降解中的具體作用仍有待實驗進一步證實。"
   },
   {
+   "doi": "10.3390/ani16213419",
+   "title": "Bimodal Copulatory Locomotion and Ritualized Male–Male Combat in the Amazonian Lancehead (Bothrops atrox): Linking Sexual Size Dimorphism to Reproductive Mechanics and Sexual Conflict",
+   "abstract": "Reproductive behaviors in secretive Neotropical pitvipers are rarely documented under natural conditions, limiting empirical assessments of sexual selection, locomotor mechanics, and mating systems. Here, we present focal videography and photographic documentation of free-ranging Amazonian Lanceheads (Bothrops atrox) from coastal French Guiana during the rainy season. A prolonged copulation (~3 h) revealed a remarkable bimodal locomotor sequence: the pair moved from terrestrial litter across a 20 m-wide forest stream and back to land without cloacal separation. Video analysis demonstrates female-driven locomotion, wherein the substantially larger female pulls the coupled male through the water column against his counter-directional swimming movements. This behavior illustrates female locomotor dominance under sexual size dimorphism and the widely mechanical resilience of the spine-bearing crotaline hemipenis during forced aquatic displacement. Sequential photographic documentation captures ritualized male–male combat with synchronized vertical displays, anterior-trunk swaying, neck hooking, and topping attempts, confirming that stereotypic motor patterns described in western Amazonia are conserved in eastern Guiana Shield populations. These postural dynamics represent transient physical contests over spatial priority rather than permanent dominance hierarchies. Together, this evidence indicates that empirical validation for female behavioral control during copulation and expands the geographic framework supporting the prolonged mate-searching polygyny hypothesis in B. atrox.",
+   "authors": [
+    "Ligia G. S. Amorim",
+    "Vincent Prémel",
+    "Lucas Aosf",
+    "Karina Nunes Kasperoviczus",
+    "Selma Maria de Almeida-Santos"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213419",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "隱蔽性高的新熱帶蝮蛇之繁殖行為在自然條件下極少被記錄，這限制了對性擇、移動力學與交配系統的經驗性評估。在此，我們呈現在雨季期間來自法屬圭亞那沿海的自由活動亞馬遜矛頭蝮（Bothrops atrox）之焦點錄影與攝影紀錄。長達約3小時的持續交配揭示了一個顯著的雙峰移動序列：該對蛇在未分離總排泄腔的情況下，從陸地落葉層移動跨越一條寬20公尺的森林溪流，隨後再回到陸地上。影片分析顯示了由雌性主導的移動，其中體型大得多的雌性拖著與其交配的雄性穿過水體，對抗雄性反方向的游泳動作。此行為展現了在性雙形下雌性的移動主導地位，以及具棘刺的蝮亞科半陰莖在被迫進行水域位移期間，其廣泛的機械韌性。連續的攝影紀錄捕捉到儀式化的雄-雄爭鬥，伴隨同步的垂直展示、前軀擺動、頸部勾纏與壓制嘗試，證實了西亞馬遜地區所描述的定型動作模式在東部圭亞那地盾族群中具保守性。這些姿勢動力學代表了爭奪空間優先權的暫時性體力競賽，而非永久的優勢階級。綜上所述，這些證據表明了對交配期間雌性行為控制的實證支持，並擴展了支持亞馬遜矛頭蝮之長期尋偶一夫多妻假說的地理框架。"
+  },
+  {
+   "doi": "10.3390/ani16213414",
+   "title": "Gut Bacterial and Fungal Communities of the Tibetan Eared Pheasant (Crossoptilon harmani) Across a Captive–Temple–Wild Gradient: Implications for Ex Situ Conservation",
+   "abstract": "Gut microbiota influence nutrient acquisition, immune function, and pathogen resistance, yet are rarely considered in ex situ planning. We compared gut bacterial (16S ribosomal RNA; 16S rRNA) and fungal (internal transcribed spacer 1; ITS1) communities of the Tibetan eared pheasant (Crossoptilon harmani), a protected Galliform endemic to the Qinghai–Tibet Plateau, across a management gradient: fully captive (n = 3), wild (n = 7), and free-ranging monastery birds receiving supplementary barley (n = 6); samples were not linked to identified donors, so the kingdoms are compared at group level only. Monastery birds had the numerically highest bacterial Shannon diversity (5.79), above wild (5.54) and captive birds (2.93), although the among-group test was not significant (p = 0.13). Permutational multivariate analysis of variance (PERMANOVA) showed significant bacterial differentiation (Bray–Curtis R2 = 0.309, p = 0.001), driven by the captive group, which showed Lactobacillus dominance (51.4%). Fungal communities also differed significantly (R2 = 0.194, p = 0.008), with no compositional turnover (Jaccard p = 0.447). Birds in natural habitat with supplementary feeding were no more dissimilar from wild birds than wild birds were among themselves, whereas fully captive birds were clearly separated; this pattern warrants testing in replicated, multi-site studies.",
+   "authors": [
+    "Cong Wei",
+    "Shiyang Weng",
+    "Yanchao Liu",
+    "Jianchuan Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213414",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "腸道微生物群會影響營養獲取、免疫功能及病原體抵抗力，但在域外保育規劃中卻極少被納入考量。我們比較了青藏高原特有且受保護的雞形目鳥類——藏馬雞（Crossoptilon harmani）在不同管理梯度下的腸道細菌（16S核糖體RNA；16S rRNA）及真菌（內部轉錄間隔區1；ITS1）群落：完全圈養（n = 3）、野生（n = 7），以及獲得補充大麥的自由活動寺廟鳥類（n = 6）；由於樣本未與個別識別的個體連結，因此各界（kingdoms）僅進行群體層級的比較。寺廟鳥類的細菌香農多樣性（Shannon diversity）數值最高（5.79），高於野生鳥類（5.54）與圈養鳥類（2.93），儘管群組間的檢定未達顯著水準（p = 0.13）。變異數置換多元分析（PERMANOVA）顯示顯著的細菌分化（Bray–Curtis R2 = 0.309，p = 0.001），此差異主要是由呈現乳酸桿菌優勢（51.4%）的圈養組所驅動。真菌群落也呈現顯著差異（R2 = 0.194，p = 0.008），且無組成轉換（Jaccard p = 0.447）。棲息於自然棲地並接受補充餵食的鳥類，與野生鳥類之間的差異並不比野生鳥類彼此間的差異來得大，而完全圈養的鳥類則明顯區隔開來；此一模式有待透過具重複性的多地點研究來進一步驗證。"
+  },
+  {
    "doi": "10.3390/ani16213412",
    "title": "Host Factor ANP32A in Avian Influenza Virus Replication and Cross-Species Adaptation: A Narrative Review",
    "abstract": "Highly pathogenic avian influenza virus undergoes continuous evolution with strengthened cross-species transmission capacity, posing a severe threat to global public health security. Host acidic nuclear phosphoprotein 32A (ANP32A) acts as a critical host cofactor for activating influenza viral RNA-dependent RNA polymerase, and plays a central role in viral replication and host adaptation. This review systematically elaborates the molecular features of ANP32A, as well as the mechanism by which its leucine-rich repeat (LRR) domain specifically binds to the polymerase basic protein 2 (PB2) subunit and its low-complexity acidic region (LCAR) interacts with polymerase acidic protein (PA) to facilitate the assembly and functional activation of viral polymerase complexes. It also summarizes the influences of species-specific sequence variations and splicing isoforms of ANP32A on the host restriction barrier of cross-species transmission. Further analyses reveal that ANP32A indirectly modulates the transcriptional levels of genes related to interferons, NF-κB and NOD-like receptor pyrin domain-containing 3 (NLRP3) inflammasomes via chromatin epigenetic modification and transcriptional resource competition, remodeling the cellular antiviral microenvironment as a nuclear transcriptional regulator. ANP32A and acidic nuclear phosphoprotein 32B (ANP32B) exert complementary functions to support viral polymerase activity, while acidic nuclear phosphoprotein 32E (ANP32E) only provides weak auxiliary effects on a small subset of mutant influenza strains with its primary physiological function centered on chromatin regulation; the three proteins jointly participate in the regulatory network of viral replication. Drawing on recent advances in cryo-electron microscopy structural biology and CRISPR/Cas9 gene-editing technologies, which are discussed narratively in this review, this review highlights the pivotal hub role of ANP32A in viral host adaptation and cross-species spillover.",
@@ -7411,24 +7488,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "高病原性禽流感病毒經歷持續演化，具備增強的跨物種傳播能力，對全球公共衛生安全構成嚴峻威脅。宿主酸性核磷蛋白32A（ANP32A）作為活化流感病毒RNA依賴性RNA聚合酶的關鍵宿主輔因子，在病毒複製與宿主適應中扮演核心角色。本綜述系統性地闡述了ANP32A的分子特徵，以及其富含白胺酸重複（LRR）域專一性結合聚合酶基本蛋白2（PB2）次單位，且其低複雜度酸性區域（LCAR）與聚合酶酸性蛋白（PA）相互作用以促進病毒聚合酶複合物之組裝與功能活化的機制。同時總結了ANP32A的物種特異性序列變異與剪接異構物對跨物種傳播之宿主限制障礙的影響。進一步分析顯示，ANP32A作為核轉錄調節因子，透過染色質表觀遺傳修飾與轉錄資源競爭，間接調控干擾素、NF-κB及NOD樣受體含熱蛋白ドメイン3（NLRP3）發炎小體相關基因的轉錄水準，從而重塑細胞的抗病毒微環境。ANP32A與酸性核磷蛋白32B（ANP32B）發揮互補功能以支援病毒聚合酶活性，而酸性核磷蛋白32E（ANP32E）僅對一小部分突變流感病毒株提供微弱的輔助效應，其主要生理功能則集中於染色質調節；此三種蛋白質共同參與病毒複製的調控網路。藉鑑近年冷凍電子顯微鏡結構生物學與CRISPR/Cas9基因編輯技術的進展（本綜述對此進行了敘述性討論），本綜述突顯了ANP32A在病毒宿主適應與跨物種溢出中的關鍵樞紐角色。"
-  },
-  {
-   "doi": "10.3390/ani16213414",
-   "title": "Gut Bacterial and Fungal Communities of the Tibetan Eared Pheasant (Crossoptilon harmani) Across a Captive–Temple–Wild Gradient: Implications for Ex Situ Conservation",
-   "abstract": "Gut microbiota influence nutrient acquisition, immune function, and pathogen resistance, yet are rarely considered in ex situ planning. We compared gut bacterial (16S ribosomal RNA; 16S rRNA) and fungal (internal transcribed spacer 1; ITS1) communities of the Tibetan eared pheasant (Crossoptilon harmani), a protected Galliform endemic to the Qinghai–Tibet Plateau, across a management gradient: fully captive (n = 3), wild (n = 7), and free-ranging monastery birds receiving supplementary barley (n = 6); samples were not linked to identified donors, so the kingdoms are compared at group level only. Monastery birds had the numerically highest bacterial Shannon diversity (5.79), above wild (5.54) and captive birds (2.93), although the among-group test was not significant (p = 0.13). Permutational multivariate analysis of variance (PERMANOVA) showed significant bacterial differentiation (Bray–Curtis R2 = 0.309, p = 0.001), driven by the captive group, which showed Lactobacillus dominance (51.4%). Fungal communities also differed significantly (R2 = 0.194, p = 0.008), with no compositional turnover (Jaccard p = 0.447). Birds in natural habitat with supplementary feeding were no more dissimilar from wild birds than wild birds were among themselves, whereas fully captive birds were clearly separated; this pattern warrants testing in replicated, multi-site studies.",
-   "authors": [
-    "Cong Wei",
-    "Shiyang Weng",
-    "Yanchao Liu",
-    "Jianchuan Li"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213414",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-30",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "腸道微生物群會影響營養獲取、免疫功能及病原體抵抗力，但在域外保育規劃中卻極少被納入考量。我們比較了青藏高原特有且受保護的雞形目鳥類——藏馬雞（Crossoptilon harmani）在不同管理梯度下的腸道細菌（16S核糖體RNA；16S rRNA）及真菌（內部轉錄間隔區1；ITS1）群落：完全圈養（n = 3）、野生（n = 7），以及獲得補充大麥的自由活動寺廟鳥類（n = 6）；由於樣本未與個別識別的個體連結，因此各界（kingdoms）僅進行群體層級的比較。寺廟鳥類的細菌香農多樣性（Shannon diversity）數值最高（5.79），高於野生鳥類（5.54）與圈養鳥類（2.93），儘管群組間的檢定未達顯著水準（p = 0.13）。變異數置換多元分析（PERMANOVA）顯示顯著的細菌分化（Bray–Curtis R2 = 0.309，p = 0.001），此差異主要是由呈現乳酸桿菌優勢（51.4%）的圈養組所驅動。真菌群落也呈現顯著差異（R2 = 0.194，p = 0.008），且無組成轉換（Jaccard p = 0.447）。棲息於自然棲地並接受補充餵食的鳥類，與野生鳥類之間的差異並不比野生鳥類彼此間的差異來得大，而完全圈養的鳥類則明顯區隔開來；此一模式有待透過具重複性的多地點研究來進一步驗證。"
   },
   {
    "doi": "10.3390/ani16213407",
