@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:45:51+00:00",
+ "updated": "2026-11-02T01:20:03+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01102-4",
@@ -1833,6 +1833,32 @@
     "breeding"
    ],
    "abstract_zh": "背景：南非（SA）的乳牛必須在不同的環境下生產，根據牛群所在地區的降雨量，大致可區分為全混合日糧（TMR）和放牧（PAST）兩種生產系統。先前的研究旨在利用305天泌乳紀錄來判定可能存在的基因型與環境交戶作用（GxE），結果雖未發現交戶作用，但得出了不同的遺傳力。本研究開發了一種替代性隨機迴歸（aRR）模型，利用已知生產系統（TMR或PAST，分別進行分析）的SA荷仕登（Holstein）乳牛檢定日紀錄。aRR模型將動物的遺傳（加成）效應區分為總體產量水準與線性持續力效應，並顯示在整個泌乳期間，TMR與PAST的遺傳變異數及遺傳力估計值有明顯差異。本研究旨在利用可比較的資料、方法和RR模型，進一步探討是否存在可能的GxE交戶作用，針對這兩個生產系統（TMR或PAST）分別區分各性狀（前三胎次的乳量、乳脂量和乳蛋白質產量）。同時也探討了根據TMR與PAST分析所得的預估育種值，其種公牛排序可能發生的變動。結果：TMR與PAST之間，遺傳總體產量水準效應的遺傳相關性表現強烈（0.83至0.93），而遺傳線性持續力效應的對應相關性在所有性狀中則呈中等程度（0.40至0.60）。預測在遺傳線性持續力以及遺傳總產量方面，TMR與PAST之間的種公牛排序會出現顯著變動。結論：遺傳相關性顯示，南非荷仕登乳牛在這兩個生產系統之間的遺傳線性持續力效應，存在顯著的基因型與環境交互作用。遺傳評估應將不同系統中的生產性狀視為基因上相異的性狀，並利用能有效將遺傳總體產量水準與遺傳線性持續力分離的適用隨機迴歸模型。為每個生產系統分別估算持續力的育種值是合理且必要的。"
+  },
+  {
+   "doi": "10.1186/s40104-026-01512-w",
+   "title": "Full-fat soybean origin and thermal processing affect protein secondary structure, in vitro digestion kinetics, and predicted standardized ileal amino acid digestibility in broiler chickens",
+   "abstract": "Background This study evaluated the chemical composition, protein secondary structure, crude protein (CP) solubilization, and in-vitro amino acid (AA) digestibility of three Kenyan full-fat soybean (FFSB) samples (S1, S2, S3) with unknown processing histories and compared with Canadian samples: raw FFSB, extruded FFSB at 160.0 °C, and FFSB roasted at 136.7 °C, 151.7 °C, or 154.4 °C. Protein structure was characterized using attenuated total reflectance-Fourier transform infrared spectroscopy. A two-phase in-vitro digestion model was used to determine CP solubilization and AA digestibility. Observed in-vivo standardized ileal digestibility (SID) values from a study using FFSB roasted at 136.7 °C were regressed on corresponding in-vitro AA digestibility values to generate predicted SID values. Results Thermal processing reduced trypsin inhibitor activity (TIA) in Canadian FFSB from 17.42 TIU/mg in raw FFSB to 3.85 TIU/mg in extruded FFSB and to 4.77, 4.59, and 2.30 TIU/mg in samples roasted at 136.7, 151.7, and 154.4 °C, respectively. In contrast, Kenyan Samples 1, 2, and 3 had residual TIA values of 8.00, 6.00, and 12.00 TIU/mg, respectively. Protein secondary structure differed among samples ( P &lt; 0.001), with the 136.7 °C-roasted sample having greater aggregated β-sheet and β-turn contents and lower random coil content than most samples. CP solubilization differed among samples at each digestion time point ( P &lt; 0.001). At the end of the intestinal phase, processed Canadian samples had greater CP solubilization than raw FFSB but did not differ from one another, whereas Kenyan Samples 2 and 3 were comparable to Canadian raw FFSB. In-vitro AA digestibility differed among samples for all AA ( P ≤ 0.001). For mean total AA digestibility, the 154.4 °C and 151.7 °C-roasted sample had the highest digestibility; Kenyan Sample 1 was greater than Samples 2 and 3, and Sample 3 did not differ from raw FFSB. The regression model showed agreement at the mean level but larger prediction errors for lysine, aspartic acid, and proline, indicating AA-specific limitations. Conclusions Overall, processing conditions and ingredient origin influenced FFSB quality, with roasting at 151.7–154.4 °C producing favorable structural and digestibility responses. The variability observed among Kenyan samples highlights the need for routine quality assessment of commercial FFSB before feed formulation.",
+   "authors": [
+    "Felix M. Njeri",
+    "Adriana Leticia Ciola",
+    "Lonita A. Manoa",
+    "Munene Kithama",
+    "Joyce G. Maina",
+    "Charles K. Gachuiri",
+    "Lee-Anne Huber",
+    "Elijah G. Kiarie"
+   ],
+   "journal": "Journal of Animal Science and Biotechnology",
+   "url": "https://doi.org/10.1186/s40104-026-01512-w",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "score": 11.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "amino acid"
+   ],
+   "abstract_zh": "背景 本研究評估了三個加工歷史未知的肯亞全脂大豆（FFSB）樣品（S1、S2、S3）的化學組成、蛋白質二級結構、粗蛋白質（CP）溶解度及體外胺基酸（AA）消化率，並與加拿大樣品進行比較：包括生全脂大豆、經 160.0 °C 擠壓膨發的全脂大豆，以及分別在 136.7 °C、151.7 °C 或 154.4 °C 下烘炒的全脂大豆。利用衰減全反射-傅立葉轉換紅外光譜儀（ATR-FTIR）對蛋白質結構進行表徵。採用兩階段體外消化模型來測定粗蛋白質溶解度與胺基酸消化率。將使用 136.7 °C 烘炒全脂大豆研究所得的體內標準化迴腸末端消化率（SID）觀測值，對應至體外胺基酸消化率值進行迴歸分析，以產生預測的標準化迴腸末端消化率值。結果 熱加工降低了加拿大全脂大豆的胰蛋白酶抑制劑活性（TIA），生全脂大豆中的 17.42 TIU/mg 降至擠壓膨發樣品的 3.85 TIU/mg，以及 136.7、151.7 和 154.4 °C 烘炒樣品的 4.77、4.59 和 2.30 TIU/mg。相比之下，肯亞樣品 1、2 和 3 的殘留胰蛋白酶抑制劑活性分別為 8.00、6.00 和 12.00 TIU/mg。蛋白質二級結構在各樣品間存在差異（P < 0.001），其中 136.7 °C 烘炒樣品具有較高的聚集型 β-折疊與 β-轉折含量，以及比多數樣品更低的無規捲曲含量。在每個消化時間點，各樣品的粗蛋白質溶解度均有差異（P < 0.001）。在腸道消化階段結束時，經過加工的加拿大樣品具有比生全脂大豆更高的粗蛋白質溶解度，但彼此間無顯著差異，而肯亞樣品 2 和 3 則與加拿大生全脂大豆相當。所有胺基酸的體外消化率在各樣品間均存在差異（P ≤ 0.001）。就平均總胺基酸消化率而言，154.4 °C 和 151.7 °C 烘炒樣品的消化率最高；肯亞樣品 1 大於樣品 2 和 3，而樣品 3 與生全脂大豆無顯著差異。迴歸模型顯示在平均水準上具有一致性，但離胺酸、天門冬胺酸和脯胺酸的預測誤差較大，顯示存在胺基酸特異性的限制。結論 總體而言，加工條件與原料來源會影響全脂大豆的品質，在 151.7–154.4 °C 下烘炒可產生良好的結構與消化率反應。肯亞樣品所表現出的變異性凸顯了在進行飼料配方設計之前，對市售全脂大豆進行常規品質評估的必要性。"
   },
   {
    "doi": "10.1080/00071668.2026.2719998",
@@ -4159,31 +4185,6 @@
    "abstract_zh": "本研究評估了瘤胃揮發性脂肪酸（VFA）生物標記——乙酸、丙酸、乙酸與丙酸比值（A:P）及總 VFA——與生長期綿羊和山羊平均日增重（ADG）的關係，及其相較於共變數所增加的預測價值。透過系統性文獻檢索，共識別出 84 項獨立研究（290 個處理組；完整資料：82 項研究，283 個處理組）。本研究採用兩種分析策略：反變異數加權多層次統合迴歸以及未加權混合模型，並對乾物質攝取量、初始體重、粗蛋白質、中性洗劑纖維及物種進行調整。在具群聚穩健推論的反變異數加權下，乙酸（β = 0.00088；穩健 p = 0.003）、丙酸（β = 0.00188；穩健 p < 0.001）以及總 VFA（β = 0.00088；穩健 p < 0.001）與 ADG 呈顯著正相關，而 A:P 則無顯著相關（穩健 p = 0.074）且表現不一致（p = 0.015）。混合線性框架得出了一致的結果（邊際 R2 = 0.610–0.642）。留一法交叉驗證顯示，丙酸提供了最大的預測增益（整體 ΔCV-R2 = 0.124，95% CI 0.012–0.326；RMSE 降低 10.84%）。結論顯示，乙酸、丙酸和總 VFA 與 ADG 具有穩健的相關性，但其漸進解釋能力適中；丙酸可提供最大的跨研究預測增量，而 A:P 則不可靠。"
   },
   {
-   "doi": "10.3390/ani16213438",
-   "title": "An Improved Pigs Weaned per Sow per Year (PSY) Accounting Method Based on Whole-Herd Resource Accounting with Mode-Specific Adaptation for Continuous and Batch Production",
-   "abstract": "Pigs weaned per sow per year (PSY) is the core indicator used to evaluate sow-herd reproductive efficiency and a key factor affecting production profitability in commercial pig farms. The traditional PSY calculation uses the average inventory of mated (or parous) sows as the denominator and ignores the resource consumption of non-productive inventory, such as unserved gilts and weaned sows awaiting culling, leading to overestimated reproductive efficiency, concealed costs, and misleading management decisions. The overestimation range of 8–15% has been indicative estimates on non-productive days of commercial sow herds, and the improved method achieved a robustness of ≤ 3% based on the validation of basic data from pig farming enterprises involved in this paper. In this study, an improved PSY accounting method was developed based on whole-herd resource accounting. Gilts ≥220 days of age and weaned sows not yet culled were incorporated into the basic sow inventory, a dynamic inventory-time-weighting approach was established, and the method was adaptively optimized for continuous and batch production, with mode-specific formulas, validation cases, and an implementation system. It should be noted that traditional PSY and improved whole-herd PSY measure different quantities: the former reflects reproductive efficiency per mated sow, while the latter reflects resource-weighted reproductive efficiency per unit of resource-weighted sow inventory. Case studies on two commercial pig farms showed that the improved method addressed the structural limitations of the traditional formula, produced PSY values of 20–30 piglets per sow per year, and remained robust to parameter variation, with PSY estimates fluctuating by no more than 3% across the feasible range of w (0.60–0.80) in these two cases, and supports refined on-farm cost accounting and standardized cross-farm comparison, although independent multi-farm validation is still required. This study provides a practical tool for reproductive efficiency assessment and refined management in pig farms.",
-   "authors": [
-    "Jinfeng Ma",
-    "Qingtian Wei",
-    "Peipei Niu",
-    "Mengyu Li",
-    "Chifeng Chen",
-    "Xuemei Xiao",
-    "Wangjun Wu",
-    "Pinghua Li",
-    "Ruihua Huang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213438",
-   "date": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "score": 3.0,
-   "matched": [
-    "pig"
-   ],
-   "abstract_zh": "每母豬年離乳ن仔豬數（PSY）是用於評估母豬群繁殖效率的核心指標，也是影響商業豬場生產獲利能力的關鍵因素。傳統的PSY計算以已配種（或已產仔）母豬的平均存欄量作為分母，忽略了未配種後備母豬及待淘汰離乳母豬等非生產存欄的資源消耗，導致繁殖效率被高估、成本被掩蓋，並誤導管理決策。根據商業母豬群非生產天數的指示性估算，高估幅度約在8–15%之間，而本研究根據參與之養豬企業的基礎數據驗證，改進後的方法達到了≤ 3%的穩健性。本研究基於全群資源會計，開發了一種改進的PSY核算方法。該方法將日齡≥220天的後備母豬與尚未淘汰的離乳母豬納入基礎母豬存欄中，建立了動態存欄時間加權方法，並針對連續式與分批次生產進行了適應性優化，提供了模式專屬公式、驗證案例及實施系統。需要注意的是，傳統PSY與改進的全納入式全群PSY衡量的是不同的量：前者反映每頭已配種母豬的繁殖效率，而後者反映每單位資源加權母豬存欄的資源加權繁殖效率。對兩個商業豬場的案例研究表明，改進的方法解決了傳統公式的結構性限制，產出的PSY值為每母豬每年20–30頭仔豬，且對參數變異保持穩健，在這兩個案例中，PSY估算值在w的可行範圍（0.60–0.80）內的波動不超过3%，並支援場內精細化成本會計與跨場標準化比較，儘管仍需要進行獨立的多場驗證。本研究為豬場繁殖效率評估與精細化管理提供了一個實用工具。"
-  },
-  {
    "doi": "10.3390/ani16213436",
    "title": "Physiological and Nitrogen Balance Responses of Adult Dogs Fed Diets Containing Different Crude Protein Levels",
    "abstract": "This nonrandomized sequential study evaluated nitrogen (N) balance, apparent nutrient digestibility, serum biochemistry, and indoxyl sulfate (IS)-related outcomes in ten healthy adult Beagles. Dogs received the crude protein (CP) 30% formulation for four weeks followed by the CP 18% formulation for four weeks; urine and feces were quantitatively collected during four consecutive days in each period. Analyzed dietary CP concentrations were 31.36% and 19.20% of dry matter. Daily urinary N excretion was lower in the second period (5.60 ± 0.35 vs. 3.34 ± 0.15 g/day; false discovery rate (FDR)-adjusted q &lt; 0.001), as was calculated N balance (2.52 ± 0.39 vs. 1.04 ± 0.14 g N/day; paired p = 0.0022). The N retention percentages were 28.78 ± 4.45% and 20.66 ± 2.81%, respectively (p = 0.077; q = 0.132), and were not demonstrated to be equivalent. Apparent total tract digestibility of CP and most analyzed amino acids was lower in the second period. Exploratory daily urinary IS excretion was 3.08 ± 0.35 and 2.59 ± 0.36 mg/day, respectively (p = 0.394; q = 0.394). The analyzed indispensable amino acid concentrations of both diets met the dietary nutrient profile benchmarks evaluated in this study. However, the formulations differed in ingredients and predicted daily energy intake, and period was completely confounded with feeding order. These observations cannot establish an isolated effect of dietary protein, actual long-term body protein retention, or nutritional equivalence.",
@@ -4208,6 +4209,31 @@
     "amino acid"
    ],
    "abstract_zh": "這項非隨機序列研究評估了十隻健康的成犬之氮（N）平衡、表觀營養素消化率、血清生化學以及硫酸吲哚oxyl（IS）相關指標。犬隻先後接受粗蛋白（CP）30%配方四周，接著接受CP 18%配方四周；在每個時期的連續四天內定量收集尿液與糞便。分析所得的日糧CP濃度分別為乾物質的31.36%與19.20%。第二時期的每日尿氮排泄量較低（5.60 ± 0.35 對比 3.34 ± 0.15 g/天；經偽發現率（FDR）調整之 q < 0.001），計算所得的氮平衡亦然（2.52 ± 0.39 對比 1.04 ± 0.14 g N/天；配對 p = 0.0022）。氮滯留百分比分別為 28.78 ± 4.45% 與 20.66 ± 2.81%（p = 0.077；q = 0.132），且未能證明具等效性。CP及大多數分析胺基酸的表觀全消化道消化率在第二時期較低。探索性每日尿液IS排泄量分別為 3.08 ± 0.35 與 2.59 ± 0.36 mg/天（p = 0.394；q = 0.394）。兩種日糧中經分析的必需胺基酸濃度皆符合本研究評估之日糧營養素規範基準。然而，兩款配方的原料與預估每日能量攝取量有所不同，且時期與餵食順序完全混淆。這些觀察結果無法確立膳食蛋白質的獨立效應、實際的長期體蛋白滯留，或營養上的等效性。"
+  },
+  {
+   "doi": "10.3390/ani16213438",
+   "title": "An Improved Pigs Weaned per Sow per Year (PSY) Accounting Method Based on Whole-Herd Resource Accounting with Mode-Specific Adaptation for Continuous and Batch Production",
+   "abstract": "Pigs weaned per sow per year (PSY) is the core indicator used to evaluate sow-herd reproductive efficiency and a key factor affecting production profitability in commercial pig farms. The traditional PSY calculation uses the average inventory of mated (or parous) sows as the denominator and ignores the resource consumption of non-productive inventory, such as unserved gilts and weaned sows awaiting culling, leading to overestimated reproductive efficiency, concealed costs, and misleading management decisions. The overestimation range of 8–15% has been indicative estimates on non-productive days of commercial sow herds, and the improved method achieved a robustness of ≤ 3% based on the validation of basic data from pig farming enterprises involved in this paper. In this study, an improved PSY accounting method was developed based on whole-herd resource accounting. Gilts ≥220 days of age and weaned sows not yet culled were incorporated into the basic sow inventory, a dynamic inventory-time-weighting approach was established, and the method was adaptively optimized for continuous and batch production, with mode-specific formulas, validation cases, and an implementation system. It should be noted that traditional PSY and improved whole-herd PSY measure different quantities: the former reflects reproductive efficiency per mated sow, while the latter reflects resource-weighted reproductive efficiency per unit of resource-weighted sow inventory. Case studies on two commercial pig farms showed that the improved method addressed the structural limitations of the traditional formula, produced PSY values of 20–30 piglets per sow per year, and remained robust to parameter variation, with PSY estimates fluctuating by no more than 3% across the feasible range of w (0.60–0.80) in these two cases, and supports refined on-farm cost accounting and standardized cross-farm comparison, although independent multi-farm validation is still required. This study provides a practical tool for reproductive efficiency assessment and refined management in pig farms.",
+   "authors": [
+    "Jinfeng Ma",
+    "Qingtian Wei",
+    "Peipei Niu",
+    "Mengyu Li",
+    "Chifeng Chen",
+    "Xuemei Xiao",
+    "Wangjun Wu",
+    "Pinghua Li",
+    "Ruihua Huang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213438",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "score": 3.0,
+   "matched": [
+    "pig"
+   ],
+   "abstract_zh": "每母豬年離乳ن仔豬數（PSY）是用於評估母豬群繁殖效率的核心指標，也是影響商業豬場生產獲利能力的關鍵因素。傳統的PSY計算以已配種（或已產仔）母豬的平均存欄量作為分母，忽略了未配種後備母豬及待淘汰離乳母豬等非生產存欄的資源消耗，導致繁殖效率被高估、成本被掩蓋，並誤導管理決策。根據商業母豬群非生產天數的指示性估算，高估幅度約在8–15%之間，而本研究根據參與之養豬企業的基礎數據驗證，改進後的方法達到了≤ 3%的穩健性。本研究基於全群資源會計，開發了一種改進的PSY核算方法。該方法將日齡≥220天的後備母豬與尚未淘汰的離乳母豬納入基礎母豬存欄中，建立了動態存欄時間加權方法，並針對連續式與分批次生產進行了適應性優化，提供了模式專屬公式、驗證案例及實施系統。需要注意的是，傳統PSY與改進的全納入式全群PSY衡量的是不同的量：前者反映每頭已配種母豬的繁殖效率，而後者反映每單位資源加權母豬存欄的資源加權繁殖效率。對兩個商業豬場的案例研究表明，改進的方法解決了傳統公式的結構性限制，產出的PSY值為每母豬每年20–30頭仔豬，且對參數變異保持穩健，在這兩個案例中，PSY估算值在w的可行範圍（0.60–0.80）內的波動不超过3%，並支援場內精細化成本會計與跨場標準化比較，儘管仍需要進行獨立的多場驗證。本研究為豬場繁殖效率評估與精細化管理提供了一個實用工具。"
   },
   {
    "doi": "10.1080/00439339.2026.2731346",
@@ -7192,22 +7218,6 @@
    "abstract_zh": "生成對抗網路（GANs）是一種人工智慧模型，旨在生成與真實資料無法區分的全新資料。最初開發 GAN 是為了生成影像以互補現有資料集並建立更多樣化的樣本，基於 GAN 的資料可以增強機器學習與深度學習應用的下游分析。基於 GAN 的方法亦具有高度通用性，適合用於擴增體學資料，進而改善下游分析，例如基因型預測、生物標記偵測以及蛋白質從頭設計（de novo design）。此外，GAN 還能保留並重建承受選擇壓力的基因體區域、增加代表性不足群體的樣本數，並減輕基因體學、轉錄體學與單細胞體學中類別不平衡的影響。近期研究也表明，GAN 生成的資料可以支援保護隱私的資料分享，以及新穎生物序列和蛋白質的設計。本篇文獻綜述介紹了 GAN 的基礎概念，探討其在各個體學領域的多樣化應用，並突顯將 GAN 方法應用於家畜基因體學的新穎契機。"
   },
   {
-   "doi": "10.3390/ani16213405",
-   "title": "Functional Groups of Summer Copepod Assemblage in the Central Barents Sea",
-   "abstract": "The functional trait structure of copepod assemblages inhabiting Arctic seas remains poorly investigated. In the present study, we aimed to reveal the spatial pattern of copepod functional groups in the central Barents Sea. One type of water mass (the Barents Sea Water) was identified based on an analysis of water properties. Environmental gradients in oceanographic factors, nutrients, and food conditions were relatively stable. Total abundance ranged from 434 to 1168 ind. m−3, with Oithona similis dominated numerically. Total biomass ranged from 7.1 to 85.9 mg dry mass m−3, with Calanus copepods having the highest contribution. Four copepod groups were delineated based on seven key functional traits (size, trophic group, feeding mode, reproductive strategy, life cycle duration, preferred habitat, and geographic distribution). The most abundant group included Calanus finmarchicus, Pseudocalanus spp., Microcalanus spp., Centropages hamatus, and Copepoda nauplii, which attained high abundances in the northern and south-eastern sub-regions. RLQ, fourth-corner, and redundancy analyses indicated sampling depth as the most important variable explaining spatial variation in diversity, functional diversity, and copepod traits. Water temperature, chlorophyll a concentration, and nutrient levels had a significant impact on particular functional traits, including omnivore–herbivores, omnivores, cruise-feeding, mixed-feeding, long-lived, intermediate-depth dwellers, and Arctic/cosmopolitan taxa. This research provides baseline information on the functional trait structure of copepod populations in the highly productive Arctic region and can be applied to the future monitoring of pelagic assemblages.",
-   "authors": [
-    "Vladimir G. Dvoretsky",
-    "Alexander G. Dvoretsky"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213405",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "北極海域橈腳類群聚的功能性特徵結構目前仍缺乏深入研究。在本研究中，我們旨在揭示巴倫支海中部橈腳類功能群的空間格局。基於水文特質分析，辨識出一種水團（巴倫支海水）。海洋學因子、營養鹽與食物條件的環境梯度相對穩定。總豐度介於每立方公尺 434 至 1168 個體，其中小異奇橈腳類（Oithona similis）在數量上佔優勢。總生物量介於每立方公尺 7.1 至 85.9 毫克乾重，並以哲水蚤屬（Calanus）橈腳類的貢獻最高。基於七項關鍵功能特徵（體型、營養群、攝食模式、繁殖策略、生命週期持續時間、偏好棲息地及地理分佈），劃分出四個橈腳類群。數量最豐富的群落包含芬氏哲水蚤（Calanus finmarchicus）、偽哲水蚤屬（Pseudocalanus spp.）、微哲水蚤屬（Microcalanus spp.）、鉤額哲水蚤（Centropages hamatus）及橈腳類無節幼體（nauplii），牠們在北部與東南部次分區達到高豐度。RLQ 分析、fourth-corner 分析與冗餘分析指出，採樣深度是解釋多樣性、功能多樣性及橈腳類特徵空間變異的最重要變數。水溫、葉綠素 a 濃度與營養鹽水平對特定功能特徵具有顯著影響，包括雜食－植食性、雜食性、巡游攝食、混合攝食、長壽、中層水域棲息者，以及北極／世界性分類群。本研究為高度生產力的北極地區中橈腳類族群的功能性特徵結構提供了基礎資料，並可應用於未來的中上層群聚監測。"
-  },
-  {
    "doi": "10.3390/ani16213406",
    "title": "Diet Formats, Feeding Practices, and Environmental Factors Associated with Overweight, Underweight, and Ideal Body Condition in Household Cats",
    "abstract": "This exploratory cross-sectional study analyzed owner-reported survey data from 5653 cats belonging to current and prospective customers of a UK fresh cat food company to identify factors associated with body condition in companion cats and to compare owner classifications made using a structured body condition score (BCS) tool with those made by unguided judgment. Owners classified fewer cats as ideal using the structured BCS tool than by unguided judgment, with lower agreement for underweight than for overweight cats. Multivariable logistic regression models were developed for overweight, underweight, and ideal body condition. A higher proportion of fresh food was associated with greater odds of ideal body condition (OR 1.22, 95% CI: 1.04–1.42), while dry food was associated with overweight (OR 1.83, 95% CI: 1.33–2.51) and wet food with underweight (OR 1.51, 95% CI: 1.06–2.16), though this association was less robust to differing model specifications. Further associations included certain additional calorie sources, feeding practices, treat type, activity, enrichment, household composition, and established demographic factors. These hypothesis-generating findings highlight a gap between structured and unguided owner assessment and identify associations that merit prospective evaluation in a more generally representative population.",
@@ -7225,50 +7235,20 @@
    "abstract_zh": "本探索性橫斷研究分析了來自英國一家鮮食貓糧公司現有及潛在客戶的 5,653 隻貓之飼主回報問卷數據，旨在識別與伴侶貓體態相關的因素，並比較飼主使用結構化體態評分（BCS）工具與憑直覺判斷所作出的分類差異。與憑直覺判斷相比，飼主使用結構化 BCS 工具將較少數目的貓分類為理想體態，且對過輕貓隻的一致性低於過重貓隻。本研究針對過重、過輕及理想體態建立了多變量邏輯斯迴歸模型。較高比例的鮮食與理想體態的高勝算比相關（OR 1.22, 95% CI: 1.04–1.42），而乾糧與過重相關（OR 1.83, 95% CI: 1.33–2.51），濕糧則與過輕相關（OR 1.51, 95% CI: 1.06–2.16），儘管此關聯性對不同模型設定的穩健性較低。其他相關因素包括特定的額外熱量來源、餵食習慣、零食種類、活動量、豐富化環境、家庭組成及既有的的人口統計學因素。這些具假設生成性的研究結果突顯了結構化與非結構化飼主評估之間的落差，並找出了值得在更具代表性的族群中進行前瞻性評估的相關因素。"
   },
   {
-   "doi": "10.3390/ani16213398",
-   "title": "Evaluation of Digital Tomosynthesis for Detecting Articular Cartilage Lesions in Equine Distal Interphalangeal and Metacarpophalangeal Joints: Comparison with Computed Tomography Arthrography",
-   "abstract": "Conventional radiography has limited sensitivity for detecting equine cartilage lesions. This prospective ex vivo study compared digital tomosynthesis (DT), computed tomography (CT), digital tomosynthesis arthrography (DTA), and computed tomography arthrography (CTA) for detecting artificial and naturally occurring partial- and full-thickness cartilage lesions in distal interphalangeal and metacarpophalangeal joints. Sixteen distal forelimbs from nine horses were examined under simulated weight-bearing (SWB) and non-weight-bearing (NWB) conditions. Three blinded observers evaluated 24 regions per limb, using gross examination as the reference standard. Sensitivity, specificity, and agreement were calculated, and mixed-effects logistic regression was performed. Gross examination identified lesions in 141 of 384 regions. Mean sensitivities (95% confidence intervals), reported for SWB and NWB, respectively, were highest for CTA [60.8% (56.7–64.9); 57.0% (53.4–60.5)], followed by DTA [14.7% (10.6–18.7); 29.1% (24.5–33.9)], CT [13.0% (9.3–16.7); 15.4% (12.0–18.8)], and DT [0.5% (0.0–1.0); 1.7% (0.9–2.4)]. Mean specificities ranged from 96.8% (95.3–98.4) to 99.7% (99.3–100.0). For agreement with gross examination, CTA had the highest pooled Cohen’s κ. Contrast medium administration was associated with higher odds of true-positive and lower odds of true-negative classification. Weight-bearing did not consistently improve lesion detection. Clinical performance requires evaluation in living horses.",
+   "doi": "10.3390/ani16213405",
+   "title": "Functional Groups of Summer Copepod Assemblage in the Central Barents Sea",
+   "abstract": "The functional trait structure of copepod assemblages inhabiting Arctic seas remains poorly investigated. In the present study, we aimed to reveal the spatial pattern of copepod functional groups in the central Barents Sea. One type of water mass (the Barents Sea Water) was identified based on an analysis of water properties. Environmental gradients in oceanographic factors, nutrients, and food conditions were relatively stable. Total abundance ranged from 434 to 1168 ind. m−3, with Oithona similis dominated numerically. Total biomass ranged from 7.1 to 85.9 mg dry mass m−3, with Calanus copepods having the highest contribution. Four copepod groups were delineated based on seven key functional traits (size, trophic group, feeding mode, reproductive strategy, life cycle duration, preferred habitat, and geographic distribution). The most abundant group included Calanus finmarchicus, Pseudocalanus spp., Microcalanus spp., Centropages hamatus, and Copepoda nauplii, which attained high abundances in the northern and south-eastern sub-regions. RLQ, fourth-corner, and redundancy analyses indicated sampling depth as the most important variable explaining spatial variation in diversity, functional diversity, and copepod traits. Water temperature, chlorophyll a concentration, and nutrient levels had a significant impact on particular functional traits, including omnivore–herbivores, omnivores, cruise-feeding, mixed-feeding, long-lived, intermediate-depth dwellers, and Arctic/cosmopolitan taxa. This research provides baseline information on the functional trait structure of copepod populations in the highly productive Arctic region and can be applied to the future monitoring of pelagic assemblages.",
    "authors": [
-    "Alisa Hahn",
-    "Miguel Valdés Vázquez",
-    "Gabriel Manso-Díaz",
-    "Dagmar Berner",
-    "Joana Maia Ramos",
-    "Marcus G. Doherr",
-    "Christoph J. Lischer"
+    "Vladimir G. Dvoretsky",
+    "Alexander G. Dvoretsky"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213398",
+   "url": "https://doi.org/10.3390/ani16213405",
    "date": "2026-10-28",
    "first_seen": "2026-10-29",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "傳統X光攝影對於偵測馬匹軟骨病灶的敏感度有限。本前瞻性體外研究比較了數位體層合成（DT）、電腦斷層掃描（CT）、數位體層合成造影（DTA）與電腦斷層造影（CTA）在偵測遠端指關節及掌指關節中，人工製造與自然發生的部分及全層軟骨病灶之效能。本研究檢視來自9匹馬的16隻遠端前肢，分別在模擬負重（SWB）與非負重（NWB）條件下進行檢查。三位採盲法評估的觀察者針對每肢評估24個區域，並以肉眼檢查作為參考標準。計算敏感度、特異度與一致性，並執行混合效應羅吉斯迴歸。肉眼檢查在384個區域中的141個區域識別出病灶。平均敏感度（95%信賴區間）分別以模擬負重及非負重報告，最高者為CTA [60.8% (56.7–64.9)；57.0% (53.4–60.5)]，其次依序為DTA [14.7% (10.6–18.7)；29.1% (24.5–33.9)]、CT [13.0% (9.3–16.7)；15.4% (12.0–18.8)]以及DT [0.5% (0.0–1.0)；1.7% (0.9–2.4)]。平均特異度介於96.8% (95.3–98.4)至99.7% (99.3–100.0)之間。在與肉眼檢查的一致性方面，CTA具有最高的合併柯hen氏kappa值（Cohen's κ）。對比劑之給予與較高的真陽性分類機率及較低的真陰性分類機率相關。負重並未一致性地改善病灶偵測。其臨床效能尚需於活體馬匹中進行評估。"
-  },
-  {
-   "doi": "10.3390/ani16213402",
-   "title": "Correction: Zheng et al. Effects of Bacillus coagulans on Growth Performance, Digestive Enzyme Activity, and Intestinal Microbiota of the Juvenile Fourfinger Threadfin (Eleutheronema tetradactylum). Animals 2025, 15, 515",
-   "abstract": "In the original publication [...]",
-   "authors": [
-    "Anna Zheng",
-    "Jiaqin Hu",
-    "Evodia Moses Mkulo",
-    "Minxuan Jin",
-    "Linjuan Wang",
-    "Huijuan Zhang",
-    "Baogui Tang",
-    "Hui Zhou",
-    "Bei Wang",
-    "Jiansheng Huang",
-    "Zhongliang Wang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213402",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "（請提供您需要翻譯的學術摘要內容）"
+   "abstract_zh": "北極海域橈腳類群聚的功能性特徵結構目前仍缺乏深入研究。在本研究中，我們旨在揭示巴倫支海中部橈腳類功能群的空間格局。基於水文特質分析，辨識出一種水團（巴倫支海水）。海洋學因子、營養鹽與食物條件的環境梯度相對穩定。總豐度介於每立方公尺 434 至 1168 個體，其中小異奇橈腳類（Oithona similis）在數量上佔優勢。總生物量介於每立方公尺 7.1 至 85.9 毫克乾重，並以哲水蚤屬（Calanus）橈腳類的貢獻最高。基於七項關鍵功能特徵（體型、營養群、攝食模式、繁殖策略、生命週期持續時間、偏好棲息地及地理分佈），劃分出四個橈腳類群。數量最豐富的群落包含芬氏哲水蚤（Calanus finmarchicus）、偽哲水蚤屬（Pseudocalanus spp.）、微哲水蚤屬（Microcalanus spp.）、鉤額哲水蚤（Centropages hamatus）及橈腳類無節幼體（nauplii），牠們在北部與東南部次分區達到高豐度。RLQ 分析、fourth-corner 分析與冗餘分析指出，採樣深度是解釋多樣性、功能多樣性及橈腳類特徵空間變異的最重要變數。水溫、葉綠素 a 濃度與營養鹽水平對特定功能特徵具有顯著影響，包括雜食－植食性、雜食性、巡游攝食、混合攝食、長壽、中層水域棲息者，以及北極／世界性分類群。本研究為高度生產力的北極地區中橈腳類族群的功能性特徵結構提供了基礎資料，並可應用於未來的中上層群聚監測。"
   },
   {
    "doi": "10.3390/ani16213401",
@@ -7333,6 +7313,52 @@
    "abstract_zh": "壓力會損害卵母細胞品質與生殖表現，然而在壓力狀態下，褪黑激素（MT）與其他抗氧化劑的相對功效仍不清楚。本研究利用小鼠活體（in vivo）約束壓力模型與豬卵母細胞體外（in vitro）成熟模型，比較了 MT 與 EGCG 的效果。在受壓力的小鼠中，於 48 小時約束期間每 12 小時透過腹腔注射（i.p.）給予適當劑量的 MT（0.1、1 和 10 mg/kg）與 EGCG（35、65 和 100 mg/kg），均能改善卵母細胞發育率，其中 MT 在最適劑量（1 mg/kg）下表現出更佳的功效。值得注意的是，MT（而非 EGCG）降低了受壓力小鼠的血清皮質醇（cortisol）與促腎上腺皮質激素釋放激素（CRH）濃度。在豬卵母細胞中，於 48 小時體外成熟（IVM）期間補充 CRH 會損害卵母細胞成熟與胚胎發育，而 MT 則以劑量依賴的方式挽救這些缺陷，並伴隨活性氧（ROS）累積的減少及卵丘細胞細胞凋亡的降低。RT-PCR 分析顯示，豬卵母細胞與卵丘細胞表現 MT1 轉錄本，但不表現 MT2。綜上所述，來自兩個互補模型（小鼠活體與豬體外）的證據支持 MT 作為一種有潛力的補充劑，能透過在不同物種中展現的全身性與細胞性機制，在壓力下保護卵母細胞。"
   },
   {
+   "doi": "10.3390/ani16213402",
+   "title": "Correction: Zheng et al. Effects of Bacillus coagulans on Growth Performance, Digestive Enzyme Activity, and Intestinal Microbiota of the Juvenile Fourfinger Threadfin (Eleutheronema tetradactylum). Animals 2025, 15, 515",
+   "abstract": "In the original publication [...]",
+   "authors": [
+    "Anna Zheng",
+    "Jiaqin Hu",
+    "Evodia Moses Mkulo",
+    "Minxuan Jin",
+    "Linjuan Wang",
+    "Huijuan Zhang",
+    "Baogui Tang",
+    "Hui Zhou",
+    "Bei Wang",
+    "Jiansheng Huang",
+    "Zhongliang Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213402",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "（請提供您需要翻譯的學術摘要內容）"
+  },
+  {
+   "doi": "10.3390/ani16213398",
+   "title": "Evaluation of Digital Tomosynthesis for Detecting Articular Cartilage Lesions in Equine Distal Interphalangeal and Metacarpophalangeal Joints: Comparison with Computed Tomography Arthrography",
+   "abstract": "Conventional radiography has limited sensitivity for detecting equine cartilage lesions. This prospective ex vivo study compared digital tomosynthesis (DT), computed tomography (CT), digital tomosynthesis arthrography (DTA), and computed tomography arthrography (CTA) for detecting artificial and naturally occurring partial- and full-thickness cartilage lesions in distal interphalangeal and metacarpophalangeal joints. Sixteen distal forelimbs from nine horses were examined under simulated weight-bearing (SWB) and non-weight-bearing (NWB) conditions. Three blinded observers evaluated 24 regions per limb, using gross examination as the reference standard. Sensitivity, specificity, and agreement were calculated, and mixed-effects logistic regression was performed. Gross examination identified lesions in 141 of 384 regions. Mean sensitivities (95% confidence intervals), reported for SWB and NWB, respectively, were highest for CTA [60.8% (56.7–64.9); 57.0% (53.4–60.5)], followed by DTA [14.7% (10.6–18.7); 29.1% (24.5–33.9)], CT [13.0% (9.3–16.7); 15.4% (12.0–18.8)], and DT [0.5% (0.0–1.0); 1.7% (0.9–2.4)]. Mean specificities ranged from 96.8% (95.3–98.4) to 99.7% (99.3–100.0). For agreement with gross examination, CTA had the highest pooled Cohen’s κ. Contrast medium administration was associated with higher odds of true-positive and lower odds of true-negative classification. Weight-bearing did not consistently improve lesion detection. Clinical performance requires evaluation in living horses.",
+   "authors": [
+    "Alisa Hahn",
+    "Miguel Valdés Vázquez",
+    "Gabriel Manso-Díaz",
+    "Dagmar Berner",
+    "Joana Maia Ramos",
+    "Marcus G. Doherr",
+    "Christoph J. Lischer"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213398",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "傳統X光攝影對於偵測馬匹軟骨病灶的敏感度有限。本前瞻性體外研究比較了數位體層合成（DT）、電腦斷層掃描（CT）、數位體層合成造影（DTA）與電腦斷層造影（CTA）在偵測遠端指關節及掌指關節中，人工製造與自然發生的部分及全層軟骨病灶之效能。本研究檢視來自9匹馬的16隻遠端前肢，分別在模擬負重（SWB）與非負重（NWB）條件下進行檢查。三位採盲法評估的觀察者針對每肢評估24個區域，並以肉眼檢查作為參考標準。計算敏感度、特異度與一致性，並執行混合效應羅吉斯迴歸。肉眼檢查在384個區域中的141個區域識別出病灶。平均敏感度（95%信賴區間）分別以模擬負重及非負重報告，最高者為CTA [60.8% (56.7–64.9)；57.0% (53.4–60.5)]，其次依序為DTA [14.7% (10.6–18.7)；29.1% (24.5–33.9)]、CT [13.0% (9.3–16.7)；15.4% (12.0–18.8)]以及DT [0.5% (0.0–1.0)；1.7% (0.9–2.4)]。平均特異度介於96.8% (95.3–98.4)至99.7% (99.3–100.0)之間。在與肉眼檢查的一致性方面，CTA具有最高的合併柯hen氏kappa值（Cohen's κ）。對比劑之給予與較高的真陽性分類機率及較低的真陰性分類機率相關。負重並未一致性地改善病灶偵測。其臨床效能尚需於活體馬匹中進行評估。"
+  },
+  {
    "doi": "10.3390/ani16213423",
    "title": "Fish Responses to Total Dissolved Gas Supersaturation: From the Perspective of Historical Experimental Data in the Upper Yangtze River",
    "abstract": "During discharge from high dams, the high-velocity water flows mix with air, causing downstream total dissolved gas (TDG) supersaturation, threatening fish survival. However, a systematic understanding on fish response patterns under the coupled influence of multiple environmental and biological factors remains limited. This study synthesized historical experimental data to explore fish tolerance and avoidance in response to TDG supersaturation in the upper Yangtze River. Economic fish species demonstrated overall stronger tolerance than the rare fish species under all TDG levels. Significant interspecific differences in economic fish tolerance were observed with increasing TDG levels. Aristichthys nobilis demonstrated stronger tolerance than Hypophthalmichthys molitrix. For the rare fish, Procypris rabaudi showed the weakest tolerance. Exposure time, TDG level, species and water temperature were identified as the primary factors influencing fish mortality. Based on these, mortality prediction formulas for rare and economic fish were established, achieving an R2 over 0.59. The avoidance ability of fish increased significantly with increasing TDG levels and reached 50% at 130% TDG. Significant interspecific differences in fish avoidance were observed at a 140% TDG level or above, and Schizothorax prenanti showed the weakest avoidance ability. TDG level was the dominant factor influencing fish avoidance ability, followed by body length. Accordingly, a prediction formula for fish avoidance rates was proposed with an R2 of 0.88. The findings offer critical insights for ecological risk management and the development of fish conservation strategies downstream of high dams.",
@@ -7353,20 +7379,23 @@
    "abstract_zh": "高壩洩洪期間，高速水流與空氣混合，導致下游總溶解氣體（TDG）過飽和，威脅魚類生存。然而，目前對於多種環境與生物因素耦合影響下魚類的反應模式之系統性理解仍然有限。本研究綜合了歷史實驗數據，探討長江上游魚類對TDG過飽和的耐受與迴避反應。在所有TDG水準下，經濟魚類展現出整體較稀有魚類更強的耐受性。隨著TDG水準升高，經濟魚類間的耐受性呈現顯著的物種差異。鱅魚（Aristichthys nobilis）表現出比鰱魚（Hypophthalmichthys molitrix）更強的耐受性。在稀有魚類中，岩原鱅（Procypris rabaudi）的耐受性最弱。暴露時間、TDG水準、物種和水溫被確定為影響魚類死亡率的主要因素。據此，建立了稀有魚類和經濟魚類的死亡率預測公式，其R2均大於0.59。隨著TDG水準升高，魚類的迴避能力顯著增強，並在TDG達130%時達到50%。在TDG達140%或更高水準時，魚類迴避行為呈現顯著的物種差異，其中短鬚裂腹魚（Schizothorax prenanti）的迴避能力最弱。TDG水準是影響魚類迴避能力的主導因素，其次為體長。因此，提出了魚類迴避率的預測公式，其R2為0.88。研究結果為高壩下游的生態風險管理和魚類保育策略的制定提供了關鍵見解。"
   },
   {
-   "doi": "10.3390/ani16213422",
-   "title": "Spatio-Temporal Distribution and Stranding Records of Cetaceans Along the Romanian Black Sea",
-   "abstract": "This study investigates cetacean occurrence and stranding records along the Romanian Black Sea coast between 2021 and 2025, focusing on the three resident subspecies: Tursiops truncatus ponticus, Delphinus delphis ponticus, and Phocoena phocoena relicta. A total of 1392 live individuals were documented across 188 sighting events, with T. t. ponticus and D. d. ponticus together representing 88.3% of all recorded individuals. The monthly distribution of recorded sighting events differed significantly among subspecies (p &lt; 0.001), as did the distance of recorded sightings from the coastline (p &lt; 0.001). Median distances were 4.40 km for T. t. ponticus, 61.78 km for D. d. ponticus, and 30.44 km for P. p. relicta. During the same period, 76 stranded cetaceans were recorded along the Romanian Black Sea coast, of which 58 were identified to subspecies level. P. p. relicta accounted for 70.7% of identified stranded individuals, compared with 11.7% of live individuals recorded during research cruises. Stranding records were most frequent in August and May, although their monthly distribution did not differ significantly among subspecies. Although both datasets covered the same geographical region and study period, differences in observation methods and sampling effort limit direct comparisons and prevent inferences about mortality rates or population trends. Nevertheless, the observed differences in the spatial and monthly distribution of live sightings, together with the high representation of P. p. relicta among stranded individuals, provide complementary information to support future cetacean monitoring, stranding investigations, and conservation efforts in the Romanian Black Sea.",
+   "doi": "10.3390/ani16213419",
+   "title": "Bimodal Copulatory Locomotion and Ritualized Male–Male Combat in the Amazonian Lancehead (Bothrops atrox): Linking Sexual Size Dimorphism to Reproductive Mechanics and Sexual Conflict",
+   "abstract": "Reproductive behaviors in secretive Neotropical pitvipers are rarely documented under natural conditions, limiting empirical assessments of sexual selection, locomotor mechanics, and mating systems. Here, we present focal videography and photographic documentation of free-ranging Amazonian Lanceheads (Bothrops atrox) from coastal French Guiana during the rainy season. A prolonged copulation (~3 h) revealed a remarkable bimodal locomotor sequence: the pair moved from terrestrial litter across a 20 m-wide forest stream and back to land without cloacal separation. Video analysis demonstrates female-driven locomotion, wherein the substantially larger female pulls the coupled male through the water column against his counter-directional swimming movements. This behavior illustrates female locomotor dominance under sexual size dimorphism and the widely mechanical resilience of the spine-bearing crotaline hemipenis during forced aquatic displacement. Sequential photographic documentation captures ritualized male–male combat with synchronized vertical displays, anterior-trunk swaying, neck hooking, and topping attempts, confirming that stereotypic motor patterns described in western Amazonia are conserved in eastern Guiana Shield populations. These postural dynamics represent transient physical contests over spatial priority rather than permanent dominance hierarchies. Together, this evidence indicates that empirical validation for female behavioral control during copulation and expands the geographic framework supporting the prolonged mate-searching polygyny hypothesis in B. atrox.",
    "authors": [
-    "George-Emanuel Harcotă",
-    "Andreea-Mădălina Ciucă"
+    "Ligia G. S. Amorim",
+    "Vincent Prémel",
+    "Lucas Aosf",
+    "Karina Nunes Kasperoviczus",
+    "Selma Maria de Almeida-Santos"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213422",
+   "url": "https://doi.org/10.3390/ani16213419",
    "date": "2026-10-29",
    "first_seen": "2026-10-30",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "本研究探討2021年至2025年間羅馬尼亞黑海沿岸的鯨豚出沒與擱淺記錄，重點關注三種常駐亞種：黑海寬吻海豚（*Tursiops truncatus ponticus*）、黑海短吻真海豚（*Delphinus delphis ponticus*）及黑海港灣鼠海豚（*Phocoena phocoena relicta*）。在188次目擊事件中共記錄到1392隻活體，其中寬吻海豚與真海豚合計佔所有記錄個體的88.3%。各亞種記錄到目擊事件的每月分佈存在顯著差異（p < 0.001），目擊記錄與海岸線的距離亦然（p < 0.001）。寬吻海豚、真海豚和港灣鼠海豚的中位數距離分別為4.40公里、61.78公里及30.44公里。同一期間，羅馬尼亞黑海沿岸共記錄到76隻擱淺鯨豚，其中58隻鑑定至亞種層級。在已鑑定的擱淺個體中，港灣鼠海豚佔70.7%，相較之下，其在研究航次中所記錄的活體個體僅佔11.7%。擱淺記錄以8月和5月最為頻繁，但其每月分佈在各亞種之間並無顯著差異。儘管兩組資料涵蓋相同的地理區域與研究期間，但觀察方法和採樣強度的差異限制了直接比較，且無法推論死亡率或族群趨勢。然而，活體目擊在空間與每月分佈上觀察到的差異，加上港灣鼠海豚在擱淺個體中的高比例，為支援未來羅馬尼亞黑海地區的鯨豚監測、擱淺調查與保育工作提供了互補的資訊。"
+   "abstract_zh": "隱蔽性高的新熱帶蝮蛇之繁殖行為在自然條件下極少被記錄，這限制了對性擇、移動力學與交配系統的經驗性評估。在此，我們呈現在雨季期間來自法屬圭亞那沿海的自由活動亞馬遜矛頭蝮（Bothrops atrox）之焦點錄影與攝影紀錄。長達約3小時的持續交配揭示了一個顯著的雙峰移動序列：該對蛇在未分離總排泄腔的情況下，從陸地落葉層移動跨越一條寬20公尺的森林溪流，隨後再回到陸地上。影片分析顯示了由雌性主導的移動，其中體型大得多的雌性拖著與其交配的雄性穿過水體，對抗雄性反方向的游泳動作。此行為展現了在性雙形下雌性的移動主導地位，以及具棘刺的蝮亞科半陰莖在被迫進行水域位移期間，其廣泛的機械韌性。連續的攝影紀錄捕捉到儀式化的雄-雄爭鬥，伴隨同步的垂直展示、前軀擺動、頸部勾纏與壓制嘗試，證實了西亞馬遜地區所描述的定型動作模式在東部圭亞那地盾族群中具保守性。這些姿勢動力學代表了爭奪空間優先權的暫時性體力競賽，而非永久的優勢階級。綜上所述，這些證據表明了對交配期間雌性行為控制的實證支持，並擴展了支持亞馬遜矛頭蝮之長期尋偶一夫多妻假說的地理框架。"
   },
   {
    "doi": "10.3390/ani16213416",
@@ -7429,23 +7458,20 @@
    "abstract_zh": "本研究設計並評估了四座實驗室規模的生物濾床，用於處理三甲胺（TMA）。每座生物濾床的高為 68 公分，直徑為 15 公分。濾材由乳牛糞堆肥、牛舍墊料、碎玉米芯、木屑和鋸木屑的各種混合物組成。本研究旨在比較填充不同濾材成分的生物濾床對三甲胺的去除效率，並分析運行期間濾材表面微生物群落結構的演替模式。受污染氣流是透過將空氣打入三甲胺溶液中人工產生，進氣濃度介於 1.88 至 4.23 mg/m3 之間。在空床停留時間（EBRT）介於 42.7 至 28.0 秒的條件下，四座生物濾床的去除效率均超過 60%。然而，各生物濾床的性能有所差異。以體積比 10:9:1 混合成熟堆肥、木屑和碎玉米芯的生物濾床表現出最高的去除效率（>83%）。在生物濾床出口處檢測到氨氣，作為微生物降解三甲胺的副產物，同時伴隨著濾材中銨態氮的累積。高效生物濾床的微生物群落分析顯示，在為期 95 天的運行過程中，微生物的複雜性和多樣性逐漸增加。糖黴菌屬（Glycomyces）在整個運行期間皆為優勢屬，且與三甲胺去除效率呈顯著正相關，但其在三甲胺降解中的具體作用仍有待實驗進一步證實。"
   },
   {
-   "doi": "10.3390/ani16213419",
-   "title": "Bimodal Copulatory Locomotion and Ritualized Male–Male Combat in the Amazonian Lancehead (Bothrops atrox): Linking Sexual Size Dimorphism to Reproductive Mechanics and Sexual Conflict",
-   "abstract": "Reproductive behaviors in secretive Neotropical pitvipers are rarely documented under natural conditions, limiting empirical assessments of sexual selection, locomotor mechanics, and mating systems. Here, we present focal videography and photographic documentation of free-ranging Amazonian Lanceheads (Bothrops atrox) from coastal French Guiana during the rainy season. A prolonged copulation (~3 h) revealed a remarkable bimodal locomotor sequence: the pair moved from terrestrial litter across a 20 m-wide forest stream and back to land without cloacal separation. Video analysis demonstrates female-driven locomotion, wherein the substantially larger female pulls the coupled male through the water column against his counter-directional swimming movements. This behavior illustrates female locomotor dominance under sexual size dimorphism and the widely mechanical resilience of the spine-bearing crotaline hemipenis during forced aquatic displacement. Sequential photographic documentation captures ritualized male–male combat with synchronized vertical displays, anterior-trunk swaying, neck hooking, and topping attempts, confirming that stereotypic motor patterns described in western Amazonia are conserved in eastern Guiana Shield populations. These postural dynamics represent transient physical contests over spatial priority rather than permanent dominance hierarchies. Together, this evidence indicates that empirical validation for female behavioral control during copulation and expands the geographic framework supporting the prolonged mate-searching polygyny hypothesis in B. atrox.",
+   "doi": "10.3390/ani16213422",
+   "title": "Spatio-Temporal Distribution and Stranding Records of Cetaceans Along the Romanian Black Sea",
+   "abstract": "This study investigates cetacean occurrence and stranding records along the Romanian Black Sea coast between 2021 and 2025, focusing on the three resident subspecies: Tursiops truncatus ponticus, Delphinus delphis ponticus, and Phocoena phocoena relicta. A total of 1392 live individuals were documented across 188 sighting events, with T. t. ponticus and D. d. ponticus together representing 88.3% of all recorded individuals. The monthly distribution of recorded sighting events differed significantly among subspecies (p &lt; 0.001), as did the distance of recorded sightings from the coastline (p &lt; 0.001). Median distances were 4.40 km for T. t. ponticus, 61.78 km for D. d. ponticus, and 30.44 km for P. p. relicta. During the same period, 76 stranded cetaceans were recorded along the Romanian Black Sea coast, of which 58 were identified to subspecies level. P. p. relicta accounted for 70.7% of identified stranded individuals, compared with 11.7% of live individuals recorded during research cruises. Stranding records were most frequent in August and May, although their monthly distribution did not differ significantly among subspecies. Although both datasets covered the same geographical region and study period, differences in observation methods and sampling effort limit direct comparisons and prevent inferences about mortality rates or population trends. Nevertheless, the observed differences in the spatial and monthly distribution of live sightings, together with the high representation of P. p. relicta among stranded individuals, provide complementary information to support future cetacean monitoring, stranding investigations, and conservation efforts in the Romanian Black Sea.",
    "authors": [
-    "Ligia G. S. Amorim",
-    "Vincent Prémel",
-    "Lucas Aosf",
-    "Karina Nunes Kasperoviczus",
-    "Selma Maria de Almeida-Santos"
+    "George-Emanuel Harcotă",
+    "Andreea-Mădălina Ciucă"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213419",
+   "url": "https://doi.org/10.3390/ani16213422",
    "date": "2026-10-29",
    "first_seen": "2026-10-30",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "隱蔽性高的新熱帶蝮蛇之繁殖行為在自然條件下極少被記錄，這限制了對性擇、移動力學與交配系統的經驗性評估。在此，我們呈現在雨季期間來自法屬圭亞那沿海的自由活動亞馬遜矛頭蝮（Bothrops atrox）之焦點錄影與攝影紀錄。長達約3小時的持續交配揭示了一個顯著的雙峰移動序列：該對蛇在未分離總排泄腔的情況下，從陸地落葉層移動跨越一條寬20公尺的森林溪流，隨後再回到陸地上。影片分析顯示了由雌性主導的移動，其中體型大得多的雌性拖著與其交配的雄性穿過水體，對抗雄性反方向的游泳動作。此行為展現了在性雙形下雌性的移動主導地位，以及具棘刺的蝮亞科半陰莖在被迫進行水域位移期間，其廣泛的機械韌性。連續的攝影紀錄捕捉到儀式化的雄-雄爭鬥，伴隨同步的垂直展示、前軀擺動、頸部勾纏與壓制嘗試，證實了西亞馬遜地區所描述的定型動作模式在東部圭亞那地盾族群中具保守性。這些姿勢動力學代表了爭奪空間優先權的暫時性體力競賽，而非永久的優勢階級。綜上所述，這些證據表明了對交配期間雌性行為控制的實證支持，並擴展了支持亞馬遜矛頭蝮之長期尋偶一夫多妻假說的地理框架。"
+   "abstract_zh": "本研究探討2021年至2025年間羅馬尼亞黑海沿岸的鯨豚出沒與擱淺記錄，重點關注三種常駐亞種：黑海寬吻海豚（*Tursiops truncatus ponticus*）、黑海短吻真海豚（*Delphinus delphis ponticus*）及黑海港灣鼠海豚（*Phocoena phocoena relicta*）。在188次目擊事件中共記錄到1392隻活體，其中寬吻海豚與真海豚合計佔所有記錄個體的88.3%。各亞種記錄到目擊事件的每月分佈存在顯著差異（p < 0.001），目擊記錄與海岸線的距離亦然（p < 0.001）。寬吻海豚、真海豚和港灣鼠海豚的中位數距離分別為4.40公里、61.78公里及30.44公里。同一期間，羅馬尼亞黑海沿岸共記錄到76隻擱淺鯨豚，其中58隻鑑定至亞種層級。在已鑑定的擱淺個體中，港灣鼠海豚佔70.7%，相較之下，其在研究航次中所記錄的活體個體僅佔11.7%。擱淺記錄以8月和5月最為頻繁，但其每月分佈在各亞種之間並無顯著差異。儘管兩組資料涵蓋相同的地理區域與研究期間，但觀察方法和採樣強度的差異限制了直接比較，且無法推論死亡率或族群趨勢。然而，活體目擊在空間與每月分佈上觀察到的差異，加上港灣鼠海豚在擱淺個體中的高比例，為支援未來羅馬尼亞黑海地區的鯨豚監測、擱淺調查與保育工作提供了互補的資訊。"
   },
   {
    "doi": "10.3390/ani16213414",
@@ -7531,25 +7557,6 @@
    "abstract_zh": "犬髖關節骨關節炎（OA）需要多維度的評估。這項隨機、雙盲、安慰劑對照試驗評估了使用美洛昔康（meloxicam）、PCSO-524、EAB-277、美洛昔康併用 PCSO-524 或安慰劑治療 4 週的效果，對象包含 203 隻患有自然發生之髖關節骨關節炎的飼主自有犬。主要結果為透過測力板步態分析測得的指標後肢峰值垂直力（PVF）。次要結果包括 PVF 應答者狀態、骨科評估分數（OAS）、犬隻骨關節炎量表（LOAD）、犬隻簡明疼痛量表（CBPI）以及安全性評估。主要之基線調整平均 PVF 分析未顯示各組間的治療優越性。使用分析階段 >5%BW PVF 閾值的次要應答者分析顯示，美洛昔康在第 4 週的應答者機率顯著高於安慰劑（相對風險 = 4.000；95% 信賴區間，1.223 至 13.079；p = 0.022），此結果被解讀為支持性而非確證性。在組內分數降低方面，合併治療組的 LOAD 和 CBPI 疼痛干擾分數下降，PCSO-524 組的 LOAD 分數下降，EAB-277 組的 CBPI 疼痛干擾分數下降。OAS 在各組內皆無顯著變化。LOAD 和 CBPI 變化的組間差異則不顯著。未檢測出一致性的群體層級實驗室安全性疑慮。這些發現支持多維度評估，同時強調次要結果並未確立治療的優越性。"
   },
   {
-   "doi": "10.3390/ani16213433",
-   "title": "Diet-Associated Gut Microbiome Divergence Contributes to Phenotypic Differentiation Among Geographically Structured Populations of Rana dybowskii",
-   "abstract": "Geographic phenotypic variation is a widespread feature of natural populations, often driven by local environmental heterogeneity and trophic interactions. While the gut microbiome is recognized as a key mediator between environmental resources and host physiology, its role in the adaptive differentiation of amphibians remains insufficiently explored. In this study, we employed an integrative approach—combining morphological measurements, DNA metabarcoding for dietary analysis, and 16S rRNA sequencing for gut microbial profiling—to investigate three geographically structured populations (Dandong [DD], Fushun [FS], and Benxi [BX]) of the Dybowski’s frog (Rana dybowskii). The results showed that the morphological characteristics (body weight, head-body length, hindlimb length, etc.) of DD were significantly higher than those of FS and BX. Dietary analysis via gut content DNA metabarcoding identified distinct food structures; notably, the DD population consumed a higher proportion of Dipteran prey (e.g., Smittia). Correspondingly, the gut microbiota showed significant population-level clustering. We identified an enrichment of specific functional bacteria in the DD population, such as Arthrobacter, which is known for its chitin-degrading capabilities, aligning with the consumption of chitin-rich insect prey. Mantel tests further confirmed a strong correlation between dietary composition, microbial community structure, and host morphological traits. These findings suggest that diet-driven gut microbiome variation is consistent with a contributing role in the phenotypic differentiation of R. dybowskii across different habitats, although causal relationships remain to be tested directly. By integrating trophic ecology with microbial landscapes, this study provides new insights into the adaptive evolution and resource management of amphibians in heterogeneous environments.",
-   "authors": [
-    "Linghao Kong",
-    "Yi Zhu",
-    "Bowen Liu",
-    "Hua Wei",
-    "Yingdong Li"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213433",
-   "date": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "地理表型變異是自然族群中普遍存在的特徵，通常由當地環境異質性和營養交互作用所驅動。儘管腸道微生物已被認為是環境資源與宿主生理之間的重要媒介，但其在兩棲類適應性分化中的作用仍探討不足。在本研究中，我們採用綜合方法——結合形態學測量、用於食性分析的DNA條碼 metabarcoding，以及用於腸道微生物群落分析的16S rRNA定序——來調查分佈於不同地理位置的黑龍江木蛙（*Rana dybowskii*）三個族群（丹東 [DD]、撫順 [FS] 和本溪 [BX]）。結果顯示，DD族群的形態特徵（體重、頭體長、後肢長等）顯著高於FS和BX族群。透過腸道內容物DNA條碼進行的食性分析識別出不同的食物組成結構；值得注意的是，DD族群攝食了更高比例的双翅目獵物（例如搖蚊屬 *Smittia*）。相對地，腸道微生物相也展現出顯著的族群層級分群。我們發現DD族群中特定功能性細菌的富集，例如以分解幾丁質能力聞名的節桿菌屬（*Arthrobacter*），這與其攝食富含幾丁質的昆蟲獵物相呼應。曼特爾檢定（Mantel tests）進一步證實了飲食組成、微生物群落結構與宿主形態特徵之間存在強烈的相關性。這些發現表明，飲食驅動的腸道微生物變異與其在不同棲地中對 *R. dybowskii* 表型分化的潛在貢獻一致，儘管因果關係仍有待直接驗證。本研究透過結合營養生態學與微生物地景，為兩棲類在異質環境中的適應性演化與資源管理提供了新的見解。"
-  },
-  {
    "doi": "10.3390/ani16213428",
    "title": "Identification and Characterization of a Cathepsin B Protease in the Marine Fish Parasite Cryptocaryon irritans",
    "abstract": "Cryptocaryon irritans, an obligate ectoparasite, causes cryptocaryoniasis and heavy economic losses to marine aquaculture. Cathepsin B (CatB) is highly expressed in C. irritans theronts and hypothesized to participate in parasite host invasion, yet its biochemical properties and pathogenic roles remain poorly defined. In this study, we performed bioinformatic analysis of the CiCatB gene. Following codon optimization, CiCatB was heterologously expressed in Pichia pastoris, and the biologically active recombinant CiCatB protein was purified. Subcellular localization analysis revealed that CiCatB predominantly localized in the cytoplasm of theronts, with partial signals detected at the cell membrane and in the extracellular space. Enzymatic assays showed that yCiCatB hydrolyzed gelatin and type I collagen from large yellow croaker, with optimum activity at pH 5.0 and stable performance from 28 to 37 °C. Mg2+ increased enzyme activity, while Cu2+ almost completely abolished catalytic activity. Both E-64 and anti-CiCatB serum inhibited enzyme activity. Functional blocking using inhibitor or antiserum markedly reduced parasite recovery following challenge. Our results suggest that CiCatB may contribute to host invasion by degrading host structural proteins, advancing our understanding of C. irritans pathogenicity. CiCatB represents a potential target for exploring control strategies against cryptocaryoniasis.",
@@ -7569,6 +7576,25 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "刺激隱核蟲（Cryptocaryon irritans）是一種專性體外寄生蟲，會引發海水養殖業的白點病並造成慘重的經濟損失。組織蛋白酶 B（Cathepsin B, CatB）在刺激隱核蟲幼蟲（theronts）中高度表達，並被假設參與寄生蟲對宿主的侵入，然而其生化特性與致病角色仍待釐清。本研究對 *CiCatB* 基因進行了生物資訊學分析。經密碼子優化後，*CiCatB* 在畢赤酵母（*Pichia pastoris*）中進行異源表達，並純化出具有生物活性的重組 CiCatB 蛋白質。亞細胞定位分析顯示，CiCatB 主要定位於幼蟲的細胞質中，且在細胞膜及細胞外空間偵測到部分訊號。酶學分析表明，重組 yCiCatB 能水解明膠及大黃魚的 I 型膠原蛋白，其最適作用 pH 為 5.0，並在 28 至 37 °C 之間表現穩定。$\\text{Mg}^{2+}$ 能提高酶活性，而 $\\text{Cu}^{2+}$ 則幾乎完全抑制其催化活性。E-64 與抗 CiCatB 血清皆能抑制其酶活性。使用抑制劑或抗血清進行功能阻斷，可顯著降低攻毒後的寄生蟲回收率。我們的結果顯示，CiCatB 可能透過降解宿主結構蛋白來協助宿主侵入，這有助於深入理解刺激隱核蟲的致病機制。CiCatB 作為探索白點病防治策略的潛在標靶具有重要價值。"
+  },
+  {
+   "doi": "10.3390/ani16213433",
+   "title": "Diet-Associated Gut Microbiome Divergence Contributes to Phenotypic Differentiation Among Geographically Structured Populations of Rana dybowskii",
+   "abstract": "Geographic phenotypic variation is a widespread feature of natural populations, often driven by local environmental heterogeneity and trophic interactions. While the gut microbiome is recognized as a key mediator between environmental resources and host physiology, its role in the adaptive differentiation of amphibians remains insufficiently explored. In this study, we employed an integrative approach—combining morphological measurements, DNA metabarcoding for dietary analysis, and 16S rRNA sequencing for gut microbial profiling—to investigate three geographically structured populations (Dandong [DD], Fushun [FS], and Benxi [BX]) of the Dybowski’s frog (Rana dybowskii). The results showed that the morphological characteristics (body weight, head-body length, hindlimb length, etc.) of DD were significantly higher than those of FS and BX. Dietary analysis via gut content DNA metabarcoding identified distinct food structures; notably, the DD population consumed a higher proportion of Dipteran prey (e.g., Smittia). Correspondingly, the gut microbiota showed significant population-level clustering. We identified an enrichment of specific functional bacteria in the DD population, such as Arthrobacter, which is known for its chitin-degrading capabilities, aligning with the consumption of chitin-rich insect prey. Mantel tests further confirmed a strong correlation between dietary composition, microbial community structure, and host morphological traits. These findings suggest that diet-driven gut microbiome variation is consistent with a contributing role in the phenotypic differentiation of R. dybowskii across different habitats, although causal relationships remain to be tested directly. By integrating trophic ecology with microbial landscapes, this study provides new insights into the adaptive evolution and resource management of amphibians in heterogeneous environments.",
+   "authors": [
+    "Linghao Kong",
+    "Yi Zhu",
+    "Bowen Liu",
+    "Hua Wei",
+    "Yingdong Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213433",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "地理表型變異是自然族群中普遍存在的特徵，通常由當地環境異質性和營養交互作用所驅動。儘管腸道微生物已被認為是環境資源與宿主生理之間的重要媒介，但其在兩棲類適應性分化中的作用仍探討不足。在本研究中，我們採用綜合方法——結合形態學測量、用於食性分析的DNA條碼 metabarcoding，以及用於腸道微生物群落分析的16S rRNA定序——來調查分佈於不同地理位置的黑龍江木蛙（*Rana dybowskii*）三個族群（丹東 [DD]、撫順 [FS] 和本溪 [BX]）。結果顯示，DD族群的形態特徵（體重、頭體長、後肢長等）顯著高於FS和BX族群。透過腸道內容物DNA條碼進行的食性分析識別出不同的食物組成結構；值得注意的是，DD族群攝食了更高比例的双翅目獵物（例如搖蚊屬 *Smittia*）。相對地，腸道微生物相也展現出顯著的族群層級分群。我們發現DD族群中特定功能性細菌的富集，例如以分解幾丁質能力聞名的節桿菌屬（*Arthrobacter*），這與其攝食富含幾丁質的昆蟲獵物相呼應。曼特爾檢定（Mantel tests）進一步證實了飲食組成、微生物群落結構與宿主形態特徵之間存在強烈的相關性。這些發現表明，飲食驅動的腸道微生物變異與其在不同棲地中對 *R. dybowskii* 表型分化的潛在貢獻一致，儘管因果關係仍有待直接驗證。本研究透過結合營養生態學與微生物地景，為兩棲類在異質環境中的適應性演化與資源管理提供了新的見解。"
   }
  ]
 }
