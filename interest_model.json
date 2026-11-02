@@ -56,6 +56,18 @@
 
     "meat quality": 1,
     "egg quality": 1,
-    "carcass": 1
+    "carcass": 1,
+
+    "poultry": 2,
+    "livestock": 1,
+    "microrna": 3,
+    "omics": 3,
+    "oocyte": 1,
+    "methane": 2,
+    "heat stress": 2,
+    "feeding behavior": 1,
+    "sanitization": 1,
+    "disinfection": 1,
+    "bacteriophage": 1
   }
 }

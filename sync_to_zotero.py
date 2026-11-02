@@ -147,7 +147,9 @@ def main():
 
     pending = [
         doi for doi, m in marks.items()
-        if (m.get("up") or m.get("star")) and not m.get("zotero_synced")
+        # "down" is a hard veto: never sync a paper the user explicitly disliked,
+        # even if it also somehow carries up/star (e.g. accidental double-click).
+        if (m.get("up") or m.get("star")) and not m.get("down") and not m.get("zotero_synced")
     ]
     print(f"{len(pending)} paper(s) pending Zotero sync")
 
