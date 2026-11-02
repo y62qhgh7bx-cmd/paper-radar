@@ -68,12 +68,32 @@
   }
   .actions button.on { background: var(--accent); color: #fff; border-color: var(--accent); }
   .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+
+  #stats { font-size: 15px; color: var(--text); margin: 2px 0 8px; }
+  #stats b { color: var(--accent); }
+
+  .milestone-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.45);
+    display: flex; align-items: center; justify-content: center; z-index: 100;
+  }
+  .milestone-card {
+    position: relative; width: min(340px, 86vw); background: var(--card);
+    border-radius: 16px; padding: 28px 20px 22px; text-align: center;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.25);
+  }
+  .milestone-card .emoji { font-size: 40px; margin-bottom: 8px; }
+  .milestone-card .msg { font-size: 17px; font-weight: 700; margin-bottom: 4px; }
+  .milestone-card .sub { font-size: 13px; color: var(--muted); }
+  .milestone-close {
+    position: absolute; top: 8px; right: 10px; border: none; background: transparent;
+    color: var(--muted); font-size: 18px; cursor: pointer; line-height: 1;
+  }
 </style>
 </head>
 <body>
 <header>
   <h1>📡 Paper Radar<span id="updated"></span></h1>
-  <div id="stats" style="font-size:12.5px;color:var(--muted);margin:2px 0 8px;"></div>
+  <div id="stats"></div>
   <div class="controls">
     <button data-filter="all" class="active">All</button>
     <button data-filter="unread">Unread</button>
@@ -207,6 +227,40 @@ function computeStreak(threshold) {
   return streak;
 }
 
+// --- Milestone popups: fire once per day (3-paper goal) / once per streak
+// multiple-of-10, tracked via localStorage so re-rendering never re-fires them.
+function showMilestone(emoji, msg, sub) {
+  const overlay = document.createElement("div");
+  overlay.className = "milestone-overlay";
+  overlay.innerHTML = `
+    <div class="milestone-card">
+      <button class="milestone-close" aria-label="close">✕</button>
+      <div class="emoji">${emoji}</div>
+      <div class="msg">${msg}</div>
+      <div class="sub">${sub}</div>
+    </div>`;
+  overlay.querySelector(".milestone-close").onclick = () => overlay.remove();
+  overlay.onclick = (e) => { if (e.target === overlay) overlay.remove(); };
+  document.body.appendChild(overlay);
+}
+
+function checkMilestones(todayReadCount, streak) {
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const dailyFlag = `celebrated:3papers:${todayStr}`;
+  if (todayReadCount >= 3 && !localStorage.getItem(dailyFlag)) {
+    localStorage.setItem(dailyFlag, "1");
+    showMilestone("🎉", "今日已達標！", `已讀 ${todayReadCount} 篇，今天的份完成了`);
+    return; // avoid stacking two popups in the same render pass
+  }
+  if (streak > 0 && streak % 10 === 0) {
+    const streakFlag = `celebrated:streak:${streak}`;
+    if (!localStorage.getItem(streakFlag)) {
+      localStorage.setItem(streakFlag, "1");
+      showMilestone("🏆", `連續 ${streak} 天達標！`, "每天讀滿3篇，持續累積中");
+    }
+  }
+}
+
 function renderStats() {
   const el = document.getElementById("stats");
   if (!el) return;
@@ -215,12 +269,20 @@ function renderStats() {
   const todayCount = papers.filter(p => p.first_seen === today).length;
   const weekCount = papers.filter(p => p.first_seen >= d7).length;
   const readCount = papers.filter(p => mark(p.doi).read).length;
+  const unreadCount = papers.length - readCount;
   const streak = computeStreak(3);
   const totalReadAllTime = Object.values(marks).filter(m => m.read).length;
-  el.textContent =
-    `📥 今天新進 ${todayCount} 篇 · 近7天 ${weekCount} 篇 · ✅ 已讀 ${readCount}/${papers.length} 篇` +
-    (streak > 0 ? ` · 🔥 連續 ${streak} 天讀滿3篇` : "") +
-    ` · 🏆 累計已讀 ${totalReadAllTime} 篇`;
+  const counts = {};
+  Object.values(marks).forEach(m => { if (m.readDate) counts[m.readDate] = (counts[m.readDate]||0)+1; });
+  const todayReadCount = counts[today] || 0;
+
+  el.innerHTML =
+    `📥 今天新進 <b>${todayCount}</b> 篇 · 近7天 <b>${weekCount}</b> 篇 · ✅ 已讀 <b>${readCount}</b>/${papers.length} 篇` +
+    ` · 🎯 剩餘 <b>${unreadCount}</b> 篇未讀` +
+    (streak > 0 ? ` · 🔥 連續 <b>${streak}</b> 天讀滿3篇` : "") +
+    ` · 🏆 累計已讀 <b>${totalReadAllTime}</b> 篇`;
+
+  checkMilestones(todayReadCount, streak);
 }
 
 function render() {
