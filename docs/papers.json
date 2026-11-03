@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T02:51:16+00:00",
+ "updated": "2026-11-03T03:20:49+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01102-4",
@@ -1231,6 +1231,32 @@
    "abstract_zh": "生成對抗網路（GANs）是一種人工智慧模型，旨在生成與真實資料無法區分的全新資料。最初開發 GAN 是為了生成影像以互補現有資料集並建立更多樣化的樣本，基於 GAN 的資料可以增強機器學習與深度學習應用的下游分析。基於 GAN 的方法亦具有高度通用性，適合用於擴增體學資料，進而改善下游分析，例如基因型預測、生物標記偵測以及蛋白質從頭設計（de novo design）。此外，GAN 還能保留並重建承受選擇壓力的基因體區域、增加代表性不足群體的樣本數，並減輕基因體學、轉錄體學與單細胞體學中類別不平衡的影響。近期研究也表明，GAN 生成的資料可以支援保護隱私的資料分享，以及新穎生物序列和蛋白質的設計。本篇文獻綜述介紹了 GAN 的基礎概念，探討其在各個體學領域的多樣化應用，並突顯將 GAN 方法應用於家畜基因體學的新穎契機。"
   },
   {
+   "doi": "10.1080/00071668.2026.2746684",
+   "title": "Dietary pequi oil ( Caryocar brasiliense Camb.) improves feed efficiency and oxidative stability in broiler chickens",
+   "abstract": "",
+   "authors": [
+    "J. M. Cruvinel",
+    "P. M. Groff-Urayama",
+    "C. Y. Oura",
+    "F. K. de Lima Krenchinski",
+    "T. S. dos Santos",
+    "P. P. L. Trevisani",
+    "J. R. Sartori",
+    "A. C. Pezzato"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2746684",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "score": 18.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "feed efficiency"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70211",
    "title": "Implementation of Metafounders in the Genomic Prediction for the Polled Trait in Brahman Cattle Using a Multi‐Breed Population",
    "abstract": "The absence of horns (polled trait) in cattle is associated with better animal welfare by reducing the need for dehorning. In Brahman cattle, population size and the scarcity of phenotypic records challenge the accuracy of genomic predictions for this trait. This study aimed to evaluate the genetic architecture of this trait in Brahman cattle using single‐breed and multi‐breed genomic prediction models, including metafounders, and to assess the influence of phenotypic classifications on heritability, prediction accuracy, bias, and dispersion. Phenotypic and genotypic data from 14 333 Nelore and Brahman animals were analyzed using threshold and linear models implemented in the BLUPF90+ software suite. Single‐breed models ( n = 12) were considered phenotypes (polled, scab, scur, horned), while multi‐breed models ( n = 10) incorporated metafounders and breed effects. Variance components were estimated via threshold models with Gibbs sampling, and predictive ability was assessed using the LR method with datasets. Single‐breed models showed heritability estimates ( h 2 ) ranging from 0.56 to 0.72, but with predictive ability reflecting the Brahman population size. Multi‐breed models improved predictive performance. Results were obtained with Model 20, which included alternative phenotypes, metafounders, and breed effects, yielding accuracy (0.79), reduced bias (0.36), and dispersion close to 1. These findings demonstrate that the polled trait in Brahman cattle exhibits additive genetic variability amenable to selection. The use of multi‐breed analyses and metafounders enhances predictive accuracy, providing a strategy for populations and traits, and enables the inclusion of traits as genomic selection criterion to increase allele frequency in Brahman cattle and improve animal welfare.",
@@ -1592,6 +1618,36 @@
     "gwas"
    ],
    "abstract_zh": "背景：結構變異（Structural variants, SVs）透過長讀長（long-read, LR）定序能獲得最有效的識別。然而，這類數據仍然稀缺，且定序樣本往往缺乏相關的表現型資訊。為了克服這項限制，我們整合了基於泛基因組（變異圖譜）與基因型 imputations（推填）的方法，在法國三個主要乳牛品種中實現大規模的 SV 關聯分析。\n結果：利用 176 個長讀長樣本中檢測到的 69,892 個缺失、89,900 個插入以及 17,402 個重複，建構了一個變異圖譜。隨後，我們透過將這面板中各 SV 的短讀長（short-read, SR）序列重新比對至該圖譜，對 939 個樣本進行基因型分型。驗證分析顯示，缺失（0.79）與插入（0.79）具有高度的基因型一致率；然而，重複的一致率偏低（0.14），導致其被排除於後續分析之外。保留下來的 SV 與單核苷酸變異（SNVs）相結合，建立了序列層級的 imputation 參考面板。利用 SNP 晶片分型數據，我們對 11,902 頭荷斯坦牛（Holstein）、3,753 頭蒙貝利亞德牛（Montbéliarde）以及 3,053 頭諾曼第牛（Normande）公牛進行了 SV 與 SNV 的 imputation。經過品管後，保留了超過 14 百萬個 SNV 與 4 万個 SV，用於對體型以及四種乳量與乳成分性狀的女牛產乳離差（daughter yield deviations）進行品種內的全基因體關聯分析（GWAS）。GWAS 結果顯示出與先前發現一致的遺傳架構，並在結構變異與關鍵表現型之間識別出 40 個達全基因體顯著水準的關聯。條件分析識別出其中 10 個 SV 作為與乳脂、乳蛋白含量及體型相關之 QTL 的潛在候選變異。\n結論：透過在統一的泛基因組與 imputation 架構中整合 LR、SR 和 SNP 分型數據，我們展示了一項可擴展的策略，以系統性地探討 SV 對複雜性狀的貢獻。所得的遺傳架構與先前的發現高度一致，驗證了我們方法的穩健性與可轉移性。我們的發現突顯了將 SV 納入常規基因體分析的附加價值，並為將 SV 納入乳牛基因體選拔提供了一個可擴展的架構。"
+  },
+  {
+   "doi": "10.1186/s40104-026-01517-5",
+   "title": "Integrative lipidomic and genomic analysis identifies key lipids for wooden breast in chickens",
+   "abstract": "Background Wooden breast (WB) is a prevalent myopathy in broilers that substantially reduces meat quality and causes considerable economic losses. However, the genetic architecture and lipidomic alterations associated with WB remain poorly understood. This study aimed to integrate untargeted lipidomics and genomic analyses to characterize lipid alterations and their associated genetic factors in WB. Results To characterize WB-related phenotypes, pectoralis major muscles from 312 broilers were evaluated for WB severity, compression force (CF), endomysium thickness, and total lipid abundance. By integrating differential abundance analysis, trend analysis, and weighted gene co-expression network analysis (WGCNA), we identified a core set of 25 lipid species. Further refinement using Mendelian randomization (MR) and mediation analyses prioritized nine lipids as candidate molecular traits associated with genetic variation and WB, seven of which showed consistent associations in an independent cohort ( n = 119). Metabolome genome‐wide association study (mGWAS) of these lipids identified a consensus genetic locus on chromosome 6 (19.55–20.15 Mb) shared by three candidate lipids. Integration of transcriptomic profiles from genes within this locus prioritized five candidate genes, with MAPK8 and NPY4R showing consistent expression patterns in the independent cohort. Based on its potential biological relevance, MAPK8 was selected for functional characterization in chicken primary myoblasts. MAPK8 overexpression and knockdown produced opposite effects on lipid accumulation, oxidative stress, and fibrosis-related gene expression, suggesting that MAPK8 may participate in cellular processes involved in lipid accumulation, oxidative stress, and fibrotic remodeling associated with WB. Conclusions This study provides an integrated overview of lipid metabolic alterations and their genetic architecture in WB-affected chickens. Collectively, these findings identify candidate lipid biomarkers and genetic loci and implicate MAPK8 as a candidate gene associated with lipid deposition and fibrotic remodeling in WB.",
+   "authors": [
+    "Yanru Chen",
+    "Lu Bai",
+    "Xiaochun Ma",
+    "Mengjie Wang",
+    "Yaoyao Tang",
+    "Zhiqing Li",
+    "Yingying Pei",
+    "Haohan Zhang",
+    "Guiping Zhao",
+    "Jie Wen",
+    "Ranran Liu"
+   ],
+   "journal": "Journal of Animal Science and Biotechnology",
+   "url": "https://doi.org/10.1186/s40104-026-01517-5",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "score": 16.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "meat quality",
+    "omics"
+   ],
+   "abstract_zh": "背景：木胸症（Wooden breast, WB）是肉雞中常見的肌肉病變，會顯著降低肉品品質並造成相當大的經濟損失。然而，與WB相關的遺傳結構與脂質體學改變仍所知有限。本研究旨在整合非標靶脂質體學與基因體學分析，以表徵WB中的脂質改變及其相關遺傳因素。\n\n結果：為了表徵WB相關表型，評估了312隻肉雞的胸大肌之WB嚴重程度、壓縮力（CF）、肌內膜厚度與總脂質豐度。透過整合差異豐度分析、趨勢分析與加權基因共表現網路分析（WGCNA），我們識別出核心的25種脂質。進一步利用孟德爾隨機化（MR）與中介分析進行篩選，確立了9種與遺傳變異和WB相關的候選分子性狀，其中7種在獨立世代（n = 119）中顯示出一致的關聯性。對這些脂質進行的代謝物全基因體關聯研究（mGWAS）識別出位於第6染色體（19.55–20.15 Mb）、由三種候選脂質所共享的一致性遺傳位點。整合該位點內基因的轉錄體學圖譜，篩選出5個候選基因，其中MAPK8和NPY4R在獨立世代中顯示出一致的表現模式。基於其潛在的生物學相關性，選定MAPK8進行雞隻原代肌細胞的功能表徵。MAPK8的過度表現與抑制對脂質累積、氧化壓力及纖維化相關基因表現產生相反的影響，這表明MAPK8可能參與了與WB相關的脂質累積、氧化壓力及纖維化重塑等細胞過程。\n\n結論：本研究提供了罹患WB雞隻中脂質代謝改變及其遺傳結構的整合性概覽。綜上所述，這些發現識別了候選脂質生物標記與遺傳位點，並指出MAPK8是與WB中脂質沉積和纖維化重塑相關的候選基因。"
   },
   {
    "doi": "10.1080/00071668.2026.2699735",
@@ -4197,6 +4253,25 @@
    "abstract_zh": "腸道菌群衍生的代謝物作為重要媒介，連結了腸道微生物組與宿主生理功能，並參與調節代謝恆定與行為。然而，色胺酸代謝物吲哚-3-乳酸（ILA）是否調節仔豬的攝食行為及其潛在的中樞調節機制仍不清楚。本研究以12頭離乳仔豬作為模型，探討ILA對攝食行為調節的影響。結果顯示，補充ILA對生長性能並無顯著影響（p > 0.05），儘管ILA組的最終體重、平均日增重和平均日採食量在數值上高於對照組。ILA也改變了攝食行為模式，其特徵為每日進食頻率降低（p < 0.05）以及進食速率增加（p = 0.053）。此外，ILA顯著增加了多種與食慾相關的血清胃腸道荷爾蒙濃度，包括升糖素類似肽-1、肽YY、飢餓素和膽囊收縮素，並改變了血清脂質代謝相關參數（p < 0.05）。下視丘轉錄體分析顯示，與CON組相比，ILA組有240個差異表現基因，並富集了參與神經信號傳遞與食慾調節的基因。這些發現表明，ILA可能會影響離乳仔豬的攝食行為，並伴隨採食量與生長相關參數的數值增加，以及周邊食慾相關胃腸道荷爾蒙和下視丘轉錄反應的改變。"
   },
   {
+   "doi": "10.3390/ani16213400",
+   "title": "Life-Stage-Specific Prioritization of Feline Diseases for Health Screening in South Korea",
+   "abstract": "Feline health screening in South Korea lacks local disease priorities. We developed a model combining diagnostic proportions from 39,016 diagnosis entries with disease importance and treatment/management efficacy ratings from 39 veterinarians. Two scoring versions used different orders of multiplication and decile conversion across four life stages: kitten, young adult, mature adult, and senior. Eligibility required a stage-specific diagnostic proportion of at least half the overall proportion for that disease and at least 0.3% of diagnoses in that stage. The versions produced similar top-10 lists. Stomatitis was selected for all four life stages; stomatitis and six additional diseases—chronic kidney disease, urolithiasis, systemic hypertension, pancreatitis, diabetes mellitus, and periodontal disease—were selected for all three adult stages. Infectious diseases featured prominently in kittens, whereas chronic and metabolic diseases became prominent in older cats. Hyperthyroidism was selected only in seniors, and neoplasia remained below the top 10, reflecting its low efficacy score. Scoring prioritized severe chronic or life-threatening conditions more highly than diagnostic proportions alone. Diagnostic proportions describe recorded diagnoses rather than individual-cat population prevalence. These candidate lists require validation and evaluation of screening tests, clinical benefits, cost, accessibility, and patient stress before guidelines can be established.",
+   "authors": [
+    "Yu-Ha Kim",
+    "Yoon Jung Do",
+    "Kyung-Duk Min"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213400",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 5.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": "南韓的貓咪健康篩檢缺乏在地疾病優先順序。我們開發了一項模型，結合了 39,016 筆診斷記錄的診斷比例，以及 39 位獸醫師對疾病重要性與治療／管理成效的評分。兩個計分版本在幼貓、青年貓、成熟貓與高齡貓等四個生命階段中，採用了不同的相乘順序與十分位數轉換。納入資格要求特定生命階段的診斷比例，至少達到該疾病整體比例的一半，且至少佔該階段診斷的 0.3%。兩個版本產生了相似的前十大疾病名單。口炎在所有四個生命階段皆被選中；口炎及另外六種疾病——慢性腎臟病、尿石症、全身性高血壓、胰臟炎、糖尿病與牙周病——在所有三個成年階段皆被選中。傳染病在幼貓中佔顯著地位，而慢性病與代謝性疾病則在較年長的貓隻中變得顯著。甲狀腺功能亢進僅在高齡貓中被選中，而腫瘤則維持在十名之外，反映出其較低的成效評分。與單純的診斷比例相比，計分機制將嚴重慢性或危及生命的狀況排在更高優先順序。診斷比例描述的是記錄到的診斷，而非個別貓隻族群的盛行率。這些候選名單在建立指南之前，需要進行篩檢試驗的驗證與評估，以及臨床效益、成本、可近性與病患壓力的評估。"
+  },
+  {
    "doi": "10.3390/ani16213403",
    "title": "Melatonin Ameliorates Stress-Induced Oocyte Developmental Impairment: Evidence from In Vivo and In Vitro Models",
    "abstract": "Stress compromises oocyte quality and reproductive performance, yet the comparative efficacy of MT and other antioxidants under stress remains unclear. This study compared MT and EGCG using an in vivo mouse restraint stress model and an in vitro porcine oocyte maturation model. In stressed mice, MT (0.1, 1, and 10 mg/kg) and EGCG (35, 65, and 100 mg/kg), administered via intraperitoneal (i.p.) injection every 12 h during the 48 h restraint period, improved oocyte developmental rates at appropriate doses, with MT showing superior efficacy at the optimal dose (1 mg/kg). Notably, MT, but not EGCG, reduced serum cortisol and CRH levels in stressed mice. In porcine oocytes, CRH supplementation during 48 h in vitro maturation (IVM) impaired oocyte maturation and embryo development, and MT dose-dependently rescued these defects, accompanied by reduced reactive oxygen species (ROS) accumulation and decreased cumulus cell apoptosis. RT-PCR analysis revealed that porcine oocytes and cumulus cells expressed MT1, but not MT2, transcripts. Collectively, evidence from two complementary models (mouse in vivo and porcine in vitro) supports MT as a promising supplement for oocyte protection under stress, through systemic and cellular mechanisms demonstrated in different species.",
@@ -4218,25 +4293,6 @@
     "oocyte"
    ],
    "abstract_zh": "壓力會損害卵母細胞品質與生殖表現，然而在壓力狀態下，褪黑激素（MT）與其他抗氧化劑的相對功效仍不清楚。本研究利用小鼠活體（in vivo）約束壓力模型與豬卵母細胞體外（in vitro）成熟模型，比較了 MT 與 EGCG 的效果。在受壓力的小鼠中，於 48 小時約束期間每 12 小時透過腹腔注射（i.p.）給予適當劑量的 MT（0.1、1 和 10 mg/kg）與 EGCG（35、65 和 100 mg/kg），均能改善卵母細胞發育率，其中 MT 在最適劑量（1 mg/kg）下表現出更佳的功效。值得注意的是，MT（而非 EGCG）降低了受壓力小鼠的血清皮質醇（cortisol）與促腎上腺皮質激素釋放激素（CRH）濃度。在豬卵母細胞中，於 48 小時體外成熟（IVM）期間補充 CRH 會損害卵母細胞成熟與胚胎發育，而 MT 則以劑量依賴的方式挽救這些缺陷，並伴隨活性氧（ROS）累積的減少及卵丘細胞細胞凋亡的降低。RT-PCR 分析顯示，豬卵母細胞與卵丘細胞表現 MT1 轉錄本，但不表現 MT2。綜上所述，來自兩個互補模型（小鼠活體與豬體外）的證據支持 MT 作為一種有潛力的補充劑，能透過在不同物種中展現的全身性與細胞性機制，在壓力下保護卵母細胞。"
-  },
-  {
-   "doi": "10.3390/ani16213400",
-   "title": "Life-Stage-Specific Prioritization of Feline Diseases for Health Screening in South Korea",
-   "abstract": "Feline health screening in South Korea lacks local disease priorities. We developed a model combining diagnostic proportions from 39,016 diagnosis entries with disease importance and treatment/management efficacy ratings from 39 veterinarians. Two scoring versions used different orders of multiplication and decile conversion across four life stages: kitten, young adult, mature adult, and senior. Eligibility required a stage-specific diagnostic proportion of at least half the overall proportion for that disease and at least 0.3% of diagnoses in that stage. The versions produced similar top-10 lists. Stomatitis was selected for all four life stages; stomatitis and six additional diseases—chronic kidney disease, urolithiasis, systemic hypertension, pancreatitis, diabetes mellitus, and periodontal disease—were selected for all three adult stages. Infectious diseases featured prominently in kittens, whereas chronic and metabolic diseases became prominent in older cats. Hyperthyroidism was selected only in seniors, and neoplasia remained below the top 10, reflecting its low efficacy score. Scoring prioritized severe chronic or life-threatening conditions more highly than diagnostic proportions alone. Diagnostic proportions describe recorded diagnoses rather than individual-cat population prevalence. These candidate lists require validation and evaluation of screening tests, clinical benefits, cost, accessibility, and patient stress before guidelines can be established.",
-   "authors": [
-    "Yu-Ha Kim",
-    "Yoon Jung Do",
-    "Kyung-Duk Min"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213400",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 5.0,
-   "matched": [
-    "disease"
-   ],
-   "abstract_zh": "南韓的貓咪健康篩檢缺乏在地疾病優先順序。我們開發了一項模型，結合了 39,016 筆診斷記錄的診斷比例，以及 39 位獸醫師對疾病重要性與治療／管理成效的評分。兩個計分版本在幼貓、青年貓、成熟貓與高齡貓等四個生命階段中，採用了不同的相乘順序與十分位數轉換。納入資格要求特定生命階段的診斷比例，至少達到該疾病整體比例的一半，且至少佔該階段診斷的 0.3%。兩個版本產生了相似的前十大疾病名單。口炎在所有四個生命階段皆被選中；口炎及另外六種疾病——慢性腎臟病、尿石症、全身性高血壓、胰臟炎、糖尿病與牙周病——在所有三個成年階段皆被選中。傳染病在幼貓中佔顯著地位，而慢性病與代謝性疾病則在較年長的貓隻中變得顯著。甲狀腺功能亢進僅在高齡貓中被選中，而腫瘤則維持在十名之外，反映出其較低的成效評分。與單純的診斷比例相比，計分機制將嚴重慢性或危及生命的狀況排在更高優先順序。診斷比例描述的是記錄到的診斷，而非個別貓隻族群的盛行率。這些候選名單在建立指南之前，需要進行篩檢試驗的驗證與評估，以及臨床效益、成本、可近性與病患壓力的評估。"
   },
   {
    "doi": "10.3390/ani16213426",
@@ -4616,6 +4672,24 @@
     "nutrition"
    ],
    "abstract_zh": "遺傳改良結合養豬生產的緊迫挑戰，會干擾母豬的體況，並可能損害後備母豬的免疫力與繁殖力。本研究旨在評估後備母豬在優飼期間餵食免疫調節性濃縮蛋白之生產與繁殖反應。試驗共使用196頭呈現第二次發情之後備母豬。採用完全隨機設計，設有兩個處理（0；40公克/天之免疫調節性濃縮蛋白），並按輕與重後備母豬進行逢機區集分配。收集生產與繁殖性能數據以及代謝參數，並進行變異數分析，顯著水準設為5%。經驗證，平均活仔豬體重存在處理×體重×批次的交互作用（p = 0.003）。餵食添加免疫調節性濃縮蛋白飼糧之後備母豬，其葡萄糖或三酸甘油酯參數無顯著差異（p > 0.05）。含40公克/天免疫調節性濃縮蛋白之優飼飼糧，並未造成現代輕與重後備母豬之體況或繁殖性能產生差異。因此，在所評估的營養條件下，補充免疫調節性濃縮蛋白並未改變各體重組別後備母豬的代謝圖譜。"
+  },
+  {
+   "doi": "10.1080/00071668.2026.2749060",
+   "title": "Neuro-behavioural modulatory and bio-disinfectant effects of standardised Peganum harmala L. extract on incubation performance and neonatal welfare in quail",
+   "abstract": "",
+   "authors": [
+    "E. Dogan",
+    "A. Taskin"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2749060",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "score": 4.0,
+   "matched": [
+    "quail"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1002/age.70217",
@@ -5343,6 +5417,33 @@
     "nutrition"
    ],
    "abstract_zh": "油茶籽粕（Camellia oleifera seed meal, CSM）是茶油生產過程中富含蛋白質的副產物，但其在動物飼料中的應用受限於抗營養因子，特別是茶皂素。本研究評估了利用枯草芽孢桿菌（Bacillus subtilis）、黑麴黴（Aspergillus niger）和長枝木黴（Trichoderma longibrachiatum）進行固態發酵的油茶籽粕對斷奶仔豬生長性能、抗氧化能力、免疫狀態及腸道健康的影響，並確定了最佳的飼糧添加水準。試驗選取總計 84 頭仔豬（15.46 ± 0.10 kg），隨機分配至四個處理組：基礎飼糧（對照組）以及在基礎飼糧中分別添加 2.5%、5.0% 或 7.5% 發酵油茶籽粕的飼糧，試驗期為 48 天。與對照組相比，添加 2.5% 發酵油茶籽粕可在維持正常生長性能的同時，改善中性洗滌纖維消化率、抗氧化活性、免疫相關指標、空腸形態以及緊密連接蛋白和 MUC-2 的表達。產丁酸的柯林斯氏菌（Collinsella）相對豐度發生改變，結腸丁酸濃度對梯度添加發酵油茶籽粕呈顯著的二次方響應；同時，異己酸濃度降低。相比之下，添加 5.0% 及以上則對生長、營養物質利用和腸道健康產生負面影響。總體而言，仔豬對發酵油茶籽粕的添加呈現倒 U 型響應，其中 2.5% 被確定為最適合的添加水準。本研究為發酵油茶籽粕作為保育豬飼糧中傳統飼料原料的潛在部分替代物提供了理論基礎。"
+  },
+  {
+   "doi": "10.1080/00071668.2026.2685076",
+   "title": "In ovo green light cycles (6 versus 12 hours) modulate embryonic development via hepatic gene expression and amino acid metabolism in ducks",
+   "abstract": "",
+   "authors": [
+    "Y. Li",
+    "H. Liu",
+    "T. Berthie",
+    "J. Cai",
+    "T. Zeng",
+    "P. V. Tran",
+    "Z. Bai",
+    "F. Shi",
+    "D. Mao",
+    "G. Han",
+    "Q. Wei"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2685076",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "score": 2.0,
+   "matched": [
+    "amino acid"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1186/s40104-026-01504-w",
@@ -7365,6 +7466,23 @@
    "abstract_zh": "圖 [...] 中的錯誤"
   },
   {
+   "doi": "10.3390/ani16213406",
+   "title": "Diet Formats, Feeding Practices, and Environmental Factors Associated with Overweight, Underweight, and Ideal Body Condition in Household Cats",
+   "abstract": "This exploratory cross-sectional study analyzed owner-reported survey data from 5653 cats belonging to current and prospective customers of a UK fresh cat food company to identify factors associated with body condition in companion cats and to compare owner classifications made using a structured body condition score (BCS) tool with those made by unguided judgment. Owners classified fewer cats as ideal using the structured BCS tool than by unguided judgment, with lower agreement for underweight than for overweight cats. Multivariable logistic regression models were developed for overweight, underweight, and ideal body condition. A higher proportion of fresh food was associated with greater odds of ideal body condition (OR 1.22, 95% CI: 1.04–1.42), while dry food was associated with overweight (OR 1.83, 95% CI: 1.33–2.51) and wet food with underweight (OR 1.51, 95% CI: 1.06–2.16), though this association was less robust to differing model specifications. Further associations included certain additional calorie sources, feeding practices, treat type, activity, enrichment, household composition, and established demographic factors. These hypothesis-generating findings highlight a gap between structured and unguided owner assessment and identify associations that merit prospective evaluation in a more generally representative population.",
+   "authors": [
+    "LeeAnn M. Perry",
+    "Justin Shmalberg",
+    "Ryan W. Honaker"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213406",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本探索性橫斷研究分析了來自英國一家鮮食貓糧公司現有及潛在客戶的 5,653 隻貓之飼主回報問卷數據，旨在識別與伴侶貓體態相關的因素，並比較飼主使用結構化體態評分（BCS）工具與憑直覺判斷所作出的分類差異。與憑直覺判斷相比，飼主使用結構化 BCS 工具將較少數目的貓分類為理想體態，且對過輕貓隻的一致性低於過重貓隻。本研究針對過重、過輕及理想體態建立了多變量邏輯斯迴歸模型。較高比例的鮮食與理想體態的高勝算比相關（OR 1.22, 95% CI: 1.04–1.42），而乾糧與過重相關（OR 1.83, 95% CI: 1.33–2.51），濕糧則與過輕相關（OR 1.51, 95% CI: 1.06–2.16），儘管此關聯性對不同模型設定的穩健性較低。其他相關因素包括特定的額外熱量來源、餵食習慣、零食種類、活動量、豐富化環境、家庭組成及既有的的人口統計學因素。這些具假設生成性的研究結果突顯了結構化與非結構化飼主評估之間的落差，並找出了值得在更具代表性的族群中進行前瞻性評估的相關因素。"
+  },
+  {
    "doi": "10.3390/ani16213405",
    "title": "Functional Groups of Summer Copepod Assemblage in the Central Barents Sea",
    "abstract": "The functional trait structure of copepod assemblages inhabiting Arctic seas remains poorly investigated. In the present study, we aimed to reveal the spatial pattern of copepod functional groups in the central Barents Sea. One type of water mass (the Barents Sea Water) was identified based on an analysis of water properties. Environmental gradients in oceanographic factors, nutrients, and food conditions were relatively stable. Total abundance ranged from 434 to 1168 ind. m−3, with Oithona similis dominated numerically. Total biomass ranged from 7.1 to 85.9 mg dry mass m−3, with Calanus copepods having the highest contribution. Four copepod groups were delineated based on seven key functional traits (size, trophic group, feeding mode, reproductive strategy, life cycle duration, preferred habitat, and geographic distribution). The most abundant group included Calanus finmarchicus, Pseudocalanus spp., Microcalanus spp., Centropages hamatus, and Copepoda nauplii, which attained high abundances in the northern and south-eastern sub-regions. RLQ, fourth-corner, and redundancy analyses indicated sampling depth as the most important variable explaining spatial variation in diversity, functional diversity, and copepod traits. Water temperature, chlorophyll a concentration, and nutrient levels had a significant impact on particular functional traits, including omnivore–herbivores, omnivores, cruise-feeding, mixed-feeding, long-lived, intermediate-depth dwellers, and Arctic/cosmopolitan taxa. This research provides baseline information on the functional trait structure of copepod populations in the highly productive Arctic region and can be applied to the future monitoring of pelagic assemblages.",
@@ -7381,21 +7499,25 @@
    "abstract_zh": "北極海域橈腳類群聚的功能性特徵結構目前仍缺乏深入研究。在本研究中，我們旨在揭示巴倫支海中部橈腳類功能群的空間格局。基於水文特質分析，辨識出一種水團（巴倫支海水）。海洋學因子、營養鹽與食物條件的環境梯度相對穩定。總豐度介於每立方公尺 434 至 1168 個體，其中小異奇橈腳類（Oithona similis）在數量上佔優勢。總生物量介於每立方公尺 7.1 至 85.9 毫克乾重，並以哲水蚤屬（Calanus）橈腳類的貢獻最高。基於七項關鍵功能特徵（體型、營養群、攝食模式、繁殖策略、生命週期持續時間、偏好棲息地及地理分佈），劃分出四個橈腳類群。數量最豐富的群落包含芬氏哲水蚤（Calanus finmarchicus）、偽哲水蚤屬（Pseudocalanus spp.）、微哲水蚤屬（Microcalanus spp.）、鉤額哲水蚤（Centropages hamatus）及橈腳類無節幼體（nauplii），牠們在北部與東南部次分區達到高豐度。RLQ 分析、fourth-corner 分析與冗餘分析指出，採樣深度是解釋多樣性、功能多樣性及橈腳類特徵空間變異的最重要變數。水溫、葉綠素 a 濃度與營養鹽水平對特定功能特徵具有顯著影響，包括雜食－植食性、雜食性、巡游攝食、混合攝食、長壽、中層水域棲息者，以及北極／世界性分類群。本研究為高度生產力的北極地區中橈腳類族群的功能性特徵結構提供了基礎資料，並可應用於未來的中上層群聚監測。"
   },
   {
-   "doi": "10.3390/ani16213406",
-   "title": "Diet Formats, Feeding Practices, and Environmental Factors Associated with Overweight, Underweight, and Ideal Body Condition in Household Cats",
-   "abstract": "This exploratory cross-sectional study analyzed owner-reported survey data from 5653 cats belonging to current and prospective customers of a UK fresh cat food company to identify factors associated with body condition in companion cats and to compare owner classifications made using a structured body condition score (BCS) tool with those made by unguided judgment. Owners classified fewer cats as ideal using the structured BCS tool than by unguided judgment, with lower agreement for underweight than for overweight cats. Multivariable logistic regression models were developed for overweight, underweight, and ideal body condition. A higher proportion of fresh food was associated with greater odds of ideal body condition (OR 1.22, 95% CI: 1.04–1.42), while dry food was associated with overweight (OR 1.83, 95% CI: 1.33–2.51) and wet food with underweight (OR 1.51, 95% CI: 1.06–2.16), though this association was less robust to differing model specifications. Further associations included certain additional calorie sources, feeding practices, treat type, activity, enrichment, household composition, and established demographic factors. These hypothesis-generating findings highlight a gap between structured and unguided owner assessment and identify associations that merit prospective evaluation in a more generally representative population.",
+   "doi": "10.3390/ani16213396",
+   "title": "Feasibility of Serum and Faecal Interleukin Assessment in Equine Surgical Colic: A Pilot Study",
+   "abstract": "Cytokines may provide information about inflammation in equine colic, but their clinical relevance remains uncertain. This pilot study assessed short-term changes in serum and faecal interleukin (IL)-1β, IL-6 and IL-8 in eight horses undergoing colic surgery and compared measurements with six healthy controls. Colic horses were sampled at admission (D0), 24 h (D1) and day 7 (D7); controls provided serum at D0 and faeces at all three time points. Cytokines were assayed using MILLIPLEX and MAGPIX. Admission faeces were unavailable from 3/8 colic horses (37.5%). Serum IL-1β and IL-6 were below detection limits in 29/29 analysed samples (100%) for each cytokine. Serum IL-8 varied markedly without significant temporal change. Thirty-nine faecal extracts were analysed without faecal assay validation. Faecal estimates were generally lower in colic horses, with nominal between-group differences for IL-6 at D1 (p = 0.045), IL-1β at D7 (p = 0.033) and IL-8 at D7 (p = 0.004). No consistent temporal pattern in faecal estimates or significant association between serum and faecal IL-8 was detected. These findings do not establish the usefulness of these cytokines for clinical monitoring and highlight sampling and analytical limitations that should be addressed in larger, clinically diverse cohorts.",
    "authors": [
-    "LeeAnn M. Perry",
-    "Justin Shmalberg",
-    "Ryan W. Honaker"
+    "Erwan Degorce",
+    "Daria Lorek",
+    "Agnieszka Żak-Bochenek",
+    "Dorota Długopolska",
+    "Paweł Golonka",
+    "Artur Niedźwiedź",
+    "Natalia Siwińska"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213406",
+   "url": "https://doi.org/10.3390/ani16213396",
    "date": "2026-10-28",
    "first_seen": "2026-10-29",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "本探索性橫斷研究分析了來自英國一家鮮食貓糧公司現有及潛在客戶的 5,653 隻貓之飼主回報問卷數據，旨在識別與伴侶貓體態相關的因素，並比較飼主使用結構化體態評分（BCS）工具與憑直覺判斷所作出的分類差異。與憑直覺判斷相比，飼主使用結構化 BCS 工具將較少數目的貓分類為理想體態，且對過輕貓隻的一致性低於過重貓隻。本研究針對過重、過輕及理想體態建立了多變量邏輯斯迴歸模型。較高比例的鮮食與理想體態的高勝算比相關（OR 1.22, 95% CI: 1.04–1.42），而乾糧與過重相關（OR 1.83, 95% CI: 1.33–2.51），濕糧則與過輕相關（OR 1.51, 95% CI: 1.06–2.16），儘管此關聯性對不同模型設定的穩健性較低。其他相關因素包括特定的額外熱量來源、餵食習慣、零食種類、活動量、豐富化環境、家庭組成及既有的的人口統計學因素。這些具假設生成性的研究結果突顯了結構化與非結構化飼主評估之間的落差，並找出了值得在更具代表性的族群中進行前瞻性評估的相關因素。"
+   "abstract_zh": "細胞激素可能有助於了解馬匹腹痛（絞痛）的發炎狀況，但其臨床相關性仍未確定。本先導研究評估了八匹接受腹痛手術的馬匹在短期內血清與糞便中介白素（IL）-1β、IL-6 與 IL-8 的變化，並將測量結果與六匹健康對照馬進行比較。腹痛馬匹於入院時（D0）、24 小時（D1）及第 7 天（D7）進行採樣；對照組於 D0 提供血清，並在所有三個時間點提供糞便。細胞激素使用 MILLIPLEX 與 MAGPIX 進行分析。8 匹腹痛馬中有 3 匹（37.5%）無法取得入院時的糞便。在 29 個分析樣本中，血清 IL-1β 與 IL-6 均低於各自的檢測極限（各占 100%）。血清 IL-8 呈顯著變異，但無顯著的時間變化。共分析了 39 個糞便萃取物，但未進行糞便檢測驗證。腹痛馬的糞便估算值普遍較低，其中 IL-6 在 D1 ($p = 0.045$)、IL-1β 在 D7 ($p = 0.033$) 以及 IL-8 在 D7 ($p = 0.004$) 顯示名義上的組間差異。未發現糞便估算值呈現一致的時間模式，亦未發現血清與糞便 IL-8 之間有顯著的相關性。這些發現未能確立這些細胞激素用於臨床監控的效用，並凸顯了未來在較大且臨床多樣化的族群中應予解決的採樣與分析限制。"
   },
   {
    "doi": "10.3390/ani16213398",
@@ -7442,27 +7564,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "（請提供您需要翻譯的學術摘要內容）"
-  },
-  {
-   "doi": "10.3390/ani16213396",
-   "title": "Feasibility of Serum and Faecal Interleukin Assessment in Equine Surgical Colic: A Pilot Study",
-   "abstract": "Cytokines may provide information about inflammation in equine colic, but their clinical relevance remains uncertain. This pilot study assessed short-term changes in serum and faecal interleukin (IL)-1β, IL-6 and IL-8 in eight horses undergoing colic surgery and compared measurements with six healthy controls. Colic horses were sampled at admission (D0), 24 h (D1) and day 7 (D7); controls provided serum at D0 and faeces at all three time points. Cytokines were assayed using MILLIPLEX and MAGPIX. Admission faeces were unavailable from 3/8 colic horses (37.5%). Serum IL-1β and IL-6 were below detection limits in 29/29 analysed samples (100%) for each cytokine. Serum IL-8 varied markedly without significant temporal change. Thirty-nine faecal extracts were analysed without faecal assay validation. Faecal estimates were generally lower in colic horses, with nominal between-group differences for IL-6 at D1 (p = 0.045), IL-1β at D7 (p = 0.033) and IL-8 at D7 (p = 0.004). No consistent temporal pattern in faecal estimates or significant association between serum and faecal IL-8 was detected. These findings do not establish the usefulness of these cytokines for clinical monitoring and highlight sampling and analytical limitations that should be addressed in larger, clinically diverse cohorts.",
-   "authors": [
-    "Erwan Degorce",
-    "Daria Lorek",
-    "Agnieszka Żak-Bochenek",
-    "Dorota Długopolska",
-    "Paweł Golonka",
-    "Artur Niedźwiedź",
-    "Natalia Siwińska"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213396",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "細胞激素可能有助於了解馬匹腹痛（絞痛）的發炎狀況，但其臨床相關性仍未確定。本先導研究評估了八匹接受腹痛手術的馬匹在短期內血清與糞便中介白素（IL）-1β、IL-6 與 IL-8 的變化，並將測量結果與六匹健康對照馬進行比較。腹痛馬匹於入院時（D0）、24 小時（D1）及第 7 天（D7）進行採樣；對照組於 D0 提供血清，並在所有三個時間點提供糞便。細胞激素使用 MILLIPLEX 與 MAGPIX 進行分析。8 匹腹痛馬中有 3 匹（37.5%）無法取得入院時的糞便。在 29 個分析樣本中，血清 IL-1β 與 IL-6 均低於各自的檢測極限（各占 100%）。血清 IL-8 呈顯著變異，但無顯著的時間變化。共分析了 39 個糞便萃取物，但未進行糞便檢測驗證。腹痛馬的糞便估算值普遍較低，其中 IL-6 在 D1 ($p = 0.045$)、IL-1β 在 D7 ($p = 0.033$) 以及 IL-8 在 D7 ($p = 0.004$) 顯示名義上的組間差異。未發現糞便估算值呈現一致的時間模式，亦未發現血清與糞便 IL-8 之間有顯著的相關性。這些發現未能確立這些細胞激素用於臨床監控的效用，並凸顯了未來在較大且臨床多樣化的族群中應予解決的採樣與分析限制。"
   },
   {
    "doi": "10.3390/ani16213401",
@@ -7524,23 +7625,6 @@
    "abstract_zh": "隱蔽性高的新熱帶蝮蛇之繁殖行為在自然條件下極少被記錄，這限制了對性擇、移動力學與交配系統的經驗性評估。在此，我們呈現在雨季期間來自法屬圭亞那沿海的自由活動亞馬遜矛頭蝮（Bothrops atrox）之焦點錄影與攝影紀錄。長達約3小時的持續交配揭示了一個顯著的雙峰移動序列：該對蛇在未分離總排泄腔的情況下，從陸地落葉層移動跨越一條寬20公尺的森林溪流，隨後再回到陸地上。影片分析顯示了由雌性主導的移動，其中體型大得多的雌性拖著與其交配的雄性穿過水體，對抗雄性反方向的游泳動作。此行為展現了在性雙形下雌性的移動主導地位，以及具棘刺的蝮亞科半陰莖在被迫進行水域位移期間，其廣泛的機械韌性。連續的攝影紀錄捕捉到儀式化的雄-雄爭鬥，伴隨同步的垂直展示、前軀擺動、頸部勾纏與壓制嘗試，證實了西亞馬遜地區所描述的定型動作模式在東部圭亞那地盾族群中具保守性。這些姿勢動力學代表了爭奪空間優先權的暫時性體力競賽，而非永久的優勢階級。綜上所述，這些證據表明了對交配期間雌性行為控制的實證支持，並擴展了支持亞馬遜矛頭蝮之長期尋偶一夫多妻假說的地理框架。"
   },
   {
-   "doi": "10.3390/ani16213416",
-   "title": "Molecular Characterization and Promoter Activity Analysis of the Porcine Convergent Gene Pair ABCF1 and PPP1R10",
-   "abstract": "The intergenic regions of porcine convergent gene pairs frequently maintain an open chromatin configuration with a permissive transcriptional microenvironment, rendering them promising candidates for genomic safe harbors (GSHs). However, the molecular features and promoter activities of the convergent gene pair ABCF1 and PPP1R10 remain uncharacterized, impeding the utilization of their potential as GSHs. To address this, we systematically predicted cis-regulatory elements (including CpG islands) of the two genes in silico, evaluated the transcriptional activities of serially truncated promoter fragments by dual-luciferase reporter assays in porcine fetal fibroblasts (PFFs) and PK-15 cells, compared their promoter regions across seven species, and characterized the protein architectures and flanking genomic landscapes. The ABCF1 promoter contained canonical TATA, CCAAT, and GC boxes alongside three CpG islands, and its shortest fragment, P217 (−217 to −1 bp), exhibited the highest activity in both cell lines. The PPP1R10 promoter possessed a triple TATA-box arrangement without detectable CpG islands, and its core fragment P211 (−211 to −1 bp) exhibited the highest activity among all truncated fragments in both cell lines and showed numerically higher activity than the simian virus 40 (SV40) promoter in PK-15 cells. No canonical oncogenes were identified within 100 kb upstream or downstream of the intergenic region between the two genes. Both ABCF1 and PPP1R10 are intracellular soluble proteins lacking transmembrane domains. ABCF1 is predominantly composed of α-helices, localizes in the cytoplasm and at the nuclear membrane, and modulates cytoplasmic translation. By contrast, PPP1R10 is enriched in random coils, specifically associates with nuclear chromatin, and participates in the PP1 phosphatase regulatory network. Taken together, our study delineates the core active promoter regions of both genes and highlights the potential of this chromosomal interval as a candidate genomic safe-harbor locus, a hypothesis awaiting further experimental validation.",
-   "authors": [
-    "Tian Wang",
-    "Yuanchen Mei",
-    "Qiang Yang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213416",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-30",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "豬基因組中相向轉錄基因對（convergent gene pairs）的基因間區經常維持開放染色質構形與容許性轉錄微環境，使其成為基因組安全港（genomic safe harbors, GSHs）的潛在候選標的。然而，相向轉錄基因對 $ABCF1$ 與 $PPP1R10$ 的分子特徵與啟動子活性尚未被釐清，因而阻礙了其作為 GSH 潛力的利用。為了解決此問題，我們在電腦中系統性預測了這兩個基因的順式作用調控元件（包含 CpG 島），透過雙螢光素酶報導基因檢測，評估了一系列序列截短之啟動子片段在豬胎兒纖維母細胞（PFFs）與 PK-15 細胞中的轉錄活性，比較了它們在七個物種中的啟動子區域，並特徵化了其蛋白質結構與側翼基因組地景。$ABCF1$ 啟動子包含典型 TATA、CCAAT 與 GC 框以及三個 CpG 島，其最短片段 P217（−217 至 −1 bp）在兩種細胞株中皆展現最高活性。$PPP1R10$ 啟動子具有三重 TATA 框排列且偵測不到 CpG 島，其核心片段 P211（−211 至 −1 bp）在兩種細胞株的所有截短片段中展現最高活性，且在 PK-15 細胞中的數值活性高於猿猴病毒 40（SV40）啟動子。在這兩個基因間區上下游 100 kb 範圍內未發現典型致癌基因。$ABCF1$ 與 $PPP1R10$ 皆為缺乏跨膜域的細胞內可溶性蛋白質。$ABCF1$ 主要由 $\\alpha$ 螺旋組成，定位於細胞質與核膜，並調節細胞質轉譯。相較之下，$PPP1R10$ 豐富分佈無規則捲曲，特異性結合至核染色質，並參與 PP1 磷酸酶調控網路。綜上所述，本研究描繪了這兩個基因的核心活性啟動子區域，並突顯此染色體區段作為候選基因組安全港位點的潛力，此假說尚待進一步的實驗驗證。"
-  },
-  {
    "doi": "10.3390/ani16213422",
    "title": "Spatio-Temporal Distribution and Stranding Records of Cetaceans Along the Romanian Black Sea",
    "abstract": "This study investigates cetacean occurrence and stranding records along the Romanian Black Sea coast between 2021 and 2025, focusing on the three resident subspecies: Tursiops truncatus ponticus, Delphinus delphis ponticus, and Phocoena phocoena relicta. A total of 1392 live individuals were documented across 188 sighting events, with T. t. ponticus and D. d. ponticus together representing 88.3% of all recorded individuals. The monthly distribution of recorded sighting events differed significantly among subspecies (p &lt; 0.001), as did the distance of recorded sightings from the coastline (p &lt; 0.001). Median distances were 4.40 km for T. t. ponticus, 61.78 km for D. d. ponticus, and 30.44 km for P. p. relicta. During the same period, 76 stranded cetaceans were recorded along the Romanian Black Sea coast, of which 58 were identified to subspecies level. P. p. relicta accounted for 70.7% of identified stranded individuals, compared with 11.7% of live individuals recorded during research cruises. Stranding records were most frequent in August and May, although their monthly distribution did not differ significantly among subspecies. Although both datasets covered the same geographical region and study period, differences in observation methods and sampling effort limit direct comparisons and prevent inferences about mortality rates or population trends. Nevertheless, the observed differences in the spatial and monthly distribution of live sightings, together with the high representation of P. p. relicta among stranded individuals, provide complementary information to support future cetacean monitoring, stranding investigations, and conservation efforts in the Romanian Black Sea.",
@@ -7600,22 +7684,21 @@
    "abstract_zh": "本研究設計並評估了四座實驗室規模的生物濾床，用於處理三甲胺（TMA）。每座生物濾床的高為 68 公分，直徑為 15 公分。濾材由乳牛糞堆肥、牛舍墊料、碎玉米芯、木屑和鋸木屑的各種混合物組成。本研究旨在比較填充不同濾材成分的生物濾床對三甲胺的去除效率，並分析運行期間濾材表面微生物群落結構的演替模式。受污染氣流是透過將空氣打入三甲胺溶液中人工產生，進氣濃度介於 1.88 至 4.23 mg/m3 之間。在空床停留時間（EBRT）介於 42.7 至 28.0 秒的條件下，四座生物濾床的去除效率均超過 60%。然而，各生物濾床的性能有所差異。以體積比 10:9:1 混合成熟堆肥、木屑和碎玉米芯的生物濾床表現出最高的去除效率（>83%）。在生物濾床出口處檢測到氨氣，作為微生物降解三甲胺的副產物，同時伴隨著濾材中銨態氮的累積。高效生物濾床的微生物群落分析顯示，在為期 95 天的運行過程中，微生物的複雜性和多樣性逐漸增加。糖黴菌屬（Glycomyces）在整個運行期間皆為優勢屬，且與三甲胺去除效率呈顯著正相關，但其在三甲胺降解中的具體作用仍有待實驗進一步證實。"
   },
   {
-   "doi": "10.3390/ani16213414",
-   "title": "Gut Bacterial and Fungal Communities of the Tibetan Eared Pheasant (Crossoptilon harmani) Across a Captive–Temple–Wild Gradient: Implications for Ex Situ Conservation",
-   "abstract": "Gut microbiota influence nutrient acquisition, immune function, and pathogen resistance, yet are rarely considered in ex situ planning. We compared gut bacterial (16S ribosomal RNA; 16S rRNA) and fungal (internal transcribed spacer 1; ITS1) communities of the Tibetan eared pheasant (Crossoptilon harmani), a protected Galliform endemic to the Qinghai–Tibet Plateau, across a management gradient: fully captive (n = 3), wild (n = 7), and free-ranging monastery birds receiving supplementary barley (n = 6); samples were not linked to identified donors, so the kingdoms are compared at group level only. Monastery birds had the numerically highest bacterial Shannon diversity (5.79), above wild (5.54) and captive birds (2.93), although the among-group test was not significant (p = 0.13). Permutational multivariate analysis of variance (PERMANOVA) showed significant bacterial differentiation (Bray–Curtis R2 = 0.309, p = 0.001), driven by the captive group, which showed Lactobacillus dominance (51.4%). Fungal communities also differed significantly (R2 = 0.194, p = 0.008), with no compositional turnover (Jaccard p = 0.447). Birds in natural habitat with supplementary feeding were no more dissimilar from wild birds than wild birds were among themselves, whereas fully captive birds were clearly separated; this pattern warrants testing in replicated, multi-site studies.",
+   "doi": "10.3390/ani16213416",
+   "title": "Molecular Characterization and Promoter Activity Analysis of the Porcine Convergent Gene Pair ABCF1 and PPP1R10",
+   "abstract": "The intergenic regions of porcine convergent gene pairs frequently maintain an open chromatin configuration with a permissive transcriptional microenvironment, rendering them promising candidates for genomic safe harbors (GSHs). However, the molecular features and promoter activities of the convergent gene pair ABCF1 and PPP1R10 remain uncharacterized, impeding the utilization of their potential as GSHs. To address this, we systematically predicted cis-regulatory elements (including CpG islands) of the two genes in silico, evaluated the transcriptional activities of serially truncated promoter fragments by dual-luciferase reporter assays in porcine fetal fibroblasts (PFFs) and PK-15 cells, compared their promoter regions across seven species, and characterized the protein architectures and flanking genomic landscapes. The ABCF1 promoter contained canonical TATA, CCAAT, and GC boxes alongside three CpG islands, and its shortest fragment, P217 (−217 to −1 bp), exhibited the highest activity in both cell lines. The PPP1R10 promoter possessed a triple TATA-box arrangement without detectable CpG islands, and its core fragment P211 (−211 to −1 bp) exhibited the highest activity among all truncated fragments in both cell lines and showed numerically higher activity than the simian virus 40 (SV40) promoter in PK-15 cells. No canonical oncogenes were identified within 100 kb upstream or downstream of the intergenic region between the two genes. Both ABCF1 and PPP1R10 are intracellular soluble proteins lacking transmembrane domains. ABCF1 is predominantly composed of α-helices, localizes in the cytoplasm and at the nuclear membrane, and modulates cytoplasmic translation. By contrast, PPP1R10 is enriched in random coils, specifically associates with nuclear chromatin, and participates in the PP1 phosphatase regulatory network. Taken together, our study delineates the core active promoter regions of both genes and highlights the potential of this chromosomal interval as a candidate genomic safe-harbor locus, a hypothesis awaiting further experimental validation.",
    "authors": [
-    "Cong Wei",
-    "Shiyang Weng",
-    "Yanchao Liu",
-    "Jianchuan Li"
+    "Tian Wang",
+    "Yuanchen Mei",
+    "Qiang Yang"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213414",
+   "url": "https://doi.org/10.3390/ani16213416",
    "date": "2026-10-29",
    "first_seen": "2026-10-30",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "腸道微生物群會影響營養獲取、免疫功能及病原體抵抗力，但在域外保育規劃中卻極少被納入考量。我們比較了青藏高原特有且受保護的雞形目鳥類——藏馬雞（Crossoptilon harmani）在不同管理梯度下的腸道細菌（16S核糖體RNA；16S rRNA）及真菌（內部轉錄間隔區1；ITS1）群落：完全圈養（n = 3）、野生（n = 7），以及獲得補充大麥的自由活動寺廟鳥類（n = 6）；由於樣本未與個別識別的個體連結，因此各界（kingdoms）僅進行群體層級的比較。寺廟鳥類的細菌香農多樣性（Shannon diversity）數值最高（5.79），高於野生鳥類（5.54）與圈養鳥類（2.93），儘管群組間的檢定未達顯著水準（p = 0.13）。變異數置換多元分析（PERMANOVA）顯示顯著的細菌分化（Bray–Curtis R2 = 0.309，p = 0.001），此差異主要是由呈現乳酸桿菌優勢（51.4%）的圈養組所驅動。真菌群落也呈現顯著差異（R2 = 0.194，p = 0.008），且無組成轉換（Jaccard p = 0.447）。棲息於自然棲地並接受補充餵食的鳥類，與野生鳥類之間的差異並不比野生鳥類彼此間的差異來得大，而完全圈養的鳥類則明顯區隔開來；此一模式有待透過具重複性的多地點研究來進一步驗證。"
+   "abstract_zh": "豬基因組中相向轉錄基因對（convergent gene pairs）的基因間區經常維持開放染色質構形與容許性轉錄微環境，使其成為基因組安全港（genomic safe harbors, GSHs）的潛在候選標的。然而，相向轉錄基因對 $ABCF1$ 與 $PPP1R10$ 的分子特徵與啟動子活性尚未被釐清，因而阻礙了其作為 GSH 潛力的利用。為了解決此問題，我們在電腦中系統性預測了這兩個基因的順式作用調控元件（包含 CpG 島），透過雙螢光素酶報導基因檢測，評估了一系列序列截短之啟動子片段在豬胎兒纖維母細胞（PFFs）與 PK-15 細胞中的轉錄活性，比較了它們在七個物種中的啟動子區域，並特徵化了其蛋白質結構與側翼基因組地景。$ABCF1$ 啟動子包含典型 TATA、CCAAT 與 GC 框以及三個 CpG 島，其最短片段 P217（−217 至 −1 bp）在兩種細胞株中皆展現最高活性。$PPP1R10$ 啟動子具有三重 TATA 框排列且偵測不到 CpG 島，其核心片段 P211（−211 至 −1 bp）在兩種細胞株的所有截短片段中展現最高活性，且在 PK-15 細胞中的數值活性高於猿猴病毒 40（SV40）啟動子。在這兩個基因間區上下游 100 kb 範圍內未發現典型致癌基因。$ABCF1$ 與 $PPP1R10$ 皆為缺乏跨膜域的細胞內可溶性蛋白質。$ABCF1$ 主要由 $\\alpha$ 螺旋組成，定位於細胞質與核膜，並調節細胞質轉譯。相較之下，$PPP1R10$ 豐富分佈無規則捲曲，特異性結合至核染色質，並參與 PP1 磷酸酶調控網路。綜上所述，本研究描繪了這兩個基因的核心活性啟動子區域，並突顯此染色體區段作為候選基因組安全港位點的潛力，此假說尚待進一步的實驗驗證。"
   },
   {
    "doi": "10.3390/ani16213412",
@@ -7640,6 +7723,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "高病原性禽流感病毒經歷持續演化，具備增強的跨物種傳播能力，對全球公共衛生安全構成嚴峻威脅。宿主酸性核磷蛋白32A（ANP32A）作為活化流感病毒RNA依賴性RNA聚合酶的關鍵宿主輔因子，在病毒複製與宿主適應中扮演核心角色。本綜述系統性地闡述了ANP32A的分子特徵，以及其富含白胺酸重複（LRR）域專一性結合聚合酶基本蛋白2（PB2）次單位，且其低複雜度酸性區域（LCAR）與聚合酶酸性蛋白（PA）相互作用以促進病毒聚合酶複合物之組裝與功能活化的機制。同時總結了ANP32A的物種特異性序列變異與剪接異構物對跨物種傳播之宿主限制障礙的影響。進一步分析顯示，ANP32A作為核轉錄調節因子，透過染色質表觀遺傳修飾與轉錄資源競爭，間接調控干擾素、NF-κB及NOD樣受體含熱蛋白ドメイン3（NLRP3）發炎小體相關基因的轉錄水準，從而重塑細胞的抗病毒微環境。ANP32A與酸性核磷蛋白32B（ANP32B）發揮互補功能以支援病毒聚合酶活性，而酸性核磷蛋白32E（ANP32E）僅對一小部分突變流感病毒株提供微弱的輔助效應，其主要生理功能則集中於染色質調節；此三種蛋白質共同參與病毒複製的調控網路。藉鑑近年冷凍電子顯微鏡結構生物學與CRISPR/Cas9基因編輯技術的進展（本綜述對此進行了敘述性討論），本綜述突顯了ANP32A在病毒宿主適應與跨物種溢出中的關鍵樞紐角色。"
+  },
+  {
+   "doi": "10.3390/ani16213414",
+   "title": "Gut Bacterial and Fungal Communities of the Tibetan Eared Pheasant (Crossoptilon harmani) Across a Captive–Temple–Wild Gradient: Implications for Ex Situ Conservation",
+   "abstract": "Gut microbiota influence nutrient acquisition, immune function, and pathogen resistance, yet are rarely considered in ex situ planning. We compared gut bacterial (16S ribosomal RNA; 16S rRNA) and fungal (internal transcribed spacer 1; ITS1) communities of the Tibetan eared pheasant (Crossoptilon harmani), a protected Galliform endemic to the Qinghai–Tibet Plateau, across a management gradient: fully captive (n = 3), wild (n = 7), and free-ranging monastery birds receiving supplementary barley (n = 6); samples were not linked to identified donors, so the kingdoms are compared at group level only. Monastery birds had the numerically highest bacterial Shannon diversity (5.79), above wild (5.54) and captive birds (2.93), although the among-group test was not significant (p = 0.13). Permutational multivariate analysis of variance (PERMANOVA) showed significant bacterial differentiation (Bray–Curtis R2 = 0.309, p = 0.001), driven by the captive group, which showed Lactobacillus dominance (51.4%). Fungal communities also differed significantly (R2 = 0.194, p = 0.008), with no compositional turnover (Jaccard p = 0.447). Birds in natural habitat with supplementary feeding were no more dissimilar from wild birds than wild birds were among themselves, whereas fully captive birds were clearly separated; this pattern warrants testing in replicated, multi-site studies.",
+   "authors": [
+    "Cong Wei",
+    "Shiyang Weng",
+    "Yanchao Liu",
+    "Jianchuan Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213414",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "腸道微生物群會影響營養獲取、免疫功能及病原體抵抗力，但在域外保育規劃中卻極少被納入考量。我們比較了青藏高原特有且受保護的雞形目鳥類——藏馬雞（Crossoptilon harmani）在不同管理梯度下的腸道細菌（16S核糖體RNA；16S rRNA）及真菌（內部轉錄間隔區1；ITS1）群落：完全圈養（n = 3）、野生（n = 7），以及獲得補充大麥的自由活動寺廟鳥類（n = 6）；由於樣本未與個別識別的個體連結，因此各界（kingdoms）僅進行群體層級的比較。寺廟鳥類的細菌香農多樣性（Shannon diversity）數值最高（5.79），高於野生鳥類（5.54）與圈養鳥類（2.93），儘管群組間的檢定未達顯著水準（p = 0.13）。變異數置換多元分析（PERMANOVA）顯示顯著的細菌分化（Bray–Curtis R2 = 0.309，p = 0.001），此差異主要是由呈現乳酸桿菌優勢（51.4%）的圈養組所驅動。真菌群落也呈現顯著差異（R2 = 0.194，p = 0.008），且無組成轉換（Jaccard p = 0.447）。棲息於自然棲地並接受補充餵食的鳥類，與野生鳥類之間的差異並不比野生鳥類彼此間的差異來得大，而完全圈養的鳥類則明顯區隔開來；此一模式有待透過具重複性的多地點研究來進一步驗證。"
   },
   {
    "doi": "10.3390/ani16213407",
@@ -7683,6 +7784,25 @@
    "abstract_zh": "犬髖關節骨關節炎（OA）需要多維度的評估。這項隨機、雙盲、安慰劑對照試驗評估了使用美洛昔康（meloxicam）、PCSO-524、EAB-277、美洛昔康併用 PCSO-524 或安慰劑治療 4 週的效果，對象包含 203 隻患有自然發生之髖關節骨關節炎的飼主自有犬。主要結果為透過測力板步態分析測得的指標後肢峰值垂直力（PVF）。次要結果包括 PVF 應答者狀態、骨科評估分數（OAS）、犬隻骨關節炎量表（LOAD）、犬隻簡明疼痛量表（CBPI）以及安全性評估。主要之基線調整平均 PVF 分析未顯示各組間的治療優越性。使用分析階段 >5%BW PVF 閾值的次要應答者分析顯示，美洛昔康在第 4 週的應答者機率顯著高於安慰劑（相對風險 = 4.000；95% 信賴區間，1.223 至 13.079；p = 0.022），此結果被解讀為支持性而非確證性。在組內分數降低方面，合併治療組的 LOAD 和 CBPI 疼痛干擾分數下降，PCSO-524 組的 LOAD 分數下降，EAB-277 組的 CBPI 疼痛干擾分數下降。OAS 在各組內皆無顯著變化。LOAD 和 CBPI 變化的組間差異則不顯著。未檢測出一致性的群體層級實驗室安全性疑慮。這些發現支持多維度評估，同時強調次要結果並未確立治療的優越性。"
   },
   {
+   "doi": "10.3390/ani16213433",
+   "title": "Diet-Associated Gut Microbiome Divergence Contributes to Phenotypic Differentiation Among Geographically Structured Populations of Rana dybowskii",
+   "abstract": "Geographic phenotypic variation is a widespread feature of natural populations, often driven by local environmental heterogeneity and trophic interactions. While the gut microbiome is recognized as a key mediator between environmental resources and host physiology, its role in the adaptive differentiation of amphibians remains insufficiently explored. In this study, we employed an integrative approach—combining morphological measurements, DNA metabarcoding for dietary analysis, and 16S rRNA sequencing for gut microbial profiling—to investigate three geographically structured populations (Dandong [DD], Fushun [FS], and Benxi [BX]) of the Dybowski’s frog (Rana dybowskii). The results showed that the morphological characteristics (body weight, head-body length, hindlimb length, etc.) of DD were significantly higher than those of FS and BX. Dietary analysis via gut content DNA metabarcoding identified distinct food structures; notably, the DD population consumed a higher proportion of Dipteran prey (e.g., Smittia). Correspondingly, the gut microbiota showed significant population-level clustering. We identified an enrichment of specific functional bacteria in the DD population, such as Arthrobacter, which is known for its chitin-degrading capabilities, aligning with the consumption of chitin-rich insect prey. Mantel tests further confirmed a strong correlation between dietary composition, microbial community structure, and host morphological traits. These findings suggest that diet-driven gut microbiome variation is consistent with a contributing role in the phenotypic differentiation of R. dybowskii across different habitats, although causal relationships remain to be tested directly. By integrating trophic ecology with microbial landscapes, this study provides new insights into the adaptive evolution and resource management of amphibians in heterogeneous environments.",
+   "authors": [
+    "Linghao Kong",
+    "Yi Zhu",
+    "Bowen Liu",
+    "Hua Wei",
+    "Yingdong Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213433",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "地理表型變異是自然族群中普遍存在的特徵，通常由當地環境異質性和營養交互作用所驅動。儘管腸道微生物已被認為是環境資源與宿主生理之間的重要媒介，但其在兩棲類適應性分化中的作用仍探討不足。在本研究中，我們採用綜合方法——結合形態學測量、用於食性分析的DNA條碼 metabarcoding，以及用於腸道微生物群落分析的16S rRNA定序——來調查分佈於不同地理位置的黑龍江木蛙（*Rana dybowskii*）三個族群（丹東 [DD]、撫順 [FS] 和本溪 [BX]）。結果顯示，DD族群的形態特徵（體重、頭體長、後肢長等）顯著高於FS和BX族群。透過腸道內容物DNA條碼進行的食性分析識別出不同的食物組成結構；值得注意的是，DD族群攝食了更高比例的双翅目獵物（例如搖蚊屬 *Smittia*）。相對地，腸道微生物相也展現出顯著的族群層級分群。我們發現DD族群中特定功能性細菌的富集，例如以分解幾丁質能力聞名的節桿菌屬（*Arthrobacter*），這與其攝食富含幾丁質的昆蟲獵物相呼應。曼特爾檢定（Mantel tests）進一步證實了飲食組成、微生物群落結構與宿主形態特徵之間存在強烈的相關性。這些發現表明，飲食驅動的腸道微生物變異與其在不同棲地中對 *R. dybowskii* 表型分化的潛在貢獻一致，儘管因果關係仍有待直接驗證。本研究透過結合營養生態學與微生物地景，為兩棲類在異質環境中的適應性演化與資源管理提供了新的見解。"
+  },
+  {
    "doi": "10.3390/ani16213428",
    "title": "Identification and Characterization of a Cathepsin B Protease in the Marine Fish Parasite Cryptocaryon irritans",
    "abstract": "Cryptocaryon irritans, an obligate ectoparasite, causes cryptocaryoniasis and heavy economic losses to marine aquaculture. Cathepsin B (CatB) is highly expressed in C. irritans theronts and hypothesized to participate in parasite host invasion, yet its biochemical properties and pathogenic roles remain poorly defined. In this study, we performed bioinformatic analysis of the CiCatB gene. Following codon optimization, CiCatB was heterologously expressed in Pichia pastoris, and the biologically active recombinant CiCatB protein was purified. Subcellular localization analysis revealed that CiCatB predominantly localized in the cytoplasm of theronts, with partial signals detected at the cell membrane and in the extracellular space. Enzymatic assays showed that yCiCatB hydrolyzed gelatin and type I collagen from large yellow croaker, with optimum activity at pH 5.0 and stable performance from 28 to 37 °C. Mg2+ increased enzyme activity, while Cu2+ almost completely abolished catalytic activity. Both E-64 and anti-CiCatB serum inhibited enzyme activity. Functional blocking using inhibitor or antiserum markedly reduced parasite recovery following challenge. Our results suggest that CiCatB may contribute to host invasion by degrading host structural proteins, advancing our understanding of C. irritans pathogenicity. CiCatB represents a potential target for exploring control strategies against cryptocaryoniasis.",
@@ -7702,25 +7822,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "刺激隱核蟲（Cryptocaryon irritans）是一種專性體外寄生蟲，會引發海水養殖業的白點病並造成慘重的經濟損失。組織蛋白酶 B（Cathepsin B, CatB）在刺激隱核蟲幼蟲（theronts）中高度表達，並被假設參與寄生蟲對宿主的侵入，然而其生化特性與致病角色仍待釐清。本研究對 *CiCatB* 基因進行了生物資訊學分析。經密碼子優化後，*CiCatB* 在畢赤酵母（*Pichia pastoris*）中進行異源表達，並純化出具有生物活性的重組 CiCatB 蛋白質。亞細胞定位分析顯示，CiCatB 主要定位於幼蟲的細胞質中，且在細胞膜及細胞外空間偵測到部分訊號。酶學分析表明，重組 yCiCatB 能水解明膠及大黃魚的 I 型膠原蛋白，其最適作用 pH 為 5.0，並在 28 至 37 °C 之間表現穩定。$\\text{Mg}^{2+}$ 能提高酶活性，而 $\\text{Cu}^{2+}$ 則幾乎完全抑制其催化活性。E-64 與抗 CiCatB 血清皆能抑制其酶活性。使用抑制劑或抗血清進行功能阻斷，可顯著降低攻毒後的寄生蟲回收率。我們的結果顯示，CiCatB 可能透過降解宿主結構蛋白來協助宿主侵入，這有助於深入理解刺激隱核蟲的致病機制。CiCatB 作為探索白點病防治策略的潛在標靶具有重要價值。"
-  },
-  {
-   "doi": "10.3390/ani16213433",
-   "title": "Diet-Associated Gut Microbiome Divergence Contributes to Phenotypic Differentiation Among Geographically Structured Populations of Rana dybowskii",
-   "abstract": "Geographic phenotypic variation is a widespread feature of natural populations, often driven by local environmental heterogeneity and trophic interactions. While the gut microbiome is recognized as a key mediator between environmental resources and host physiology, its role in the adaptive differentiation of amphibians remains insufficiently explored. In this study, we employed an integrative approach—combining morphological measurements, DNA metabarcoding for dietary analysis, and 16S rRNA sequencing for gut microbial profiling—to investigate three geographically structured populations (Dandong [DD], Fushun [FS], and Benxi [BX]) of the Dybowski’s frog (Rana dybowskii). The results showed that the morphological characteristics (body weight, head-body length, hindlimb length, etc.) of DD were significantly higher than those of FS and BX. Dietary analysis via gut content DNA metabarcoding identified distinct food structures; notably, the DD population consumed a higher proportion of Dipteran prey (e.g., Smittia). Correspondingly, the gut microbiota showed significant population-level clustering. We identified an enrichment of specific functional bacteria in the DD population, such as Arthrobacter, which is known for its chitin-degrading capabilities, aligning with the consumption of chitin-rich insect prey. Mantel tests further confirmed a strong correlation between dietary composition, microbial community structure, and host morphological traits. These findings suggest that diet-driven gut microbiome variation is consistent with a contributing role in the phenotypic differentiation of R. dybowskii across different habitats, although causal relationships remain to be tested directly. By integrating trophic ecology with microbial landscapes, this study provides new insights into the adaptive evolution and resource management of amphibians in heterogeneous environments.",
-   "authors": [
-    "Linghao Kong",
-    "Yi Zhu",
-    "Bowen Liu",
-    "Hua Wei",
-    "Yingdong Li"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213433",
-   "date": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "地理表型變異是自然族群中普遍存在的特徵，通常由當地環境異質性和營養交互作用所驅動。儘管腸道微生物已被認為是環境資源與宿主生理之間的重要媒介，但其在兩棲類適應性分化中的作用仍探討不足。在本研究中，我們採用綜合方法——結合形態學測量、用於食性分析的DNA條碼 metabarcoding，以及用於腸道微生物群落分析的16S rRNA定序——來調查分佈於不同地理位置的黑龍江木蛙（*Rana dybowskii*）三個族群（丹東 [DD]、撫順 [FS] 和本溪 [BX]）。結果顯示，DD族群的形態特徵（體重、頭體長、後肢長等）顯著高於FS和BX族群。透過腸道內容物DNA條碼進行的食性分析識別出不同的食物組成結構；值得注意的是，DD族群攝食了更高比例的双翅目獵物（例如搖蚊屬 *Smittia*）。相對地，腸道微生物相也展現出顯著的族群層級分群。我們發現DD族群中特定功能性細菌的富集，例如以分解幾丁質能力聞名的節桿菌屬（*Arthrobacter*），這與其攝食富含幾丁質的昆蟲獵物相呼應。曼特爾檢定（Mantel tests）進一步證實了飲食組成、微生物群落結構與宿主形態特徵之間存在強烈的相關性。這些發現表明，飲食驅動的腸道微生物變異與其在不同棲地中對 *R. dybowskii* 表型分化的潛在貢獻一致，儘管因果關係仍有待直接驗證。本研究透過結合營養生態學與微生物地景，為兩棲類在異質環境中的適應性演化與資源管理提供了新的見解。"
   }
  ]
 }
