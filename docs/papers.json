@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:44:19+00:00",
+ "updated": "2026-11-08T01:10:32+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01102-4",
@@ -407,6 +407,30 @@
    "abstract_zh": "番鴨（Cairina moschata）是世界上最古老的馴化水禽之一，棲息於幾乎所有大洲。在美國大多數地區，番鴨被視為外來種，常被形容為「不受保護」或「具侵入性」，這些用詞可能被用來合理化傷害行為。問題在於這些描述是否準確反映了牠們的法律保護與野生動物分類。本研究透過對聯邦及州層級之反虐待法規與外來入侵種分類的全國性首次分析，來探討此問題。結果顯示，扣除相關豁免條款後，美國每一州皆禁止對番鴨蓄意虐待。雖然基於保育目的牠們被視為「不受保護」，但在反虐待法規下牠們依然受到保護。沒有任何聯邦機構將番鴨正式歸類為「入侵種」。儘管在全美50個州中有2個州將番鴨列為入侵種，但每項名單皆缺乏該州具科學依據的危害佐證。本研究更正了關於番鴨在法律上不受保護或具侵入性的說法。對這些詞彙的誤用與誤解，可能會掩蓋蓄意虐待番鴨在全國各地皆屬違法的事實。"
   },
   {
+   "doi": "10.1111/jbg.70086",
+   "title": "Microbiome‐Informed Genomic Prediction of CH4:CO2 Ratio in Holstein Dairy Cattle Using 16S rRNA Profiles and SNP Markers",
+   "abstract": "Ruminant animals produce methane as a by‐product of microbial fermentation in the rumen, with cattle being the largest contributors among ruminants. Methane emissions may be influenced directly by the host's genetics and indirectly through host‐mediated effects on rumen microbiome composition. In this study, we investigated whether modelling both direct and indirect genetic effects could improve the genomic prediction of breeding values for methane emissions. We used genotype, methane CH 4 :CO 2 ratio and 16S rRNA gene amplicon sequencing data (16S), including 16S genus (16S‐G), 16S species (16S‐S) from Danish Holstein cows. A conventional genomic best linear unbiased prediction (GBLUP) model was used as a benchmark and compared with a microbiome‐informed GBLUP approach based on three linked linear mixed models for the prediction of breeding values. In GMBLUP, the first model regresses methane emissions on three random animal effects (archaeal 16S, bacterial 16S and polygenic effects) using corresponding microbiome and genomic relationship matrices. The second and third models separately regress archaeal and bacterial 16S on random animal effects defined by the genomic relationship matrix. We evaluated prediction accuracy using five‐fold cross‐validation. The GBLUP model, which used only genomic marker information, achieved a mean accuracy of 0.20 across the five folds when evaluated in the animal subsets corresponding to the 16S‐G and 16S‐S datasets, while GMBLUP showed higher accuracy, particularly for the 16S‐G dataset, with a mean accuracy of 0.48. These results highlight that incorporating microbiome information into genomic prediction models may improve predictive performance for the CH 4 :CO 2 ratio, although further validation in larger and independent populations is required before practical implementation in breeding programmes.",
+   "authors": [
+    "Naghmeh Saedi",
+    "Sha Zhang",
+    "Mogens Sandø Lund",
+    "Zexi Cai",
+    "Emre Karaman"
+   ],
+   "journal": "Journal of Animal Breeding and Genetics",
+   "url": "https://doi.org/10.1111/jbg.70086",
+   "date": "2026-11-07",
+   "first_seen": "2026-11-08",
+   "score": 30.0,
+   "matched": [
+    "cattle",
+    "gblup",
+    "breeding",
+    "methane"
+   ],
+   "abstract_zh": "反芻動物在瘤胃進行微生物發酵時會產生甲烷作為副產物，其中牛隻是反芻動物中最大的排放源。甲烷排放量可能直接受宿主基因型的影響，亦可能透過宿主對瘤胃微生物相組成的影響而間接受到調控。在本研究中，我們探討同時建模直接與間接遺傳效應是否能改善甲烷排放量育種值的基因體預測。我們使用丹麥荷斯坦乳牛的基因型、甲烷 $\\text{CH}_4:\\text{CO}_2$ 比值以及 16S rRNA 基因擴增子定序資料（16S），包含 16S 屬級（16S-G）與 16S 種級（16S-S）資料。本研究以傳統基因體最佳線性不偏預測（GBLUP）模型作為基準，並與基於三個相連線性混合模型、納入微生物相資訊的 GBLUP 方法（GMBLUP）進行比較，以預測育種值。在 GMBLUP 中，第一個模型利用對應的微生物相與基因體親緣關係矩陣，將甲烷排放量對三個隨機動物效應（古菌 16S、細菌 16S 及多元基因效應）進行迴歸；第二與第三個模型則分別將古菌與細菌 16S 對由基因體親緣關係矩陣所定義的隨機動物效應進行迴歸。我們利用五折交叉驗證來評估預測準確度。僅使用基因體標記資訊的 GBLUP 模型，在對應 16S-G 與 16S-S 資料集的動物子集進行評估時，五折的平均準確度為 0.20；而 GMBLUP 則展現出較高的準確度，特別是在 16S-G 資料集上，平均準確度達到 0.48。這些結果突顯出，將微生物相資訊納入基因體預測模型中，可望提升 $\\text{CH}_4:\\text{CO}_2$ 比值的預測效能，儘管在實際應用於育種計畫之前，仍需在更大且獨立的族群中進行進一步驗證。"
+  },
+  {
    "doi": "10.1080/00071668.2026.2721461",
    "title": "Extended-spectrum β-lactamase-producing Escherichia coli in chickens: prevalence and genetic diversity: a systematic review and meta-analaysis",
    "abstract": "1. Extended-spectrum β-lactamase-producing Escherichia coli (ESBL-EC) is an important antimicrobial-resistant pathogen in poultry that threatens animal health, food safety and public health. This study reviewed the global prevalence and genetic diversity of ESBL-EC in chickens and compared prevalence across continents and chicken production systems.2. A meta-analysis was conducted following PRISMA guidelines. Forty-five studies published between 2014 and 2023, comprising 13 761 E. coli isolates from broiler, layer and mixed-breed chickens, were included. Random-effects meta-analysis estimated pooled prevalence, while subgroup and meta-regression analyses explored heterogeneity. Any ESBL-associated genes were summarised.3. The pooled prevalence of ESBL-EC in chickens was 31.44% (95% CI: 23.81–39.07). Prevalence was highest in Asia (36.22%) and Africa (26.66%) and lowest in North America (5.20%). Broiler chickens showed substantially higher prevalence (33.13%) than layer chickens (8.79%).4. Genetic analysis demonstrated that CTX-M-type β-lactamases predominated, with blaCTX-M as the most frequently detected ESBL gene, followed by blaTEM and blaSHV. The higher prevalence in broiler chickens reflected intensive production systems, shorter production life spans and greater antimicrobial exposure. The lower prevalence in layer chickens reflects longer production life spans and comparatively lower antimicrobial usage.5. The resistant E. coli ESBL strain is widely distributed in poultry, particularly in production systems and in Asia and Africa. Strengthened antimicrobial stewardship, improved farm biosecurity and integrated ‘One Health’ surveillance are required to reduce the dissemination of ESBL-producingE. coli and mitigate associated public health risks.",
@@ -777,6 +801,35 @@
     "carcass"
    ],
    "abstract_zh": "體型與屠體組成是養豬生產中具有經濟重要性的性狀，然而其潛在的遺傳機制尚未完全解析。為了剖析體長（BL）、體高（BH）、背脂厚度（BFT）與瘦肉率（LMP）的遺傳基礎，本研究利用 1,527 頭藍瑞斯豬的 50K 單核苷酸多型性（SNP）晶片基因型，進行遺傳參數估計與全基因體關聯分析（GWAS）。表型變異分解顯示，這四個性狀皆具有中至高遺傳力，範圍從體高的 0.23 到體長的 0.43。遺傳相關分析揭示背脂厚度與瘦肉率之間存在強烈的負相關（−0.80 ± 0.05），體長與體高之間則有中等程度的正相關（0.46 ± 0.03）。我們的 GWAS 識別出 14 個 SNP 與性狀的關聯，涉及 10 個獨特的 SNP 以及兩個具有重疊關聯信號的基因體區域。在豬隻第 1 染色體（SSC1）上，背脂厚度與瘦肉率的重疊信號出現在 ABL1 與 QRFP 附近，而體型的信號則對應到第 17 染色體（SSC17）上的 BMP2、PROKR2、SLC23A2 與 PCNA 附近。這些基因是位置上及生物學上合理的候選基因，且這些候選標記在基因體選拔中具有潛力，可用於同時改善體型與產肉性能。"
+  },
+  {
+   "doi": "10.1186/s40104-026-01527-3",
+   "title": "Leveraging artificial intelligence for livestock genetics and breeding",
+   "abstract": "The rapid development of artificial intelligence (AI) is transforming modern society including animal genetics and breeding which is essential for meeting global nutritional needs in supplying milk, meat, and eggs among the most complete sources of protein and micronutrients. Although animal breeding has a long history of using data-driven prediction methods, the application of modern AI approaches remains at a relatively early stage and shows substantial potential for wide-ranging applications in animal genetics and breeding. This study aims to review the current use of AI tools in livestock species across three major applications of high interest: AI-assisted phenotyping, AI-enabled dissection of complex-trait biology (focusing on AI-assisted GWAS and AI-for-omics), and AI-assisted genomic prediction. In addition, we discussed emerging methods and tools developed in human genetics that are not yet widely adopted in farm animals but may offer translational potential for future livestock studies. Looking ahead, AI breakthroughs in livestock genetics and breeding are likely to be driven by increases in data scale and resolution, enhanced computational capacities, standardized data infrastructure and benchmarking, and systematic method development and validation. From a livestock genetic improvement perspective, the key value of AI will lie in integrating AI-generated inputs, including improved phenotyping and biological insights, into practical breeding decisions through statistical modeling.",
+   "authors": [
+    "Di Zhu",
+    "Abbygail Wells",
+    "Rasmus Bak Stephansen",
+    "Hao Cheng",
+    "Jan Lassen",
+    "Georgios Banos",
+    "Mike Coffey",
+    "Lingzhao Fang",
+    "Bingjie Li"
+   ],
+   "journal": "Journal of Animal Science and Biotechnology",
+   "url": "https://doi.org/10.1186/s40104-026-01527-3",
+   "date": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "score": 23.0,
+   "matched": [
+    "gwas",
+    "breeding",
+    "nutrition",
+    "livestock",
+    "omics"
+   ],
+   "abstract_zh": "人工智慧（AI）的快速發展正在轉變現代社會，包括對於提供乳品、肉類和蛋類等最完整的蛋白質與微量營養素來源、以滿足全球營養需求至關重要的動物遺傳學與育種。儘管動物育種在應用數據驅動的預測方法方面歷史悠久，但現代AI方法的應用仍處於相對早期階段，並在動物遺傳學與育種的廣泛應用中展現出巨大的潛力。本研究旨在綜述AI工具目前在家畜物種中三個最受關注的主要應用：AI輔助表型分析、AI賦能的複雜性狀生物學解析（聚焦於AI輔助全基因組關聯分析〔GWAS〕與AI賦能的多體學〔AI-for-omics〕），以及AI輔助基因體預測。此外，我們討論了在人類遺傳學中發展、尚未在家畜中廣泛採用，但可能為未來家畜研究提供轉化潛力的新興方法與工具。展望未來，家畜遺傳與育種領域的AI突破，預期將由數據規模與解析度的提升、計算能力的增強、標準化的數據基礎設施與基準測試，以及系統性的方法開發與驗證所驅動。從家畜遺傳改良的角度來看，AI的核心價值在於透過統計建模，將AI生成的輸入（包括改進的表型分析和生物學見解）整合到實際的育種決策中。"
   },
   {
    "doi": "10.1111/jbg.70082",
@@ -1582,6 +1635,32 @@
    "abstract_zh": "自動化監測肉雞採食有助於改善管理，但遮擋與尺度變化阻礙了在商業化多層籠飼環境中的可靠檢測。本研究開發了一款用於採食行為檢測的輕量化視覺模型（RE-FB），以及用於群體層面評估的採食活動水準（FAL）指標。將 2,300 張帶有標註的黃羽肉雞影像按 8:1:1 的比例劃分為訓練集、驗證集和測試集。RE-FB 結合了重新參數化多分支特徵提取、注意力機制與雙向多尺度融合，以檢測採食中的肉雞並分割籠舍與料槽。在測試集上，RE-FB-m 取得了 89.7% 的準確率、87.3% 的召回率、92.1% 的邊界框平均精度均值（box mAP@0.5）以及 99.6% 的遮罩平均精度均值（mask mAP@0.5），擁有 810 萬個參數，在測試平臺上的模型推論速度達 158 FPS。在所評估的 Faster R-CNN、RT-DETR 與 YOLO 模型中，RE-FB-m 在採食行為檢測的 box mAP@0.5 表現最高。隨後，將 RE-FB 應用於 11 至 17 日齡監測的四個固定群體之影片中。FAL 定義為每個監測群體中被檢測為採食的雞隻數量佔總雞隻數的時間平均比例，以百分比表示。四個群體在不同日齡的平均 FAL 值介於 7.95% 至 8.74% 之間，未檢測到顯著的日齡效應（p = 0.175）。在控制群體效應後，FAL 與當日增重之間的關聯性無統計學顯著性（偏相關係數 partial r = −0.106，p = 0.614）。RE-FB 能夠準確且高效地檢測籠飼肉雞的採食行為，並透過隨時間累積檢測結果來生成群體層面的 FAL 記錄。此方法為肉雞生產中採食活動的非接觸式監測提供了技術基礎，並可為飼養管理提供量化的行為資訊。"
   },
   {
+   "doi": "10.1080/00071668.2026.2738150",
+   "title": "Effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, gut morphology, skeletal traits and caecal microbiota of broiler chickens under tropical conditions",
+   "abstract": ". 95.7%), starter feed intake and early body weight, but did not affect final body weight. Synbiotic supplementation improved overall feed conversion ratio. Under optimal incubation conditions, synbiotic supplementation increased body weight gain and duodenal villus height, whereas, following embryonic thermal manipulation, it increased tibial phosphorus content but reduced villus height.5. Neither embryonic thermal manipulation nor synbiotic supplementation affected gait score, latency-to-lie or caecal bacteria. Footpad dermatitis and hock burn scores increased only in synbiotic-supplemented broilers incubated at optimal temperature.6. Embryonic thermal manipulation altered the response to post-hatch synbiotic supplementation, shifting the benefits from enhanced intestinal morphology and growth performance to improved tibial mineralisation. These findings underscored the importance of incubation conditions when devising nutritional strategies for broiler production.",
+   "authors": [
+    "A. A. Jupilin",
+    "C. A. H. C. Ab Ghani",
+    "M. H. Zulkifli",
+    "O. X. Ler",
+    "C. P. Yuan",
+    "Z. Idrus",
+    "A. S. Ahmad"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2738150",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 17.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "feed conversion ratio",
+    "nutrition"
+   ],
+   "abstract_zh": "95.7%），改善了開食料採食量與早期體重，但對最終體重沒有影響。合生元補充劑改善了整體飼料轉換率。在最佳孵化條件下，補充合生元增加了體重增量與十二指腸絨毛高度；然而，在胚胎熱處理後，它增加了脛骨磷含量，但減少了絨毛高度。5. 胚胎熱處理與補充合生元均不影響步態評分、起立潛伏期或盲腸細菌。僅在最佳溫度孵化且補充合生元的肉雞中，足墊皮膚炎與飛節灼傷評分有所增加。6. 胚胎熱處理改變了對孵化後補充合生元的反應，將其益處從增強腸道形態與生長性能，轉移至改善脛骨礦化。這些發現強調了在為肉雞生產設計營養策略時，孵化条件的重要性。"
+  },
+  {
    "doi": "10.1080/00439339.2026.2734924",
    "title": "Gene editing technologies in poultry: advances, applications, and future prospects",
    "abstract": "SUMMARYThe chicken is an important model organism for research and a major global source of animal protein (eggs and meat). Recently developed genome-editing technologies have allowed the production of genetically engineered animals for agriculture and food production. Genome editing in chicken is a promising approach to enhance growth, disease resistance, productivity, and welfare traits. In this review, we explore the recent progress of gene-editing technologies in poultry production, such as CRISPR/Cas9 and base editing. Genome editing in poultry has been applied to improve traits, analyse gene function and boost resistance to disease. While significant progress has been made, there are still bottlenecks in the scaling up and regulatory approval of gene-edited poultry. This review highlights the latest developments in genome editing technologies and discusses ethical, regulatory and biosafety issues, such as animal welfare, food safety and environmental risks.",
@@ -2151,35 +2230,6 @@
    "abstract_zh": "本研究旨在評估以粗棕櫚仁油（PKO）或其副產物棕櫚仁脂肪酸餾出物（PKFAD）取代傳統日糧脂肪來源，對雌性肉雞胸肉品質的影響。試驗雞隻在前期階段餵食添加 4% 脂肪的日糧，後期階段則餵食添加 6% 脂肪的日糧；對照組在前期使用大豆油（SO），後期使用棕櫚油（PO），而實驗組則含有 PKO 或 PKFAD。針對新鮮及冷藏（商業條件下；7 天）的雞胸肉樣本進行 pH 值、滴水損失、蒸煮損失及質地剖面分析（TPA）。冷藏後，使用 PKFAD 的肉品其咀嚼性低於使用 SO-PO 者。冷藏會降低內聚性，但各日糧處理組之間無顯著差異。其他品質參數則不受影響。綜上所述，本研究中使用的 PKFAD 和 PKO 是肉雞飼料中有潛力的脂肪來源，當尋求替代傳統脂肪及副產物以促進食物鏈永續性時，可作為一項選擇。"
   },
   {
-   "doi": "10.3390/ani16213505",
-   "title": "Incomplete Protection by Maternally Derived Antibody Against H9N2 Low-Pathogenic Avian Influenza in Commercial Broiler Chickens",
-   "abstract": "H9N2 low-pathogenic avian influenza remains endemic in Korean poultry production, where commercial broilers rely largely on maternally derived antibodies (MDA) transferred from vaccinated breeder hens. This study quantified MDA transfer and decay and evaluated protection against homologous Y280-lineage H9N2 challenge. Paired sera were collected from breeder hens and day-old progeny on six commercial farms. MDA decay was monitored in 90 broilers from 1 to 22 days of age, and 32 birds with individual HI titers of 0, 2, 4, or 6 log2 were challenged intranasally at 7 days of age. Transfer efficiency averaged 18.2 ± 11.5%, and MDA had an estimated half-life of 3.2 days. Clinical signs occurred in 8/8, 8/8, 7/8, and 0/8 birds in the MDA 0, 2, 4, and 6 groups, respectively. Cecal tonsil virus detection decreased from 87.5% in the MDA 0 group to 37.5% in the MDA 6 group, although the pairwise difference was not statistically significant (p = 0.119). Oropharyngeal shedding occurred in all challenged birds at comparable titers. These findings suggest that higher MDA levels are associated with reduced clinical disease and lower cecal tonsil virus detection but do not prevent oropharyngeal shedding under the conditions tested.",
-   "authors": [
-    "Jong-Yeol Park",
-    "In-Kyu Lee",
-    "Ji-Eun Son",
-    "Ki-Woong Kim",
-    "Kai-Qiong Zheng",
-    "Cheng-Dong Yu",
-    "Won-Bin Jeon",
-    "Hyung-Kwan Jang",
-    "Bai Wei",
-    "Min Kang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213505",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 15.0,
-   "matched": [
-    "chicken",
-    "broiler",
-    "disease",
-    "poultry"
-   ],
-   "abstract_zh": "H9N2低病原性禽流感在韓國家禽業中仍然呈地方性流行，當地的商業肉雞主要依賴從接種疫苗的種母雞所轉移的母源抗體（MDA）。本研究量化了母源抗體的轉移與衰退，並評估了對同源Y280譜系H9N2攻擊的保護效力。從6個商業場採集種母雞及其一日齡後代的配對血清。監測了90隻1至22日齡肉雞的母源抗體衰退情況，並對32隻個別血球凝集抑制（HI）效價為0、2、4或6 log2的肉雞於7日齡時進行鼻腔攻擊。抗體轉移效率平均為18.2 ± 11.5%，母源抗體的估計半衰期為3.2天。MDA 0、2、4和6組中分別有8/8、8/8、7/8和0/8隻鳥出現臨床症狀。盲腸扁桃體的病毒檢出率從MDA 0組的87.5%下降至MDA 6組的37.5%，儘管兩兩比較無統計學顯著差異（p = 0.119）。所有受攻擊的肉雞皆發生口咽排毒，且效價相當。這些發現表明，在所測試的條件下，較高的母源抗體水平與減輕臨床疾病及降低盲腸扁桃體病毒檢出率有關，但無法預防口咽排毒。"
-  },
-  {
    "doi": "10.3390/ani16213514",
    "title": "Different Formulations and Concentrations of Sweet Chestnut Tannins Differentially Modulate Gut Microbiota in Broiler Chickens",
    "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter, whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae. The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
@@ -2210,6 +2260,35 @@
     "poultry"
    ],
    "abstract_zh": "甜栗單寧（sweet chestnut tannins, SCT）常作為家禽的植物性飼料添加劑，然而不同劑型與濃度對腸道微生物相的影響仍所知有限。本研究探討將粉末狀、大豆蛋白結合型、微膠囊化及正磷酸結合型之SCT以不同日糧濃度添加於六十隻羅斯308（Ross 308）肉雞中（每組六隻，含未添加之對照組）。利用16S rRNA基因定序分析迴腸與盲腸的微生物相。在迴腸中，豐富度、親緣多樣性及貝塔多樣性（beta diversity）在各處理間有所差異，而香農多樣性（Shannon diversity）與均勻度則維持不變。乳桿菌科（Lactobacillaceae）仍佔優勢，且經多重檢定校正後，科或屬層級相較於對照組並無顯著差異。在盲腸中，所有評估的阿爾發（alpha）及貝塔多樣性指標在各處理間皆有差異，並伴隨許多處理特異性的分類群變動。數個處理提高了厚壁菌門與擬桿菌門的比值（Firmicutes/Bacteroidota ratio），而多數添加組的鼠桿菌科（Muribaculaceae）則下降。添加 1000 mg/kg 的大豆蛋白結合型 SCT 增加了副擬桿菌屬（Parabacteroides）與臭氣桿菌屬（Odoribacter），而添加 1000 mg/kg 的微膠囊化 SCT 則增加了隆布氏菌屬（Romboutsia）與消化鏈球菌科（Peptostreptococcaceae）。添加 2000 mg/kg 的大豆蛋白結合型 SCT 會使福尼爾氏菌屬（Fournierella）增加。反應並非一致呈現劑量依賴性。這些發現表明，SCT 相關的微生物變動隨腸道區室、劑型與濃度而異，且在盲腸中偵測到較廣泛的反應。其對家禽健康與生產性能的影響尚需進一步探討。"
+  },
+  {
+   "doi": "10.3390/ani16213505",
+   "title": "Incomplete Protection by Maternally Derived Antibody Against H9N2 Low-Pathogenic Avian Influenza in Commercial Broiler Chickens",
+   "abstract": "H9N2 low-pathogenic avian influenza remains endemic in Korean poultry production, where commercial broilers rely largely on maternally derived antibodies (MDA) transferred from vaccinated breeder hens. This study quantified MDA transfer and decay and evaluated protection against homologous Y280-lineage H9N2 challenge. Paired sera were collected from breeder hens and day-old progeny on six commercial farms. MDA decay was monitored in 90 broilers from 1 to 22 days of age, and 32 birds with individual HI titers of 0, 2, 4, or 6 log2 were challenged intranasally at 7 days of age. Transfer efficiency averaged 18.2 ± 11.5%, and MDA had an estimated half-life of 3.2 days. Clinical signs occurred in 8/8, 8/8, 7/8, and 0/8 birds in the MDA 0, 2, 4, and 6 groups, respectively. Cecal tonsil virus detection decreased from 87.5% in the MDA 0 group to 37.5% in the MDA 6 group, although the pairwise difference was not statistically significant (p = 0.119). Oropharyngeal shedding occurred in all challenged birds at comparable titers. These findings suggest that higher MDA levels are associated with reduced clinical disease and lower cecal tonsil virus detection but do not prevent oropharyngeal shedding under the conditions tested.",
+   "authors": [
+    "Jong-Yeol Park",
+    "In-Kyu Lee",
+    "Ji-Eun Son",
+    "Ki-Woong Kim",
+    "Kai-Qiong Zheng",
+    "Cheng-Dong Yu",
+    "Won-Bin Jeon",
+    "Hyung-Kwan Jang",
+    "Bai Wei",
+    "Min Kang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213505",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 15.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "disease",
+    "poultry"
+   ],
+   "abstract_zh": "H9N2低病原性禽流感在韓國家禽業中仍然呈地方性流行，當地的商業肉雞主要依賴從接種疫苗的種母雞所轉移的母源抗體（MDA）。本研究量化了母源抗體的轉移與衰退，並評估了對同源Y280譜系H9N2攻擊的保護效力。從6個商業場採集種母雞及其一日齡後代的配對血清。監測了90隻1至22日齡肉雞的母源抗體衰退情況，並對32隻個別血球凝集抑制（HI）效價為0、2、4或6 log2的肉雞於7日齡時進行鼻腔攻擊。抗體轉移效率平均為18.2 ± 11.5%，母源抗體的估計半衰期為3.2天。MDA 0、2、4和6組中分別有8/8、8/8、7/8和0/8隻鳥出現臨床症狀。盲腸扁桃體的病毒檢出率從MDA 0組的87.5%下降至MDA 6組的37.5%，儘管兩兩比較無統計學顯著差異（p = 0.119）。所有受攻擊的肉雞皆發生口咽排毒，且效價相當。這些發現表明，在所測試的條件下，較高的母源抗體水平與減輕臨床疾病及降低盲腸扁桃體病毒檢出率有關，但無法預防口咽排毒。"
   },
   {
    "doi": "10.1186/s12711-026-01089-y",
@@ -4197,30 +4276,6 @@
    "abstract_zh": "大黃魚（Larimichthys crocea）是中國重要的海水養殖魚類，然而其養殖產業長期受到病毒性疾病的威脅。微小核糖核酸（miRNAs）是一類短片段的非編碼RNA，主要透過誘導mRNA降解或轉譯抑制來調控基因的轉譯後表達，且已被證實是協調魚類抗病毒相關細胞反應的重要角色。在本研究中，以大黃魚腎臟細胞系（PCK）作為體外模型，透過轉染miR-122模擬物（mimics）與抑制劑（inhibitors），結合poly(I:C)免疫刺激，並綜合運用轉錄體學、雙螢光素酶報告基因檢測及qPCR驗證，系統性地探討miR-122的免疫調控機制。轉錄體分析顯示，miR-122過表達和抑制後分別有1995個和1577個差異表達基因（DEGs），且這些基因顯著富集於細胞外基質－受體交互作用（ECM-receptor interaction）、黏著斑（focal adhesion）、PPAR信號傳導及TGF-β信號傳導等路徑。在這些DEGs中，結合標靶基因預測與雙螢光素酶報告基因檢測，證實prkci和大黃魚的slc40a1為miR-122的直接標靶基因。此外，miR-122的過表達顯著抑制了poly(I:C)誘導 超氧化物歧化酶（SOD）的活性，暗示其參與了氧化壓力的調控。這些結果支持了在poly(I:C)刺激的PCK細胞中，miR-122會透過靶向prkci和slc40a1以及影響SOD介導的氧化還原平衡，來調控轉錄與氧化還原的變化。本研究為硬骨魚類中miRNA介導的免疫調控網路提供了新的見解，並為大黃魚的抗病育種及疾病預防控制策略的開發提供了潛在的分子標靶。"
   },
   {
-   "doi": "10.1080/00071668.2026.2738150",
-   "title": "Effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, gut morphology, skeletal traits and caecal microbiota of broiler chickens under tropical conditions",
-   "abstract": "",
-   "authors": [
-    "A. A. Jupilin",
-    "C. A. H. C. Ab Ghani",
-    "M. H. Zulkifli",
-    "O. X. Ler",
-    "C. P. Yuan",
-    "Z. Idrus",
-    "A. S. Ahmad"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2738150",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 8.0,
-   "matched": [
-    "chicken",
-    "broiler"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16213512",
    "title": "Protective Effects of Cinnamaldehyde Against Heat Stress in Mice and Its Regulatory Influence on Estrogen Secretion",
    "abstract": "Heat stress (HS) causes reproductive damage in female mammals, including pigs, cattle, and sheep. As the primary site of estrogen (E2) biosynthesis, follicular granulosa cells (GCs) act as the critical target of HS injury. Previous studies have shown that cinnamaldehyde (CA) effectively participates in reproductive regulation in mice. Therefore, female mice and their follicular GCs were taken as the research subjects in this study. First, we adopted ELISA and H&amp;E staining to investigate the effects of CA on ovarian follicular histology and E2 secretion in mice. Second, CCK-8 assay, flow cytometry, and ELISA were applied to clarify how CA regulates proliferation, apoptosis, and E2 secretion of mouse follicular GCs under HS. Finally, RT-qPCR and Western blotting (WB) were used to elucidate the protective effects of CA together with its underlying molecular mechanisms. Animal experiment results revealed that HS elevated the proportion of primordial and primary follicles and suppressed E2 secretion. Oral gavage of mice with CA at 25 mg/kg exhibited no obvious hepatotoxicity. This dosage effectively increased the percentage of secondary and antral follicles, alleviated HS-induced histological damage in ovaries, and raised serum E2 levels both under normal conditions and HS. Further in vitro cell experiments confirmed that HS reduced cell viability and accelerated apoptosis in mouse follicular GCs. HS decreased estrogen secretion by downregulating the relative protein expression of StAR and CYP19A1. Treatment with CA at a concentration of 2.5 × 10−5 M significantly increased cell viability and inhibited excessive apoptosis in mouse follicular GCs under HS. Under HS conditions, CA treatment elevated E2 secretion in mouse follicular GCs by upregulating the relative protein expression of StAR and CYP19A1. In conclusion, the findings of this study indicate that CA holds promise as a natural anti-HS additive.",
@@ -4391,26 +4446,6 @@
    "abstract_zh": "1. 本研究探討了標準化駱駝蓬（Peganum harmala L., PH）萃取物對日本鵪鶉（Coturnix japonica）孵化後行為、環境適應、孵化表現及蛋殼消毒的影響。\n\n2. 本實驗總共使用 520 枚受精蛋，隨機分配至四個處理組，每組 130 枚：於孵化第 1、3、7 和 14 天透過主動加濕分別施用蒸餾水（P1）、乙醇（P2）、1% PH 萃取物（P3）或 5% PH 萃取物（P4）。透過氣相層析質譜儀（GC-MS）分析，確認培加寧（peganine）與喹唑啉生物鹼（quinazoline alkaloids）為 PH 萃取物的主要生物活性成分。\n\n3. 行為評估（開闊場測試與跑道測試）顯示，與對照組相比，暴露於 PH 萃取物的雛鳥表現出較短的行為潛伏期及增強的探索行為。\n\n4. 微生物分析顯示，與 P1 組相比，5% 萃取物組（P4）在第 10 天達到了最低的細菌負荷（p < 0.05）。在各處理組中，P4 組的蛋具有最高的受精卵孵化率及雛鳥品質評分。\n\n5. 標準化 PH 萃取物是一種具潛力的植物性消毒劑，且與初孵雛鳥的良好行為表現相關，在孵化場管理中具有潛在的應用價值。"
   },
   {
-   "doi": "10.3390/ani16213457",
-   "title": "Neutering Practices, Reproductive Management, and Clinical Findings in European Endurance Sled Dogs: A Field Study from the Lekkarod® Event",
-   "abstract": "Decisions regarding neutering in athletic sled dogs involve a complex balance between health, behaviour, performance, breeding objectives, and management considerations. However, evidence regarding neutering practices and their relationship with health outcomes in actively competing sled dogs remains limited. To identify factors associated with neutering status and musher-reported motivations for neutering or maintaining dogs intact, and to evaluate the occurrence and distribution of clinical findings according to reproductive status in sled dogs participating in the 2023 Lekkarod® event. A total of 599 sled dogs registered for the 2023 Lekkarod® event, including participants in the main endurance race and the associated Kraft tournament, were included. Information regarding age, sex, breed, neutering status, and owner-reported motivations was collected using a structured questionnaire. Multivariable logistic regression was used to identify factors associated with neutering status. Clinical findings recorded during veterinary examinations conducted throughout the main Lekkarod race were classified and analysed according to reproductive status. Overall, 28.0% (168/599) of dogs were neutered. Neutering was significantly associated with female sex, older age, and breed category, whereas team position was not associated with reproductive status. The most frequently reported reasons for neutering were reproductive management, behavioural management, and disease prevention, whereas breeding purposes, preservation of genetic lines, performance-related considerations, and ethical concerns were the principal motivations for maintaining dogs intact. A total of 82 clinical findings were recorded, corresponding to 13.7% of the study population. Reproductive status was not associated with the overall occurrence of clinical abnormalities. However, the distribution of clinical finding categories differed significantly according to reproductive status (χ2 = 7.564, p = 0.023). Intact dogs presented proportionally more metabolic/systemic abnormalities, whereas neutered dogs presented proportionally more musculoskeletal findings. The observed distribution of musculoskeletal findings was not explained by age alone. In this population of actively competing European sled dogs, neutering was relatively uncommon and reflected a combination of reproductive management, health, breeding, and performance-related considerations. Although reproductive status was not associated with the overall occurrence of clinical abnormalities during competition, it was associated with differing patterns of clinical findings. Intact dogs presented proportionally more metabolic abnormalities, whereas neutered dogs presented proportionally more musculoskeletal findings. These findings support an individualised approach to reproductive management in canine athletes and warrant further prospective investigation of the relationships among reproductive status, metabolic adaptation, musculoskeletal health, and athletic performance.",
-   "authors": [
-    "Vinciane Roger",
-    "Dominique Grandjean",
-    "Milagros Benito"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213457",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-04",
-   "score": 7.0,
-   "matched": [
-    "breeding",
-    "disease"
-   ],
-   "abstract_zh": "關於運動雪橇犬是否進行絕育的決策，涉及健康、行為、表現、繁殖目標與管理考量之間的複雜平衡。然而，關於絕育實務及其與活躍競賽雪橇犬健康結果之間關聯的證據仍然有限。本研究旨在識別與絕育狀態相關的因素、御犬員（musher）回報絕育或維持犬隻未絕育的動機，並評估參與 2023 年 Lekkarod® 賽事之雪橇犬根據繁殖狀態的臨床發現之發生率與分佈。總計 599 隻報名 2023 年 Lekkarod® 賽事的雪橇犬被納入研究，包含主耐力賽及相關之 Kraft 賽事的參賽犬。透過結構化問卷收集有關年齡、性別、品種、絕育狀態以及飼主回報之動機的資訊。使用多變量邏輯斯迴歸來識別與絕育狀態相關的因素。對在主要 Lekkarod 賽事期間進行的獸醫檢查中所記錄的臨床發現進行分類，並根據繁殖狀態進行分析。總體而言，28.0%（168/599）的犬隻已絕育。絕育與雌性、高齡及品種類別顯著相關，而團隊位置則與繁殖狀態無關。回報絕育最常見的原因為繁殖管理、行為管理與疾病預防，而繁殖目的、保存遺傳品系、表現相關考量以及倫理考量則是維持犬隻未絕育的主要動機。共記錄了 82 項臨床發現，佔研究群體的 13.7%。繁殖狀態與臨床異常的整體發生率無關。然而，臨床發現類別的分佈根據繁殖狀態有顯著差異（χ2 = 7.564, p = 0.023）。未絕育犬隻呈現較高比例的代謝／全身性異常，而絕育犬隻則呈現較高比例的肌肉骨骼發現。觀察到的肌肉骨骼發現分佈無法單獨以年齡來解釋。在這群活躍競賽的歐洲雪橇犬中，絕育相對少見，且反映了繁殖管理、健康、育種及表現相關考量的結合。儘管繁殖狀態與競賽期間臨床異常的整體發生率無關，但它與不同的臨床發現模式相關。未絕育犬隻呈現較高比例的代謝異常，而絕育犬隻則呈現較高比例的肌肉骨骼發現。這些發現支持對犬隻運動員採取個體化的繁殖管理方法，並有必要進一步前瞻性探討繁殖狀態、代謝適應、肌肉骨骼健康與運動表現之間的關聯。"
-  },
-  {
    "doi": "10.3390/ani16213442",
    "title": "Effect of Dietary Rumen-Protected Methionine and Lysine on Performance and Plasma Amino Acid of Dairy Cows: A Meta-Analysis",
    "abstract": "Low-protein diets supplemented with rumen-protected methionine and lysine (RPML) can optimize amino acid supply while maintaining milk performance and reducing environmental impacts. But responses of cows to RPML are inconsistent and modulating factors remain poorly understood. This meta-analysis tested whether RPML supplementation improves lactational performance and alters plasma amino acid profiles of dairy cows. Forty-two eligible studies published up to 1 June 2026 were retrieved from PubMed, Web of Science and ScienceDirect. Meta-analysis, subgroup analysis, correlation analysis and dose–response regression were adopted. Results showed that RPML supplementation significantly increased milk yield by 0.500 kg/d, energy-corrected milk by 1.378 kg/d, protein yield by 0.038 kg/d, protein concentration by 0.052%, fat yield by 0.030 kg/d, fat concentration by 0.043%, 3.5% fat-corrected milk by 0.778 kg/d, milk total nitrogen by 0.010%, and casein nitrogen by 0.007%. Plasma arginine, asparagine, isoleucine, leucine, lysine and methionine increased, while glycine declined. Subgroup analysis showed that cow breed, parity, lactation stage, basal diet and dietary crude protein were key moderators. Digestible methionine dosage correlated with milk fat concentration and plasma leucine, and digestible lysine dosage correlated with milk protein yield. Significant regression models confirmed the combined effects of methionine and lysine on multiple milk traits. These results indicate that supplementation with RPML represents an effective nutritional strategy for enhancing milk yield and milk quality in dairy cows. Such findings may assist producers and nutritionists in refining amino acid feeding programs to optimize dairy cow productive performance.",
@@ -4434,6 +4469,26 @@
     "amino acid"
    ],
    "abstract_zh": "補充瘤胃保護性甲硫胺酸與離胺酸（RPML）的低蛋白飼糧，能在維持泌乳表現並減少環境衝擊的同時，最佳化胺基酸供應。然而，乳牛對 RPML 的反應並不一致，且其調節因子仍所知有限。本統合分析旨在檢驗補充 RPML 是否能改善乳牛的泌乳表現並改變其血漿胺基酸圖譜。從 PubMed、Web of Science 和 ScienceDirect 檢索截至 2026 年 6 月 1 日發布的 42 篇符合條件的研究。採用統合分析、次群組分析、相關性分析及劑量效應迴歸。結果顯示，補充 RPML 顯著增加了產乳量 0.500 kg/d、能量校正乳產量 1.378 kg/d、乳蛋白產量 0.038 kg/d、乳蛋白濃度 0.052%、乳脂產量 0.030 kg/d、乳脂濃度 0.043%、3.5% 脂校正乳產量 0.778 kg/d、乳總氮 0.010% 以及酪蛋白氮 0.007%。血漿精胺酸、天冬胺酸、異白胺酸、白胺酸、離胺酸和甲硫胺酸增加，而甘胺酸下降。次群組分析顯示，乳牛品種、胎次、泌乳階段、基礎飼糧及飼糧粗蛋白質為關鍵調節因子。可消化甲硫胺酸劑量與乳脂濃度及血漿白胺酸相關，可消化離胺酸劑量則與乳蛋白產量相關。顯著的迴歸模型證實了甲硫胺酸和離胺酸對多項乳品性狀的綜合效應。這些結果表明，補充 RPML 是提升乳牛產乳量與乳品質的有效營養策略。這些發現有助於畜牧生產者與營養學家精進胺基酸飼養計畫，以最佳化乳牛的生產表現。"
+  },
+  {
+   "doi": "10.3390/ani16213457",
+   "title": "Neutering Practices, Reproductive Management, and Clinical Findings in European Endurance Sled Dogs: A Field Study from the Lekkarod® Event",
+   "abstract": "Decisions regarding neutering in athletic sled dogs involve a complex balance between health, behaviour, performance, breeding objectives, and management considerations. However, evidence regarding neutering practices and their relationship with health outcomes in actively competing sled dogs remains limited. To identify factors associated with neutering status and musher-reported motivations for neutering or maintaining dogs intact, and to evaluate the occurrence and distribution of clinical findings according to reproductive status in sled dogs participating in the 2023 Lekkarod® event. A total of 599 sled dogs registered for the 2023 Lekkarod® event, including participants in the main endurance race and the associated Kraft tournament, were included. Information regarding age, sex, breed, neutering status, and owner-reported motivations was collected using a structured questionnaire. Multivariable logistic regression was used to identify factors associated with neutering status. Clinical findings recorded during veterinary examinations conducted throughout the main Lekkarod race were classified and analysed according to reproductive status. Overall, 28.0% (168/599) of dogs were neutered. Neutering was significantly associated with female sex, older age, and breed category, whereas team position was not associated with reproductive status. The most frequently reported reasons for neutering were reproductive management, behavioural management, and disease prevention, whereas breeding purposes, preservation of genetic lines, performance-related considerations, and ethical concerns were the principal motivations for maintaining dogs intact. A total of 82 clinical findings were recorded, corresponding to 13.7% of the study population. Reproductive status was not associated with the overall occurrence of clinical abnormalities. However, the distribution of clinical finding categories differed significantly according to reproductive status (χ2 = 7.564, p = 0.023). Intact dogs presented proportionally more metabolic/systemic abnormalities, whereas neutered dogs presented proportionally more musculoskeletal findings. The observed distribution of musculoskeletal findings was not explained by age alone. In this population of actively competing European sled dogs, neutering was relatively uncommon and reflected a combination of reproductive management, health, breeding, and performance-related considerations. Although reproductive status was not associated with the overall occurrence of clinical abnormalities during competition, it was associated with differing patterns of clinical findings. Intact dogs presented proportionally more metabolic abnormalities, whereas neutered dogs presented proportionally more musculoskeletal findings. These findings support an individualised approach to reproductive management in canine athletes and warrant further prospective investigation of the relationships among reproductive status, metabolic adaptation, musculoskeletal health, and athletic performance.",
+   "authors": [
+    "Vinciane Roger",
+    "Dominique Grandjean",
+    "Milagros Benito"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213457",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-04",
+   "score": 7.0,
+   "matched": [
+    "breeding",
+    "disease"
+   ],
+   "abstract_zh": "關於運動雪橇犬是否進行絕育的決策，涉及健康、行為、表現、繁殖目標與管理考量之間的複雜平衡。然而，關於絕育實務及其與活躍競賽雪橇犬健康結果之間關聯的證據仍然有限。本研究旨在識別與絕育狀態相關的因素、御犬員（musher）回報絕育或維持犬隻未絕育的動機，並評估參與 2023 年 Lekkarod® 賽事之雪橇犬根據繁殖狀態的臨床發現之發生率與分佈。總計 599 隻報名 2023 年 Lekkarod® 賽事的雪橇犬被納入研究，包含主耐力賽及相關之 Kraft 賽事的參賽犬。透過結構化問卷收集有關年齡、性別、品種、絕育狀態以及飼主回報之動機的資訊。使用多變量邏輯斯迴歸來識別與絕育狀態相關的因素。對在主要 Lekkarod 賽事期間進行的獸醫檢查中所記錄的臨床發現進行分類，並根據繁殖狀態進行分析。總體而言，28.0%（168/599）的犬隻已絕育。絕育與雌性、高齡及品種類別顯著相關，而團隊位置則與繁殖狀態無關。回報絕育最常見的原因為繁殖管理、行為管理與疾病預防，而繁殖目的、保存遺傳品系、表現相關考量以及倫理考量則是維持犬隻未絕育的主要動機。共記錄了 82 項臨床發現，佔研究群體的 13.7%。繁殖狀態與臨床異常的整體發生率無關。然而，臨床發現類別的分佈根據繁殖狀態有顯著差異（χ2 = 7.564, p = 0.023）。未絕育犬隻呈現較高比例的代謝／全身性異常，而絕育犬隻則呈現較高比例的肌肉骨骼發現。觀察到的肌肉骨骼發現分佈無法單獨以年齡來解釋。在這群活躍競賽的歐洲雪橇犬中，絕育相對少見，且反映了繁殖管理、健康、育種及表現相關考量的結合。儘管繁殖狀態與競賽期間臨床異常的整體發生率無關，但它與不同的臨床發現模式相關。未絕育犬隻呈現較高比例的代謝異常，而絕育犬隻則呈現較高比例的肌肉骨骼發現。這些發現支持對犬隻運動員採取個體化的繁殖管理方法，並有必要進一步前瞻性探討繁殖狀態、代謝適應、肌肉骨骼健康與運動表現之間的關聯。"
   },
   {
    "doi": "10.3390/ani16213488",
@@ -7574,29 +7629,6 @@
    "abstract_zh": "人類、野生動物與家畜之間的介面是傳染病源產生與傳播的關鍵熱點。義大利的歐亞狼（Canis lupus）與金豺（Canis aureus）野生犬科動物族群正在擴張，其與人類化環境日益重疊的情況可能會促進病原體的傳播。本研究調查了義大利東北部野生犬科動物中的哺乳動物正呼腸孤病毒（MRV）、A型輪狀病毒（RVA）、犬冠狀病毒（CCoV）、犬小病毒（CPV2）及貓小病毒（FPV）。透過被動野生動物監測取得 101 具動物屍體（83 隻歐亞狼和 18 隻金豺）並進行死後檢驗。使用分子檢測法篩檢組織樣本和拭子，並對陽性樣本進行特性鑑定與病毒分離測試。在歐亞狼（27.7%）和金豺（33.3%）中檢測出 MRV，這是這兩種物種的首次通報與成功分離。歐亞狼的 RVA 盛行率為 60.2%，金豺為 61.1%。CCoV 僅發生在歐亞狼中（12.5%）。10.8% 的歐亞狼和 35.3% 的金豺發現 CPV-2，其中 FPV 佔 CPV-2 陽性金豺樣本的 66.7%。這些發現為自由活動的歐亞狼和金豺中 MRV、RVA、CCoV 以及 CPV-2/FPV 的循環提供了寶貴的數據，並突顯了在「同一健康」（One Health）框架下被動監測的整體價值。"
   },
   {
-   "doi": "10.3390/ani16213495",
-   "title": "Dietary Multivitamin Supplementation in Siganus fuscescens: Integrated Effects on Growth Performance, Antioxidant Capacity, and Mitigation of Darkening Syndrome Under High-Lipid Dietary Stress",
-   "abstract": "Siganus fuscescens, an economically important species in southern China, is noted for its rapid growth and high nutritional value. Nonetheless, the prevalence of darkening syndrome, a condition marked by skin discoloration and significant mortality rates, presents a challenge to aquaculture practices, with its etiology remaining largely unexplored. This study aimed to examine the impacts of varying dietary lipid levels and multivitamin supplementation on the incidence of darkening syndrome in S. fuscescens. Five experimental diets were developed: a low-fat diet containing 10% lipids; a moderate-fat diet with 13% lipids; a moderate-fat diet with 13% lipids supplemented with multivitamins; a high-fat diet containing 16% lipids; and a high-fat diet with 16% lipids supplemented with multivitamins. A 55-day feeding trial was conducted on S. fuscescens specimens. The results indicate that, in this experiment, increasing dietary fat content led to a higher cumulative incidence of darkening syndrome in S. fuscescens. Serological and histological findings suggested that in the 16% lipid diet group, S. fuscescens exhibited liver injury and oxidative stress. Notably, supplementation with multivitamins alleviated these adverse effects. Overall, we recommend using an appropriate dietary fat level and further supplementing with antioxidant multivitamins, which may represent an effective strategy to mitigate darkening syndrome in S. fuscescens.",
-   "authors": [
-    "Xin Li",
-    "Zhengbang Chen",
-    "Xuexi Wang",
-    "Xinhua Chen",
-    "Lianghua He",
-    "Yinnan Mu",
-    "Pan Qin"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213495",
-   "date": "2026-11-05",
-   "first_seen": "2026-11-06",
-   "score": 1.0,
-   "matched": [
-    "nutrition"
-   ],
-   "abstract_zh": "褐藍子魚（*Siganus fuscescens*）是中國南方具有重要經濟價值的物種，以生長迅速和營養價值高而聞名。然而，體色發黑症（darkening syndrome，一種以皮膚變色和高死亡率為特徵的疾病）的盛行對水產養殖實務構成了挑戰，其病因目前仍有待探究。本研究旨在探討不同飼料脂肪水準及多種維生素補充對褐藍子魚體色發黑症發病率的影響。製備了五種實驗飼料：含10%脂肪的低脂飼料；含13%脂肪的中脂飼料；含13%脂肪並補充多種維生素的中脂飼料；含16%脂肪的高脂飼料；以及含16%脂肪並補充多種維生素的高脂飼料。對褐藍子魚進行了為期55天的投餵試驗。結果顯示，在本實驗中，提高飼料脂肪含量導致褐藍子魚體色發黑症的累積發病率增加。血清學與組織學結果表明，在16%脂肪飼料組中，褐藍子魚表現出肝臟損傷與氧化壓力。值得注意的是，補充多種維生素可緩解這些不良影響。總體而言，我們建議採用適當的飼料脂肪水準並進一步補充抗氧化多種維生素，這可能是減輕褐藍子魚體色發黑症的有效策略。"
-  },
-  {
    "doi": "10.3390/ani16213498",
    "title": "Emerging Zoonotic Sporotrichosis in Fortaleza, Brazil: Spatiotemporal Distribution, Exploratory Machine Learning Risk Modeling, and One Health Implications of Sporothrix brasiliensis Detection",
    "abstract": "Zoonotic sporotrichosis caused by Sporothrix brasiliensis is an emerging public health threat in Brazil. Under a One Health perspective, this study described the temporal and geographic distribution of recorded feline sporotrichosis detections in Fortaleza (2022–2026), as well as their co-occurrence with human notifications. Additionally, the study explored associations with socio-environmental factors and evaluated predictive performance at both the neighborhood and individual-animal levels. Suspected cats underwent cytology, culture, and species-specific calmodulin PCR. Cases were mapped across 116 neighborhoods, and logistic regression and random forest models were evaluated exploratorily at the neighborhood (61 neighborhoods) and animal (239 cats) levels, using grouped nested cross-validation and Spearman correlations corrected for multiple testing. Of 246 cats, 120 were confirmed, and all 37 isolates analyzed were S. brasiliensis. Neighborhoods with cases rose from one (2022) to 34 (March 2026), with 68 human notifications in 25 neighborhoods. After grouped validation, none of the evaluated predictor–outcome contrasts met the significance criterion after BY adjustment, and the exploratory associations were subject to substantial uncertainty. Consequently, no model demonstrated meaningful discriminative performance (out-of-sample AUC-ROC 0.34–0.50 at the neighborhood level and 0.38–0.47 at the animal level). These results are consistent with the complex, multifactorial nature of the disease, in which host behavior, environmental persistence, and surveillance intensity likely interact. These findings confirm the urban establishment of S. brasiliensis and the need for more complete data and robust analytical approaches. Outbreak control requires integrated One Health strategies: expanded access to diagnosis, cat neutering, and strengthened surveillance.",
@@ -7623,6 +7655,29 @@
     "disease"
    ],
    "abstract_zh": "由巴西申克孢子絲菌（*Sporothrix brasiliensis*）引起的人畜共通傳染性孢子絲菌症，是巴西一項新興的公共衛生威脅。本研究基於「同一健康」（One Health）視角，描述了福塔雷薩市（2022–2026年）貓隻孢子絲菌症確診病例的時間與地理分佈，及其與人類通報病例的共現情況。此外，本研究探討了其與社會環境因素的關聯，並在鄰里和個別動物層級評估了預測效能。疑似感染的貓隻接受了細胞學檢查、培養以及物種特異性鈣調蛋白（calmodulin）PCR檢測。病例被繪製在涵蓋116個鄰里的地圖上，並使用分組巢狀交叉驗證（grouped nested cross-validation）及經多重檢定校正的斯皮爾曼相關性（Spearman correlations），在鄰里（61個鄰里）與動物（239隻貓）層級探索性地評估了邏輯斯迴歸與隨機森林模型。在246隻貓中，120隻獲得確診，且所有分析的37株分離株皆為巴西申克孢子絲菌。出現病例的鄰里從1個（2022年）增加至34個（2026年3月），並在25個鄰里中出現68例人類通報。經過分組驗證後，在進行BY校正（Benjamini-Yekutieli adjustment）後，沒有任何評估的預測因子與結果對比達到顯著性標準，且探索性關聯存在高度的不確定性。因此，沒有任何模型展現出有意義的區分效能（鄰里層級的樣本外AUC-ROC為0.34–0.50，動物層級為0.38–0.47）。這些結果與該疾病複雜且多因素的本質一致，宿主行為、環境持久性以及監測強度在此間可能相互作用。這些發現證實了巴西申克孢子絲菌在都市的建立，並凸顯了對更完整數據及穩健分析方法的的需求。疫情控制需要整合的「同一健康」策略：擴大診斷管道、實施貓隻絕育，以及加強監測。"
+  },
+  {
+   "doi": "10.3390/ani16213495",
+   "title": "Dietary Multivitamin Supplementation in Siganus fuscescens: Integrated Effects on Growth Performance, Antioxidant Capacity, and Mitigation of Darkening Syndrome Under High-Lipid Dietary Stress",
+   "abstract": "Siganus fuscescens, an economically important species in southern China, is noted for its rapid growth and high nutritional value. Nonetheless, the prevalence of darkening syndrome, a condition marked by skin discoloration and significant mortality rates, presents a challenge to aquaculture practices, with its etiology remaining largely unexplored. This study aimed to examine the impacts of varying dietary lipid levels and multivitamin supplementation on the incidence of darkening syndrome in S. fuscescens. Five experimental diets were developed: a low-fat diet containing 10% lipids; a moderate-fat diet with 13% lipids; a moderate-fat diet with 13% lipids supplemented with multivitamins; a high-fat diet containing 16% lipids; and a high-fat diet with 16% lipids supplemented with multivitamins. A 55-day feeding trial was conducted on S. fuscescens specimens. The results indicate that, in this experiment, increasing dietary fat content led to a higher cumulative incidence of darkening syndrome in S. fuscescens. Serological and histological findings suggested that in the 16% lipid diet group, S. fuscescens exhibited liver injury and oxidative stress. Notably, supplementation with multivitamins alleviated these adverse effects. Overall, we recommend using an appropriate dietary fat level and further supplementing with antioxidant multivitamins, which may represent an effective strategy to mitigate darkening syndrome in S. fuscescens.",
+   "authors": [
+    "Xin Li",
+    "Zhengbang Chen",
+    "Xuexi Wang",
+    "Xinhua Chen",
+    "Lianghua He",
+    "Yinnan Mu",
+    "Pan Qin"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213495",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-06",
+   "score": 1.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": "褐藍子魚（*Siganus fuscescens*）是中國南方具有重要經濟價值的物種，以生長迅速和營養價值高而聞名。然而，體色發黑症（darkening syndrome，一種以皮膚變色和高死亡率為特徵的疾病）的盛行對水產養殖實務構成了挑戰，其病因目前仍有待探究。本研究旨在探討不同飼料脂肪水準及多種維生素補充對褐藍子魚體色發黑症發病率的影響。製備了五種實驗飼料：含10%脂肪的低脂飼料；含13%脂肪的中脂飼料；含13%脂肪並補充多種維生素的中脂飼料；含16%脂肪的高脂飼料；以及含16%脂肪並補充多種維生素的高脂飼料。對褐藍子魚進行了為期55天的投餵試驗。結果顯示，在本實驗中，提高飼料脂肪含量導致褐藍子魚體色發黑症的累積發病率增加。血清學與組織學結果表明，在16%脂肪飼料組中，褐藍子魚表現出肝臟損傷與氧化壓力。值得注意的是，補充多種維生素可緩解這些不良影響。總體而言，我們建議採用適當的飼料脂肪水準並進一步補充抗氧化多種維生素，這可能是減輕褐藍子魚體色發黑症的有效策略。"
   },
   {
    "doi": "10.3390/ani16213506",
@@ -9972,6 +10027,25 @@
    "abstract_zh": "乳腺腫瘍是母犬最常見的腫瘤性疾病之一，儘管電腦斷層掃描（CT）已被廣泛用於腫瘤分期，但對原發性乳腺腫瘍的CT評估仍相對缺乏深入研究。本多中心回顧性研究旨在利用修改版的BI-RADS™詞彙表開發標準化的CT報告協議，並評估與惡性腫瘤相關的定性和定量特徵。本研究評估了34隻母犬共106個經組織學確診的乳腺腫瘍之注射對比劑前後的CT掃描，其中81個為惡性，25個為良性。不均勻顯影與環形顯影模式與惡性病灶具有強烈相關性（p < 0.001；敏感度為88.9%，特異度為40%）。病灶周圍水腫表現出高特異度（84%），但敏感度較低（33.3%）。腫瘤體積大於1.90 cm3與惡性顯著相關（p = 0.046）。所提出的累積評分系統（0–4分）顯示其曲線下面積（AUC）為0.711。在考量犬隻內部的群聚效應後，二分法高風險分類（評分 ≥ 2）與惡性腫瘤仍顯著相關（勝算比 = 1.70；95% 信賴區間：1.11–2.58；p = 0.014）。被歸類為高風險（評分 ≥ 2）的腫瘤顯示出84.2%的惡性觀察比例，其敏感度為82.7%，特異度為58%。這項基於CT的協議有助於標準化報告，並識別出具有較高惡性風險的腫瘤。"
   },
   {
+   "doi": "10.3390/ani16213513",
+   "title": "Improving Explosive Detection Dog Performance in Sealed Parcel Searches Through a Targeted Training Intervention",
+   "abstract": "Explosive detection dogs are routinely deployed for parcel screening, yet realistic sealed-parcel searches may present challenges not captured by conventional odor-recognition training. In 2025, a black box study of ANSI/ASB Standard 092 identified substantially reduced detection of explosives in tape-sealed parcels, suggesting a potential training gap in this search scenario. This follow-on study evaluated whether brief, progressive training could improve dog performance in sealed-parcel searches. Thirteen operational dog teams participated in trials conducted in Lubbock, Texas, and Miami, Florida. Teams completed a baseline assessment using tape-sealed parcels containing 50 g of C4 or TNT, or distractors, followed by an odor recognition test (ORT) using controlled explosive odor presentations. Following the correction of identified odor-recognition deficiencies, teams completed a training intervention manipulating odor availability through variable parcel venting and requiring progression from odor-source recognition to trained final response. Performance was reassessed using the same parcel configuration. All teams detected C4 during the ORT, whereas only two teams detected TNT. Following intervention, overall sealed-parcel detection sensitivity increased by 35 percentage points (p = 0.0078). C4 detection increased from 38% to 69%, while TNT detection increased from 15% to 54%, although neither individual change reached statistical significance. The results demonstrate that odor recognition does not necessarily translate to effective source localization in sealed parcels and support progressive, operationally representative parcel-search training.",
+   "authors": [
+    "Paul C. Bunker",
+    "Emma Calabrese",
+    "Kathleen R. Sucher",
+    "Paola A. Prada-Tiedemann",
+    "Lauryn E. DeGreeff"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213513",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "偵測爆裂物犬經常被部署用於郵包安檢，然而實際的密封郵包搜索可能會面臨傳統氣味識別訓練所未能涵蓋的挑戰。2025年的一項針對 ANSI/ASB 標準 092 的黑箱研究指出，犬隻對膠帶密封郵包中爆裂物的檢出率顯著降低，這暗示了在此類搜索情境中可能存在訓練上的落差。這項後續研究評估了簡短且漸進式的訓練是否能提升犬隻在密封郵包搜索中的表現。十三組現役工作犬隊參與了在德州拉巴克與佛州邁阿密進行的試驗。各犬隊先使用裝有 50 克 C4、TNT 或干擾物的膠帶密封郵包完成基準評估，隨後使用控制的爆裂物氣味呈現進行氣味識別測試（ORT）。在修正所識別出的氣味識別缺陷後，各犬隊完成了一項訓練介入措施，該措施透過可變的郵包通風來操縱氣味的可及性，並要求從氣味源識別進展至受過訓練的最終反應。隨後使用相同的郵包配置重新評估其表現。所有犬隊在 ORT 期間皆檢出 C4，但僅有兩隊檢出 TNT。在介入措施實施後，整體的密封郵包檢出靈敏度提高了 35 個百分點（p = 0.0078）。C4 檢出率從 38% 提升至 69%，而 TNT 檢出率從 15% 提升至 54%，儘管這兩項個別的變化均未達到統計顯著性。研究結果表明，氣味識別不一定能轉化為密封郵包中有效的氣源定位，並支持進行漸進且具實務代表性的郵包搜索訓練。"
+  },
+  {
    "doi": "10.3390/ani16213509",
    "title": "Comparison of Dorsal Quadratus Lumborum and Rectus Sheath Blocks for Canine Ovariectomy: A Randomised Clinical Trial",
    "abstract": "This study aimed to compare the analgesic properties of the dorsal quadratus lumborum block (QLB) and the rectus sheath block (RSB) as part of a multimodal analgesic protocol in female dogs undergoing ovariectomy. A total of 57 dogs were included in the study. They were randomly divided into three groups: QLB, RSB or control. All the animals were premedicated with dexmedetomidine 0.125 mg m−2 and methadone 0.1 mg kg−1, induced with propofol and maintained with isoflurane. The blocks were performed using 0.4 mL kg−1 per hemiabdomen of bupivacaine 0.25%. In the intraoperative period, when the heart rate, mean arterial pressure or respiratory rate increased ≥ 20% from baseline, fentanyl 0.002 mg kg−1 was administered as rescue analgesia. During the early postoperative period, pain was assessed using the short form of the Glasgow Composite Pain Scale (GCPS-SF). Methadone 0.2 mg kg−1 was administered if GCPS-SF scores were ≥6/24 as rescue analgesia. No differences were found in fentanyl doses between groups (p = 0.4406). However, a clinically significant reduction of postoperative methadone rescue doses was found in the QLB group compared to the control group (26,32% absolute risk difference, with a 95% confidence interval of 6.64% to 49.10%), but not between QLB-RSB or RSB-control groups. In conclusion, dorsal QLB reduced early postoperative rescue analgesia requirements when included in a multimodal analgesic protocol in female dogs undergoing ovariectomy.",
@@ -9990,25 +10064,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本研究旨在比較背側腰方肌阻滯（QLB）與腹直肌鞘阻滯（RSB）作為母犬卵巢切除術多模式鎮痛方案一部分的鎮痛特性。本研究共納入 57 隻犬，隨機分為三組：QLB 組、RSB 組或對照組。所有動物均給予術前給藥右美托咪定 0.125 mg m−2 和美沙酮 0.1 mg kg−1，以異丙酚進行麻醉誘導，並以異氟醚維持麻醉。神經阻滯使用 0.25% 布比卡因，劑量為每側腹壁 0.4 mL kg−1。在術中期間，當心率、平均動脈壓或呼吸速率較基準值增加 ≥ 20% 時，給予芬太尼 0.002 mg kg−1 作為救援鎮痛。在術後早期，使用格拉斯哥複合式疼痛量表簡表（GCPS-SF）進行疼痛評估。若 GCPS-SF 分數 ≥ 6/24，則給予美沙酮 0.2 mg kg−1 作為救援鎮痛。各組之間的芬太尼劑量無顯著差異（p = 0.4406）。然而，與對照組相比，QLB 組的術後美沙酮救援劑量出現具臨床意義的減少（絕對風險差為 26.32%，95% 信賴區間為 6.64% 至 49.10%），但 QLB 與 RSB 組之間或 RSB 與對照組之間則無此差異。總結而言，當背側腰方肌阻滯納入接受卵巢切除術母犬的多模式鎮痛方案中時，可減少術後早期的救援鎮痛需求。"
-  },
-  {
-   "doi": "10.3390/ani16213513",
-   "title": "Improving Explosive Detection Dog Performance in Sealed Parcel Searches Through a Targeted Training Intervention",
-   "abstract": "Explosive detection dogs are routinely deployed for parcel screening, yet realistic sealed-parcel searches may present challenges not captured by conventional odor-recognition training. In 2025, a black box study of ANSI/ASB Standard 092 identified substantially reduced detection of explosives in tape-sealed parcels, suggesting a potential training gap in this search scenario. This follow-on study evaluated whether brief, progressive training could improve dog performance in sealed-parcel searches. Thirteen operational dog teams participated in trials conducted in Lubbock, Texas, and Miami, Florida. Teams completed a baseline assessment using tape-sealed parcels containing 50 g of C4 or TNT, or distractors, followed by an odor recognition test (ORT) using controlled explosive odor presentations. Following the correction of identified odor-recognition deficiencies, teams completed a training intervention manipulating odor availability through variable parcel venting and requiring progression from odor-source recognition to trained final response. Performance was reassessed using the same parcel configuration. All teams detected C4 during the ORT, whereas only two teams detected TNT. Following intervention, overall sealed-parcel detection sensitivity increased by 35 percentage points (p = 0.0078). C4 detection increased from 38% to 69%, while TNT detection increased from 15% to 54%, although neither individual change reached statistical significance. The results demonstrate that odor recognition does not necessarily translate to effective source localization in sealed parcels and support progressive, operationally representative parcel-search training.",
-   "authors": [
-    "Paul C. Bunker",
-    "Emma Calabrese",
-    "Kathleen R. Sucher",
-    "Paola A. Prada-Tiedemann",
-    "Lauryn E. DeGreeff"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213513",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "偵測爆裂物犬經常被部署用於郵包安檢，然而實際的密封郵包搜索可能會面臨傳統氣味識別訓練所未能涵蓋的挑戰。2025年的一項針對 ANSI/ASB 標準 092 的黑箱研究指出，犬隻對膠帶密封郵包中爆裂物的檢出率顯著降低，這暗示了在此類搜索情境中可能存在訓練上的落差。這項後續研究評估了簡短且漸進式的訓練是否能提升犬隻在密封郵包搜索中的表現。十三組現役工作犬隊參與了在德州拉巴克與佛州邁阿密進行的試驗。各犬隊先使用裝有 50 克 C4、TNT 或干擾物的膠帶密封郵包完成基準評估，隨後使用控制的爆裂物氣味呈現進行氣味識別測試（ORT）。在修正所識別出的氣味識別缺陷後，各犬隊完成了一項訓練介入措施，該措施透過可變的郵包通風來操縱氣味的可及性，並要求從氣味源識別進展至受過訓練的最終反應。隨後使用相同的郵包配置重新評估其表現。所有犬隊在 ORT 期間皆檢出 C4，但僅有兩隊檢出 TNT。在介入措施實施後，整體的密封郵包檢出靈敏度提高了 35 個百分點（p = 0.0078）。C4 檢出率從 38% 提升至 69%，而 TNT 檢出率從 15% 提升至 54%，儘管這兩項個別的變化均未達到統計顯著性。研究結果表明，氣味識別不一定能轉化為密封郵包中有效的氣源定位，並支持進行漸進且具實務代表性的郵包搜索訓練。"
   }
  ]
 }
