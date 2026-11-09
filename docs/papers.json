@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:10:32+00:00",
+ "updated": "2026-11-09T01:29:52+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01102-4",
@@ -878,6 +878,33 @@
    "abstract_zh": "摘要\n熱緊迫會損害家禽的腸道完整性與營養素利用，但營養介入措施如何直接恢復營養素轉運蛋白功能，目前仍不清楚。本篇綜論承襲第一部分建立的機制框架，從兩個層面評估精準營養策略：基礎日糧配方（能量、可消化胺基酸及日糧電解質平衡）與功能性補充劑（維生素、微量礦物質、植物源次生代謝物、菌相導向添加物、有機酸、中鏈脂肪酸、β-葡聚糖及甜菜鹼）。本文特別強調將這些介入措施連結至腸道營養素轉運蛋白的實證，而非重複敘述熱緊迫損傷途徑。微量礦物質、抗氧化維生素、菌相導向介入措施、有機酸、中鏈脂肪酸、植物源化合物、β-葡聚糖及甜菜鹼，能透過互補機制減緩熱緊迫引起的腸道功能障礙。其主要作用包括維持緊密連接完整性、氧化還原與免疫恆定、微生物平衡、上皮細胞水合作用及細胞代謝。重要的是，營養素利用率的改善，並不一定伴隨營養素轉運蛋白基因表現量的增加。相反地，現有證據顯示，許多營養介入措施是透過維持轉運蛋白功能所需的結構、代謝與電化學條件，來間接保持吸收能力。此一區別格外重要，因為單獨的轉運蛋白 mRNA 豐度並不必然反映蛋白質豐度、膜定位或實際的轉運能力。因此，未來研究應將轉錄體數據與轉運蛋白表現量、頂端膜定位及功能性量測（如受質通量或直接吸收分析）相結合。此類研究亦應考量熱緊迫持續時間與嚴重程度的差異，以及家禽品種與生產階段。綜上所述，這些研究結果支持在熱緊迫下，對腸道屏障與營養素轉運蛋白介面進行營養調控時，應採取功能性而非僅限於轉錄層面的方法。"
   },
   {
+   "doi": "10.1080/00071668.2026.2738150",
+   "title": "Effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, gut morphology, skeletal traits and caecal microbiota of broiler chickens under tropical conditions",
+   "abstract": "1. This study investigated the effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, intestinal morphology, foot health, leg strength and tibial characteristics of broiler chickens reared in tropical conditions.2. A total of 840 fertile Ross 308 eggs were incubated at either the optimal temperature (37.5°C) or subjected to embryonic thermal manipulation (38.5°C from embryonic days (ED) 8 to 14). After hatch, chicks received either a basal diet or a basal diet supplemented with a synbiotic (1 g/kg) until 42 d of age.3. From d 21–28 all birds experienced an outbreak of leucocytozoonosis and received identical antiparasitic treatment, enabling comparisons of treatments under disease challenge.4. Embryonic thermal manipulation reduced hatchability (87.7 vs. 95.7%), starter feed intake and early body weight, but did not affect final body weight. Synbiotic supplementation improved overall feed conversion ratio. Under optimal incubation conditions, synbiotic supplementation increased body weight gain and duodenal villus height, whereas, following embryonic thermal manipulation, it increased tibial phosphorus content but reduced villus height.5. Neither embryonic thermal manipulation nor synbiotic supplementation affected gait score, latency-to-lie or caecal bacteria. Footpad dermatitis and hock burn scores increased only in synbiotic-supplemented broilers incubated at optimal temperature.6. Embryonic thermal manipulation altered the response to post-hatch synbiotic supplementation, shifting the benefits from enhanced intestinal morphology and growth performance to improved tibial mineralisation. These findings underscored the importance of incubation conditions when devising nutritional strategies for broiler production.",
+   "authors": [
+    "A. A. Jupilin",
+    "C. A. H. C. Ab Ghani",
+    "M. H. Zulkifli",
+    "O. X. Ler",
+    "C. P. Yuan",
+    "Z. Idrus",
+    "A. S. Ahmad"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2738150",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 22.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "feed conversion ratio",
+    "nutrition",
+    "disease"
+   ],
+   "abstract_zh": "95.7%），改善了開食料採食量與早期體重，但對最終體重沒有影響。合生元補充劑改善了整體飼料轉換率。在最佳孵化條件下，補充合生元增加了體重增量與十二指腸絨毛高度；然而，在胚胎熱處理後，它增加了脛骨磷含量，但減少了絨毛高度。5. 胚胎熱處理與補充合生元均不影響步態評分、起立潛伏期或盲腸細菌。僅在最佳溫度孵化且補充合生元的肉雞中，足墊皮膚炎與飛節灼傷評分有所增加。6. 胚胎熱處理改變了對孵化後補充合生元的反應，將其益處從增強腸道形態與生長性能，轉移至改善脛骨礦化。這些發現強調了在為肉雞生產設計營養策略時，孵化条件的重要性。"
+  },
+  {
    "doi": "10.1186/s12711-026-01087-0",
    "title": "National genomic evaluation for a novel functional longevity trait",
    "abstract": "Background Cow longevity plays a major role in beef cattle industry profitability, reflecting the female’s ability to remain productive in the herd. In this context, longitudinal models as random regression models (RRM) are the preferred method for genetic evaluation as they account for genetic and environmental effects over time. Traditionally, RRM longevity evaluations use binary phenotypes; however, redefining the phenotype as the number of calves could enhance variability, better identify cows with consistent reproductive performance, and penalize irregular calving patterns. To address these limitations, this study aimed to: (1) propose genomic evaluations for a novel functional longevity (FL) definition via RRM; (2) compare model fit using Legendre polynomials (LP) of varying orders; (3) evaluate the implication of FL genetic parameters for selection strategies. Results The dataset included records from 2 million Angus cows and 1.6 million genotyped animals from the American and Canadian Angus Associations. FL was defined as the cumulative number of calvings, measured annually from 2 to 10 years of age. Genetic parameters were estimated with Gibbs sampling without genomic information, and genomic breeding values (GEBV) were estimated using RRM under single-step GBLUP with LP. Models were compared via the deviance information criterion and sire GEBV rankings across ages were evaluated using Spearman correlations and percentage of individuals in common (top 1%). The best fit was with a third-order LP and homogeneous residual variance. Heritabilities ranged from 0.04 to 0.12. Genetic correlations between ages were positive and high, with minimal fluctuations. GEBV rank correlations were consistent across ages, with Spearman correlations following the genetic correlations pattern. The percentage of commonly selected individuals between adjacent years was high. However, percentage decreased with increasing age gap, reaching 53% between ages 3 and 10. Conclusions The new functional longevity definition is feasible for genomic evaluations and has a straightforward interpretation as breeding values represent the number of additional calves when comparing animals. FL heritability estimates indicate sufficient additive genetic variance to allow moderate response to selection. Based on genetic correlations and ranking comparisons, functional longevity at 6 years of age is the optimal age to maximize genetic progress in Angus cattle.",
@@ -1635,32 +1662,6 @@
    "abstract_zh": "自動化監測肉雞採食有助於改善管理，但遮擋與尺度變化阻礙了在商業化多層籠飼環境中的可靠檢測。本研究開發了一款用於採食行為檢測的輕量化視覺模型（RE-FB），以及用於群體層面評估的採食活動水準（FAL）指標。將 2,300 張帶有標註的黃羽肉雞影像按 8:1:1 的比例劃分為訓練集、驗證集和測試集。RE-FB 結合了重新參數化多分支特徵提取、注意力機制與雙向多尺度融合，以檢測採食中的肉雞並分割籠舍與料槽。在測試集上，RE-FB-m 取得了 89.7% 的準確率、87.3% 的召回率、92.1% 的邊界框平均精度均值（box mAP@0.5）以及 99.6% 的遮罩平均精度均值（mask mAP@0.5），擁有 810 萬個參數，在測試平臺上的模型推論速度達 158 FPS。在所評估的 Faster R-CNN、RT-DETR 與 YOLO 模型中，RE-FB-m 在採食行為檢測的 box mAP@0.5 表現最高。隨後，將 RE-FB 應用於 11 至 17 日齡監測的四個固定群體之影片中。FAL 定義為每個監測群體中被檢測為採食的雞隻數量佔總雞隻數的時間平均比例，以百分比表示。四個群體在不同日齡的平均 FAL 值介於 7.95% 至 8.74% 之間，未檢測到顯著的日齡效應（p = 0.175）。在控制群體效應後，FAL 與當日增重之間的關聯性無統計學顯著性（偏相關係數 partial r = −0.106，p = 0.614）。RE-FB 能夠準確且高效地檢測籠飼肉雞的採食行為，並透過隨時間累積檢測結果來生成群體層面的 FAL 記錄。此方法為肉雞生產中採食活動的非接觸式監測提供了技術基礎，並可為飼養管理提供量化的行為資訊。"
   },
   {
-   "doi": "10.1080/00071668.2026.2738150",
-   "title": "Effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, gut morphology, skeletal traits and caecal microbiota of broiler chickens under tropical conditions",
-   "abstract": ". 95.7%), starter feed intake and early body weight, but did not affect final body weight. Synbiotic supplementation improved overall feed conversion ratio. Under optimal incubation conditions, synbiotic supplementation increased body weight gain and duodenal villus height, whereas, following embryonic thermal manipulation, it increased tibial phosphorus content but reduced villus height.5. Neither embryonic thermal manipulation nor synbiotic supplementation affected gait score, latency-to-lie or caecal bacteria. Footpad dermatitis and hock burn scores increased only in synbiotic-supplemented broilers incubated at optimal temperature.6. Embryonic thermal manipulation altered the response to post-hatch synbiotic supplementation, shifting the benefits from enhanced intestinal morphology and growth performance to improved tibial mineralisation. These findings underscored the importance of incubation conditions when devising nutritional strategies for broiler production.",
-   "authors": [
-    "A. A. Jupilin",
-    "C. A. H. C. Ab Ghani",
-    "M. H. Zulkifli",
-    "O. X. Ler",
-    "C. P. Yuan",
-    "Z. Idrus",
-    "A. S. Ahmad"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2738150",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 17.0,
-   "matched": [
-    "chicken",
-    "broiler",
-    "feed conversion ratio",
-    "nutrition"
-   ],
-   "abstract_zh": "95.7%），改善了開食料採食量與早期體重，但對最終體重沒有影響。合生元補充劑改善了整體飼料轉換率。在最佳孵化條件下，補充合生元增加了體重增量與十二指腸絨毛高度；然而，在胚胎熱處理後，它增加了脛骨磷含量，但減少了絨毛高度。5. 胚胎熱處理與補充合生元均不影響步態評分、起立潛伏期或盲腸細菌。僅在最佳溫度孵化且補充合生元的肉雞中，足墊皮膚炎與飛節灼傷評分有所增加。6. 胚胎熱處理改變了對孵化後補充合生元的反應，將其益處從增強腸道形態與生長性能，轉移至改善脛骨礦化。這些發現強調了在為肉雞生產設計營養策略時，孵化条件的重要性。"
-  },
-  {
    "doi": "10.1080/00439339.2026.2734924",
    "title": "Gene editing technologies in poultry: advances, applications, and future prospects",
    "abstract": "SUMMARYThe chicken is an important model organism for research and a major global source of animal protein (eggs and meat). Recently developed genome-editing technologies have allowed the production of genetically engineered animals for agriculture and food production. Genome editing in chicken is a promising approach to enhance growth, disease resistance, productivity, and welfare traits. In this review, we explore the recent progress of gene-editing technologies in poultry production, such as CRISPR/Cas9 and base editing. Genome editing in poultry has been applied to improve traits, analyse gene function and boost resistance to disease. While significant progress has been made, there are still bottlenecks in the scaling up and regulatory approval of gene-edited poultry. This review highlights the latest developments in genome editing technologies and discusses ethical, regulatory and biosafety issues, such as animal welfare, food safety and environmental risks.",
@@ -2230,6 +2231,35 @@
    "abstract_zh": "本研究旨在評估以粗棕櫚仁油（PKO）或其副產物棕櫚仁脂肪酸餾出物（PKFAD）取代傳統日糧脂肪來源，對雌性肉雞胸肉品質的影響。試驗雞隻在前期階段餵食添加 4% 脂肪的日糧，後期階段則餵食添加 6% 脂肪的日糧；對照組在前期使用大豆油（SO），後期使用棕櫚油（PO），而實驗組則含有 PKO 或 PKFAD。針對新鮮及冷藏（商業條件下；7 天）的雞胸肉樣本進行 pH 值、滴水損失、蒸煮損失及質地剖面分析（TPA）。冷藏後，使用 PKFAD 的肉品其咀嚼性低於使用 SO-PO 者。冷藏會降低內聚性，但各日糧處理組之間無顯著差異。其他品質參數則不受影響。綜上所述，本研究中使用的 PKFAD 和 PKO 是肉雞飼料中有潛力的脂肪來源，當尋求替代傳統脂肪及副產物以促進食物鏈永續性時，可作為一項選擇。"
   },
   {
+   "doi": "10.3390/ani16213505",
+   "title": "Incomplete Protection by Maternally Derived Antibody Against H9N2 Low-Pathogenic Avian Influenza in Commercial Broiler Chickens",
+   "abstract": "H9N2 low-pathogenic avian influenza remains endemic in Korean poultry production, where commercial broilers rely largely on maternally derived antibodies (MDA) transferred from vaccinated breeder hens. This study quantified MDA transfer and decay and evaluated protection against homologous Y280-lineage H9N2 challenge. Paired sera were collected from breeder hens and day-old progeny on six commercial farms. MDA decay was monitored in 90 broilers from 1 to 22 days of age, and 32 birds with individual HI titers of 0, 2, 4, or 6 log2 were challenged intranasally at 7 days of age. Transfer efficiency averaged 18.2 ± 11.5%, and MDA had an estimated half-life of 3.2 days. Clinical signs occurred in 8/8, 8/8, 7/8, and 0/8 birds in the MDA 0, 2, 4, and 6 groups, respectively. Cecal tonsil virus detection decreased from 87.5% in the MDA 0 group to 37.5% in the MDA 6 group, although the pairwise difference was not statistically significant (p = 0.119). Oropharyngeal shedding occurred in all challenged birds at comparable titers. These findings suggest that higher MDA levels are associated with reduced clinical disease and lower cecal tonsil virus detection but do not prevent oropharyngeal shedding under the conditions tested.",
+   "authors": [
+    "Jong-Yeol Park",
+    "In-Kyu Lee",
+    "Ji-Eun Son",
+    "Ki-Woong Kim",
+    "Kai-Qiong Zheng",
+    "Cheng-Dong Yu",
+    "Won-Bin Jeon",
+    "Hyung-Kwan Jang",
+    "Bai Wei",
+    "Min Kang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213505",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 15.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "disease",
+    "poultry"
+   ],
+   "abstract_zh": "H9N2低病原性禽流感在韓國家禽業中仍然呈地方性流行，當地的商業肉雞主要依賴從接種疫苗的種母雞所轉移的母源抗體（MDA）。本研究量化了母源抗體的轉移與衰退，並評估了對同源Y280譜系H9N2攻擊的保護效力。從6個商業場採集種母雞及其一日齡後代的配對血清。監測了90隻1至22日齡肉雞的母源抗體衰退情況，並對32隻個別血球凝集抑制（HI）效價為0、2、4或6 log2的肉雞於7日齡時進行鼻腔攻擊。抗體轉移效率平均為18.2 ± 11.5%，母源抗體的估計半衰期為3.2天。MDA 0、2、4和6組中分別有8/8、8/8、7/8和0/8隻鳥出現臨床症狀。盲腸扁桃體的病毒檢出率從MDA 0組的87.5%下降至MDA 6組的37.5%，儘管兩兩比較無統計學顯著差異（p = 0.119）。所有受攻擊的肉雞皆發生口咽排毒，且效價相當。這些發現表明，在所測試的條件下，較高的母源抗體水平與減輕臨床疾病及降低盲腸扁桃體病毒檢出率有關，但無法預防口咽排毒。"
+  },
+  {
    "doi": "10.3390/ani16213514",
    "title": "Different Formulations and Concentrations of Sweet Chestnut Tannins Differentially Modulate Gut Microbiota in Broiler Chickens",
    "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter, whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae. The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
@@ -2260,35 +2290,6 @@
     "poultry"
    ],
    "abstract_zh": "甜栗單寧（sweet chestnut tannins, SCT）常作為家禽的植物性飼料添加劑，然而不同劑型與濃度對腸道微生物相的影響仍所知有限。本研究探討將粉末狀、大豆蛋白結合型、微膠囊化及正磷酸結合型之SCT以不同日糧濃度添加於六十隻羅斯308（Ross 308）肉雞中（每組六隻，含未添加之對照組）。利用16S rRNA基因定序分析迴腸與盲腸的微生物相。在迴腸中，豐富度、親緣多樣性及貝塔多樣性（beta diversity）在各處理間有所差異，而香農多樣性（Shannon diversity）與均勻度則維持不變。乳桿菌科（Lactobacillaceae）仍佔優勢，且經多重檢定校正後，科或屬層級相較於對照組並無顯著差異。在盲腸中，所有評估的阿爾發（alpha）及貝塔多樣性指標在各處理間皆有差異，並伴隨許多處理特異性的分類群變動。數個處理提高了厚壁菌門與擬桿菌門的比值（Firmicutes/Bacteroidota ratio），而多數添加組的鼠桿菌科（Muribaculaceae）則下降。添加 1000 mg/kg 的大豆蛋白結合型 SCT 增加了副擬桿菌屬（Parabacteroides）與臭氣桿菌屬（Odoribacter），而添加 1000 mg/kg 的微膠囊化 SCT 則增加了隆布氏菌屬（Romboutsia）與消化鏈球菌科（Peptostreptococcaceae）。添加 2000 mg/kg 的大豆蛋白結合型 SCT 會使福尼爾氏菌屬（Fournierella）增加。反應並非一致呈現劑量依賴性。這些發現表明，SCT 相關的微生物變動隨腸道區室、劑型與濃度而異，且在盲腸中偵測到較廣泛的反應。其對家禽健康與生產性能的影響尚需進一步探討。"
-  },
-  {
-   "doi": "10.3390/ani16213505",
-   "title": "Incomplete Protection by Maternally Derived Antibody Against H9N2 Low-Pathogenic Avian Influenza in Commercial Broiler Chickens",
-   "abstract": "H9N2 low-pathogenic avian influenza remains endemic in Korean poultry production, where commercial broilers rely largely on maternally derived antibodies (MDA) transferred from vaccinated breeder hens. This study quantified MDA transfer and decay and evaluated protection against homologous Y280-lineage H9N2 challenge. Paired sera were collected from breeder hens and day-old progeny on six commercial farms. MDA decay was monitored in 90 broilers from 1 to 22 days of age, and 32 birds with individual HI titers of 0, 2, 4, or 6 log2 were challenged intranasally at 7 days of age. Transfer efficiency averaged 18.2 ± 11.5%, and MDA had an estimated half-life of 3.2 days. Clinical signs occurred in 8/8, 8/8, 7/8, and 0/8 birds in the MDA 0, 2, 4, and 6 groups, respectively. Cecal tonsil virus detection decreased from 87.5% in the MDA 0 group to 37.5% in the MDA 6 group, although the pairwise difference was not statistically significant (p = 0.119). Oropharyngeal shedding occurred in all challenged birds at comparable titers. These findings suggest that higher MDA levels are associated with reduced clinical disease and lower cecal tonsil virus detection but do not prevent oropharyngeal shedding under the conditions tested.",
-   "authors": [
-    "Jong-Yeol Park",
-    "In-Kyu Lee",
-    "Ji-Eun Son",
-    "Ki-Woong Kim",
-    "Kai-Qiong Zheng",
-    "Cheng-Dong Yu",
-    "Won-Bin Jeon",
-    "Hyung-Kwan Jang",
-    "Bai Wei",
-    "Min Kang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213505",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 15.0,
-   "matched": [
-    "chicken",
-    "broiler",
-    "disease",
-    "poultry"
-   ],
-   "abstract_zh": "H9N2低病原性禽流感在韓國家禽業中仍然呈地方性流行，當地的商業肉雞主要依賴從接種疫苗的種母雞所轉移的母源抗體（MDA）。本研究量化了母源抗體的轉移與衰退，並評估了對同源Y280譜系H9N2攻擊的保護效力。從6個商業場採集種母雞及其一日齡後代的配對血清。監測了90隻1至22日齡肉雞的母源抗體衰退情況，並對32隻個別血球凝集抑制（HI）效價為0、2、4或6 log2的肉雞於7日齡時進行鼻腔攻擊。抗體轉移效率平均為18.2 ± 11.5%，母源抗體的估計半衰期為3.2天。MDA 0、2、4和6組中分別有8/8、8/8、7/8和0/8隻鳥出現臨床症狀。盲腸扁桃體的病毒檢出率從MDA 0組的87.5%下降至MDA 6組的37.5%，儘管兩兩比較無統計學顯著差異（p = 0.119）。所有受攻擊的肉雞皆發生口咽排毒，且效價相當。這些發現表明，在所測試的條件下，較高的母源抗體水平與減輕臨床疾病及降低盲腸扁桃體病毒檢出率有關，但無法預防口咽排毒。"
   },
   {
    "doi": "10.1186/s12711-026-01089-y",
@@ -2788,6 +2789,33 @@
     "methane"
    ],
    "abstract_zh": "本研究旨在評估適度提高日糧澱粉水準以及用油菜籽粕（canola meal, CM）部分取代日糧蛋白質來源，對泌乳牛之泌乳性能、甲烷（CH4）排放量、瘤胃發酵參數及血清生化參數的影響。首先進行了兩項體外氣體產量試驗：試驗一包含以乾物質（DM）基礎計算，澱粉水準分別為 24.0%（低澱粉）、27.4%（中澱粉）和 30.8%（高澱粉）的日糧。在試驗二中，以不含 CM 的對照日糧（CONin_vitro；澱粉含量 25.7%，為 24.0% 與 27.4% 之平均值）為基準，調配出以乾物質基礎計算、澱粉含量適度增加且包含 10.73% 乾物質之 CM 的日糧（HSCMin_vitro；澱粉含量 29.1%，為 27.4% 與 30.8% 之平均值）。在隨後的體內試驗中，三十頭泌乳中期的荷斯登乳牛被隨機分配至兩組：對照日糧組（CON，以乾物質基礎計算，含 26.1% 澱粉且無 CM）或實驗日糧組（HSCM，以乾物質基礎計算，含 28.9% 澱粉及 7.68% CM）。試驗一的體外結果顯示，增加日糧澱粉會線性降低 CO2 產量（p < 0.01）與 CH4 產量（p = 0.03），但各組間未檢測到顯著差異。在試驗二中，與 CON 日糧相比，日糧澱粉增加 3.4% 並結合部分添加 CM，顯示出降低 CH4（p = 0.06）和 CO2 產量（p = 0.08）的趨勢。在體內試驗方面，攝取 HSCM 日糧的乳牛展現出較高的乾物質採食量（DMI；p = 0.06）與飼料效率（乳產量/DMI；p = 0.09）的趨勢，且乳產量（p < 0.01）、能量校正乳（ECM；p < 0.01）以及乳脂暨乳蛋白校正乳（FPCM；p < 0.01）顯著改善。乳脂（p < 0.01）、乳蛋白（p < 0.01）、乳糖（p = 0.03）和總固形物（p < 0.01）的產量也顯著提高，同時乳中尿素氮（MUN）濃度降低（p < 0.01）。HSCM 日糧使 CH4 產量顯著降低 14.1%（p = 0.02），且以每公斤乳產量、ECM 及 FPCM 計算之 CH4 排放量（p < 0.01）與 CH4 排放強度（p < 0.01）亦顯著降低。瘤胃發酵參數顯示，HSCM 組的異丁酸和異戊酸莫耳比例較低（p < 0.01），其他瘤胃參數在各組間則無差異。此外，HSCM 組呈現較高的血清總蛋白（TP）濃度（p = 0.02）以及血液尿素氮（BUN）下降的趨勢（p = 0.09）。這些研究結果表明，適度提高日糧澱粉含量並用 CM 部分取代日糧蛋白質來源，是同時改善泌乳性能與減少 CH4 排放的有效營養策略。然而，由於體內試驗中澱粉與 CM 同時進行了調整，因此無法確定各自因素的獨立貢獻，有待進一步研究探討。"
+  },
+  {
+   "doi": "10.1186/s40104-026-01521-9",
+   "title": "Molecular insights into ROS-induced aggregation in chicken primordial germ cells and its alleviation by ascorbic acid",
+   "abstract": "Background Primordial germ cells (PGCs) are highly valuable for chicken genetic engineering; however, their cultivation is frequently hindered by spontaneous cell aggregation and slow proliferation in certain breeds. Methods We systematically evaluated the culture dynamics of PGCs derived from four distinct chicken breeds. To investigate the molecular mechanisms driving these phenotypes, we performed integrated transcriptomic and proteomic profiling, alongside targeted exogenous supplementation assays. Results We found that White Leghorn PGCs exhibited superior line establishment efficiency, whereas broiler breeds, particularly White Cornish, displayed severe cell aggregation and delayed growth. Transcriptomic and proteomic analyses revealed that WC PGCs exhibit an inherent deficiency in glutathione metabolism and an activation of the p53 signaling pathway. This finding was experimentally corroborated by the accumulation of reactive oxygen species (ROS) in these cells. Based on these mechanistic insights, we experimentally demonstrated that targeted exogenous supplementation with L-sulforaphane and ascorbic acid effectively mitigated excessive ROS and ameliorated the aggregation phenotype in White Cornish PGCs, with ascorbic acid notably accelerating cell proliferation. Subsequently, ascorbic acid also promoted proliferation in both Rhode Island Red and White Plymouth Rock lines, while alleviating aggregation in the White Plymouth Rock line. Conclusions These findings demonstrate the cross-breed applicability of ascorbic acid, suggesting it could serve as a general supplement for PGC culture in other chicken breeds. Collectively, our study proposes a mechanistic model in which oxidative stress promotes PGC aggregation and offers practical antioxidant interventions to enhance the derivation efficiency of chicken PGCs, providing a valuable reference for the future optimization of in vitro culture media.",
+   "authors": [
+    "Kexin Wu",
+    "Zheyi Jiang",
+    "Qiulian Wang",
+    "Bowen Niu",
+    "Xiqiong Wang",
+    "Shenghan Gao",
+    "Dandan Sun",
+    "Ruoyu Yang",
+    "Congjiao Sun",
+    "Ning Yang"
+   ],
+   "journal": "Journal of Animal Science and Biotechnology",
+   "url": "https://doi.org/10.1186/s40104-026-01521-9",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "score": 12.0,
+   "matched": [
+    "chicken",
+    "broiler"
+   ],
+   "abstract_zh": "背景：原始生殖細胞（Primordial germ cells, PGCs）對於雞隻基因工程具有極高的價值；然而其培養經常受到某些品種中自發性細胞聚集與增殖緩慢的阻礙。方法：我們系統性地評估了源自四個不同雞品種之 PGCs 的培養動態。為了探討驅動這些表型的分子機制，我們進行了整合性轉錄體學與蛋白質體學分析，並輔以標靶外源補充試驗。結果：我們發現白來亨雞（White Leghorn）PGCs 表現出優異的品系建立效率，而肉雞品種，特別是白康尼許雞（White Cornish），則顯示出嚴重的細胞聚集與生長遲緩。轉錄體學與蛋白質體學分析顯示，WC PGCs 在麩胱甘肽代謝方面具有固有的缺陷，且 p53 信息傳遞路徑被活化。此一發現在實驗上得到了這些細胞中活性氧種（ROS）累積的證實。基於這些機制上的見解，我們以實驗證明，標靶外源補充 L-蘿蔔硫素與抗壞血酸能有效減輕白康尼許雞 PGCs 過量的 ROS 並改善聚集表型，其中抗壞血酸顯著地加速了細胞增殖。隨後，抗壞血酸亦促進了洛島紅（Rhode Island Red）與白皮殼洛克（White Plymouth Rock）品系的增殖，同時緩解了白皮殼洛克品系的聚集現象。結論：這些發現證明了抗壞血酸的跨品種適用性，暗示其可作為其他雞品種 PGC 培養的一般性補充劑。總體而言，本研究提出了一個機械式模型，即氧化壓力會促進 PGC 聚集，並提供了實用的抗氧化劑介入措施以提高雞 PGCs 的分離效率，為未來體外培養基的優化提供了寶貴的參考。"
   },
   {
    "doi": "10.1002/age.70203",
@@ -3478,6 +3506,25 @@
    "abstract_zh": "1. 雖然胚胎內綠光照射（IOL）能促進肉鴨的胚胎生長並縮短孵化期，但光週期效應仍不清楚。本研究探討不同 IOL 光週期對胚胎發育、肝臟轉錄體及胺基酸代謝的影響。\n2. 總共 300 枚受精北京鴨蛋被分為三組（每組 100 枚），每組有八個重複，每個重複 12–13 枚蛋。對於光照處理組，綠色 LED 燈（520–526 nm，150 lux）於胚胎第 9 天（ED9）植入氣室中。從 ED10 至 ED24，雞蛋接受三種處理：1. 控制組為傳統完全黑暗且無植入 LED（CON）、6 小時/天短期光照（STL），或 12 小時/天長期光照（LTL），兩者的燈光均於每日 07:00 開啟。於 ED17 和 ED24 測定胚胎、心臟和肝臟重量，並收集 ED24 的肝臟用於游離胺基酸、轉錄體及 PCR 分析。\n3. 心臟和肝臟重量不受 IOL 影響。然而，儘管 ED24 時 LTL 組的胚胎重量顯著較高，相對胚胎重量則無顯著差異。除脯胺酸外，IOL 顯著降低了肝臟中的游離胺基酸濃度，且隨著光照週期的延長，其下降幅度增加。LTL 與 CON 胚胎之間的轉錄體比較顯示，光照上調了與能量、脂質和胺基酸代謝相關的基因，但抑制了細胞外基質（ECM）基因。\n4. 每天 12 小時的綠光 IOL 光週期改變了胚胎發生後期與胺基酸利用和能量代謝相關的轉錄體特徵。這有助於肉鴨絕對胚胎生物量的累積。"
   },
   {
+   "doi": "10.3390/ani16213456",
+   "title": "Effect of Replacing Lucerne Meal with Seriphium plumosum Meal in the Diet on Growth Performance, Methane Emission, In Vitro Rumen Fermentation Characteristics, and Rumen Microbial Community Composition of Nguni Steers",
+   "abstract": "This study assessed the effects of replacing lucerne meal with Seriphium (S.) plumosum meal on growth performance, methane emissions, rumen fermentation characteristics, and rumen bacterial community composition of Nguni steers. Twenty-eight 22-month-old Nguni steers (average body weight 300 ± 10 kg) were randomly assigned to diets containing 0%, 10%, 20%, or 30% of S. plumosum meal in a completely randomized design. The diets were formulated to be isocaloric to meet the nutrient requirements of growing Nguni steers. Feed intake, nutrient digestibility, and live weight gain were measured over a 90-day feeding period. Methane emissions were recorded using a laser methane detector, while rumen fermentation characteristics were evaluated in vitro. Rumen microbial communities were characterized using 16S rRNA gene sequencing. Increasing S. plumosum inclusion had no effect (p &gt; 0.05) on dry matter intake, nutrient digestibility, live weight gain, or methane emissions, indicating that replacement of lucerne meal did not compromise production performance. However, dietary treatments influenced (p &lt; 0.05) gas production throughout the incubation period (3–48 h). The 10% diet (T2) produced the highest gas volumes, with values declining at 20% (T3) and 30% (T4). Cumulative gas production after 48 h followed a similar pattern. Significant linear, quadratic, and cubic responses (p &lt; 0.01) indicated a non-linear response of gas production to increasing dietary inclusion of S. plumosum. In vitro organic matter digestibility, ammonia–nitrogen concentration, volatile fatty acid profiles, and the acetate-to-propionate ratio, demonstrated changes (p &lt; 0.05) in rumen fermentation dynamics. Heatmap analysis of the rumen microbiota revealed clear shifts in bacterial community composition with increasing S. plumosum inclusion in the diet. Therefore, S. plumosum meal has potential as a locally available alternative forage resource for partial replacement of lucerne meal in Nguni steer diets.",
+   "authors": [
+    "Motswapo Esther Phoko",
+    "Jones Wilfred Ng’ambi",
+    "Tlou Julius Tjelele"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213456",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-04",
+   "score": 10.0,
+   "matched": [
+    "methane"
+   ],
+   "abstract_zh": "本研究評估以多刺灌木（Seriphium (S.) plumosum）粉取代苜蓿粉（lucerne meal）對恩古尼（Nguni）肉牛生長性能、甲烷排放、瘤胃發酵特性及瘤胃細菌群落組成之影響。試驗選用28頭22月齡之恩古尼肉牛（平均體重 300 ± 10公斤），採完全逢機設計，隨機分配至含 0%、10%、20% 或 30% S. plumosum 粉之試驗日糧中。試驗日糧之能量設計為等能，以符合生長中恩古尼肉牛之營養需求。在為期90天的飼養期間內，測定採食量、營養分消化率及活重增量。利用雷射甲烷偵測器記錄甲烷排放量，同時以體外法評估瘤胃發酵特性。利用 16S rRNA 基因定序鑑定瘤胃微生物群落。增加 S. plumosum 的添加比例對乾物質採食量、營養分消化率、活重增量或甲烷排放量均無顯著影響（p > 0.05），顯示取代苜蓿粉並未損害生產性能。然而，日糧處理顯著影響（p < 0.05）整個培養期間（3–48 小時）之產氣量。10% 添加組（T2）產生最高之氣體體積，隨 20%（T3）與 30%（T4）組之添加而下降。48 小時後之累積產氣量亦呈現相似趨勢。顯著的線性、二次及三次反應（p < 0.01）顯示產氣量對日糧中 S. plumosum 添加量增加呈非線性反應。體外有機物質消化率、氨態氮濃度、揮發性脂肪酸組成及乙酸與丙酸之比值，均顯示瘤胃發酵動態發生變化（p < 0.05）。瘤胃微生物相之熱圖分析顯示，隨著日糧中 S. plumosum 添加量之增加，細菌群落組成發生明顯轉變。因此，S. plumosum 粉具有作為當地可取得之替代粗飼料資源的潛力，可用於部分取代恩古尼肉牛日糧中的苜蓿粉。"
+  },
+  {
    "doi": "10.3390/ani16213475",
    "title": "Non-Invasive Monitoring of Dense Landes Goose Flocks: An Automated Counting Method Driven by Simulation Data and Robust Trajectory Anchoring",
    "abstract": "To address low efficiency in manual counting and high costs of data collection and labeling in Landes goose farming, this study developed a simulation-driven video detection and counting method. A three-dimensional simulation environment generated goose scenes under varied densities, perspectives, and lighting conditions, with automatic bounding-box labeling. A YOLO26 detector was pre-trained on the 6000-image training subset of a 10,000-image simulated dataset, which was divided into training, validation, and test subsets at a ratio of 6:2:2 (6000, 2000, and 2000 images, respectively), and was then fine-tuned using 500 real images. A bottom-center trajectory anchor and line-crossing rules were combined with BoT-SORT tracking to construct a detection-tracking-counting pipeline. Evaluation on three real video sequences comprising 1780 reference crossing events yielded an event-level counting accuracy of 99.16% and an aggregate net-count accuracy of 99.38%, with a mean absolute error of 3.7 and a root mean square error of 5.3 across the sequences. In the dense sequence, the predicted count was 1021 against 1030 reference crossings, corresponding to a net-count accuracy of 99.13%. These findings support simulation-assisted training and non-contact line-crossing counting for the evaluated Landes goose passage. Further validation is needed before extending the method to other farm layouts or production environments.",
@@ -3500,25 +3547,6 @@
     "goose"
    ],
    "abstract_zh": "為了解決朗德鵝養殖中人工清點效率低落以及數據收集與標註成本高昂的問題，本研究開發了一種模擬驅動的視訊檢測與計數方法。三維模擬環境生成了不同密度、視角與光照條件下的鵝群場景，並具備自動邊界框標註功能。YOLO26檢測器先在10,000張模擬資料集（按6:2:2比例劃分為訓練、驗證與測試子集，分別為6000、2000與2000張圖片）中的6000張圖片訓練子集上進行預訓練，隨後使用500張真實圖片進行微調。結合底部中心軌跡錨點與越線規則，搭配BoT-SORT追蹤器，建構出檢測-追蹤-計數流程。在包含1780個參考越線事件的三個真實視訊序列上進行評估，事件級計數準確度達99.16%，總體淨計數準確度達99.38%，各序列的平均絕對誤差為3.7，均方根誤差為5.3。在密集序列中，預測計數為1021，對應的參考越線次數為1030，淨計數準確度達99.13%。這些研究結果支持了所評估之朗德鵝通道的模擬輔助訓練與非接觸式越線計數。在將此方法推廣至其他農場佈局或生產環境之前，仍需進行進一步的驗證。"
-  },
-  {
-   "doi": "10.3390/ani16213456",
-   "title": "Effect of Replacing Lucerne Meal with Seriphium plumosum Meal in the Diet on Growth Performance, Methane Emission, In Vitro Rumen Fermentation Characteristics, and Rumen Microbial Community Composition of Nguni Steers",
-   "abstract": "This study assessed the effects of replacing lucerne meal with Seriphium (S.) plumosum meal on growth performance, methane emissions, rumen fermentation characteristics, and rumen bacterial community composition of Nguni steers. Twenty-eight 22-month-old Nguni steers (average body weight 300 ± 10 kg) were randomly assigned to diets containing 0%, 10%, 20%, or 30% of S. plumosum meal in a completely randomized design. The diets were formulated to be isocaloric to meet the nutrient requirements of growing Nguni steers. Feed intake, nutrient digestibility, and live weight gain were measured over a 90-day feeding period. Methane emissions were recorded using a laser methane detector, while rumen fermentation characteristics were evaluated in vitro. Rumen microbial communities were characterized using 16S rRNA gene sequencing. Increasing S. plumosum inclusion had no effect (p &gt; 0.05) on dry matter intake, nutrient digestibility, live weight gain, or methane emissions, indicating that replacement of lucerne meal did not compromise production performance. However, dietary treatments influenced (p &lt; 0.05) gas production throughout the incubation period (3–48 h). The 10% diet (T2) produced the highest gas volumes, with values declining at 20% (T3) and 30% (T4). Cumulative gas production after 48 h followed a similar pattern. Significant linear, quadratic, and cubic responses (p &lt; 0.01) indicated a non-linear response of gas production to increasing dietary inclusion of S. plumosum. In vitro organic matter digestibility, ammonia–nitrogen concentration, volatile fatty acid profiles, and the acetate-to-propionate ratio, demonstrated changes (p &lt; 0.05) in rumen fermentation dynamics. Heatmap analysis of the rumen microbiota revealed clear shifts in bacterial community composition with increasing S. plumosum inclusion in the diet. Therefore, S. plumosum meal has potential as a locally available alternative forage resource for partial replacement of lucerne meal in Nguni steer diets.",
-   "authors": [
-    "Motswapo Esther Phoko",
-    "Jones Wilfred Ng’ambi",
-    "Tlou Julius Tjelele"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213456",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-04",
-   "score": 10.0,
-   "matched": [
-    "methane"
-   ],
-   "abstract_zh": "本研究評估以多刺灌木（Seriphium (S.) plumosum）粉取代苜蓿粉（lucerne meal）對恩古尼（Nguni）肉牛生長性能、甲烷排放、瘤胃發酵特性及瘤胃細菌群落組成之影響。試驗選用28頭22月齡之恩古尼肉牛（平均體重 300 ± 10公斤），採完全逢機設計，隨機分配至含 0%、10%、20% 或 30% S. plumosum 粉之試驗日糧中。試驗日糧之能量設計為等能，以符合生長中恩古尼肉牛之營養需求。在為期90天的飼養期間內，測定採食量、營養分消化率及活重增量。利用雷射甲烷偵測器記錄甲烷排放量，同時以體外法評估瘤胃發酵特性。利用 16S rRNA 基因定序鑑定瘤胃微生物群落。增加 S. plumosum 的添加比例對乾物質採食量、營養分消化率、活重增量或甲烷排放量均無顯著影響（p > 0.05），顯示取代苜蓿粉並未損害生產性能。然而，日糧處理顯著影響（p < 0.05）整個培養期間（3–48 小時）之產氣量。10% 添加組（T2）產生最高之氣體體積，隨 20%（T3）與 30%（T4）組之添加而下降。48 小時後之累積產氣量亦呈現相似趨勢。顯著的線性、二次及三次反應（p < 0.01）顯示產氣量對日糧中 S. plumosum 添加量增加呈非線性反應。體外有機物質消化率、氨態氮濃度、揮發性脂肪酸組成及乙酸與丙酸之比值，均顯示瘤胃發酵動態發生變化（p < 0.05）。瘤胃微生物相之熱圖分析顯示，隨著日糧中 S. plumosum 添加量之增加，細菌群落組成發生明顯轉變。因此，S. plumosum 粉具有作為當地可取得之替代粗飼料資源的潛力，可用於部分取代恩古尼肉牛日糧中的苜蓿粉。"
   },
   {
    "doi": "10.3390/ani16213469",
@@ -3867,6 +3895,25 @@
     "omics"
    ],
    "abstract_zh": "本研究評估了異體脂肪源性間葉幹細胞（aAMSCs）治療犬隻因犬內臟利什曼病（CanL）併發腎臟疾病之耐受性與療效。在這項非盲法、單中心、為期3個月的研究中，20隻犬隻接受傳統治療（CT；n = 10）或傳統治療加上靜脈注射劑量之aAMSCs（CT + aAMSCs；n = 10）。療效於第0、30和90天使用血漿及尿液生物標記進行評估。在兩組中（CT組，n = 6；CT + aAMSCs組，n = 7），透過閃爍造影估算腎絲球過濾率，並進行尿液蛋白質體學分析。未觀察到嚴重的副作用，僅兩隻犬隻經歷短暫的胃腸道不良反應。各時間點之腎臟參數在組間無顯著差異。組內分析顯示，兩組的uNGAL/c均顯著下降，而UPCR僅在CT + aAMSCs組顯著下降。縱向混合效應分析顯示，所有評估變數均無顯著的組別與時間交戶作用。尿液蛋白質體學在第90天（T90）於CT + aAMSCs組識別出四種豐度較高的蛋白質條目，儘管UMAP分析顯示組別間無明顯區隔。單劑靜脈注射aAMSCs具良好耐受性，但相較於傳統治療並未提供額外的腎臟保護效益。未來研究應評估其他替代的給藥方案。"
+  },
+  {
+   "doi": "10.1080/00071668.2026.2733989",
+   "title": "Effects of environmental enrichments applied to pasture areas on free-range laying hens: 1. Performance and egg quality",
+   "abstract": "1. This study assessed the effects of environmental range enrichments, bird age and their interactions on laying performance and egg quality from Lohmann Brown hens.2. In total, 900 hens (25 weeks old) were randomly divided into three groups (control, object [OE] and tree [TE] enrichment) with three pen replicates each (100 hens/pen). Each pen was a closed shelter with pasture access nearby. Variously rectangular, square, cylindrical and triangle shaped, red, orange and yellow-coloured boxes, pipes, buckets and structures were used for the OE group, whereas tall and broad-leaved plants and Thuja trees were used for the tree enrichment group.3. Laying performance and egg quality traits were measured at 25–32, 33–40, 41–48 and 49–56 weeks of age.4. Significant differences in egg production were found amongst all groups (p < 0.01) due to differences in mortality at the start of the experimental period (p <<0.001). There were no significant differences between treatments in hen-day egg production. Environmental enrichment significantly decreased the albumen index and affected dirty egg ratio, shell thickness (p < 0.01) and shell weight (p < 0.05). Shell weight showed an interaction between enrichment and age (p < 0.01).5. Age had a significant effect on all performance and egg quality traits (p < 0.05), with 48-week-old hens generating the highest egg mass and hen-day and hen-housed egg production levels (p < 0.01).6. Although environmental enrichment can potentially increase egg production slightly, TE and OE resulted in fewer clean eggs. However, positive effects on albumen and shell quality traits were evident in the OE group.",
+   "authors": [
+    "M. Gündüz",
+    "A. İpek"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2733989",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 9.0,
+   "matched": [
+    "laying hen",
+    "egg quality"
+   ],
+   "abstract_zh": "1. 本研究評估了環境空間豐富化、雞隻週齡及其交互作用對羅曼褐殼蛋雞（Lohmann Brown hens）產蛋性能與雞蛋品質的影響。\n2. 試驗總共使用 900 隻 25 週齡的蛋雞，隨機分為三組（對照組、物件豐富化組 [OE] 及樹木豐富化組 [TE]），每組設有 3 個欄舍重複（每欄 100 隻）。每個欄舍均為封閉式庇護所，並可通往鄰近的放牧草地。物件豐富化組使用各種長方形、正方形、圓柱形和三角形、紅橘黃色的箱子、管子、水桶及結構物；樹木豐富化組則使用高大闊葉植物與側柏（Thuja trees）。\n3. 於 25–32、33–40、41–48 及 49–56 週齡時測定產蛋性能與雞蛋品質性狀。\n4. 由於試驗初期死亡率的差異（p < 0.001），各組間的產蛋量達顯著差異（p < 0.01）。各處理間的 hen-day 產蛋率則無顯著差異。環境豐富化顯著降低了蛋黃（應為蛋白，譯註：原文 albumen index 係指蛋白高度/蛋白指數）指數，並影響了髒蛋比例、蛋殼厚度（p < 0.01）及蛋殼重量（p < 0.05）。蛋殼重量在豐富化與週齡之間呈現交互作用（p < 0.01）。\n5. 週齡對所有性能與雞蛋品質性狀皆具有顯著影響（p < 0.05），其中 48 週齡的蛋雞產生最高的產蛋總重、hen-day 及 hen-housed 產蛋水準（p < 0.01）。\n6. 儘管環境豐富化潛在可微幅增加產蛋量，但 TE 與 OE 組乾淨蛋的數量較少。不過，OE 組在蛋白與蛋殼品質性狀上呈現出正面的影響。"
   },
   {
    "doi": "10.1186/s40104-026-01526-4",
@@ -4911,23 +4958,22 @@
    "abstract_zh": "隱睾症是一種常見的男性生殖系統疾病，通常以生精功能障礙為特徵。然而，性成熟公羊隱睾症引發不育的分子機制仍未得到充分闡明。N6-甲基腺苷（m6A）是最普遍的內部RNA修飾，在睪丸發育和精子發生中發揮動態作用。在本研究中，利用自正常和隱睾天華肉羊採集的睪丸組織，構建了睪丸的全轉錄組m6A甲基化圖譜。組織學觀察顯示，隱睾睪丸中的塞爾托利氏細胞（Sertoli cells）和萊迪希氏細胞（Leydig cells）數量顯著減少，曲細精管直徑縮小。RNA定序（RNA-seq)結果表明，隱睾睪丸中m6A調控因子的組織層級mRNA表達失調。甲基化RNA免疫沉澱定序（MeRIP-seq）顯示有2080個差異甲基化的m6A峰，其中隱睾睪丸中有1449個高甲基化和631個低甲基化m6A峰。這些峰主要集中在編碼序列（CDS）區域，其次是終止密碼子和3′非轉譯區（3′ UTR）。MeRIP-seq與RNA-seq數據的整合分析顯示，差異表達和m6A甲基化基因顯著富集於細胞凋亡、AMPK、FoxO、TNF和MAPK訊號傳導路徑中。篩選出RRM2、GTSE1、ATM、GORAB、INSR、HSPA1L和MAPK9等7個候選基因。總之，本研究鑑定出正常綿羊與隱睾綿羊睪丸之間m6A調控因子mRNA豐度及區域性m6A富集的差異。這些組織層級的差異可能部分反映了細胞組成份額的變化。這些研究結果為進一步探討m6A調控是否參與隱睾相關生精障礙提供了基礎。"
   },
   {
-   "doi": "10.1080/00071668.2026.2733989",
-   "title": "Effects of environmental enrichments applied to pasture areas on free-range laying hens: 1. Performance and egg quality",
-   "abstract": "",
+   "doi": "10.1080/00071668.2026.2751461",
+   "title": "Effects of environmental enrichments applied to pasture areas on free-range laying hens: 2. Pasture use, behaviour and welfare",
+   "abstract": "1. This study assessed the effects of environmental enrichment on outdoor ranges for birds aged either 25, 36, 48 and 56 weeks on pasture use, behaviour and welfare of free-range laying hens. In total, 900 hens (25 weeks old) were randomly divided into three groups (control, object enrichment and tree enrichment) with three pens each (100 hens/pen). Each group was provided with a closed shelter and pasture range nearby.2. A control (CON) group of birds was maintained without any extra enrichment. Various rectangular, square, cylindrical and triangle shaped boxes, pipes, buckets and structures in yellow, red and orange colour were used for the ‘object’ (OBJ) enrichment treatment, whereas tall and broad-leaved plants and Thuja trees were used for the ‘tree’ (TREE) enrichment treatment.3. The use of total pasture area in hens was not different amongst enrichment treatment groups or bird age. While the proportion of OBJ hens using the inner zone of the pasture was higher (p < 0.01), CON and TREE hen groups were found more in the outer zone of the pasture (p < 0.01).4. Enrichment treatment and age did not affect blood heterophil, lymphocyte and heterophil/lymphocyte (H/L) ratio. Feeding, drinking, walking, foraging, resting/laying, perching, scratching/preening and pecking behaviours were not different between enrichment treatment groups. Hens exhibited more feeding, drinking, walking, foraging and less perching, scratching/preening and pecking behaviours with age (p < 0.01).5. There were no differences in feather condition, comb wounds, foot pad dermatitis, keel bone damage, duration of tonic immobility or induction number amongst the enrichment groups. Older hens were showed significant deterioration in feather condition, increased occurrence of comb wounds, footpad dermatitis, hock burns and keel bone damage (p < 0.01). These findings indicated that environmental enrichment can increase the use of a specific area of the pasture where objects are used for enrichment.",
    "authors": [
     "M. Gündüz",
     "A. İpek"
    ],
    "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2733989",
+   "url": "https://doi.org/10.1080/00071668.2026.2751461",
    "date": "2026-11-06",
    "first_seen": "2026-11-07",
    "score": 6.0,
    "matched": [
-    "laying hen",
-    "egg quality"
+    "laying hen"
    ],
-   "abstract_zh": ""
+   "abstract_zh": "1. 本研究評估了環境豐富化對 25、36、48 和 56 週齡放牧蛋雞之戶外放牧場利用率、行為與福利的影響。總計 900 隻 25 週齡蛋雞被隨機分為三組（對照組、物件豐富化組與樹木豐富化組），每組設有 3 個欄舍（每欄 100 隻雞）。每組均配有封閉式遮蔽所及鄰近的放牧草地。\n\n2. 對照組（CON）未提供任何額外的環境豐富化。「物件」豐富化處理（OBJ）使用黃、紅、橙三色且形狀包含長方形、正方形、圓柱形與三角形的箱子、管子、水桶及結構物；「樹木」豐富化處理（TREE）則使用高大闊葉植物與側柏。\n\n3. 蛋雞對整體放牧草地面積的使用率在各豐富化處理組或不同週齡間並無差異。雖然 OBJ 組蛋雞使用草地內側區域的比例較高（p < 0.01），但 CON 組與 TREE 組的蛋雞則較常被發現在草地外側區域活動（p < 0.01）。\n\n4. 環境豐富化處理與週齡對血液嗜異性球、淋巴球及嗜異性球／淋巴球（H/L）比值無顯著影響。進食、飲水、行走、覓食、休息／躺臥、棲息、抓地／理羽及啄食等行為在各豐富化處理組之間沒有差異。隨著週齡增長，蛋雞表現出更多的進食、飲水、行走、覓食行為，以及較少的棲息、抓地／理羽和啄食行為（p < 0.01）。\n\n5. 各豐富化組在羽毛狀況、雞冠傷口、足墊皮膚炎、龍骨損傷、強直不動持續時間或誘導次數方面均無差異。較年長的蛋雞則顯示出顯著的羽毛狀況惡化、雞冠傷口增加、足墊皮膚炎、跗關節灼傷以及龍骨損傷增加（p < 0.01）。這些發現表明，當使用物件進行環境豐富化時，可以增加蛋雞對放牧場特定區域的利用。"
   },
   {
    "doi": "10.1186/s40104-026-01494-9",
@@ -6107,24 +6153,6 @@
     "livestock"
    ],
    "abstract_zh": "人工智慧（AI）與機器學習（ML）被大力推廣為提升畜牧生產環境永續性的工具，然而文獻中所報導的這些模型是否被用於支援真實世界的決策，目前仍屬未知。我們系統性地回顧了將 AI 或 ML 應用於畜牧生產環境永續性成果的研究。於 2026 年 1 月檢索了 4 個資料庫，在篩選的 1994 筆記錄中納入 165 筆。研究方案雖已註冊，但主要結果係於資料萃取後才定義，故本分析屬於探索性質。一項研究唯有在明確指出特定決策並使用其模型來比較選項或推薦行動時，才被認定為提供了決策支援。有 96 篇研究（58.2%）的作者聲 their work（其研究）能支援決策，但僅有 26 篇研究（15.8%）符合我們的定義。此落差見於 11 個應用領域中的 10 個。無論是在較寬鬆或較嚴格的定義下，以及由第二位編碼員重複編碼時，此落差依然存在。僅有 30 篇研究（18.2%）在其模型開發的情境之外進行了測試，且有 17 篇（10.3%）包含將預測轉化為選擇的最佳化步驟。將機器學習與機制性農場模型結合是一種有潛力但仍需測試的方法。我們亦描述了實務決策工具所需的主要組件。"
-  },
-  {
-   "doi": "10.1080/00071668.2026.2751461",
-   "title": "Effects of environmental enrichments applied to pasture areas on free-range laying hens: 2. Pasture use, behaviour and welfare",
-   "abstract": "",
-   "authors": [
-    "M. Gündüz",
-    "A. İpek"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2751461",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 4.0,
-   "matched": [
-    "laying hen"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.3390/ani16213508",
@@ -7629,6 +7657,29 @@
    "abstract_zh": "人類、野生動物與家畜之間的介面是傳染病源產生與傳播的關鍵熱點。義大利的歐亞狼（Canis lupus）與金豺（Canis aureus）野生犬科動物族群正在擴張，其與人類化環境日益重疊的情況可能會促進病原體的傳播。本研究調查了義大利東北部野生犬科動物中的哺乳動物正呼腸孤病毒（MRV）、A型輪狀病毒（RVA）、犬冠狀病毒（CCoV）、犬小病毒（CPV2）及貓小病毒（FPV）。透過被動野生動物監測取得 101 具動物屍體（83 隻歐亞狼和 18 隻金豺）並進行死後檢驗。使用分子檢測法篩檢組織樣本和拭子，並對陽性樣本進行特性鑑定與病毒分離測試。在歐亞狼（27.7%）和金豺（33.3%）中檢測出 MRV，這是這兩種物種的首次通報與成功分離。歐亞狼的 RVA 盛行率為 60.2%，金豺為 61.1%。CCoV 僅發生在歐亞狼中（12.5%）。10.8% 的歐亞狼和 35.3% 的金豺發現 CPV-2，其中 FPV 佔 CPV-2 陽性金豺樣本的 66.7%。這些發現為自由活動的歐亞狼和金豺中 MRV、RVA、CCoV 以及 CPV-2/FPV 的循環提供了寶貴的數據，並突顯了在「同一健康」（One Health）框架下被動監測的整體價值。"
   },
   {
+   "doi": "10.3390/ani16213495",
+   "title": "Dietary Multivitamin Supplementation in Siganus fuscescens: Integrated Effects on Growth Performance, Antioxidant Capacity, and Mitigation of Darkening Syndrome Under High-Lipid Dietary Stress",
+   "abstract": "Siganus fuscescens, an economically important species in southern China, is noted for its rapid growth and high nutritional value. Nonetheless, the prevalence of darkening syndrome, a condition marked by skin discoloration and significant mortality rates, presents a challenge to aquaculture practices, with its etiology remaining largely unexplored. This study aimed to examine the impacts of varying dietary lipid levels and multivitamin supplementation on the incidence of darkening syndrome in S. fuscescens. Five experimental diets were developed: a low-fat diet containing 10% lipids; a moderate-fat diet with 13% lipids; a moderate-fat diet with 13% lipids supplemented with multivitamins; a high-fat diet containing 16% lipids; and a high-fat diet with 16% lipids supplemented with multivitamins. A 55-day feeding trial was conducted on S. fuscescens specimens. The results indicate that, in this experiment, increasing dietary fat content led to a higher cumulative incidence of darkening syndrome in S. fuscescens. Serological and histological findings suggested that in the 16% lipid diet group, S. fuscescens exhibited liver injury and oxidative stress. Notably, supplementation with multivitamins alleviated these adverse effects. Overall, we recommend using an appropriate dietary fat level and further supplementing with antioxidant multivitamins, which may represent an effective strategy to mitigate darkening syndrome in S. fuscescens.",
+   "authors": [
+    "Xin Li",
+    "Zhengbang Chen",
+    "Xuexi Wang",
+    "Xinhua Chen",
+    "Lianghua He",
+    "Yinnan Mu",
+    "Pan Qin"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213495",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-06",
+   "score": 1.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": "褐藍子魚（*Siganus fuscescens*）是中國南方具有重要經濟價值的物種，以生長迅速和營養價值高而聞名。然而，體色發黑症（darkening syndrome，一種以皮膚變色和高死亡率為特徵的疾病）的盛行對水產養殖實務構成了挑戰，其病因目前仍有待探究。本研究旨在探討不同飼料脂肪水準及多種維生素補充對褐藍子魚體色發黑症發病率的影響。製備了五種實驗飼料：含10%脂肪的低脂飼料；含13%脂肪的中脂飼料；含13%脂肪並補充多種維生素的中脂飼料；含16%脂肪的高脂飼料；以及含16%脂肪並補充多種維生素的高脂飼料。對褐藍子魚進行了為期55天的投餵試驗。結果顯示，在本實驗中，提高飼料脂肪含量導致褐藍子魚體色發黑症的累積發病率增加。血清學與組織學結果表明，在16%脂肪飼料組中，褐藍子魚表現出肝臟損傷與氧化壓力。值得注意的是，補充多種維生素可緩解這些不良影響。總體而言，我們建議採用適當的飼料脂肪水準並進一步補充抗氧化多種維生素，這可能是減輕褐藍子魚體色發黑症的有效策略。"
+  },
+  {
    "doi": "10.3390/ani16213498",
    "title": "Emerging Zoonotic Sporotrichosis in Fortaleza, Brazil: Spatiotemporal Distribution, Exploratory Machine Learning Risk Modeling, and One Health Implications of Sporothrix brasiliensis Detection",
    "abstract": "Zoonotic sporotrichosis caused by Sporothrix brasiliensis is an emerging public health threat in Brazil. Under a One Health perspective, this study described the temporal and geographic distribution of recorded feline sporotrichosis detections in Fortaleza (2022–2026), as well as their co-occurrence with human notifications. Additionally, the study explored associations with socio-environmental factors and evaluated predictive performance at both the neighborhood and individual-animal levels. Suspected cats underwent cytology, culture, and species-specific calmodulin PCR. Cases were mapped across 116 neighborhoods, and logistic regression and random forest models were evaluated exploratorily at the neighborhood (61 neighborhoods) and animal (239 cats) levels, using grouped nested cross-validation and Spearman correlations corrected for multiple testing. Of 246 cats, 120 were confirmed, and all 37 isolates analyzed were S. brasiliensis. Neighborhoods with cases rose from one (2022) to 34 (March 2026), with 68 human notifications in 25 neighborhoods. After grouped validation, none of the evaluated predictor–outcome contrasts met the significance criterion after BY adjustment, and the exploratory associations were subject to substantial uncertainty. Consequently, no model demonstrated meaningful discriminative performance (out-of-sample AUC-ROC 0.34–0.50 at the neighborhood level and 0.38–0.47 at the animal level). These results are consistent with the complex, multifactorial nature of the disease, in which host behavior, environmental persistence, and surveillance intensity likely interact. These findings confirm the urban establishment of S. brasiliensis and the need for more complete data and robust analytical approaches. Outbreak control requires integrated One Health strategies: expanded access to diagnosis, cat neutering, and strengthened surveillance.",
@@ -7655,29 +7706,6 @@
     "disease"
    ],
    "abstract_zh": "由巴西申克孢子絲菌（*Sporothrix brasiliensis*）引起的人畜共通傳染性孢子絲菌症，是巴西一項新興的公共衛生威脅。本研究基於「同一健康」（One Health）視角，描述了福塔雷薩市（2022–2026年）貓隻孢子絲菌症確診病例的時間與地理分佈，及其與人類通報病例的共現情況。此外，本研究探討了其與社會環境因素的關聯，並在鄰里和個別動物層級評估了預測效能。疑似感染的貓隻接受了細胞學檢查、培養以及物種特異性鈣調蛋白（calmodulin）PCR檢測。病例被繪製在涵蓋116個鄰里的地圖上，並使用分組巢狀交叉驗證（grouped nested cross-validation）及經多重檢定校正的斯皮爾曼相關性（Spearman correlations），在鄰里（61個鄰里）與動物（239隻貓）層級探索性地評估了邏輯斯迴歸與隨機森林模型。在246隻貓中，120隻獲得確診，且所有分析的37株分離株皆為巴西申克孢子絲菌。出現病例的鄰里從1個（2022年）增加至34個（2026年3月），並在25個鄰里中出現68例人類通報。經過分組驗證後，在進行BY校正（Benjamini-Yekutieli adjustment）後，沒有任何評估的預測因子與結果對比達到顯著性標準，且探索性關聯存在高度的不確定性。因此，沒有任何模型展現出有意義的區分效能（鄰里層級的樣本外AUC-ROC為0.34–0.50，動物層級為0.38–0.47）。這些結果與該疾病複雜且多因素的本質一致，宿主行為、環境持久性以及監測強度在此間可能相互作用。這些發現證實了巴西申克孢子絲菌在都市的建立，並凸顯了對更完整數據及穩健分析方法的的需求。疫情控制需要整合的「同一健康」策略：擴大診斷管道、實施貓隻絕育，以及加強監測。"
-  },
-  {
-   "doi": "10.3390/ani16213495",
-   "title": "Dietary Multivitamin Supplementation in Siganus fuscescens: Integrated Effects on Growth Performance, Antioxidant Capacity, and Mitigation of Darkening Syndrome Under High-Lipid Dietary Stress",
-   "abstract": "Siganus fuscescens, an economically important species in southern China, is noted for its rapid growth and high nutritional value. Nonetheless, the prevalence of darkening syndrome, a condition marked by skin discoloration and significant mortality rates, presents a challenge to aquaculture practices, with its etiology remaining largely unexplored. This study aimed to examine the impacts of varying dietary lipid levels and multivitamin supplementation on the incidence of darkening syndrome in S. fuscescens. Five experimental diets were developed: a low-fat diet containing 10% lipids; a moderate-fat diet with 13% lipids; a moderate-fat diet with 13% lipids supplemented with multivitamins; a high-fat diet containing 16% lipids; and a high-fat diet with 16% lipids supplemented with multivitamins. A 55-day feeding trial was conducted on S. fuscescens specimens. The results indicate that, in this experiment, increasing dietary fat content led to a higher cumulative incidence of darkening syndrome in S. fuscescens. Serological and histological findings suggested that in the 16% lipid diet group, S. fuscescens exhibited liver injury and oxidative stress. Notably, supplementation with multivitamins alleviated these adverse effects. Overall, we recommend using an appropriate dietary fat level and further supplementing with antioxidant multivitamins, which may represent an effective strategy to mitigate darkening syndrome in S. fuscescens.",
-   "authors": [
-    "Xin Li",
-    "Zhengbang Chen",
-    "Xuexi Wang",
-    "Xinhua Chen",
-    "Lianghua He",
-    "Yinnan Mu",
-    "Pan Qin"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213495",
-   "date": "2026-11-05",
-   "first_seen": "2026-11-06",
-   "score": 1.0,
-   "matched": [
-    "nutrition"
-   ],
-   "abstract_zh": "褐藍子魚（*Siganus fuscescens*）是中國南方具有重要經濟價值的物種，以生長迅速和營養價值高而聞名。然而，體色發黑症（darkening syndrome，一種以皮膚變色和高死亡率為特徵的疾病）的盛行對水產養殖實務構成了挑戰，其病因目前仍有待探究。本研究旨在探討不同飼料脂肪水準及多種維生素補充對褐藍子魚體色發黑症發病率的影響。製備了五種實驗飼料：含10%脂肪的低脂飼料；含13%脂肪的中脂飼料；含13%脂肪並補充多種維生素的中脂飼料；含16%脂肪的高脂飼料；以及含16%脂肪並補充多種維生素的高脂飼料。對褐藍子魚進行了為期55天的投餵試驗。結果顯示，在本實驗中，提高飼料脂肪含量導致褐藍子魚體色發黑症的累積發病率增加。血清學與組織學結果表明，在16%脂肪飼料組中，褐藍子魚表現出肝臟損傷與氧化壓力。值得注意的是，補充多種維生素可緩解這些不良影響。總體而言，我們建議採用適當的飼料脂肪水準並進一步補充抗氧化多種維生素，這可能是減輕褐藍子魚體色發黑症的有效策略。"
   },
   {
    "doi": "10.3390/ani16213506",
@@ -9712,6 +9740,27 @@
    "abstract_zh": "在標準bred賽馬（harness racing）領域中，儘管易駕性（driveability）顯然與訓練、競賽及馬匹福利息息相關，卻少有科學研究探討此概念。本研究透過半結構式訪談，探討了八位瑞典標準bred賽馬訓練師與駕駛員如何將易駕性概念化，並將其與表現、勒口張力（rein tension）、馬具使用及馬匹福利連結。資料採用反思性主題分析（reflexive thematic analysis）進行分析，歸納出三個主題：（1）平靜的訓練是關鍵、（2）易駕性並非總是能受人為影響，以及（3）馬具是一項工具。參與者將易駕性良好的馬匹描述為冷靜、專注且對駕駛員訊號有良好反應。研究結果顯示，易駕性最好被理解為一個具關聯性且取決於情境的概念，它由訓練以及駕駛員與馬匹之間的持續互動所形塑，同時也受到馬匹個體特質、情境條件和馬具使用的影響。參與者描述了福利與表現之間潛在的一致性與緊張關係。這些被感知到的關聯性需要透過對實務操作與福利結果的獨立評估來進一步研究。"
   },
   {
+   "doi": "10.3390/ani16213463",
+   "title": "Defining Seasonal Windows of Transmission: A High-Resolution Monthly Risk Map for Leishmania infantum to Optimize Control Strategies in Southwestern Europe",
+   "abstract": "Zoonotic leishmaniasis, caused by Leishmania infantum, is an emerging public health concern in Southern Europe, where climate change is altering vector phenology. Traditional static risk maps fail to capture critical seasonal transmission dynamics. This study analyzed the monthly risk maps of L. infantum infection across Spain and Portugal, including the Balearic, Canary, Madeira, and Azores archipelagos. We developed Ecological Niche Models (MaxEnt) for the primary vector, Phlebotomus perniciosus, and integrated them with a temperature-dependent parasite development model to generate high-resolution monthly risk maps. The models exhibited high predictive power. In the Iberian Peninsula, human footprint was the primary driver, revealing a marked seasonal expansion of risk towards northern latitudes and higher altitudes during summer (June–September), with potential transmission windows extending into autumn. Conversely, in Macaronesia, temperature was the dominant factor. The Canary Islands and Madeira showed sustained high risk in coastal areas year-round, while the Azores, historically considered non-endemic, displayed climatic suitability hotspots in central islands. These findings confirm the tropicalization of transmission patterns and identify cryptic risk periods. This dynamic approach offers a robust tool for veterinary and public health authorities to transition from static, calendar-based prophylaxis to adaptive, evidence-based control strategies, optimizing resources in a changing climate.",
+   "authors": [
+    "Elena Infante González-Mohino",
+    "Alfonso Balmori-de la Puente",
+    "Manuel Collado-Cuadrado",
+    "Alberto Gil-Abad",
+    "Elena Carretón",
+    "Rodrigo Morchón",
+    "Iván Rodríguez-Escolar"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213463",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-04",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "由嬰粟利什曼原蟲（Leishmania infantum）引起的人畜共通利什曼病，是南歐日益嚴重的公共衛生問題，當地的氣候變遷正改變著病媒的物候學。傳統的靜態風險地圖無法捕捉關鍵的季節性傳播動態。本研究分析了西班牙和葡萄牙（包含巴利阿里群島、加納利群島、馬德拉群島和亞速爾群島）各地L. infantum感染的每月風險地圖。我們為主要病媒白蛉（Phlebotomus perniciosus）開發了生態棲位模型（MaxEnt），並將其與溫度相依的寄生蟲發育模型相結合，以生成高解析度的每月風險地圖。這些模型展現了高度的預測能力。在伊比利半島，人類足迹是主要的驅動因素，顯示出在夏季（6月至9月）期間，風險向高緯度和高海拔地區顯著的季節性擴張，潛在的傳播窗口甚至延伸至秋季。相反地，在馬卡羅內西亞，溫度是主導因素。加納利群島和馬德拉群島全年都在沿海地區顯示出持續的高風險，而歷史上被認為是非流行區的亞速爾群島，則在中部島嶼顯示出氣候適宜性的熱點。這些發現證實了傳播模式的熱帶化現象，並識別出潛伏的風險時期。這種動態方法為獸醫和公共衛生主管機關提供了一個強大工具，使其能夠從靜態、基於日曆的預防措施，過渡到適應性、基於證據的控制策略，從而在變遷的氣候中優化資源配置。"
+  },
+  {
    "doi": "10.3390/ani16213443",
    "title": "Selected Microelements and Toxic Metals in the Hair of Dairy Cows from the Bishkek Area, Kyrgyzstan",
    "abstract": "In Kyrgyzstan, despite heavy environmental pollution, no assessment of dairy cow exposure to trace elements using hair sample analysis has been conducted so far. Therefore, this study aimed to assess the concentrations of selected trace elements, including the essential elements Cu, Fe, Mn, and Zn, as well as Cd, Pb, Hg, and Ni, in the hair of dairy cows in the vicinity of Bishkek—the largest city in Kyrgyzstan. The mean concentrations (±SD) and medians (given in parentheses) for individual elements were as follows (in mg/kg dry weight): Cd: 0.62 ± 0.19 (0.60), Cu: 5.63 ± 1.16 (5.69), Fe: 274.9 ± 169.8 (248.0), Mn: 7.81 ± 6.06 (6.12), Ni: mean and median below the limit of detection, Pb: 3.98 ± 1.47 (3.68), Hg: 0.0051 ± 0.0022 (0.0049), and Zn: 77.94 ± 12.91 (79.65). Statistically significant spatial differences were found for Cd, Fe, Hg, Mn, Pb, and Zn, whereas Cu concentrations did not differ significantly among districts. A statistically significant positive correlation with age was found only for Fe (Rs = 0.39, p = 0.006). The results demonstrate the occurrence and spatial variability of the analyzed elements in the hair of cows from the vicinity of Bishkek. However, further comprehensive studies are needed to determine the sources of contamination and the influence of the element concentrations noted in this study on animal health status, as well as to assess potential risks to human consumers of animal products.",
@@ -9746,27 +9795,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "評估口腔黏膜顏色廣泛應用於馬匹臨床與福利評估，然而術語不一致限制了臨床觀察與研究結果之間的比較。本研究作為一項初步的概念驗證，評估了用於系統性描述黏膜顏色與飽和度的烏達爾標準（Uldahl Standard）。研究對象包括臨床正常的馬匹、因常規牙科程序而鎮靜的健康馬匹，以及有嚴重全身性循環障礙的馬匹。經活體觀察驗證的相片顏色樣本，分別以孟瑟爾標色系統（Munsell notation）、ISCC-NBS 術語及烏達爾標準進行分類。另外評估了三個舌部變色的說明性案例。描述性分析用以表徵不同生理狀態下的顏色與飽和度，並利用精確卡方檢定與邏輯斯迴歸比較臨床正常與鎮靜馬匹。整體而言，共識別出 42 種獨特的顏色-飽和度組合。色彩多樣性隨著生理受損程度而增加。就齒齦（$p = 0.05$）與舌（$p = 0.004$）黏膜而言，臨床正常與鎮靜馬匹之間的主要顏色具有顯著差異，而次要顏色與飽和度則否。灰色在齒齦（$p = 0.05$）與舌（$p = 0.03$）黏膜中皆與生理狀態顯著相關。它表現出高特異性但低敏感性，其中舌部灰色的特異性達 100%。紫色僅見於鎮靜及全身受損的馬匹，而藍色僅以次要顏色出現於全身受損的馬匹中。研究結果證明了將烏達爾標準應用於馬匹口腔黏膜評估的可行性，並表明主要顏色（特別是灰色）可能比次要顏色或飽和度提供更具區辨力的資訊。未來需要更多研究來確立更廣泛之顏色-飽和度模式的診斷相關性。"
-  },
-  {
-   "doi": "10.3390/ani16213463",
-   "title": "Defining Seasonal Windows of Transmission: A High-Resolution Monthly Risk Map for Leishmania infantum to Optimize Control Strategies in Southwestern Europe",
-   "abstract": "Zoonotic leishmaniasis, caused by Leishmania infantum, is an emerging public health concern in Southern Europe, where climate change is altering vector phenology. Traditional static risk maps fail to capture critical seasonal transmission dynamics. This study analyzed the monthly risk maps of L. infantum infection across Spain and Portugal, including the Balearic, Canary, Madeira, and Azores archipelagos. We developed Ecological Niche Models (MaxEnt) for the primary vector, Phlebotomus perniciosus, and integrated them with a temperature-dependent parasite development model to generate high-resolution monthly risk maps. The models exhibited high predictive power. In the Iberian Peninsula, human footprint was the primary driver, revealing a marked seasonal expansion of risk towards northern latitudes and higher altitudes during summer (June–September), with potential transmission windows extending into autumn. Conversely, in Macaronesia, temperature was the dominant factor. The Canary Islands and Madeira showed sustained high risk in coastal areas year-round, while the Azores, historically considered non-endemic, displayed climatic suitability hotspots in central islands. These findings confirm the tropicalization of transmission patterns and identify cryptic risk periods. This dynamic approach offers a robust tool for veterinary and public health authorities to transition from static, calendar-based prophylaxis to adaptive, evidence-based control strategies, optimizing resources in a changing climate.",
-   "authors": [
-    "Elena Infante González-Mohino",
-    "Alfonso Balmori-de la Puente",
-    "Manuel Collado-Cuadrado",
-    "Alberto Gil-Abad",
-    "Elena Carretón",
-    "Rodrigo Morchón",
-    "Iván Rodríguez-Escolar"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213463",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-04",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "由嬰粟利什曼原蟲（Leishmania infantum）引起的人畜共通利什曼病，是南歐日益嚴重的公共衛生問題，當地的氣候變遷正改變著病媒的物候學。傳統的靜態風險地圖無法捕捉關鍵的季節性傳播動態。本研究分析了西班牙和葡萄牙（包含巴利阿里群島、加納利群島、馬德拉群島和亞速爾群島）各地L. infantum感染的每月風險地圖。我們為主要病媒白蛉（Phlebotomus perniciosus）開發了生態棲位模型（MaxEnt），並將其與溫度相依的寄生蟲發育模型相結合，以生成高解析度的每月風險地圖。這些模型展現了高度的預測能力。在伊比利半島，人類足迹是主要的驅動因素，顯示出在夏季（6月至9月）期間，風險向高緯度和高海拔地區顯著的季節性擴張，潛在的傳播窗口甚至延伸至秋季。相反地，在馬卡羅內西亞，溫度是主導因素。加納利群島和馬德拉群島全年都在沿海地區顯示出持續的高風險，而歷史上被認為是非流行區的亞速爾群島，則在中部島嶼顯示出氣候適宜性的熱點。這些發現證實了傳播模式的熱帶化現象，並識別出潛伏的風險時期。這種動態方法為獸醫和公共衛生主管機關提供了一個強大工具，使其能夠從靜態、基於日曆的預防措施，過渡到適應性、基於證據的控制策略，從而在變遷的氣候中優化資源配置。"
   },
   {
    "doi": "10.3390/ani16213462",
@@ -10004,29 +10032,6 @@
    "abstract_zh": "本研究利用體外產氣法，評估受保護與未受保護之黑水虻幼蟲油（BSFLO）、棕櫚油（PO）及米糠油（RBO）對瘤胃醱酵特性與養分消化率的影響。採用 3 × 3 + 1 因子排列之完全逢機設計，包含三種油脂來源、三種油脂型態（未受保護、鈣皂及鉀皂，添加量為乾物質的 4%），以及無油脂之對照組。結果顯示，在無基礎日糧的情況下補充油脂，會降低 24 小時的總揮發性脂肪酸（TVFA）產量與氨態氮（NH3-N）濃度，顯示游離脂肪酸對瘤胃微生物具有抑制作用。在有基礎日糧的情況下，油脂補充組在 24 小時的 TVFA 濃度高於對照組。具體而言，鈣皂與鉀皂形式的受保護 BSFLO 其 TVFA 濃度在數值上最高（分別為 127.02 與 125.87 mmol），但與 RBO 鈣皂和鉀皂無顯著差異；在 48 小時時，BSFLO 鉀皂的 TVFA 濃度低於對照組。補充油脂透過降低乙酸比例、增加丙酸比例，進而降低乙酸與丙酸比值，顯著改變了揮發性脂肪酸（VFA）組成。瘤胃 pH 值則不受油脂補充的影響。雖然體外乾物質分解率（IVDMD）在油脂補充組中低於對照組，但未受保護油與受保護油處理組之間的 IVDMD 並無差異。皺胃模擬消化則不受油脂來源或保護形式的不良影響。總結來說，在有基礎日糧的條件下，鈣皂與鉀皂形式的 BSFLO 增加了 24 小時的 TVFA，且所有形式的 BSFLO 皆增加了丙酸比例，在測試條件下並未損及瘤胃穩定性或皺胃模擬消化。這些體外試驗結果顯示，受保護的 BSFLO 具有作為反芻動物日糧脂質來源的潛力，尚需進行活體（in vivo）試驗以進一步確認。"
   },
   {
-   "doi": "10.3390/ani16213507",
-   "title": "Computed Tomography Features of Canine Mammary Tumours: A Retrospective Multicentre Study",
-   "abstract": "Mammary tumours are among the most common neoplastic disorders in female dogs, and although computed tomography (CT) is widely used for oncological staging, CT evaluation of primary mammary tumours remains relatively underexplored. This multicentre retrospective study aimed to develop a standardised CT reporting protocol using a modified BI-RADS™ lexicon and to evaluate the qualitative and quantitative features associated with malignancy. Pre- and post-contrast CT scans were evaluated for 34 female dogs with 106 histologically confirmed mammary tumours, of which 81 were malignant and 25 were benign. The heterogeneous and rim enhancement patterns were strongly associated with malignant lesions (p &lt; 0.001; 88.9% sensitivity, 40% specificity). Perilesional oedema exhibited high specificity (84%) but low sensitivity (33.3%). A tumour volume &gt;1.90 cm3 was significantly associated with malignancy (p = 0.046). The proposed cumulative scoring system (0–4 points) showed an AUC of 0.711. After accounting for within-dog clustering, the dichotomous high-risk classification (score ≥ 2) remained significantly associated with malignancy (OR = 1.70; 95% CI: 1.11–2.58; p = 0.014). Tumours classified as high-risk (score ≥ 2) showed an 84.2% observed proportion of malignancy, with 82.7% sensitivity and 58% specificity. This CT-based protocol could help to standardise reporting and identify tumours with a higher risk of malignancy.",
-   "authors": [
-    "Daniela De Felice",
-    "Stefano Spada",
-    "Luiz Paulo Nogueira Aires",
-    "Alfonso Calabria",
-    "Dario Costanza",
-    "Adelaide Greco",
-    "Rossella Terragni",
-    "Massimo Vignoli",
-    "Marco Russo"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16213507",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "乳腺腫瘍是母犬最常見的腫瘤性疾病之一，儘管電腦斷層掃描（CT）已被廣泛用於腫瘤分期，但對原發性乳腺腫瘍的CT評估仍相對缺乏深入研究。本多中心回顧性研究旨在利用修改版的BI-RADS™詞彙表開發標準化的CT報告協議，並評估與惡性腫瘤相關的定性和定量特徵。本研究評估了34隻母犬共106個經組織學確診的乳腺腫瘍之注射對比劑前後的CT掃描，其中81個為惡性，25個為良性。不均勻顯影與環形顯影模式與惡性病灶具有強烈相關性（p < 0.001；敏感度為88.9%，特異度為40%）。病灶周圍水腫表現出高特異度（84%），但敏感度較低（33.3%）。腫瘤體積大於1.90 cm3與惡性顯著相關（p = 0.046）。所提出的累積評分系統（0–4分）顯示其曲線下面積（AUC）為0.711。在考量犬隻內部的群聚效應後，二分法高風險分類（評分 ≥ 2）與惡性腫瘤仍顯著相關（勝算比 = 1.70；95% 信賴區間：1.11–2.58；p = 0.014）。被歸類為高風險（評分 ≥ 2）的腫瘤顯示出84.2%的惡性觀察比例，其敏感度為82.7%，特異度為58%。這項基於CT的協議有助於標準化報告，並識別出具有較高惡性風險的腫瘤。"
-  },
-  {
    "doi": "10.3390/ani16213513",
    "title": "Improving Explosive Detection Dog Performance in Sealed Parcel Searches Through a Targeted Training Intervention",
    "abstract": "Explosive detection dogs are routinely deployed for parcel screening, yet realistic sealed-parcel searches may present challenges not captured by conventional odor-recognition training. In 2025, a black box study of ANSI/ASB Standard 092 identified substantially reduced detection of explosives in tape-sealed parcels, suggesting a potential training gap in this search scenario. This follow-on study evaluated whether brief, progressive training could improve dog performance in sealed-parcel searches. Thirteen operational dog teams participated in trials conducted in Lubbock, Texas, and Miami, Florida. Teams completed a baseline assessment using tape-sealed parcels containing 50 g of C4 or TNT, or distractors, followed by an odor recognition test (ORT) using controlled explosive odor presentations. Following the correction of identified odor-recognition deficiencies, teams completed a training intervention manipulating odor availability through variable parcel venting and requiring progression from odor-source recognition to trained final response. Performance was reassessed using the same parcel configuration. All teams detected C4 during the ORT, whereas only two teams detected TNT. Following intervention, overall sealed-parcel detection sensitivity increased by 35 percentage points (p = 0.0078). C4 detection increased from 38% to 69%, while TNT detection increased from 15% to 54%, although neither individual change reached statistical significance. The results demonstrate that odor recognition does not necessarily translate to effective source localization in sealed parcels and support progressive, operationally representative parcel-search training.",
@@ -10064,6 +10069,29 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本研究旨在比較背側腰方肌阻滯（QLB）與腹直肌鞘阻滯（RSB）作為母犬卵巢切除術多模式鎮痛方案一部分的鎮痛特性。本研究共納入 57 隻犬，隨機分為三組：QLB 組、RSB 組或對照組。所有動物均給予術前給藥右美托咪定 0.125 mg m−2 和美沙酮 0.1 mg kg−1，以異丙酚進行麻醉誘導，並以異氟醚維持麻醉。神經阻滯使用 0.25% 布比卡因，劑量為每側腹壁 0.4 mL kg−1。在術中期間，當心率、平均動脈壓或呼吸速率較基準值增加 ≥ 20% 時，給予芬太尼 0.002 mg kg−1 作為救援鎮痛。在術後早期，使用格拉斯哥複合式疼痛量表簡表（GCPS-SF）進行疼痛評估。若 GCPS-SF 分數 ≥ 6/24，則給予美沙酮 0.2 mg kg−1 作為救援鎮痛。各組之間的芬太尼劑量無顯著差異（p = 0.4406）。然而，與對照組相比，QLB 組的術後美沙酮救援劑量出現具臨床意義的減少（絕對風險差為 26.32%，95% 信賴區間為 6.64% 至 49.10%），但 QLB 與 RSB 組之間或 RSB 與對照組之間則無此差異。總結而言，當背側腰方肌阻滯納入接受卵巢切除術母犬的多模式鎮痛方案中時，可減少術後早期的救援鎮痛需求。"
+  },
+  {
+   "doi": "10.3390/ani16213507",
+   "title": "Computed Tomography Features of Canine Mammary Tumours: A Retrospective Multicentre Study",
+   "abstract": "Mammary tumours are among the most common neoplastic disorders in female dogs, and although computed tomography (CT) is widely used for oncological staging, CT evaluation of primary mammary tumours remains relatively underexplored. This multicentre retrospective study aimed to develop a standardised CT reporting protocol using a modified BI-RADS™ lexicon and to evaluate the qualitative and quantitative features associated with malignancy. Pre- and post-contrast CT scans were evaluated for 34 female dogs with 106 histologically confirmed mammary tumours, of which 81 were malignant and 25 were benign. The heterogeneous and rim enhancement patterns were strongly associated with malignant lesions (p &lt; 0.001; 88.9% sensitivity, 40% specificity). Perilesional oedema exhibited high specificity (84%) but low sensitivity (33.3%). A tumour volume &gt;1.90 cm3 was significantly associated with malignancy (p = 0.046). The proposed cumulative scoring system (0–4 points) showed an AUC of 0.711. After accounting for within-dog clustering, the dichotomous high-risk classification (score ≥ 2) remained significantly associated with malignancy (OR = 1.70; 95% CI: 1.11–2.58; p = 0.014). Tumours classified as high-risk (score ≥ 2) showed an 84.2% observed proportion of malignancy, with 82.7% sensitivity and 58% specificity. This CT-based protocol could help to standardise reporting and identify tumours with a higher risk of malignancy.",
+   "authors": [
+    "Daniela De Felice",
+    "Stefano Spada",
+    "Luiz Paulo Nogueira Aires",
+    "Alfonso Calabria",
+    "Dario Costanza",
+    "Adelaide Greco",
+    "Rossella Terragni",
+    "Massimo Vignoli",
+    "Marco Russo"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16213507",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "乳腺腫瘍是母犬最常見的腫瘤性疾病之一，儘管電腦斷層掃描（CT）已被廣泛用於腫瘤分期，但對原發性乳腺腫瘍的CT評估仍相對缺乏深入研究。本多中心回顧性研究旨在利用修改版的BI-RADS™詞彙表開發標準化的CT報告協議，並評估與惡性腫瘤相關的定性和定量特徵。本研究評估了34隻母犬共106個經組織學確診的乳腺腫瘍之注射對比劑前後的CT掃描，其中81個為惡性，25個為良性。不均勻顯影與環形顯影模式與惡性病灶具有強烈相關性（p < 0.001；敏感度為88.9%，特異度為40%）。病灶周圍水腫表現出高特異度（84%），但敏感度較低（33.3%）。腫瘤體積大於1.90 cm3與惡性顯著相關（p = 0.046）。所提出的累積評分系統（0–4分）顯示其曲線下面積（AUC）為0.711。在考量犬隻內部的群聚效應後，二分法高風險分類（評分 ≥ 2）與惡性腫瘤仍顯著相關（勝算比 = 1.70；95% 信賴區間：1.11–2.58；p = 0.014）。被歸類為高風險（評分 ≥ 2）的腫瘤顯示出84.2%的惡性觀察比例，其敏感度為82.7%，特異度為58%。這項基於CT的協議有助於標準化報告，並識別出具有較高惡性風險的腫瘤。"
   }
  ]
 }
