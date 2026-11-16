@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:32:39+00:00",
+ "updated": "2026-11-16T01:36:49+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -3534,6 +3534,25 @@
    "abstract_zh": "機器學習尚未廣泛應用於尚比亞的土雞，這類雞隻佔該國小農飼養家禽的大多數。我們比較了六種演算法（CART、ANN、KNN、隨機森林、SVR 與梯度提升機），以判定哪一種演算法能最準確地根據八項線性身體量測值來預測體重。本研究依據聯合國糧農組織（FAO, 2012）指南對 618 隻雞進行表型測定，使用電子秤記錄體重，並以量衣帶進行線性量測。資料按 80:20 的比例分割為訓練集（n = 496）與測試集（n = 122），透過重複 10 折交叉驗證（重複 5 次）進行調校，並使用六項配適度指標評估其在測試集上的效能。根據數值指標，隨機森林的準確度最高（R2 = 0.816, RMSE = 0.204 kg），其次為梯度提升機（R2 = 0.789）與 SVR（R2 = 0.766）。成對威爾卡森檢定（Wilcoxon test）顯示，隨機森林顯著優於所有其他演算法，包含梯度提升機（調整後 p 值 < 0.001）。泛化能力是透過比較交叉驗證的 RMSE 與測試集的 RMSE 來評估。六種演算法的測試集與交叉驗證比率皆介於 0.90 至 1.22 之間。剪枝後的 CART 決策樹泛化能力最佳，而 ANN 儘管測試準確度最低，卻具有最大的差距。胸圍與體重的相關性最高（r = 0.696），且在所有六種演算法的排列重要性中皆高居第一（無例外）。在線性迴歸中，單一胸圍量測值可解釋 45.4% 的變異量，因此在缺乏秤具的實地環境中提供了實用的估算方法。完整模型（特別是隨機森林）的準確度顯著較高，因此建議用於預測尚比亞土雞的體重。胸圍是選育與飼養管理計畫中的關鍵實務性特徵。"
   },
   {
+   "doi": "10.1080/00071668.2026.2758181",
+   "title": "Future perspectives in broiler rearing: incorporating the broiler point of view",
+   "abstract": "The global poultry meat industry is in many respects a success story – over the last 80 years it has taken chicken meat from a luxury to an everyday product, highly efficient with a small carbon fo...",
+   "authors": [
+    "B. O. Hughes"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2758181",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 12.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "poultry"
+   ],
+   "abstract_zh": "全球家禽肉品產業在许多方面堪稱一個成功的故事——在過去的80年間，它將雞肉從一項奢侈品轉變為日常消費品，不仅高度高效且碳足跡較小......"
+  },
+  {
    "doi": "10.3390/ani16223604",
    "title": "The Situation of Swine Leptospirosis in Hungary and a Proposal for Establishing Requirements for Declared Herd Freedom from Specific Leptospira Species (Serogroups, Serovars) in Domestic Swine Herds",
    "abstract": "Background: The objective of our study was to identify supporting and/or opposing arguments regarding whether it is worthwhile to launch—or relaunch—a nationwide program against leptospirosis in Hungarian swine herds, modeled after the successful eradication programs for Aujeszky’s disease and PRRS. It is essential to determine which Leptospira serogroups currently infect Hungarian swine herds and the nationwide distribution of this infection. It is of particular importance to ascertain the prevalence of the swine-adapted (hosted) Leptospira strains (Pomona, Tarassovi, Bratislava)—specifically, in how many herds and across what geographical area they occur, and what percentage of breeding stock is affected—as well as how the infection was introduced to the farm. Furthermore, we sought to identify the available options for eliminating specific Leptospira serovars and achieving disease-free status for individual herds. Materials and methods: We had an analysis of more than 180,000 serum samples across 4 years, including seroprevalence for Pomona, Tarassovi, Bratislava and Icterohaemorrhagiae. Antibodies against incidental serovars (Sejroe, Canicola, Grippotyphosa) occurred rarely. Authors describe their experiences with establishing a new, import-based unit with Bratislava and an eradication method of a large-scale swine herd after Pomona infection. Conclusions: Our aim was to define the current leptospirosis status in domestic herds and provide recommendations. Hungary must decide whether to preserve swine leptospirosis freedom—a status that delivers cost savings by eliminating routine vaccination and treatment costs, provides market value for domestic swine health, and protects against a zoonosis—or leave infection unregulated and manage disease conventionally through vaccines and antibiotics, as practiced elsewhere in the EU.",
@@ -5322,23 +5341,6 @@
     "disease"
    ],
    "abstract_zh": "多聚肌苷酸-多聚胞苷酸（poly I:C）是一種合成的雙股RNA類似物，被認為具有潛在的免疫刺激劑作用；然而，其對南美白蝦（Litopenaeus vannamei）的飼料效應及調節機制尚不清楚。本研究探討了飼料中添加 poly I:C 對幼蝦生長性能、免疫反應、抗病能力及轉錄體學圖譜的影響。試驗配製了六種等氮、等脂的飼料，分別添加 0、1、5、25、125 和 625 mg/kg 的 poly I:C，餵食對蝦 8 週。飼料中添加 poly I:C 對存活率、增重率、特異性生長率或飼料轉換率均無顯著影響。然而，PIC25 組在白點症病毒（white spot syndrome virus）攻擊後顯示出顯著提高的存活率，而 PIC125 和 PIC625 組在副溶血性弧菌（Vibrio parahaemolyticus）攻擊後則表現出顯著較高的存活率。添加 poly I:C 也提高了多項血清及肝胰臟免疫相關酵素活性，並在較低添加量下降低了肝胰臟丙二醛（malondialdehyde）含量。轉錄體分析在 PIC25 與 PIC0 的比較中鑑定出 6979 個差異表現基因，在 PIC625 與 PIC0 的比較中則鑑定出 4808 個差異表現基因。功能富集分析顯示，飼料中添加 poly I:C 調節了與內吞作用、囊泡運輸中的 SNARE 相互作用、自噬、磷脂醯肌醇訊息傳遞、肌醇磷酸代謝、FoxO 訊息傳遞及 PI3K-Akt 訊息傳遞相關的途徑。這些結果表明，飼料中添加 poly I:C 可增強南美白蝦的免疫能力與抗病力，其效果因添加量和病原體類型而異，這可能是透過調節吞噬相關過程、囊泡運輸、細胞凋亡及免疫相關代謝途徑來實現的。"
-  },
-  {
-   "doi": "10.1080/00071668.2026.2758181",
-   "title": "Future perspectives in broiler rearing: incorporating the broiler point of view",
-   "abstract": "",
-   "authors": [
-    "B. O. Hughes"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2758181",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 8.0,
-   "matched": [
-    "broiler"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.3390/ani16223592",
@@ -8893,26 +8895,6 @@
    "abstract_zh": "本研究探討5-胺基酮戊酸（5-ALA）對泌乳荷仕登牛瘤胃發酵及特定瘤胃微生物群落的影響，並探討其下游代謝物的潛在貢獻。試驗選用十三頭泌乳荷仕登牛，以逢機分派方式分為對照組或5-ALA補充組（按乾物質（DM）添加10 mg/kg），採用包含兩個14天試驗期之交叉設計。補充5-ALA提高了瘤胃液中總揮發性脂肪酸（VFA）濃度及異丁酸的莫耳比例。為進一步特性化5-ALA的影響，利用5-ALA濃度分別為0、5、10、50及100 μg/30 mL進行了四項連續的體外（in vitro）試驗，以決定適當的補充劑量與培養時間，並探討瘤胃發酵的相關變化。5-ALA對瘤胃發酵的影響呈現劑量與時間依賴性，相較於對照組，產氣量與總VFA濃度皆有所增加。在培養6小時、添加量為50 μg/30 mL時觀察到最大的發酵反應。為探討5-ALA的下游代謝物是否參與這些反應，於平行的體外試驗中評估了原紫啉IX（PPIX）與氰鈷胺明（CNCBL）。補充5-ALA、PPIX或CNCBL皆導致總產氣量、甲烷濃度及總VFA濃度出現相似的變化模式，並伴隨總纖毛蟲數量的增加或數值上的增加。這三種化合物皆提高了總細菌及糊精解琥珀酸菌（Succinivibrio dextrinosolvens）的估算豐度，同時降低了普雷沃氏菌科（Prevotellaceae），特別是反芻普雷沃氏菌（Prevotella ruminicola）的估算豐度。綜上所述，5-ALA及其下游代謝物對瘤胃發酵和微生物反應產生了大致相似的影響，這表明PPIX和CNCBL可能參與了5-ALA的作用。然而，由於未測定PPIX或由5-ALA形成的類鈷胺素（corrinoid），這些發現提供的是相關性而非因果性證據，尚需進一步研究以釐清其潛在機制。"
   },
   {
-   "doi": "10.3390/ani16223597",
-   "title": "From Observation to Welfare Inference in the Domestic Horse: Biological Context, Converging Evidence and Temporal Trajectories",
-   "abstract": "Equine welfare assessment requires interpretation of behavioural, clinical, physiological and contextual data to infer welfare-relevant mental experiences. Contemporary welfare frameworks already organise conditions relevant to both negative and positive welfare. Recent care frameworks distinguish care and management practices from their intended effects on the animal’s affective state. They also place greater emphasis on meaningful choice and agency. This structured critical narrative review proposes the Equine Welfare Inference Framework (EWIF) as a complementary reasoning framework for a narrower problem: how to make the evidential pathway and the confidence in a welfare interpretation explicit when findings are incomplete, partly redundant, discordant or time-dependent. EWIF does not claim novelty for the individual principles of considering alternatives, multiple indicators, context or longitudinal change; its proposed contribution is their explicit integration around the sequence from finding to biological process, candidate internal state, welfare interpretation and confidence. Exploratory searches were followed by 34 predefined PubMed searches, yielding 6098 search-result occurrences and 4071 unique records after deduplication. Sensitivity-preserving screening retained 2274 records as a broad evidence reservoir for source discovery and conceptual coverage; these records were not a conventional set of studies, were not all independently assessed in full text, and did not contribute equally to the framework. Central claims underwent targeted source-level checks, with coverage and access limitations considered in the interpretation of the evidence. EWIF applies symmetrically to proposed positive and negative states: it asks whether additional findings provide genuinely independent support, whether disagreement reflects timing or different biological processes, and how responses change and resolve over time. It can be applied across ridden and driven exercise, handling, veterinary procedures, transport, routine management and breeding without replacing context-specific instruments. EWIF is a conceptual framework that requires empirical testing for reproducibility and practical value.",
-   "authors": [
-    "René van den Hoven",
-    "Çağrı Çağlar Sinmez",
-    "Tünay Karan",
-    "Ali Cesur Onmaz"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223597",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 2.0,
-   "matched": [
-    "breeding"
-   ],
-   "abstract_zh": "馬匹福利評估需要判讀行為、臨床、生理與情境數據，以推論出與福利相關的心智體驗。當代的福利框架已經系統化了與負面及正面福利相關的條件。近期照護框架將照護與管理實務，與其對動物情感狀態的預期影響區分開來，同時也更強調有意義的選擇與自主性。這篇結構化批判性敘事文獻綜述提出了「馬匹福利推論框架」（Equine Welfare Inference Framework, EWIF），作為一個互補的推理框架，以解決一個較窄的問題：當證據不完整、部分冗餘、不一致或具時間依賴性時，如何明確指出福利判讀的證據路徑與確信度。EWIF 並未宣稱考慮替代方案、多重指標、情境或縱向變化的個別原則具備創新性；其提出的貢獻在於將這些原則明確整合於從發現到生物過程、候選內部狀態、福利認知的推論，以及確信度的序列周圍。探索性檢索後進行了 34 項預先定義的 PubMed 檢索，經去重複化後產生 6098 筆檢索結果與 4071 筆不重複紀錄。維持敏感度的篩選保留了 2274 筆紀錄，作為用於來源發現與概念涵蓋的廣泛證據庫；這些紀錄並非傳統的研究集合，並非全部皆經獨立全文評估，亦非對該框架做出均等的貢獻。核心主張經歷了針對性的來源層級檢查，並在對證據的詮釋中考量了涵蓋範圍與取得的限制。EWIF 對稱地應用於所提出的正面與負面狀態：它探討額外的發現是否提供了真正獨立的支持、不一致是否反映了時間點或不同的生物過程，以及反應如何隨時間變化與解決。它可應用於騎乘與駕車運動、牽引、獸醫程序、運輸、常規管理與繁殖，而不需取代特定情境的評估工具。EWIF 是一個概念性框架，需要透過實證檢驗來驗證其可重複性與實用價值。"
-  },
-  {
    "doi": "10.3390/ani16223590",
    "title": "Development of Equations to Estimate Microbial Nitrogen Contamination of In Situ Roughage Residues",
    "abstract": "When using the in situ nylon bag technique to evaluate rumen degradation characteristics, if the microbial contamination in the nylon bag residue is not corrected, the degradation rate of roughage nitrogen in rumen will be underestimated. Therefore, the purpose of this study was to determine the bacterial contamination of roughages during in situ rumen culture, and to establish an equation for predicting microbial contamination of rumen culture residue. Using the nylon bag technique, a total of 30 roughages was incubated in the rumen of four Zhaowuda meat sheep. (15NH4)2SO4 was continuously infused into the rumen, and then pellets of labeled rumen solids-associated bacteria (SAB) and rumen liquid-associated bacteria (LAB) were isolated by differential centrifugation of samples of ruminal contents. The rumen degradation rate of 24 kinds of roughage nitrogen was significantly increased after microbial correction (p &lt; 0.05), six kinds of roughage nitrogen species were increased in numerical value although there was no significant difference (p &gt; 0.05), and there was no difference between the two labeling methods of SAB and LAB. Except for imported alfalfa hay (AH), the course of bacterial contamination of 29 roughages was described by an exponential function of the general type Ncont. = Nmax [1 − exp(−C·t)], where Nmax varied with the feed’s nutritional composition. Separate prediction models were established for straw roughages, hay roughages, and all 29 roughages combined, incorporating crude protein (CP), neutral detergent fiber (NDF), acid detergent fiber (ADF), dry matter (DM), and organic matter (OM) to estimate Nmax. The results confirm that microbial contamination systematically biases nylon bag measurements, causing a consistent underestimation of true ruminal nitrogen degradability, especially for high-fiber, low-protein feeds. Because contamination follows a predictable exponential pattern driven by the feed’s nutrient profile, simple nutrient data can reliably predict and correct this bias. The equivalence of SAB and LAB labeling indicates that either microbial fraction can serve as a reference, simplifying future applications. Most importantly, the developed models enable accurate correction of microbial contamination using only routine feed analysis, eliminating the need for expensive isotope equipment and making the nylon bag technique more robust and accessible for evaluating roughage protein quality in ruminants.",
@@ -8933,6 +8915,26 @@
     "nutrition"
    ],
    "abstract_zh": "當利用原位尼龍袋法（in situ nylon bag technique）評估瘤胃降解特性時，若未對尼龍袋殘渣中的微生物汙染進行校正，將會低估粗飼料氮在瘤胃中的降解率。因此，本研究的目的在於測定粗飼料在瘤胃原位培養過程中的細菌汙染，並建立預測瘤胃培養殘渣微生物汙染的方程式。利用尼龍袋法，將總共 30 種粗飼料置於 4 隻昭烏達肉羊的瘤胃中進行培養。持續向瘤胃內輸注 $(^{15}\\text{NH}_4)_2\\text{SO}_4$，隨後透過對瘤胃內容物樣品進行差速離心，分離出標記的瘤胃固體附著細菌（SAB）與瘤胃液體附著細菌（LAB）沉澱顆粒。經微生物校正後，24 種粗飼料氮的瘤胃降解率顯著增加（$p < 0.05$），6 種粗飼料氮的數值有所增加但無顯著差異（$p > 0.05$），且 SAB 與 LAB 兩種標記方法之間沒有差異。除了進口苜蓿乾草（AH）外，29 種粗飼料的細菌汙染進程均可以通式為 $N_{\\text{cont.}} = N_{\\text{max}} [1 - \\exp(-C \\cdot t)]$ 的指數函數來描述，其中 $N_{\\text{max}}$ 隨飼料的營養成分而變化。分別為秸稈類粗飼料、乾草類粗飼料以及全部 29 種粗飼料合併建立了預測模型，納入粗蛋白質（CP）、中性洗滌纖維（NDF）、酸性洗滌纖維（ADF）、乾物質（DM）和有機物（OM）來估算 $N_{\\text{max}}$。結果證實，微生物汙染會對尼龍袋測定造成系統性偏差，導致對真實瘤胃氮降解率的持續低估，特別是對於高纖維、低蛋白質的飼料。由於汙染遵循由飼料養分特性驅動的可預測指數模式，簡單的養分數據即可可靠地預測並校正此偏差。SAB 與 LAB 標記法的等效性表明，任一微生物菌群均可作為參考，從而簡化了未來的應用。最重要的是，所開發的模型僅需利用常規飼料分析即可對微生物汙染進行準確校正，消除了對昂貴同位素設備的需求，使尼龍袋法在評估反芻動物粗飼料蛋白質品質方面更加穩健且易於實施。"
+  },
+  {
+   "doi": "10.3390/ani16223597",
+   "title": "From Observation to Welfare Inference in the Domestic Horse: Biological Context, Converging Evidence and Temporal Trajectories",
+   "abstract": "Equine welfare assessment requires interpretation of behavioural, clinical, physiological and contextual data to infer welfare-relevant mental experiences. Contemporary welfare frameworks already organise conditions relevant to both negative and positive welfare. Recent care frameworks distinguish care and management practices from their intended effects on the animal’s affective state. They also place greater emphasis on meaningful choice and agency. This structured critical narrative review proposes the Equine Welfare Inference Framework (EWIF) as a complementary reasoning framework for a narrower problem: how to make the evidential pathway and the confidence in a welfare interpretation explicit when findings are incomplete, partly redundant, discordant or time-dependent. EWIF does not claim novelty for the individual principles of considering alternatives, multiple indicators, context or longitudinal change; its proposed contribution is their explicit integration around the sequence from finding to biological process, candidate internal state, welfare interpretation and confidence. Exploratory searches were followed by 34 predefined PubMed searches, yielding 6098 search-result occurrences and 4071 unique records after deduplication. Sensitivity-preserving screening retained 2274 records as a broad evidence reservoir for source discovery and conceptual coverage; these records were not a conventional set of studies, were not all independently assessed in full text, and did not contribute equally to the framework. Central claims underwent targeted source-level checks, with coverage and access limitations considered in the interpretation of the evidence. EWIF applies symmetrically to proposed positive and negative states: it asks whether additional findings provide genuinely independent support, whether disagreement reflects timing or different biological processes, and how responses change and resolve over time. It can be applied across ridden and driven exercise, handling, veterinary procedures, transport, routine management and breeding without replacing context-specific instruments. EWIF is a conceptual framework that requires empirical testing for reproducibility and practical value.",
+   "authors": [
+    "René van den Hoven",
+    "Çağrı Çağlar Sinmez",
+    "Tünay Karan",
+    "Ali Cesur Onmaz"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223597",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 2.0,
+   "matched": [
+    "breeding"
+   ],
+   "abstract_zh": "馬匹福利評估需要判讀行為、臨床、生理與情境數據，以推論出與福利相關的心智體驗。當代的福利框架已經系統化了與負面及正面福利相關的條件。近期照護框架將照護與管理實務，與其對動物情感狀態的預期影響區分開來，同時也更強調有意義的選擇與自主性。這篇結構化批判性敘事文獻綜述提出了「馬匹福利推論框架」（Equine Welfare Inference Framework, EWIF），作為一個互補的推理框架，以解決一個較窄的問題：當證據不完整、部分冗餘、不一致或具時間依賴性時，如何明確指出福利判讀的證據路徑與確信度。EWIF 並未宣稱考慮替代方案、多重指標、情境或縱向變化的個別原則具備創新性；其提出的貢獻在於將這些原則明確整合於從發現到生物過程、候選內部狀態、福利認知的推論，以及確信度的序列周圍。探索性檢索後進行了 34 項預先定義的 PubMed 檢索，經去重複化後產生 6098 筆檢索結果與 4071 筆不重複紀錄。維持敏感度的篩選保留了 2274 筆紀錄，作為用於來源發現與概念涵蓋的廣泛證據庫；這些紀錄並非傳統的研究集合，並非全部皆經獨立全文評估，亦非對該框架做出均等的貢獻。核心主張經歷了針對性的來源層級檢查，並在對證據的詮釋中考量了涵蓋範圍與取得的限制。EWIF 對稱地應用於所提出的正面與負面狀態：它探討額外的發現是否提供了真正獨立的支持、不一致是否反映了時間點或不同的生物過程，以及反應如何隨時間變化與解決。它可應用於騎乘與駕車運動、牽引、獸醫程序、運輸、常規管理與繁殖，而不需取代特定情境的評估工具。EWIF 是一個概念性框架，需要透過實證檢驗來驗證其可重複性與實用價值。"
   },
   {
    "doi": "10.1186/s40104-026-01504-w",
@@ -9636,6 +9638,27 @@
    "abstract_zh": "浣熊犬及狐狸阿姆多細小病毒（Raccoon dog and fox amdoparvovirus, RFAV）被分類為食肉動物阿姆多細小病毒3型（Amdoparvovirus carnivoran3），最近在家犬體內被檢出，然其臨床意義仍屬未知。本研究描述了一隻4歲雌性杜賓犬感染RFAV的病例，該犬呈現多重系統性疾病，包含進行性體重減輕、毛髮狀況不良、眼部病灶、鼻鏡及足墊過度角化，以及顯著黃疸。本研究於住院期間監測其臨床病程及實驗室參數，隨後進行死後病理評估。針對生前及死後檢體進行阿姆多細小病毒DNA檢測。PCR產物經定序後進行親緣關係分析。在鼻腔、結膜及直腸拭子、全血、尿液及多個死後組織中皆檢測出阿姆多細小病毒DNA。定序結果證實該病毒為食肉動物阿姆多細小病毒3型，該克羅埃西亞序列與最近在塞爾維亞具臨床症狀杜賓犬中報導的病毒株高度相關。此外，本研究亦篩檢了60件於2026年稍早採集之存檔犬隻直腸拭子樣本以檢測阿姆多細小病毒，所有回溯性篩檢樣本均呈陰性。本研究記錄了克羅埃西亞首度在家犬體內檢出RFAV，並提供了RFAV在家犬中的潛在臨床及組織病理學數據。然而，這些發現並未確立RFAV感染與所觀察到的臨床症狀之間的因果關係。此外，受測的存檔樣本數量較少，限制了解釋陰性結果的空間，亦無法可靠地估計RFAV的盛行率。"
   },
   {
+   "doi": "10.3390/ani16223556",
+   "title": "Effect of Storage Conditions on Equine Herpesvirus-1 DNA Detection in Equine Urine",
+   "abstract": "Equine herpesvirus-1 (EHV-1) is a major equine pathogen causing myeloencephalopathy, abortion, and respiratory disease. Following the detection of EHV-1 DNA in urine from naturally infected horses, urine has emerged as a potential complementary non-invasive specimen for molecular diagnosis. However, the influence of storage conditions on EHV-1 DNA stability remains unknown. Urine from six healthy horses was experimentally inoculated with EHV-1 (104 copies/µL) and stored at room temperature (25 °C) or under refrigeration (4 °C), with or without a commercial urine preservative, or at −80 °C without preservative. Viral DNA was quantified by qPCR over 30 days, and viral infectivity was explored by cell culture. Detectable EHV-1 DNA declined significantly during the first 24 h at room temperature and under refrigeration and remained relatively stable thereafter. Refrigeration partially improved the preservation of detectable viral DNA, whereas storage at −80 °C provided the greatest stability among the conditions evaluated over the 30-day study period. The commercial preservative provided no consistent benefit. These findings provide preliminary evidence to inform storage practices for equine urine samples intended for EHV-1 molecular diagnosis. Further studies involving naturally infected horses and additional freezing temperatures are needed to establish definitive recommendations for clinical sample handling.",
+   "authors": [
+    "Abel Dorrego",
+    "Eduard Jose-Cunilleras",
+    "Belen Rivera",
+    "Sergio González",
+    "Fatima Cruz-Lopez"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223556",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-12",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": "馬疱疹病毒第一型（EHV-1）是一種主要的馬匹病原體，會引起脊髓腦病、流產及呼吸道疾病。繼在自然感染馬匹的尿液中檢測出 EHV-1 DNA 後，尿液已成為分子診斷中具潛力的輔助性非侵入性檢體。然而，儲存條件對 EHV-1 DNA 穩定性的影響仍屬未知。本研究將六匹健康馬匹的尿液實驗性接種 EHV-1（10⁴ 複本/微升），並分別置於室溫（25 °C）或冷藏（4 °C）條件下（伴隨或不伴隨商業尿液保存劑），或置於 -80 °C 且無保存劑的條件下儲存。透過 qPCR 在 30 天內對病毒 DNA 進行定量，並利用細胞培養探討病毒感染力。可檢測出的 EHV-1 DNA 在室溫和冷藏的前 24 小時內顯著下降，此後保持相對穩定。冷藏部分改善了可檢測病毒 DNA 的保存，而在評估的 30 天研究期間內，-80 °C 儲存則提供了所測試條件中最佳的穩定性。商業保存劑未提供一致的效益。這些發現為用於 EHV-1 分子診斷的馬匹尿液檢體之儲存實務提供了初步證據。未來需要更多涵蓋自然感染馬匹及其他冷凍溫度的研究，以為臨床檢體處理建立明確的建議。"
+  },
+  {
    "doi": "10.3390/ani16223561",
    "title": "Intact Cell Ultrastructure Is Sufficient for the Intestinal Protective Activity of Canine-Derived Lactobacillus acidophilus Against Dextran Sulfate Sodium-Induced Colitis",
    "abstract": "Chronic inflammatory enteropathy is common and clinically challenging in dogs. Probiotics are explored as dietary adjuncts, but how inactivation methods affect strain performance remains unclear. This study compared viable, heat-killed, electron beam-inactivated (3 kGy), and cell-free supernatant (CFS) preparations of canine-origin Lactobacillus acidophilus L1 in a DSS-induced mouse colitis model. Heat-killed L1 retained intact ultrastructure and matched viable cells in attenuating disease activity and colonic injury; electron beam inactivation disrupted the cell surface and produced poorer repair than heat-killed L1 but was superior in maintaining body weight. All treatments lowered DAI versus the model (p &lt; 0.001). Colon length and Zo-1/Occludin mRNA expression were highest in viable and heat-killed groups, which also had the lowest splenic and hepatic indices (p &lt; 0.01). IL-17A fell further in viable and heat-killed groups (p &lt; 0.01); IL-10 rose only in these two groups (p &lt; 0.05). Cecal SCFAs were elevated in DSS and CFS groups despite reduced Dubosiella. Heat-killed bacteria had the lowest cecal SCFAs but the highest MCT1/SMCT1 expression (p &lt; 0.05) and unchanged MCT4 expression, potentially suggesting enhanced epithelial SCFA uptake, although reduced microbial production cannot be excluded. These results indicate that intact bacterial ultrastructure is sufficient for the intestinal protective activity of L. acidophilus L1 in a prophylactic model, and support heat-killed L1 as a promising prophylactic paraprobiotic ingredient for canine gastrointestinal health.",
@@ -9656,27 +9679,6 @@
     "disease"
    ],
    "abstract_zh": "慢性發炎性腸病在犬隻中很常見且臨床上深具挑戰性。益生菌被探討作為飲食輔助品，但去活化方法如何影響菌株效能仍不清楚。本研究在葡聚硫酸鈉（DSS）誘發的小鼠結腸炎模型中，比較了犬源嗜酸乳桿菌 L1（Lactobacillus acidophilus L1）的活菌、熱殺死、電子束去活化（3 kGy）及無細胞上清液（CFS）製劑。熱殺死型 L1 保留了完整的超微結構，且在減輕疾病活性與結腸損傷方面與活細胞相當；電子束去活化破壞了細胞表面，其修復效果較熱殺死型 L1 差，但在維持體重方面表現較佳。與模型組相比，所有處理組的疾病活性指數（DAI）均下降（p < 0.001）。結腸長度以及 Zo-1/Occludin mRNA 表現在活菌組和熱殺死組中最高，這兩組也具有最低的脾臟和肝臟指數（p < 0.01）。在活菌組和熱殺死組中，IL-17A 進一步下降（p < 0.01）；IL-10 僅在這兩組中上升（p < 0.05）。儘管 Dubosiella 減少，盲腸短鏈脂肪酸（SCFAs）在 DSS 組和 CFS 組中仍升高。熱殺死菌具有最低的盲腸短鏈脂肪酸，但有最高的 MCT1/SMCT1 表現量（p < 0.05）且 MCT4 表現量未變，這可能暗示其增強了上皮細胞對短鏈脂肪酸的攝取，儘管微生物產量的減少亦不排除。這些結果表明，在預防性模型中，完整的細菌超微結構足以發揮嗜酸乳桿菌 L1 的腸道保護活性，並支持熱殺死型 L1 作為犬類腸道健康之具潛力的預防性副益生菌（paraprobiotic）成分。"
-  },
-  {
-   "doi": "10.3390/ani16223556",
-   "title": "Effect of Storage Conditions on Equine Herpesvirus-1 DNA Detection in Equine Urine",
-   "abstract": "Equine herpesvirus-1 (EHV-1) is a major equine pathogen causing myeloencephalopathy, abortion, and respiratory disease. Following the detection of EHV-1 DNA in urine from naturally infected horses, urine has emerged as a potential complementary non-invasive specimen for molecular diagnosis. However, the influence of storage conditions on EHV-1 DNA stability remains unknown. Urine from six healthy horses was experimentally inoculated with EHV-1 (104 copies/µL) and stored at room temperature (25 °C) or under refrigeration (4 °C), with or without a commercial urine preservative, or at −80 °C without preservative. Viral DNA was quantified by qPCR over 30 days, and viral infectivity was explored by cell culture. Detectable EHV-1 DNA declined significantly during the first 24 h at room temperature and under refrigeration and remained relatively stable thereafter. Refrigeration partially improved the preservation of detectable viral DNA, whereas storage at −80 °C provided the greatest stability among the conditions evaluated over the 30-day study period. The commercial preservative provided no consistent benefit. These findings provide preliminary evidence to inform storage practices for equine urine samples intended for EHV-1 molecular diagnosis. Further studies involving naturally infected horses and additional freezing temperatures are needed to establish definitive recommendations for clinical sample handling.",
-   "authors": [
-    "Abel Dorrego",
-    "Eduard Jose-Cunilleras",
-    "Belen Rivera",
-    "Sergio González",
-    "Fatima Cruz-Lopez"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223556",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-12",
-   "score": 1.0,
-   "matched": [
-    "disease"
-   ],
-   "abstract_zh": "馬疱疹病毒第一型（EHV-1）是一種主要的馬匹病原體，會引起脊髓腦病、流產及呼吸道疾病。繼在自然感染馬匹的尿液中檢測出 EHV-1 DNA 後，尿液已成為分子診斷中具潛力的輔助性非侵入性檢體。然而，儲存條件對 EHV-1 DNA 穩定性的影響仍屬未知。本研究將六匹健康馬匹的尿液實驗性接種 EHV-1（10⁴ 複本/微升），並分別置於室溫（25 °C）或冷藏（4 °C）條件下（伴隨或不伴隨商業尿液保存劑），或置於 -80 °C 且無保存劑的條件下儲存。透過 qPCR 在 30 天內對病毒 DNA 進行定量，並利用細胞培養探討病毒感染力。可檢測出的 EHV-1 DNA 在室溫和冷藏的前 24 小時內顯著下降，此後保持相對穩定。冷藏部分改善了可檢測病毒 DNA 的保存，而在評估的 30 天研究期間內，-80 °C 儲存則提供了所測試條件中最佳的穩定性。商業保存劑未提供一致的效益。這些發現為用於 EHV-1 分子診斷的馬匹尿液檢體之儲存實務提供了初步證據。未來需要更多涵蓋自然感染馬匹及其他冷凍溫度的研究，以為臨床檢體處理建立明確的建議。"
   },
   {
    "doi": "10.3390/ani16223558",
@@ -12274,19 +12276,6 @@
    "abstract_zh": "犬隻急性胰臟炎會引起劇烈腹痛，通常以全身性類鴉片藥物治療，但此類藥物可能妨礙胃腸道蠕動並延遲復原。本前瞻性臨床通訊旨在評估超音波引導下腹橫肌平面阻斷術納入急性胰臟炎犬隻多模式止痛方案中的類鴉片藥物節省效果及臨床結果。12隻犬隻被分配至局部區域阻斷組（n = 6）與以類鴉片藥物治療的對照組（n = 6），兩組依入院時記錄的五項嚴重程度評分進行配對。主要評估指標為納入後最初24小時內的類鴉片藥物消耗量；次要評估指標包括同期疼痛情況、首次自主攝食時間、住院天數及發炎反應。阻斷組接受的美沙酮劑數顯著較少（中位數 0 比 4.5；p = 0.015），且6隻犬中有5隻在納入劑量後無需額外使用美沙酮。阻斷組在最初24小時內的累積疼痛評分也顯著較低（p = 0.037）。阻斷組的首次自主攝食時間較短（12比48小時；p = 0.02）。住院天數或存活率則無顯著差異。將腹橫肌平面阻斷術加入多模式方案中，與顯著的類鴉片藥物節省效果相關，並能促進較早的自主攝食，惟這些初步結果仍需大型研究進一步確認。"
   },
   {
-   "doi": "10.1080/00439339.2026.2750663",
-   "title": "Calendar",
-   "abstract": "",
-   "authors": [],
-   "journal": "World's Poultry Science Journal",
-   "url": "https://doi.org/10.1080/00439339.2026.2750663",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-11",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "欲獲取最新資訊，請造訪網站上的行事曆（www.wpsa.com）。2027年2月1日至3日澳洲雪梨雪梨大學第38屆澳洲家禽科學研討會（APSS）20..."
-  },
-  {
    "doi": "10.1080/00439339.2026.2750664",
    "title": "Education and Training",
    "abstract": "For the most current information, please visit the Calendar on the website (www.wpsa.com).WVEPAH is a branch of the “European Association for Veterinary Specialization” (EAVS), a non-profit organiz...",
@@ -12298,6 +12287,19 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "欲了解最新資訊，請造訪網站上的行事曆 (www.wpsa.com)。WVEPAH 是「歐洲獸醫專科學會」(European Association for Veterinary Specialization, EAVS) 的分支機構，EAVS 是一個非營利組織……"
+  },
+  {
+   "doi": "10.1080/00439339.2026.2750663",
+   "title": "Calendar",
+   "abstract": "",
+   "authors": [],
+   "journal": "World's Poultry Science Journal",
+   "url": "https://doi.org/10.1080/00439339.2026.2750663",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "欲獲取最新資訊，請造訪網站上的行事曆（www.wpsa.com）。2027年2月1日至3日澳洲雪梨雪梨大學第38屆澳洲家禽科學研討會（APSS）20..."
   },
   {
    "doi": "10.3390/ani16223553",
@@ -12406,23 +12408,6 @@
    "abstract_zh": "本研究旨在探討飼糧中添加發酵酒糟（LDGS）對育肥前期崖城豬生長性能、血清生化指標、免疫與抗氧化狀態、短鏈脂肪酸（SCFA）及糞便微生物多樣性的影響。試驗選用 240 頭健康、60 日齡、平均初始體重為 23.99 ± 1.00 公斤的豬隻，隨機分為 5 個處理組，每組 8 個重複欄，每欄 6 頭豬。對照組（CON）飼喂基礎飼糧，4個處理組分別在基礎飼糧中添加 2%、3%、4% 和 5% 的 LDGS。與 CON 組相比，3% 添加組的血清尿素氮（BUN）顯著降低（p < 0.05），結果顯示氮代謝有所改變，但平均日增重（ADG）或料重比（F/G）無顯著差異。同時，與 CON 組相比，3% 添加組的抗發炎細胞激素 IL-10 濃度、麩胱甘肽過氧化酶（GSH-Px）活性及總抗氧化能力（T-AOC）均有顯著變化（p < 0.05）；血清 IgG 濃度也顯著升高，但絕對增幅較小。3% 添加組的糞便 SCFA 濃度最高，其中乙酸濃度顯著高於對照組（p < 0.05）。在微生物多樣性方面，3% 和 4% 添加組中產丁酸菌（如 Terrisporobacter）的相對豐度顯著高於對照組（p < 0.05），而機會致病菌鏈球菌屬（Streptococcus）在 3%、4% 和 5% 添加組中的相對豐度則顯著降低（p < 0.05）。總體而言，多項指標在 LDGS 添加量達 4% 或 5% 時有所下降。飼糧中添加 3% 的 LDGS 可帶來相對較佳的腸道健康，並有助於維持抗發炎與抗氧化的穩態，但 ADG 和 F/G 與對照組相比無顯著差異。因此，在所試驗的添加水準中，3% LDGS 對育肥前期崖城豬的整體生理反應表現最佳。"
   },
   {
-   "doi": "10.3390/ani16223565",
-   "title": "A Preliminary Study of Multidimensional Welfare Assessment and Management Practices in Companion Dogs: Differences According to Owner and Dog Characteristics",
-   "abstract": "This study assessed companion dog welfare across multiple domains using owner-observable information and examined differences in welfare scores according to owner and dog characteristics. Drawing on the Five Domains Model and previous research, we developed an owner-reported welfare assessment tool covering four domains: environment (16 items), physical health (24 items), behavior and mental state (29 items), and management (17 items). An online survey included 206 adult dog owners. We also compared general dog owners with owners holding training- or animal-assisted-intervention-related qualifications. The mean exploratory composite index was 87.16, with the highest score in the environment domain (92.22) and the lowest in the behavior and mental state domain (80.07). Female owners had significantly higher exploratory composite index values, environment, and management scores than male owners. Selected welfare scores also differed significantly by owner age, dog age, and body weight. No significant differences in the exploratory composite index or domain-specific welfare scores were found between the two groups. Although three individual items showed unadjusted p-values below 0.05, none remained statistically significant after Bonferroni correction. These findings provide preliminary evidence supporting multidimensional, owner-reported assessment of companion dog welfare and management practices. Further testing of the tool’s reliability and validity is warranted.",
-   "authors": [
-    "Yeonhwa Choi",
-    "Jeongik Lee",
-    "Hyejin Kang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223565",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-12",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本研究利用飼主可觀察到的資訊，從多個面向評估伴侶犬福祉，並檢視福祉分數依飼主與犬隻特徵而產生的差異。基於「五大面向模型」（Five Domains Model）與先前的研究，我們開發了一套涵蓋四個面向的飼主回報福祉評估工具，分別為：環境（16題）、身體健康（24題）、行為與心理狀態（29題）以及管理（17題）。線上問卷共納入206位成年愛犬飼主。我們亦比較了一般狗主人與具備訓練或動物輔助介入相關資格的飼主。平均探索性綜合指數（exploratory composite index）為87.16分，其中以環境面向分數最高（92.22分），行為與心理狀態面向最低（80.07分）。女性飼主的探索性綜合指數、環境及管理面向分數皆顯著高於男性飼主。部分福祉分數亦因飼主年齡、犬隻年齡與體重而有顯著差異。兩組飼主在探索性綜合指數或各面向福祉分數上則無顯著差異。儘管有3個單一題目的未調整p值低於0.05，但在經過邦費羅尼校正（Bonferroni correction）後皆未達統計顯著。這些發現為多面向、飼主回報的伴侶犬福祉與管理實務評估提供了初步證據。該工具的信效度仍有待進一步測試。"
-  },
-  {
    "doi": "10.3390/ani16223569",
    "title": "Udder and Teat Morphology in Relation to Milk Yield in Dairy Mares: Farm-Level Confounding in a Multi-Farm Observational Study",
    "abstract": "Mare’s milk carries cultural and economic importance in Central Asia, yet udder and teat morphology in relation to individual milk yield remain poorly characterized, and farm-level confounding inflates apparent associations in multi-farm data. We analyzed 333 mares with complete morphology and yield records across 12 farms. A linear mixed-effects model with farm as a random intercept estimated ICC = 0.747; approximately three-quarters of yield variance occurred between farms. Leave-one-farm-out ICC values ranged from 0.663 to 0.768, indicating that no single farm drove the result. Pooled Pearson correlations attenuated markedly after within-farm demeaning; udder depth showed near-complete attenuation (raw r = −0.503; demeaned r = 0.098). Among udder and teat traits, within-farm correlations were weak, with the largest being for teat length × udder width (r = 0.207; 95% CI: 0.087–0.348) and teat length (r = 0.178; CI: 0.076–0.318). No morphological fixed effect was statistically significant. After farm adjustment, teat length and teat length × udder width are hypothesis-generating traits that warrant prospective evaluation with parity and lactation-stage control.",
@@ -12465,22 +12450,21 @@
    "abstract_zh": "羊駝天然纖維顏色多樣性的轉錄體學基礎目前仍未完全釐清。我們利用RNA定序（RNA-seq）分析了65隻瓦卡亞羊駝（Huacaya alpacas）的皮膚切片，並將表型顏色類別與用於客觀測量和量化顏色的標準化色彩空間系統——國際照明委員會（CIE）L*a*b* CIELAB測量值相結合。我們使用DESeq2差異表現分析套件評估差異表現，並校正了採集批次、性別和纖維顏色類別，同時在獨立的連續模型中檢驗了 L*（明度）、a*（綠－紅軸）和 b*（藍－黃軸）。類別分析包含 64 個樣本和 25,405 個基因。相對於白色（W），我們在淺棕色（LB）、深棕色（DB）、淺黃褐色強度Y（LFY）和淺黃褐色強度Z（LFZ）中分別識別出 4,968、3,993、1,469 和 7,607 個差異表現基因，其中以有色類別中的高表現量居多。整體轉錄體結構與基因層級的表現模式與 CIELAB 參數相關，支持將這些測量值作為纖維顏色的互補定量描述符。然而，由於採集批次之間的失衡以及皮膚切片異質性的細胞組成，這些相關性應謹慎解釋。類別、連續與功能證據的整合篩選出了 TYR（酪胺酸酶）、TYRP1（酪胺酸酶相關蛋白 1）、MITF（黑色素細胞誘發轉錄因子）、EDNRB（内皮素受體B型）、MFSD12（主要協同轉運蛋白超家族結構域包含 12）以及 GPR143（G 蛋白偶聯受體 143）等候選基因。在 VicPac4 中具有未指定基因座（LOC）識別碼的兩個區域顯示出與前黑色素體蛋白（PMEL）一致的證據，第三個區域則與 OCA2 黑色素體跨膜蛋白（OCA2/P）一致，儘管這些身分仍屬於推測性提案。在有色類別中表現量較高的基因在色素沉著和黑色素體過程中顯著過度代表，而表現量較低的基因則與表皮及角蛋白相關過程相關。這些發現識別出了與天然纖維顏色變異相關的轉錄體變化，以及用於功能驗證的候選基因。"
   },
   {
-   "doi": "10.3390/ani16223560",
-   "title": "Infrared Thermography of Periocular Temperature in Cats During Exhibitions: A Pilot Study",
-   "abstract": "Cat exhibitions may influence cats’ physiological responses, warranting further investigation. This study evaluated infrared thermography (IRT) for assessing periocular temperature in cats under exhibition conditions. Images were obtained from 55 cats: 21 during home visits, 26 at an exhibition, and eight in both settings. Independent groups (n = 47) were compared using linear mixed-effects models; paired observations were analyzed separately. In the main model, adjusted for age, hair length, sex and ambient temperature, periocular temperature was 0.49 °C higher at the exhibition than at home (95% CI −0.07–1.05), but the difference was not statistically significant. In contrast, the unadjusted difference was significant (0.69 °C, 95% CI 0.29–1.08) and remained similar after adjustment for age, hair length and sex (0.64 °C). These variables were not significantly associated with periocular temperature. Ambient temperature was constant at the exhibition and varied only between home households, limiting separation of its effect from that of setting. Subgroup analysis showed a significant difference between settings in males, but not females. Among eight cats assessed in both settings, variability was substantial; results are exploratory. IRT was feasible under exhibition conditions, but larger studies controlling for potential confounders and combining thermography with behavioral and physiological assessments are needed.",
+   "doi": "10.3390/ani16223565",
+   "title": "A Preliminary Study of Multidimensional Welfare Assessment and Management Practices in Companion Dogs: Differences According to Owner and Dog Characteristics",
+   "abstract": "This study assessed companion dog welfare across multiple domains using owner-observable information and examined differences in welfare scores according to owner and dog characteristics. Drawing on the Five Domains Model and previous research, we developed an owner-reported welfare assessment tool covering four domains: environment (16 items), physical health (24 items), behavior and mental state (29 items), and management (17 items). An online survey included 206 adult dog owners. We also compared general dog owners with owners holding training- or animal-assisted-intervention-related qualifications. The mean exploratory composite index was 87.16, with the highest score in the environment domain (92.22) and the lowest in the behavior and mental state domain (80.07). Female owners had significantly higher exploratory composite index values, environment, and management scores than male owners. Selected welfare scores also differed significantly by owner age, dog age, and body weight. No significant differences in the exploratory composite index or domain-specific welfare scores were found between the two groups. Although three individual items showed unadjusted p-values below 0.05, none remained statistically significant after Bonferroni correction. These findings provide preliminary evidence supporting multidimensional, owner-reported assessment of companion dog welfare and management practices. Further testing of the tool’s reliability and validity is warranted.",
    "authors": [
-    "Veronika Vojtkovská",
-    "Naďa Konečná",
-    "Gabriela Kadlecová",
-    "Eva Voslářová"
+    "Yeonhwa Choi",
+    "Jeongik Lee",
+    "Hyejin Kang"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223560",
+   "url": "https://doi.org/10.3390/ani16223565",
    "date": "2026-11-11",
    "first_seen": "2026-11-12",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": "貓隻貓展可能會影響其生理反應，這值得進一步探討。本研究評估了利用紅外線熱顯像技術（IRT）來評估貓在貓展環境下的眶周溫度。影像取自55隻貓：21隻於家庭訪視時拍攝，26隻於貓展中拍攝，8隻則在兩種環境下皆有拍攝。本研究使用線性混合效應模型比較獨立組別（n = 47）；配對觀察則獨立進行分析。在經年齡、毛長、性別及環境溫度校正的主要模型中，貓展時的眶周溫度比家中高出0.49 °C（95% CI −0.07–1.05），但此差異未達統計顯著。相比之下，未校正的差異具顯著性（0.69 °C，95% CI 0.29–1.08），且在針對年齡、毛長和性別進行校正後仍保持相近（0.64 °C）。這些變數與眶周溫度無顯著相關。環境溫度在貓展中保持恆定，僅在不同家庭之間有所變異，這限制了將其影響與環境設定影響區分開來的可能性。次群組分析顯示，公貓在不同環境設定間有顯著差異，母貓則無。在同時於兩種環境接受評估的8隻貓中，變異性相當大，結果具探索性質。紅外線熱顯像技術在貓展環境下是可行的，但未來需要更大規模、能控制潛在干擾因子，並將熱顯像技術與行為及生理評估相結合的研究。"
+   "abstract_zh": "本研究利用飼主可觀察到的資訊，從多個面向評估伴侶犬福祉，並檢視福祉分數依飼主與犬隻特徵而產生的差異。基於「五大面向模型」（Five Domains Model）與先前的研究，我們開發了一套涵蓋四個面向的飼主回報福祉評估工具，分別為：環境（16題）、身體健康（24題）、行為與心理狀態（29題）以及管理（17題）。線上問卷共納入206位成年愛犬飼主。我們亦比較了一般狗主人與具備訓練或動物輔助介入相關資格的飼主。平均探索性綜合指數（exploratory composite index）為87.16分，其中以環境面向分數最高（92.22分），行為與心理狀態面向最低（80.07分）。女性飼主的探索性綜合指數、環境及管理面向分數皆顯著高於男性飼主。部分福祉分數亦因飼主年齡、犬隻年齡與體重而有顯著差異。兩組飼主在探索性綜合指數或各面向福祉分數上則無顯著差異。儘管有3個單一題目的未調整p值低於0.05，但在經過邦費羅尼校正（Bonferroni correction）後皆未達統計顯著。這些發現為多面向、飼主回報的伴侶犬福祉與管理實務評估提供了初步證據。該工具的信效度仍有待進一步測試。"
   },
   {
    "doi": "10.3390/ani16223555",
@@ -12521,6 +12505,41 @@
    "abstract_zh": "犬隻阿基里斯腱（總跟腱）斷裂仍然是犬類骨科手術中最具挑戰性的軟組織損傷之一，近期的大型世代研究證據確認，並沒有單一的手術或術後策略在所有病例中表現出絕對優勢。本文首先對犬阿基里斯腱斷裂的解剖學、病因學、診斷與手術治療進行了更新且具批判性的文獻回顧，涵蓋核心縫合模式、生物及合成組織補強技術、術後固定策略，以及各自的生物力學證據與臨床侷限性。隨後，本文呈現一例犬隻慢性完全性阿基里斯腱斷裂的臨床病例，使用三迴圈滑車縫合模式（Three-Loop Pulley suture pattern），結合直接融入核心縫合線中的聚丙烯網狀套管（即「網中針（mesh-in-stitch）」技術），並輔以暫時性經關節外固定架進行治療。在長達術後33個月的追蹤期間內，連續的臨床、超音波及骨科評估顯示，肌腱出現漸進式的結構重塑、穩定的網狀物整合，且完全恢復功能且無重大併發症。綜上所述，文獻回顧與此臨床結果顯示，將術中機械性強化與組織生長的支架結合，可能是重建犬隻嚴重慢性肌腱斷裂的可行選項。"
   },
   {
+   "doi": "10.3390/ani16223560",
+   "title": "Infrared Thermography of Periocular Temperature in Cats During Exhibitions: A Pilot Study",
+   "abstract": "Cat exhibitions may influence cats’ physiological responses, warranting further investigation. This study evaluated infrared thermography (IRT) for assessing periocular temperature in cats under exhibition conditions. Images were obtained from 55 cats: 21 during home visits, 26 at an exhibition, and eight in both settings. Independent groups (n = 47) were compared using linear mixed-effects models; paired observations were analyzed separately. In the main model, adjusted for age, hair length, sex and ambient temperature, periocular temperature was 0.49 °C higher at the exhibition than at home (95% CI −0.07–1.05), but the difference was not statistically significant. In contrast, the unadjusted difference was significant (0.69 °C, 95% CI 0.29–1.08) and remained similar after adjustment for age, hair length and sex (0.64 °C). These variables were not significantly associated with periocular temperature. Ambient temperature was constant at the exhibition and varied only between home households, limiting separation of its effect from that of setting. Subgroup analysis showed a significant difference between settings in males, but not females. Among eight cats assessed in both settings, variability was substantial; results are exploratory. IRT was feasible under exhibition conditions, but larger studies controlling for potential confounders and combining thermography with behavioral and physiological assessments are needed.",
+   "authors": [
+    "Veronika Vojtkovská",
+    "Naďa Konečná",
+    "Gabriela Kadlecová",
+    "Eva Voslářová"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223560",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-12",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "貓隻貓展可能會影響其生理反應，這值得進一步探討。本研究評估了利用紅外線熱顯像技術（IRT）來評估貓在貓展環境下的眶周溫度。影像取自55隻貓：21隻於家庭訪視時拍攝，26隻於貓展中拍攝，8隻則在兩種環境下皆有拍攝。本研究使用線性混合效應模型比較獨立組別（n = 47）；配對觀察則獨立進行分析。在經年齡、毛長、性別及環境溫度校正的主要模型中，貓展時的眶周溫度比家中高出0.49 °C（95% CI −0.07–1.05），但此差異未達統計顯著。相比之下，未校正的差異具顯著性（0.69 °C，95% CI 0.29–1.08），且在針對年齡、毛長和性別進行校正後仍保持相近（0.64 °C）。這些變數與眶周溫度無顯著相關。環境溫度在貓展中保持恆定，僅在不同家庭之間有所變異，這限制了將其影響與環境設定影響區分開來的可能性。次群組分析顯示，公貓在不同環境設定間有顯著差異，母貓則無。在同時於兩種環境接受評估的8隻貓中，變異性相當大，結果具探索性質。紅外線熱顯像技術在貓展環境下是可行的，但未來需要更大規模、能控制潛在干擾因子，並將熱顯像技術與行為及生理評估相結合的研究。"
+  },
+  {
+   "doi": "10.3390/ani16223557",
+   "title": "Administrative Records and Animal Welfare Accountability in Bull-Related Events in Spain",
+   "abstract": "Event-level documentary scrutiny of animal welfare requires matching each claim to the correct administrative record and linking related records. This study asks how far selected published Spanish records support such scrutiny for bull-related events. We developed a five-step audit: define the claim; identify the required object; determine whether the link applies; classify the evidence; and state the permissible conclusion. It was applied to 20 supplied claim-source units drawn from Ministry of Culture series recording 20,466 professional events in 2012–2025; two Castilla-La Mancha register extracts; and purposively selected documents. Worked examples illustrate four potential misreadings: settlement annotations read as incomplete registrations; a net gain of coded rows read as an equal gain of registration codes; grant provisions and call ceilings read as payments; and schedules or general rules read as evidence of occurrence or compliance. Applicable rules prescribe veterinary examinations and event records. For one bull run, selected sources supported reported occurrence and animal disposition; event-specific authorisation and veterinary links were not assessed. Because permit, veterinary and payment files were not collected, the incomplete chain in the assembled corpus follows from the collection design and does not establish that such records are absent. Candidate linkage fields are proposed for pilot testing.",
+   "authors": [
+    "Di Zhang",
+    "Ayaz Nizamani",
+    "Hongchao Liu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223557",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-12",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "事件級別的動物福利紀錄審查，需要將每個聲明與正確的行政紀錄進行匹配，並連結相關紀錄。本研究探討了部分已出版的西班牙紀錄能在多大程度上支持針對與公牛相關活動的此類審查。我們開發了一套五步驟稽核流程：定義聲明；識別所需的物件；判定連結是否適用；分類證據；以及陳述允許的結論。該流程應用於 20 個提供的聲明-來源單元，這些單元取自文化部記錄 2012–2025 年間 20,466 場專業活動的系列資料、兩份卡斯提亞-拉曼查（Castilla-La Mancha）登記冊摘錄，以及刻意挑選的文件。實例說明瞭四種潛在的誤讀：將結算註解誤讀為未完成的登記；將編碼列的淨增加誤讀為登記代碼的同等增加；將補助規定與徵集上限誤讀為付款；以及將行程表或一般規則誤讀為發生或合規的證據。適用規則規定了獸醫檢查和活動紀錄。對於一場奔牛活動，選定的來源支持了所報告的發生情況和動物處置；活動專屬的授權和獸醫連結則未進行評估。由於未收集許可證、獸醫和付款檔案，所組合語料庫中不完整的鏈結是由於收集設計所致，並不能證明此類紀錄不存在。本文提出了用於試驗測試的候選連結欄位。"
+  },
+  {
    "doi": "10.3390/ani16223564",
    "title": "Intraoperative Ketamine Infusion and Postoperative Pain Trajectories, Rescue Analgesia, and Persistent Postsurgical Pain in Dogs Undergoing Orthopedic Surgery: A Retrospective Cohort Study",
    "abstract": "Ketamine is included in multimodal analgesic protocols, but evidence for its benefit on postoperative and persistent pain in dogs is limited. This retrospective cohort study evaluated the association between perianesthetic ketamine infusion and postoperative pain trajectories, rescue analgesia, and signs of persistent postsurgical pain in 508 client-owned dogs undergoing orthopedic surgery (May 2023–June 2024). Signalment, procedure, anesthetic management, pain scores, and rescue opioids during the first 48 postoperative hours were recorded, with findings at recheck ≥ 2 months. Group-based trajectory modeling identified pain trajectories; associations were assessed using multivariable regression, adjusted for confounders. Ketamine was administered to 101 dogs (19.9%) at a median (Q1, Q3) rate of 0.50 (0.33, 0.96) mg/kg/h. Two trajectories were identified: no pain (83.7%) and mild-to-low pain (16.3%). Ketamine infusion was not associated with trajectory membership (adjusted p = 0.22), rescue analgesia (p = 0.44), or opioid requirement (p = 0.07). At recheck, 37.8% of the 251 dogs with follow-up showed persistent pain and/or incomplete limb function, with no association with perianesthetic ketamine infusion (p = 0.15). In dogs undergoing orthopedic surgery and receiving multimodal analgesia, perianesthetic ketamine, at the doses and infusion durations used, was not associated with improved short-term or persistent pain outcomes.",
@@ -12540,23 +12559,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "氯胺酮被納入多模式鎮痛方案中，但其對犬術後及持續性疼痛之效益的證據仍屬有限。本回顧性世代研究評估了 508 隻接受骨科手術之飼主所有犬隻（2023年5月至2024年6月）中，圍麻醉期持續輸注氯胺酮與術後疼痛軌跡、救援鎮痛及持續性術後疼痛徵兆之間的關聯。記錄了品種信號、手術程序、麻醉管理、疼痛分數以及術後最初 48 小時內的救援鴉片類藥物，並記錄了術後 $\\ge$ 2 個月複診時的發現。利用基於群體的軌跡建模識別疼痛軌跡；使用多變量迴歸評估關聯性，並對干擾因子進行校正。有 101 隻犬（19.9%）投予氯胺酮，其輸注速率之中位數（第一四分位數，第三四分位數）為 0.50 (0.33, 0.96) mg/kg/h。識別出兩種軌跡：無痛（83.7%）及輕度至低度疼痛（16.3%）。輸注氯胺酮與軌跡歸屬（校正後 p = 0.22）、救援鎮痛（p = 0.44）或鴉片類藥物需求（p = 0.07）無顯著關聯。在複診時，251 隻有追蹤紀錄的犬隻中，有 37.8% 表現出持續性疼痛及／或肢體功能不全，且與圍麻醉期輸注氯胺酮無關（p = 0.15）。在接受骨科手術並給予多模式鎮痛的犬隻中，在所使用的劑量與輸注持續時間下，圍麻醉期使用氯胺酮與改善短期或持續性疼痛預後並無關聯。"
-  },
-  {
-   "doi": "10.3390/ani16223557",
-   "title": "Administrative Records and Animal Welfare Accountability in Bull-Related Events in Spain",
-   "abstract": "Event-level documentary scrutiny of animal welfare requires matching each claim to the correct administrative record and linking related records. This study asks how far selected published Spanish records support such scrutiny for bull-related events. We developed a five-step audit: define the claim; identify the required object; determine whether the link applies; classify the evidence; and state the permissible conclusion. It was applied to 20 supplied claim-source units drawn from Ministry of Culture series recording 20,466 professional events in 2012–2025; two Castilla-La Mancha register extracts; and purposively selected documents. Worked examples illustrate four potential misreadings: settlement annotations read as incomplete registrations; a net gain of coded rows read as an equal gain of registration codes; grant provisions and call ceilings read as payments; and schedules or general rules read as evidence of occurrence or compliance. Applicable rules prescribe veterinary examinations and event records. For one bull run, selected sources supported reported occurrence and animal disposition; event-specific authorisation and veterinary links were not assessed. Because permit, veterinary and payment files were not collected, the incomplete chain in the assembled corpus follows from the collection design and does not establish that such records are absent. Candidate linkage fields are proposed for pilot testing.",
-   "authors": [
-    "Di Zhang",
-    "Ayaz Nizamani",
-    "Hongchao Liu"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223557",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-12",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "事件級別的動物福利紀錄審查，需要將每個聲明與正確的行政紀錄進行匹配，並連結相關紀錄。本研究探討了部分已出版的西班牙紀錄能在多大程度上支持針對與公牛相關活動的此類審查。我們開發了一套五步驟稽核流程：定義聲明；識別所需的物件；判定連結是否適用；分類證據；以及陳述允許的結論。該流程應用於 20 個提供的聲明-來源單元，這些單元取自文化部記錄 2012–2025 年間 20,466 場專業活動的系列資料、兩份卡斯提亞-拉曼查（Castilla-La Mancha）登記冊摘錄，以及刻意挑選的文件。實例說明瞭四種潛在的誤讀：將結算註解誤讀為未完成的登記；將編碼列的淨增加誤讀為登記代碼的同等增加；將補助規定與徵集上限誤讀為付款；以及將行程表或一般規則誤讀為發生或合規的證據。適用規則規定了獸醫檢查和活動紀錄。對於一場奔牛活動，選定的來源支持了所報告的發生情況和動物處置；活動專屬的授權和獸醫連結則未進行評估。由於未收集許可證、獸醫和付款檔案，所組合語料庫中不完整的鏈結是由於收集設計所致，並不能證明此類紀錄不存在。本文提出了用於試驗測試的候選連結欄位。"
   },
   {
    "doi": "10.3390/ani16223559",
@@ -12680,25 +12682,6 @@
    "abstract_zh": "肌間骨（Intermuscular bones, IBs）是嵌入魚類肌肉組織中的小型礦化構造，會增加加工處理的複雜度，因此在養殖鯉科魚類中被視為一項品質缺點。儘管 bmp6 已被證實與肌間骨發育有關，但其缺失所關聯的細胞變化仍尚未被完全解析。在本研究中，我們對野生型和 bmp6 基因敲除斑馬魚的肌間骨相關肌肉組織進行了單細胞轉錄體分析。在我們分析的突變體樣本中，成骨細胞的比例較低，且肌腱幹／祖細胞（TSPCs）與成骨細胞之間推導出的轉錄軌跡也發生了改變。此外，我們識別出一個具有與破骨細胞相關轉錄特徵的獨特突變體特異性 runx2+/ctsk+ 細胞群。CellChat 分析進一步預測，在 bmp6 突變體中，涉及 LAMC1 與 DAG1 的 LAMININ 相關細胞間通訊亦發生了改變。這些發現進一步闡明了與 bmp6 缺陷相關的細胞變化，並為斑馬魚肌間骨發育的細胞調控機制提供了見解。"
   },
   {
-   "doi": "10.3390/ani16223601",
-   "title": "Extracellular Vesicles Mediate Feline Panleukopenia Virus to Suppress IFN-ω-Induced Antiviral Cytokine Expression",
-   "abstract": "The immune escape and cross-host transmission mechanisms of feline panleukopenia virus (FPV) remain poorly elucidated, and extracellular vesicles (EVs) play critical regulatory roles in viral infection progression. To explore the molecular mechanism by which EVs mediate FPV infection, proliferation, and immune escape, EVs were isolated from FPV-infected F81 cells and peripheral blood of FPV-affected cats in this study. CD63 antibody-based magnetic bead immunoaffinity chromatography was applied for EV purification. Multiple approaches, including transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), Western blotting (WB), and quantitative real-time PCR (qPCR), were used for vesicle characterization. Cell infection assays, neutralizing antibody blockade assays, and interferon (IFN) intervention assays were performed to clarify the biological functions of FPV-derived EVs. The results showed that FPV-positive EVs with typical morphology, particle size, and biomarker characteristics were successfully isolated and purified, and the purification strategy markedly reduced free virus contamination. Functional experiments verified that FPV-infected cell-derived EVs could be rapidly internalized by host cells, significantly accelerate early FPV proliferation and cytopathic effects, and inhibition of EV secretion efficiently blocked FPV propagation. Moreover, FPV-EVs overcame the host entry restriction of FPV, mediated FPV entry into non-permissive HEK293T cells, and escaped the blockade of neutralizing antibodies. Mechanistically, FPV-EVs potently antagonized IFN-ω-mediated cellular antiviral responses and inhibited the expression of interferon-stimulated genes (ISGs) including ISG15, ISG56, and MX1. This immunosuppressive effect was independent of EV carriers and exhibited broad-spectrum activity in different cell types. Furthermore, EVs derived from the peripheral blood of FPV-infected cats also efficiently mediated FPV infection, assisted viral escape from humoral immunity, and antagonized host IFN-mediated antiviral responses. Collectively, this study indicates that EVs act as a key medium for FPV to achieve efficient proliferation, cross-cell infection, and immune escape, revealing a novel transmission mechanism of FPV, although productive replication and progeny release in the non-permissive human cells were not demonstrated and the potential for host-range expansion remains hypothetical. These findings provide important experimental evidence and theoretical support for improving the pathogenic mechanism of FPV and developing novel prevention and control strategies.",
-   "authors": [
-    "Guowei Xu",
-    "Meiling Jin",
-    "Chao Liang",
-    "Jingyan Zhang",
-    "Jianxi Li"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223601",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "貓泛白血球減少症病毒（FPV）的免疫逃逸與跨宿主傳播機制仍未完全闡明，而細胞外囊泡（EVs）在病毒感染進程中扮演關鍵的調節角色。本研究旨在探討EVs介導FPV感染、增殖及免疫逃逸的分子機制，自FPV感染的F81細胞以及FPV病貓的外周血中分離出EVs。應用基於CD63抗體的磁珠免疫親和層析法進行EVs純化。結合多種方法，包含透射電子顯微鏡（TEM）、奈米粒子追蹤分析（NTA）、西方墨漬法（WB）及即時定量PCR（qPCR）進行囊泡特徵鑑定。透過細胞感染實驗、中和抗體阻斷實驗及干擾素（IFN）干預實驗，以釐清FPV源性EVs的生物學功能。結果顯示，成功分離並純化出具有典型形態、粒徑及生物標記特徵的FPV陽性EVs，且該純化策略顯著降低了游離病毒的污染。功能實驗證實，FPV感染細胞源性的EVs能被宿主細胞快速內化，顯著加速早期FPV的增殖及細胞病變效應，而抑制EVs分泌則能有效阻斷FPV的擴散。此外，FPV-EVs克服了FPV的宿主細胞進入限制，介導FPV進入原本不支援感染的HEK293T細胞，並逃避中和抗體的阻斷。在機制上，FPV-EVs能強力拮抗IFN-ω介導的細胞抗病毒反應，並抑制干擾素刺激基因（ISGs）的表達，包含ISG15、ISG56及MX1。此種免疫抑制效應不依賴於EVs載體，並在不同細胞類型中展現廣譜活性。再者，源自FPV感染貓外周血的EVs亦能高效介導FPV感染、協助病毒逃避體液免疫，並拮抗宿主IFN介導的抗病毒反應。綜上所述，本研究顯示EVs作為FPV實現高效增殖、跨細胞感染及免疫逃逸的關鍵媒介，揭示了一種FPV的新型傳播機制，儘管在不支援感染的人類細胞中未表現出高效複製與子代釋放，且宿主範圍擴大的潛力仍屬假設性。這些發現為完善FPV的致病機制及開發新型防控策略提供了重要的實驗證據與理論支持。"
-  },
-  {
    "doi": "10.3390/ani16223602",
    "title": "Effects of Periodic Fasting and Refeeding on Enzyme Activities, Related Gene Expression and Gut Microbiota in the Sea Urchin Strongylocentrotus intermedius",
    "abstract": "Feeding strategy is a critical factor in sea urchin aquaculture. Previous studies have shown that the strategy of fasting for 3 days followed by refeeding for 9 days supports full compensatory growth in Strongylocentrotus intermedius, but the underlying mechanisms remain unclear. This study investigated the effects of periodic fasting and refeeding on enzyme activities, gene expression and gut microbiota in this species. Three feeding regimes were tested over 108 days: continuous feeding (group S0), fasting for 3 days followed by refeeding for 9 days (group S3), and fasting for 6 days followed by refeeding for 6 days (group S6). Group S3 had significantly higher digestive enzyme activities than group S0 (p &lt; 0.05), with unchanged antioxidant enzyme activities. Intestinal genes related to nutrient processing and lipid synthesis (MYP, Elovl4, Tgfbi1, Tgfbi2) were upregulated in group S3. Gut microbiota alpha diversity was comparable across groups, but beta diversity showed significant structural remodeling in group S3, with an elevated Bacillota/Bacteroidota ratio and enriched Lutibacter and Desulfobulbia. By contrast, group S6 showed reduced digestive enzyme activities, downregulated expression of target genes in the intestine, elevated pro-inflammatory TNF-α transcript levels, and reshaped gut microbiota structure. In conclusion, the strategy of fasting for 3 days followed by refeeding for 9 days is associated with improved feed absorption efficiency and compensatory growth, accompanied by enhanced digestive capacity and up-regulated the expression of growth-related target genes in the intestine, and reshaped gut microbiota composition, providing a theoretical reference for intermittent feeding in S. intermedius aquaculture.",
@@ -12722,6 +12705,25 @@
    "abstract_zh": "投餵策略是海膽水產養殖的關鍵因素。先前的研究表明，禁食3天再恢復投餵9天的策略能促進中間球海膽（Strongylocentrotus intermedius）的完全補償生長，但其潛在機制仍不清楚。本研究探討了週期性禁食與恢復投餵對該物種的酵素活性、基因表現及腸道微生物相的影響。本研究進行了為期108天的三種投餵實驗組：連續投餵（S0組）、禁食3天後恢復投餵9天（S3組）、以及禁食6天後恢復投餵6天（S6組）。S3組的消化酶活性顯著高於S0組（p < 0.05），而抗氧化酶活性則無顯著變化。與營養物質加工和脂質合成相關的腸道基因（MYP、Elovl4、Tgfbi1、Tgfbi2）在S3組中表現上調。各組之間的腸道微生物相α多樣性（alpha diversity）相近，但β多樣性（beta diversity）顯示S3組的結構發生了顯著重塑，其厚壁菌門/擬桿菌門（Bacillota/Bacteroidota）比率升高，且Lutibacter和Desulfobulbia屬豐度增加。相比之下，S6組的消化酶活性降低，腸道中目標基因的表現下調，促發炎因子TNF-α轉錄水準升高，且腸道微生物相結構遭到重塑。綜上所述，禁食3天後恢復投餵9天的策略有助於提高飼料吸收效率並促進補償生長，伴隨著增強的消化能力、腸道中生長相關目標基因表現的上調，以及重塑的腸道微生物相組成，為中間球海膽水產養殖的間歇性投餵提供了理論參考。"
   },
   {
+   "doi": "10.3390/ani16223601",
+   "title": "Extracellular Vesicles Mediate Feline Panleukopenia Virus to Suppress IFN-ω-Induced Antiviral Cytokine Expression",
+   "abstract": "The immune escape and cross-host transmission mechanisms of feline panleukopenia virus (FPV) remain poorly elucidated, and extracellular vesicles (EVs) play critical regulatory roles in viral infection progression. To explore the molecular mechanism by which EVs mediate FPV infection, proliferation, and immune escape, EVs were isolated from FPV-infected F81 cells and peripheral blood of FPV-affected cats in this study. CD63 antibody-based magnetic bead immunoaffinity chromatography was applied for EV purification. Multiple approaches, including transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), Western blotting (WB), and quantitative real-time PCR (qPCR), were used for vesicle characterization. Cell infection assays, neutralizing antibody blockade assays, and interferon (IFN) intervention assays were performed to clarify the biological functions of FPV-derived EVs. The results showed that FPV-positive EVs with typical morphology, particle size, and biomarker characteristics were successfully isolated and purified, and the purification strategy markedly reduced free virus contamination. Functional experiments verified that FPV-infected cell-derived EVs could be rapidly internalized by host cells, significantly accelerate early FPV proliferation and cytopathic effects, and inhibition of EV secretion efficiently blocked FPV propagation. Moreover, FPV-EVs overcame the host entry restriction of FPV, mediated FPV entry into non-permissive HEK293T cells, and escaped the blockade of neutralizing antibodies. Mechanistically, FPV-EVs potently antagonized IFN-ω-mediated cellular antiviral responses and inhibited the expression of interferon-stimulated genes (ISGs) including ISG15, ISG56, and MX1. This immunosuppressive effect was independent of EV carriers and exhibited broad-spectrum activity in different cell types. Furthermore, EVs derived from the peripheral blood of FPV-infected cats also efficiently mediated FPV infection, assisted viral escape from humoral immunity, and antagonized host IFN-mediated antiviral responses. Collectively, this study indicates that EVs act as a key medium for FPV to achieve efficient proliferation, cross-cell infection, and immune escape, revealing a novel transmission mechanism of FPV, although productive replication and progeny release in the non-permissive human cells were not demonstrated and the potential for host-range expansion remains hypothetical. These findings provide important experimental evidence and theoretical support for improving the pathogenic mechanism of FPV and developing novel prevention and control strategies.",
+   "authors": [
+    "Guowei Xu",
+    "Meiling Jin",
+    "Chao Liang",
+    "Jingyan Zhang",
+    "Jianxi Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223601",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "貓泛白血球減少症病毒（FPV）的免疫逃逸與跨宿主傳播機制仍未完全闡明，而細胞外囊泡（EVs）在病毒感染進程中扮演關鍵的調節角色。本研究旨在探討EVs介導FPV感染、增殖及免疫逃逸的分子機制，自FPV感染的F81細胞以及FPV病貓的外周血中分離出EVs。應用基於CD63抗體的磁珠免疫親和層析法進行EVs純化。結合多種方法，包含透射電子顯微鏡（TEM）、奈米粒子追蹤分析（NTA）、西方墨漬法（WB）及即時定量PCR（qPCR）進行囊泡特徵鑑定。透過細胞感染實驗、中和抗體阻斷實驗及干擾素（IFN）干預實驗，以釐清FPV源性EVs的生物學功能。結果顯示，成功分離並純化出具有典型形態、粒徑及生物標記特徵的FPV陽性EVs，且該純化策略顯著降低了游離病毒的污染。功能實驗證實，FPV感染細胞源性的EVs能被宿主細胞快速內化，顯著加速早期FPV的增殖及細胞病變效應，而抑制EVs分泌則能有效阻斷FPV的擴散。此外，FPV-EVs克服了FPV的宿主細胞進入限制，介導FPV進入原本不支援感染的HEK293T細胞，並逃避中和抗體的阻斷。在機制上，FPV-EVs能強力拮抗IFN-ω介導的細胞抗病毒反應，並抑制干擾素刺激基因（ISGs）的表達，包含ISG15、ISG56及MX1。此種免疫抑制效應不依賴於EVs載體，並在不同細胞類型中展現廣譜活性。再者，源自FPV感染貓外周血的EVs亦能高效介導FPV感染、協助病毒逃避體液免疫，並拮抗宿主IFN介導的抗病毒反應。綜上所述，本研究顯示EVs作為FPV實現高效增殖、跨細胞感染及免疫逃逸的關鍵媒介，揭示了一種FPV的新型傳播機制，儘管在不支援感染的人類細胞中未表現出高效複製與子代釋放，且宿主範圍擴大的潛力仍屬假設性。這些發現為完善FPV的致病機制及開發新型防控策略提供了重要的實驗證據與理論支持。"
+  },
+  {
    "doi": "10.3390/ani16223586",
    "title": "Matrix Metalloproteinase Expression in Canine Cutaneous Mast Cell Tumours: Clinicopathological Associations and Prognostic Value of MMP-9",
    "abstract": "Canine cutaneous mast cell tumours (MCTs) exhibit variable biological behaviour, requiring additional prognostic biomarkers to refine risk stratification. This study evaluated matrix metalloproteinase (MMP)-1, MMP-2, and MMP-9 immunohistochemical expression in 90 paraffin-embedded cutaneous MCTs, assessing correlations with clinicopathological features and outcome. MMP-9 expression significantly associated with histological grade (p = 0.001), tumour size (p = 0.040), age (p = 0.021), Ki-67 index (p = 0.001), and c-KIT pattern (p = 0.040). Tumours with &gt;50% MMP-9-positive neoplastic cells were all grade III (n = 6), showing strong associations with recurrence/metastasis (p = 0.016) and tumour-related death (p &lt; 0.0001). Although histological grade remained the primary prognostic variable in multivariate decision-tree analysis, MMP-9 offered critical complementary stratification within grade I–II tumours; dogs with 25–50% MMP-9 positivity demonstrated lower survival than those with &lt;25% positivity. MMP-1 expression correlated with histological grade, Ki-67 index, and c-KIT pattern, whereas MMP-2 showed no significant associations with grade or outcome. Overall, MMP-9 was identified as the metalloproteinase most consistently linked to aggressive tumour behaviour, supporting further investigation as a candidate prognostic marker. Its independent prognostic value and clinical utility remain to be established.",
@@ -12741,42 +12743,6 @@
    "abstract_zh": "犬皮膚肥大細胞瘤（mast cell tumours, MCTs）展現出多變的生物學行為，需藉由額外的預後生物標記來精進風險分層。本研究評估了90個石蠟包埋皮膚肥大細胞瘤中基質金屬蛋白酶（MMP）-1、MMP-2及MMP-9的免疫組織化學表現，並評估其與臨床病理特徵及預後之相關性。MMP-9表現與組織學分級（p = 0.001）、腫瘤大小（p = 0.040）、年齡（p = 0.021）、Ki-67指數（p = 0.001）及c-KIT表現型態（p = 0.040）呈顯著相關。MMP-9陽性腫瘤細胞佔>50%的腫瘤皆為第三級（n = 6），且顯示出與復發／轉移（p = 0.016）及腫瘤相關死亡（p < 0.0001）有強烈相關性。儘管在多變量決策樹分析中，組織學分級仍是主要的預後變數，但MMP-9在第一至二級腫瘤中提供了關鍵的互補性分層；MMP-9陽性率介於25%至50%的犬隻表現出較低的存活率，低於陽性率<25%者。MMP-1表現與組織學分級、Ki-67指數及c-KIT表現型態相關，而MMP-2則與分級或預後無顯著相關。整體而言，MMP-9被確認為與侵襲性腫瘤行為最具一致性關聯的金屬蛋白酶，支持其作為潛在預後標記進行進一步探討。其獨立預後價值與臨床實用性仍待確立。"
   },
   {
-   "doi": "10.3390/ani16223587",
-   "title": "Deep-Feature Fusion and Hybrid Machine Learning for Canine Dermatological Image Classification",
-   "abstract": "Automated classification of canine dermatological images is challenging because visually overlapping lesions, uncertain repository labels, and repeated or transformed source photographs can influence performance estimates. This study evaluated fixed ImageNet-pretrained DenseNet201, ResNet50, and EfficientNetB0 features, alone and in fusion, with support vector machine (SVM), multilayer perceptron (MLP), and logistic regression classifiers for six repository-provided categories. Transformation-robust source auditing yielded 3088 images: 2862 development images from 864 source groups and a source-group-separated held-out internal test set of 226 images from 226 groups. Model selection used five-fold source-group-aware outer cross-validation with source-group-aware inner grid search. DenseNet201–EfficientNetB0 + SVM achieved the highest mean outer-fold balanced accuracy (0.9462 ± 0.0174), while triple fusion was comparable (0.9449 ± 0.0142) with a larger feature representation. On the held-out internal test set, accuracy was 0.8319 (95% CI 0.7832–0.8805), balanced accuracy was 0.7806 (0.7219–0.8384), and macro F1 was 0.7871 (0.7234–0.8432). Independent, clinically annotated external validation remains necessary to assess generalizability. These findings highlight the value of source-aware evaluation and parsimonious feature fusion when assessing multiclass canine dermatological image classification using repository-based datasets.",
-   "authors": [
-    "Harun Yonar"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223587",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "自動化犬隻皮膚科影像分類極具挑戰性，因為視覺上重疊的病灶、不確定的資料庫標籤，以及重複或經轉換的來源照片皆會影響效能評估。本研究評估了固定經 ImageNet 預訓練之 DenseNet201、ResNet50 與 EfficientNetB0 特徵（單獨使用及特徵融合），並結合支持向量機（SVM）、多層感知器（MLP）與邏輯斯迴歸分類器，針對資料庫提供的六個類別進行分析。具備轉換強韌性的來源稽核共產生 3,088 張影像：包含來自 864 個來源群組的 2,862 張開發影像，以及一個來源群組獨立、包含來自 226 個群組之 226 張影像的保留內部測試集。模型選擇採用具來源群組意識的五折外部交叉驗證，並搭配具來源群組意識的內部網格搜尋。DenseNet201–EfficientNetB0 + SVM 獲得最高的平均外部折平衡準確率（0.9462 ± 0.0174），而三者融合（triple fusion）則具有較大的特徵表示，表現亦相近（0.9449 ± 0.0142）。在保留的內部測試集上，準確率為 0.8319（95% CI 0.7832–0.8805），平衡準確率為 0.7806（0.7219–0.8384），巨平均 F1 分數（macro F1）為 0.7871（0.7234–0.8432）。獨立且具臨床註解的外部驗證對於評估泛化能力仍屬必要。這些發現突顯了在利用基於資料庫之資料集評估多類別犬隻皮膚科影像分類時，具來源意識的評估與精簡特徵融合的價值。"
-  },
-  {
-   "doi": "10.3390/ani16223598",
-   "title": "Physiologic Effects of Assisted Ventilation with Preserved Spontaneous Breathing Versus Controlled Ventilation in Anesthetized Dogs",
-   "abstract": "Pressure support ventilation (PSV) is an assisted ventilation mode that supports spontaneous inspiratory efforts, whereas pressure-controlled ventilation (PCV) delivers mechanically controlled breaths. This randomized crossover study compared the cardiopulmonary effects of PSV and PCV in five clinically healthy adult Beagle dogs undergoing general anesthesia. Each dog underwent two anesthetic sessions separated by a minimum 2-week washout period. Hemodynamic variables, respiratory mechanics, and gas exchange were assessed during ventilation, and thoracic computed tomography was performed before and after each intervention to quantify lung aeration. PSV was associated with higher tidal volumes overall compared with PCV, while mean airway pressure was significantly lower at two time points. Peak inspiratory pressure did not differ significantly between ventilation modes. No statistically significant differences between ventilation modes were detected in hemodynamic variables, gas exchange, relative lung volume, or the proportions of hypoinflated and collapsed lung regions. Although differences in tidal volume and mean airway pressure were observed between ventilation modes, their physiological and clinical significance remains uncertain. Given the small sample size, these findings should be interpreted cautiously, and further studies are needed to establish their clinical significance.",
-   "authors": [
-    "Ji-Min Jeong",
-    "Sang-Won Yoo",
-    "Ji-Hyun Park",
-    "Chang-Hwan Moon",
-    "Lyon Y. Lee",
-    "Young Joo Kim",
-    "Dongbin Lee"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223598",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "壓力支援通氣（PSV）是一種支援自主吸氣努力的輔助通氣模式，而壓力控制通氣（PCV）則提供機械控制的通氣。本隨機交叉研究比較了PSV與PCV對五隻接受全身麻醉的臨床健康成年米格魯犬之心肺影響。每隻狗皆接受兩次麻醉療程，中間至少間隔2週的洗除期。在通氣期間評估血流動力學變數、呼吸力學及氣體交換，並在每次介入前後進行胸部電腦斷層掃描以量化肺部通氣量。與PCV相比，PSV整體而言具有較高的潮氣容積，而平均氣道壓則在兩個時間點顯著較低。兩種通氣模式之間的最大吸氣壓並無顯著差異。在血流動力學變數、氣體交換、相對肺容積，或通氣不足與萎陷肺區的比例方面，兩種通氣模式之間未檢測出具統計學上的顯著差異。儘管在不同通氣模式之間觀察到潮氣容積和平均氣道壓的差異，其生理及臨床意義仍不確定。鑑於樣本數較小，這些發現應審慎解讀，尚需進一步研究來確立其臨床意義。"
-  },
-  {
    "doi": "10.3390/ani16223596",
    "title": "Exploring Text-Guided Wildlife Counting in Aerial Imagery Without Additional Training",
    "abstract": "Reliable wildlife counts support population assessment and conservation planning, while aerial imagery enables surveys over large or inaccessible areas. Most automated counting systems are developed for predefined animal categories and require retraining when targets change. Text-guided zero-shot counting offers a flexible alternative by specifying the target through language without category-specific retraining, but how such methods transfer to aerial wildlife imagery remains underexplored. Existing aerial animal datasets vary widely in tasks, categories, environments, resolution, and acquisition conditions, making consistent evaluation difficult. We therefore construct WZSC-5K by consolidating, cleaning, and harmonizing existing resources into a standardized 5000-image benchmark covering 28 animal categories. Existing zero-shot counters developed on natural images face challenges on the aerial wildlife imagery represented in WZSC-5K. Small targets and cluttered backgrounds complicate spatial localization, while top-down views can weaken the correspondence between generic text concepts and animal appearance. We therefore develop a training-free adaptation that uses spatial correspondence from a frozen vision foundation model to improve spatial coherence and incorporates aerial context to improve visual-text alignment. Without additional aerial-domain training, the proposed method reduces MAE and RMSE by 13.82% and 5.35% relative to the baseline model, demonstrating improved transfer under the standardized WZSC-5K evaluation setting.",
@@ -12794,23 +12760,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "可靠 ၏ 野生動物數量點算支援族群評估與保育規劃，而空拍影像則能對大範圍或難以抵達的區域進行調查。多數自動化計數系統係針對預先定義的動物類別而開發，當目標改變時需要重新訓練。文字引導的零樣本計數（Text-guided zero-shot counting）透過語言指定目標而無需進行特定類別的重新訓練，提供了一種具彈性的替代方案，然而此類方法如何轉移至航空野生動物影像仍有待探討。現有的航空動物資料集在任務、類別、環境、解析度與採集條件上差異顯著，使得一致性的評估變得困難。因此，我們透過整合、清理並協調現有資源，建構了 WZSC-5K，這是一個涵蓋 28 個動物類別、包含 5000 張影像的標準化基準。在自然影像上開發的現有零樣本計數器在 WZSC-5K 所代表的航空野生動物影像上面臨挑戰。微小的目標與雜亂的背景使空間定位變得複雜，而俯視視角則可能削弱通用文字概念與動物外觀之間的對應關係。因此，我們開發了一種無需訓練的調適方法，利用來自凍結視覺基礎模型的空間對應來提升空間一致性，並納入空中背景以改善視覺與文字的對齊。在無需額外航空領域訓練的情況下，所提出的方法相較於基準模型，將平均絕對誤差（MAE）與均方根誤差（RMSE）分別降低了 13.82% 與 5.35%，展現了在標準化 WZSC-5K 評估設定下更佳的轉移能力。"
-  },
-  {
-   "doi": "10.3390/ani16223594",
-   "title": "Functional Morphology of the Mandible in Caviomorph Rodents from Northern South America: A Geometric Morphometric Analysis of Shape Variation and Diet Differentiation",
-   "abstract": "The relationship between mandibular morphology and diet provides key insights into functional adaptation in mammals. Caviomorph rodents, a diverse Neotropical clade, exhibit a wide range of feeding habits, making them an ideal model for ecomorphological studies. This study evaluates whether mandibular shape variation can discriminate among dietary categories and identifies the morphological components associated with these differences. A total of 184 mandibles from 20 species, including several poorly known northern South American taxa (e.g., Dasyprocta guamara, Pattonomys spp., Proechimys spp. and Coendou spp.), were analyzed using geometric morphometrics. Shape variation was examined through Principal Component Analysis (PCA). To avoid overestimation of group segregation, Canonical Variate Analysis (CVA) and Discriminant Function Analysis (DFA) were performed using the first 13 PC scores. Allometry was assessed using permutation procedures. Results revealed significant differences among dietary groups, with correct classification rates reaching 100% for the grass-feeding group and exceeding 97% for the mixed-diet groups. Grass-feeding species displayed elongated and slender mandibles, whereas fruit–leaf and fruit–seed groups exhibited shorter and more robust configurations. Allometry explained a small proportion of shape variation, indicating that morphological differences are primarily driven by functional adaptation. While phylogenetic signal is inherent in the sample, these findings confirm that mandibular shape variation is strongly associated with dietary differentiation reinforcing the mandible as a reliable proxy for dietary ecology and providing a vital regional baseline for understanding the morphological evolution of Neotropical rodents.",
-   "authors": [
-    "Elvira Alejandra Sánchez-González",
-    "Marjorie Machado",
-    "Martín Roberto del Valle Alvarez"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223594",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "下頷形態與飲食之間的關係為理解哺乳動物的功能適應提供了關鍵見解。天竺鼠類囓齒動物是一個多樣化的新熱帶演化支，展現出廣泛的攝食習性，使其成為生態形態學研究的理想模型。本研究評估了下頷形狀變異是否能區分不同的飲食類別，並識別出與這些差異相關的形態組分。本研究運用幾何形態學方法，分析了來自 20 個物種共 184 個下頷骨，其中包括數個所知甚少的南美洲北部分類群（例如：Dasyprocta guamara、Pattonomys 屬、Proechimys 屬及 Coendou 屬）。透過主成分分析（PCA）檢視形狀變異。為避免高估群體區隔，利用前 13 個主成分（PC）得分執行典型變異數分析（CVA）與判別函數分析（DFA）。異速生長則透過置換程序進行評估。結果顯示，不同飲食群體之間存在顯著差異，食草群體的正確分類率高達 100%，混合飲食群體則超過 97%。食草物種表現出修長且纖細的下頷，而果葉食性與果種食性群體則呈現較短且較粗壯的結構。異速生長僅解釋了少部分的形狀變異，這表明形態差異主要由功能適應所驅動。儘管樣本中固然存在系統發育信號，但這些發現證實了下頷形狀變異與飲食分化高度相關，從而鞏固了下頷作為探究飲食生態的可靠代理指標之地位，並為理解新熱帶囓齒動物的形態演化提供了重要的區域基準。"
   },
   {
    "doi": "10.3390/ani16223589",
@@ -12858,6 +12807,59 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "關於抗掠食行為的研究記錄了囓齒動物物種間的多樣化反應；然而，這些反應的地理變異仍然所知有限，特別是在豪豬亞目（Hystricomorpha）中。在受控的實驗室條件下，我們利用來自智利北部和中部五個族群的野生捕獲個體，評估了Degus（Octodon degus， degu鼠）抗掠食反應的地理變異。動物暴露於來自兩種自然掠食者（庫爾佩奧狐〔Lycalopex culpaeus〕和小格里森鼬〔Galictis cuja〕）的氣味線索，以及草食動物氣味對照和中性對照。總共對66個體進行了264次行為試驗，每個個體均暴露於四種氣味處理中。我們量化了對第一個可觀察反應的潛伏期、警戒、反應後不動/防禦性僵固、探索的發生與持續時間，以及運動活性。最明確的族群層級行為差異是在對庫爾佩奧狐氣味反應中觀察到的。北部族群顯示出延長的反應後不動/防禦性僵固並降低了運動活性，而南部族群則表現出較高的警戒、探索和運動。位於中部的奧科（Auco）族群在數個反應後行為中表現出中間值，但對庫爾佩奧狐氣味表現出特別短的潛伏期。對小格里森鼬和原駝氣味的反應較為異質，且未複製出相同的協調地理模式。這些結果證明了 $O. degus$ 族群之間抗掠食行為具有顯著的地理變異，並表明當地生態條件可能與此物種內族群層級的行為分化有關。"
+  },
+  {
+   "doi": "10.3390/ani16223594",
+   "title": "Functional Morphology of the Mandible in Caviomorph Rodents from Northern South America: A Geometric Morphometric Analysis of Shape Variation and Diet Differentiation",
+   "abstract": "The relationship between mandibular morphology and diet provides key insights into functional adaptation in mammals. Caviomorph rodents, a diverse Neotropical clade, exhibit a wide range of feeding habits, making them an ideal model for ecomorphological studies. This study evaluates whether mandibular shape variation can discriminate among dietary categories and identifies the morphological components associated with these differences. A total of 184 mandibles from 20 species, including several poorly known northern South American taxa (e.g., Dasyprocta guamara, Pattonomys spp., Proechimys spp. and Coendou spp.), were analyzed using geometric morphometrics. Shape variation was examined through Principal Component Analysis (PCA). To avoid overestimation of group segregation, Canonical Variate Analysis (CVA) and Discriminant Function Analysis (DFA) were performed using the first 13 PC scores. Allometry was assessed using permutation procedures. Results revealed significant differences among dietary groups, with correct classification rates reaching 100% for the grass-feeding group and exceeding 97% for the mixed-diet groups. Grass-feeding species displayed elongated and slender mandibles, whereas fruit–leaf and fruit–seed groups exhibited shorter and more robust configurations. Allometry explained a small proportion of shape variation, indicating that morphological differences are primarily driven by functional adaptation. While phylogenetic signal is inherent in the sample, these findings confirm that mandibular shape variation is strongly associated with dietary differentiation reinforcing the mandible as a reliable proxy for dietary ecology and providing a vital regional baseline for understanding the morphological evolution of Neotropical rodents.",
+   "authors": [
+    "Elvira Alejandra Sánchez-González",
+    "Marjorie Machado",
+    "Martín Roberto del Valle Alvarez"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223594",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "下頷形態與飲食之間的關係為理解哺乳動物的功能適應提供了關鍵見解。天竺鼠類囓齒動物是一個多樣化的新熱帶演化支，展現出廣泛的攝食習性，使其成為生態形態學研究的理想模型。本研究評估了下頷形狀變異是否能區分不同的飲食類別，並識別出與這些差異相關的形態組分。本研究運用幾何形態學方法，分析了來自 20 個物種共 184 個下頷骨，其中包括數個所知甚少的南美洲北部分類群（例如：Dasyprocta guamara、Pattonomys 屬、Proechimys 屬及 Coendou 屬）。透過主成分分析（PCA）檢視形狀變異。為避免高估群體區隔，利用前 13 個主成分（PC）得分執行典型變異數分析（CVA）與判別函數分析（DFA）。異速生長則透過置換程序進行評估。結果顯示，不同飲食群體之間存在顯著差異，食草群體的正確分類率高達 100%，混合飲食群體則超過 97%。食草物種表現出修長且纖細的下頷，而果葉食性與果種食性群體則呈現較短且較粗壯的結構。異速生長僅解釋了少部分的形狀變異，這表明形態差異主要由功能適應所驅動。儘管樣本中固然存在系統發育信號，但這些發現證實了下頷形狀變異與飲食分化高度相關，從而鞏固了下頷作為探究飲食生態的可靠代理指標之地位，並為理解新熱帶囓齒動物的形態演化提供了重要的區域基準。"
+  },
+  {
+   "doi": "10.3390/ani16223598",
+   "title": "Physiologic Effects of Assisted Ventilation with Preserved Spontaneous Breathing Versus Controlled Ventilation in Anesthetized Dogs",
+   "abstract": "Pressure support ventilation (PSV) is an assisted ventilation mode that supports spontaneous inspiratory efforts, whereas pressure-controlled ventilation (PCV) delivers mechanically controlled breaths. This randomized crossover study compared the cardiopulmonary effects of PSV and PCV in five clinically healthy adult Beagle dogs undergoing general anesthesia. Each dog underwent two anesthetic sessions separated by a minimum 2-week washout period. Hemodynamic variables, respiratory mechanics, and gas exchange were assessed during ventilation, and thoracic computed tomography was performed before and after each intervention to quantify lung aeration. PSV was associated with higher tidal volumes overall compared with PCV, while mean airway pressure was significantly lower at two time points. Peak inspiratory pressure did not differ significantly between ventilation modes. No statistically significant differences between ventilation modes were detected in hemodynamic variables, gas exchange, relative lung volume, or the proportions of hypoinflated and collapsed lung regions. Although differences in tidal volume and mean airway pressure were observed between ventilation modes, their physiological and clinical significance remains uncertain. Given the small sample size, these findings should be interpreted cautiously, and further studies are needed to establish their clinical significance.",
+   "authors": [
+    "Ji-Min Jeong",
+    "Sang-Won Yoo",
+    "Ji-Hyun Park",
+    "Chang-Hwan Moon",
+    "Lyon Y. Lee",
+    "Young Joo Kim",
+    "Dongbin Lee"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223598",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "壓力支援通氣（PSV）是一種支援自主吸氣努力的輔助通氣模式，而壓力控制通氣（PCV）則提供機械控制的通氣。本隨機交叉研究比較了PSV與PCV對五隻接受全身麻醉的臨床健康成年米格魯犬之心肺影響。每隻狗皆接受兩次麻醉療程，中間至少間隔2週的洗除期。在通氣期間評估血流動力學變數、呼吸力學及氣體交換，並在每次介入前後進行胸部電腦斷層掃描以量化肺部通氣量。與PCV相比，PSV整體而言具有較高的潮氣容積，而平均氣道壓則在兩個時間點顯著較低。兩種通氣模式之間的最大吸氣壓並無顯著差異。在血流動力學變數、氣體交換、相對肺容積，或通氣不足與萎陷肺區的比例方面，兩種通氣模式之間未檢測出具統計學上的顯著差異。儘管在不同通氣模式之間觀察到潮氣容積和平均氣道壓的差異，其生理及臨床意義仍不確定。鑑於樣本數較小，這些發現應審慎解讀，尚需進一步研究來確立其臨床意義。"
+  },
+  {
+   "doi": "10.3390/ani16223587",
+   "title": "Deep-Feature Fusion and Hybrid Machine Learning for Canine Dermatological Image Classification",
+   "abstract": "Automated classification of canine dermatological images is challenging because visually overlapping lesions, uncertain repository labels, and repeated or transformed source photographs can influence performance estimates. This study evaluated fixed ImageNet-pretrained DenseNet201, ResNet50, and EfficientNetB0 features, alone and in fusion, with support vector machine (SVM), multilayer perceptron (MLP), and logistic regression classifiers for six repository-provided categories. Transformation-robust source auditing yielded 3088 images: 2862 development images from 864 source groups and a source-group-separated held-out internal test set of 226 images from 226 groups. Model selection used five-fold source-group-aware outer cross-validation with source-group-aware inner grid search. DenseNet201–EfficientNetB0 + SVM achieved the highest mean outer-fold balanced accuracy (0.9462 ± 0.0174), while triple fusion was comparable (0.9449 ± 0.0142) with a larger feature representation. On the held-out internal test set, accuracy was 0.8319 (95% CI 0.7832–0.8805), balanced accuracy was 0.7806 (0.7219–0.8384), and macro F1 was 0.7871 (0.7234–0.8432). Independent, clinically annotated external validation remains necessary to assess generalizability. These findings highlight the value of source-aware evaluation and parsimonious feature fusion when assessing multiclass canine dermatological image classification using repository-based datasets.",
+   "authors": [
+    "Harun Yonar"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223587",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "自動化犬隻皮膚科影像分類極具挑戰性，因為視覺上重疊的病灶、不確定的資料庫標籤，以及重複或經轉換的來源照片皆會影響效能評估。本研究評估了固定經 ImageNet 預訓練之 DenseNet201、ResNet50 與 EfficientNetB0 特徵（單獨使用及特徵融合），並結合支持向量機（SVM）、多層感知器（MLP）與邏輯斯迴歸分類器，針對資料庫提供的六個類別進行分析。具備轉換強韌性的來源稽核共產生 3,088 張影像：包含來自 864 個來源群組的 2,862 張開發影像，以及一個來源群組獨立、包含來自 226 個群組之 226 張影像的保留內部測試集。模型選擇採用具來源群組意識的五折外部交叉驗證，並搭配具來源群組意識的內部網格搜尋。DenseNet201–EfficientNetB0 + SVM 獲得最高的平均外部折平衡準確率（0.9462 ± 0.0174），而三者融合（triple fusion）則具有較大的特徵表示，表現亦相近（0.9449 ± 0.0142）。在保留的內部測試集上，準確率為 0.8319（95% CI 0.7832–0.8805），平衡準確率為 0.7806（0.7219–0.8384），巨平均 F1 分數（macro F1）為 0.7871（0.7234–0.8432）。獨立且具臨床註解的外部驗證對於評估泛化能力仍屬必要。這些發現突顯了在利用基於資料庫之資料集評估多類別犬隻皮膚科影像分類時，具來源意識的評估與精簡特徵融合的價值。"
   }
  ]
 }
