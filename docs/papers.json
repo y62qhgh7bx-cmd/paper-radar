@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:27:42+00:00",
+ "updated": "2026-11-18T03:27:50+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -1477,6 +1477,31 @@
    "abstract_zh": "人工授精（AI）在馬匹繁殖產業中被廣泛應用，但其成功率往往受到多種因素的限制。本研究的目的是評估影響人工授精後受孕率之各種因素的重要性，我們使用了在20年間對125匹母馬所收集的現場數據，相當於總共860個「母馬-年」的組合。設定用以衡量受孕力的標準為：(1) 每個繁殖季的受孕率；(2) 第一個發情週期第14天診斷出的受孕率；以及 (3) 母馬受孕所需的發情週期數。統計分析使用SAS的GLIMMIX程序，採用具有重複記錄的二元logit模型。每個繁殖季的整體受孕率（PRBS）為0.813，第一個發情週期第14天的受孕率（PR1C）為0.546。當在繁殖季早期進行授精時，PRBS較高（p < 0.001），並且隨著母馬年齡（p < 0.001）以及公馬年齡（p = 0.013）的增長而下降。人工授精前呈現子宮水腫的母馬在PR1C時具有較高的受孕力（p = 0.037）。確診受孕所需的平均發情週期數為 1.82 ± 1.01，且年齡等因素對此結果有負面影響。總結來說，我們的結果顯示，某些被識別出的關鍵因素可供馬主、農場管理者和獸醫使用，以改善母馬的繁殖性能。"
   },
   {
+   "doi": "10.1080/00071668.2026.2741876",
+   "title": "Influences of dietary valine supplementation on performance, intestinal traits and expression of lipid metabolism-related genes in broilers",
+   "abstract": "1. In diets based on corn and soybean meal, valine (Val) is considered the fourth limiting amino acid. However, studies on how broilers respond to Val remain limited.2. A total of 336, 1-d-old broilers were assigned to one of three dietary treatments, comprising eight replicates of 14 birds. The diet treatments were valine at 0.97 (CON), 1.05 (Val1) and 1.10% (Val2), respectively.3. There was no effect on body weight (BW), average daily weight gain (ADWG) or average daily feed intake (ADFI) during the whole period; however, Val1 improved feed conversion ratio (FCR; p < 0.05). The Val level had no effect on serum biochemical parameters. Broilers in the Val 1 group had a higher relative weight of the ileum and relative length of the duodenum (p < 0.05). No significant differences in duodenal digestive enzyme activities were observed. The activity of α-amylase in the jejunum decreased in the Val1 group but jejunal trypsin showed an increased significance in Val2 (p < 0.05). Compared with the CON diet, hepatic C/EBPα, SREBP-1c, ACC and FAS gene expression were decreased in the Val1 group, while CPT1 expression increased (p < 0.05). In the Val2 group, the expression levels of PPARα and CPT1 genes were upregulated (p < 0.05), with no alterations in the remaining gene.4. In conclusion, higher dietary Val inclusion improved FCR and modulated intestinal development, jejunal digestive enzyme activities and hepatic lipid metabolism-related gene expression in broilers.",
+   "authors": [
+    "J. Yang",
+    "N. Pang",
+    "N. Ma",
+    "J. Yu",
+    "S. Zhao",
+    "X. Hu"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2741876",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 21.0,
+   "matched": [
+    "broiler",
+    "feed conversion ratio",
+    "fcr",
+    "amino acid"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70212",
    "title": "Weighted Single‐Step GWAS Reveals Genetic Mechanisms Underlying Pregnancy Loss in Early Nellore Heifers",
    "abstract": "Pregnancy loss (PL) affects reproductive efficiency in beef cattle, yet its genetic architecture remains poorly understood in Bos indicus populations. Here, PL was defined as failure from pregnancy diagnosis to calving, capturing a window approximately 60 days after the breeding season. This study aimed to identify genomic regions and biological pathways associated with PL in early Nellore heifers using weighted single‐step genome‐wide association study (WssGWAS). Phenotypic records from 23 507 Nellore heifers were analyzed, including 17 052 genotyped animals (GGP Indicus panel, Neogen) and 44 233 SNPs. Genomic regions explaining more than 0.5% of additive genetic variance were used to identify putative candidate genes and perform functional enrichment analysis. The estimated heritability for PL was low (0.033), indicating strong environmental influence. WssGWAS identified 25 genomic regions across 16 chromosomes, explaining 31.16% of additive genetic variance for PL. The most relevant region was located on BTA16, explaining 6.51% of the variance, although no annotated protein‐coding genes were found. Additional regions occurred on BTA6, BTA14, BTA22, BTA25, and BTA29. Putative candidate genes included IL4R, IL21R, LRRC4C, RBMS3, ZFPM2, PRSS23 , and NDST4 , involved in immune regulation, cell adhesion, extracellular matrix remodeling, and transcriptional regulation. Functional enrichment identified Gene Ontology terms and REACTOME pathways related to nucleosome assembly, epigenetic regulation, transmembrane transport, focal adhesion, calcium signaling, immune response, and WNT signaling. These findings inform the genetic architecture of PL in Nellore cattle and suggest roles for embryo–maternal communication, immune regulation, chromatin organization, and placental development in pregnancy maintenance, supporting future functional validation and genomic selection strategies.",
@@ -2600,6 +2625,36 @@
     "poultry"
    ],
    "abstract_zh": "透過選育快速生長、飼料效率和高出肉率，全球家禽肉品生產量大幅增加。然而，這些育種目標也伴隨著肌肉特性和肉品品質變異的增加，特別是針對生長迅速的禽類。本篇文獻綜述綜合了現有關於九種肉用禽類骨骼肌組織學特性的文獻，重點探討肌肉纖維數量、大小、纖維類型組成及其與肌肉生長和肉品品質的關係。文獻搜尋涵蓋 Google Scholar、PubMed、Web of Science 和 Scopus 至 2026 年 3 月的資料。現有證據顯示，肌肉纖維特性影響了肌肉功能、代謝表現型和死後肌肉轉變的差異，但其對肉品品質的影響不能脫離肌肉的血管、代謝和結締組織環境而獨立看待。此觀點在快速生長的禽類（特別是肉雞）中尤為重要，在此類禽類中，顯著的纖維肥大可能會超出周圍組織維持恆定（homeostasis）的能力，進而導致退化、發炎、細胞外基質重塑、纖維化以及與生長相關的胸肌異常。本篇綜述亦強調不同禽類物種在組織學證據的可用性、強度和方法學一致性上存在顯著差異，其中以雞的研究最為廣泛，而針對研究較少的物種之證據則仍相當有限。染色程序、纖維分類、肌肉取樣和測量方法的差異，進一步限制了不同研究之間的直接比較。整體而言，肌肉組織學對於理解生長與肉品品質的變異至關重要，但仍存在主要的知識缺口，特別是在肌肉形態學與肉品品質特性之間的直接關聯方面。"
+  },
+  {
+   "doi": "10.3390/poultry5060080",
+   "title": "Molecular Characterization, Pathology, and Experimental Pathogenicity of FAdV-11-Associated Inclusion Body Hepatitis in Broiler Chickens",
+   "abstract": "Fowl adenoviruses (FAdVs) are key poultry pathogens associated with inclusion body hepatitis (IBH), causing severe hepatic injury and mortality in young chickens. This study investigated IBH outbreaks in commercial broiler flocks in the Kashmir Valley, India, during 2022–2023, performing field screening, pathological examination, molecular and phylogenetic characterization, and experimental pathogenicity assessment of the circulating strain. Across 25 suspected outbreaks comprising 27,353 birds, 3533 deaths were recorded (overall observed mortality rate: 12.92%). Polymerase chain reaction (PCR) screening of the 200 pooled tissue samples (liver, heart, kidney, and spleen) targeting the Hexon gene amplified an ~897-bp product, detecting FAdV in 144 samples (72%) across 18 of the 25 investigated outbreaks (72%). Gross pathological examination revealed hepatomegaly, hepatic mottling, pallor, friability, petechial haemorrhages in the liver and kidneys, and splenomegaly. Histopathologically, tissues exhibited hepatocellular degeneration and necrosis, heterophilic infiltration, congestion, basophilic intranuclear inclusion bodies, splenic lymphoid depletion, glomerular atrophy, and myocardial fiber disruption. Sequence analysis revealed 98.72% nucleotide identity with the FAdV-11 isolate (GenBank accession number HQ697595.1), while phylogenetic analysis supported classification of the virus as FAdV-11 (species D) and established its relationship with Asian isolates. Experimental pathogenicity evaluation in sixty 14-day-old specific-pathogen-free (SPF) chicks inoculated intramuscularly (IM) and/or (IP) with 105 TCID50/mL (0.2 mL virus suspension, equivalent to 2×104 TCID50 per bird) resulted in 100% mortality by day 6 in IM-inoculated birds. IP-inoculated birds underwent scheduled serial euthanasia for pathological evaluation; due to differing termination schedules, mortality outcomes were not directly comparable between routes. Experimental infection induced clinical and pathological changes, haematological alterations, elevated serum liver enzyme activities, and hepatic viral DNA presence. To our knowledge, this study provides one of the first molecular and pathological documentations of FAdV-11-associated IBH in commercial broilers in this region.",
+   "authors": [
+    "Muntasir Ashraf Wani",
+    "Akeel Bashir Beigh",
+    "Yaqoota Maqbool",
+    "Masood Saleem Mir",
+    "Shayaib Ahmad Kamil",
+    "Showkat Ahmad Shah",
+    "Majid Shafi",
+    "Nadeem Shabir",
+    "Parvaiz Ahmad Dar",
+    "Azmat Alam Khan",
+    "Sharath Chandra Goud",
+    "Atif Khurshid Wani"
+   ],
+   "journal": "Poultry",
+   "url": "https://doi.org/10.3390/poultry5060080",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 16.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "poultry"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/00071668.2026.2699735",
@@ -3770,6 +3825,31 @@
     "amino acid"
    ],
    "abstract_zh": "儘管已普遍進行疫苗接種，第一型豬細小病毒（PPV1）仍然是導致豬隻繁殖障礙的重要原因。本研究透過整合生產紀錄、病毒學調查、分子特性分析以及產次分層血清學監測，探討了一場發生在商業化母豬場中與 PPV1 相關的繁殖障礙事件。在生產第 17 至 19 週期間，繁殖損失顯著增加，所有確診病例皆發生在近期引入的初產母豬群中；該群更新女豬在配種時僅接受過一次 PPV1 疫苗注射，未完成常規的兩劑配種前疫苗接種計畫。在所有四件Pooled的胎兒樣本中皆檢測出 PPV1，並分離出 HN-NY 病毒株。最大似然法分析將 HN-NY 置於包含 27a 病毒株的 D 群中；其 VP2 核苷酸序列相似性達 99.77%，而推導出的 VP2 胺基酸序列則完全相同。僅在第一胎與第二胎母豬中檢測到血清陰性動物。隨後的橫斷面血清學監測記錄了各採樣期間抗體 S/P 值的變化，但這些觀察結果並非旨在確立標靶式再次免疫的有效性。此事件伴隨著估計超出事件發生前基準水準約 251 頭胎兒的額外損失。總體而言，這項現場調查為配種前疫苗接種不完全的更新女豬群中發生 PPV1 相關繁殖障礙提供了現場實證，並提供了相關 PPV1 分離株的分子流行病學資訊。"
+  },
+  {
+   "doi": "10.3390/ani16223645",
+   "title": "Octapeptin Supplementation Alleviates Clostridium perfringens-Induced Growth Depression and Intestinal Inflammation in Broiler Chickens, with Effects Comparable to Enramycin",
+   "abstract": "This study evaluated dietary octapeptin as an alternative to enramycin for alleviating Clostridium perfringens-associated damage in broilers. A total of 240 one-day-old Lingnan Yellow broilers were assigned to four groups with six replicates of 10 birds: an unchallenged control, a challenged control, and challenged groups receiving enramycin (10 mg/kg) or octapeptin (40 mg/kg). The trial lasted 21 days. Clostridium perfringens challenge successfully induced necrotic enteritis: compared with the unchallenged control, the challenged control showed lower final body weight, and higher intestinal lesion scores. Compared with the challenged control, both additives increased final body weight and reduced serum alanine aminotransferase, lactate dehydrogenase, interferon-γ, and interleukin-6 (p &lt; 0.05). Octapeptin additionally reduced serum alkaline phosphatase and increased high-density lipoprotein cholesterol (p &lt; 0.05). Both additives reduced jejunal NLRP3, CASP1, MyD88, and NF-κB expression and ileal CASP1 expression, while octapeptin also reduced jejunal TLR2 and ileal TLR2 and TGF-β1 expression (p &lt; 0.05). Moreover, octapeptin alleviated jejunal villus atrophy, as indicated by greater villus height and a higher villus height-to-crypt depth ratio, and restored jejunal occludin expression (p &lt; 0.05), indicating preserved mucosal architecture and barrier integrity. Serum interleukin-1β remained elevated despite supplementation. These findings support octapeptin as a potential alternative to enramycin for alleviating growth depression and intestinal injury, with benefits associated with improved serum biochemical indicators and reduced inflammatory responses.",
+   "authors": [
+    "Ruiyu Diao",
+    "Jiang Zhang",
+    "Yueyang Xie",
+    "Xianfu Meng",
+    "Shiyan Qiao",
+    "Feiyun Yang",
+    "Xiuliang Ding",
+    "Li Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223645",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 12.0,
+   "matched": [
+    "chicken",
+    "broiler"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1002/age.70203",
@@ -4996,6 +5076,35 @@
    "abstract_zh": "豬呼吸道疾病綜合徵（PRDC）造成養豬業巨大的經濟損失。本研究旨在調查中國江西省臨床罹患PRDC之豬隻肺炎肺臟中的可培養細菌病原體及其抗生素抗藥性譜。自2022年1月至2026年2月，從11個城市的發病或死亡豬隻中採集了372個肺炎肺臟樣本。372個樣本中有173個分離出細菌（46.5%），共鑑定出218株細菌菌株。大腸桿菌的分離率為16.9%，其次為豬鏈球菌（14.8%）及多重殺肉桿菌（6.5%）。大腸桿菌對磺胺amethoxazole-trimethoprim（95.2%）、金黴素（92.1%）、氨苄西林（90.5%）和氟苯尼考（88.9%）表現出高度抗藥性。所有大腸桿菌分離株（100.0%）均具多重抗藥性，並檢測出表現型碳青黴烯抗藥性大腸桿菌。豬鏈球菌對β-內醯胺類抗生素保持敏感，但對巨環內酯類和四環黴素類抗生素具有高度抗藥性。多重殺肉桿菌對大多數受測藥物表現出低抗藥性。本研究受限於缺乏病毒和黴漿菌檢測、便利性抽樣以及僅限於可培養的細菌物種。研究結果支持審慎使用抗生素並加強長期的抗生素抗藥性監測，並為該地區PRDC流行病學及控制的進一步研究提供基準數據。"
   },
   {
+   "doi": "10.3390/ani16223640",
+   "title": "Integrated Serum Biochemistry and Blood Transcriptomics Reveal Post-Release Immunometabolic, Redox, and Reproductive Remodeling in Wild-Recaptured Male Yangtze Sturgeon (Acipenser dabryanus)",
+   "abstract": "Yangtze sturgeon (Acipenser dabryanus) is endangered, and stock enhancement is central to recovery, yet survival and recapture alone do not show whether released broodstock remain physiologically and reproductively competent. We integrated serum biochemistry and sex hormone measurements with whole-blood transcriptomics to compare six wild-recaptured males (WM) and six captive-reared males (M) of comparable body length sampled in the same spring. Wild-recaptured males had significantly lower serum triglyceride, albumin, total antioxidant capacity, and testosterone, but significantly higher alanine aminotransferase, aspartate aminotransferase, and malondialdehyde; cortisol and estradiol did not differ significantly. RNA sequencing identified 1585 differentially expressed genes (1090 upregulated, 495 downregulated in WM). After Benjamini–Hochberg (BH) correction, enriched KEGG pathways included cytokine–cytokine receptor interaction, intestinal immune network for IgA production, neuroactive ligand–receptor interaction, calcium signaling, FoxO signaling, neomycin/kanamycin/gentamicin biosynthesis and arginine biosynthesis. Integration indicated selective immune remodeling, enhanced redox/stress signaling, the reorganization of carbohydrate and lipid metabolism, changes in the arginine–nitric oxide axis, and altered reproductive/endocrine transcription. These findings show that post-release river residence is associated with coordinated systemic physiological remodeling in male Yangtze sturgeon and identify candidate blood-based indicators for the non-lethal monitoring of post-release condition and reproductive readiness.",
+   "authors": [
+    "Fei Yang",
+    "Xueling Zhang",
+    "Chijie Wu",
+    "Ni Tang",
+    "Zhaoxiong Yu",
+    "Peiqi Lv",
+    "Yuanyuan Jiao",
+    "Shiyu Wang",
+    "Fei Xu",
+    "Zhongliang Zhang",
+    "Zhibin Zhou",
+    "Bin Wang",
+    "Bo Zhou"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223640",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 9.0,
+   "matched": [
+    "omics"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s12711-026-01085-2",
    "title": "The rate and spectrum of germline mutations in chicken from a commercial pedigree line",
    "abstract": "Background Pedigree-based studies of germline mutations provide a direct understanding of the origin and consequences of genetic variation, and allow quantification of how mutations affect functional variation. Here, we use whole-genome sequencing data from 194 chicken ( Gallus gallus ) trios from a commercial pedigree line to estimate the germline mutation rate and spectrum, and to characterize patterns of mutational variation across the genome and genes, aiming to rank protein coding genes by their expected contributions to mutational variance ( V m ). Results We estimated a mutation rate of µ = 3.49 × 10 −9 mutations per nucleotide site per generation. A goodness-of-fit test (χ 2 13 = 10.97, P = 0.61) indicated that the number of new mutations per generation follows a Poisson distribution ( λ = 6.22). A read-based phasing approach revealed a strong sex bias, with males contributing approximately twice as many mutations as females. Microchromosomes showed a point estimate of mutation rate approximately 8% higher than macrochromosomes, likely owing to their higher GC content and a mutation spectrum dominated by C→T transitions. From this spectrum, we built a codon transition matrix and show that genes vary widely in their propensity to mutation based on codon composition, likely reflecting large differences in their contributions to V m . Specifically, we found that genes involved in immunity and development rank among those most prone to non-silent mutations. Conclusions Our results reveal predictable patterns of gene-level mutational variation and provide a framework for anticipating how new mutations generate functional variation. By bridging quantitative genetics and molecular biology, we provide a mechanistic basis for variation in V m across the genome, showing that heterogeneity in V m can arise from gene-specific features, particularly codon composition and mutational target size. These metrics offer a way to rank genes and prioritize genetic variants by their expected contributions to biological functions as a consequence of de novo mutation. This provides a new basis for informed management of genetic variation in breeding populations and for understanding the evolutionary dynamics of functionally important genes.",
@@ -5629,6 +5738,27 @@
    "abstract_zh": "飲食中的錳（Mn）可減少肉雞腹部脂肪沉積，但其相關的轉錄後調控機制仍不清楚。我們結合了核糖核酸定序（RNA-seq）與甲基化RNA免疫沉澱定序（MeRIP-seq），以分析對照組與補充錳的愛拔益加（Arbor Acres）公肉雞之腹部脂肪組織特徵。補充錳的劑量在第1–21天為 110 mg/kg，第22–42天為 80 mg/kg。每組選取三個樣本進行分子分析。使用未調整的 $p < 0.05$ 且倍數變化（fold change）$>1.5$ 或 $<1/1.5$ 作為標準，我們鑑別出 1,174 個差異表現基因以及與 2,080 個基因相關的 2,100 個差異 $m^6A$ 峰（peaks）；兩個資料集之間共有 159 個基因重疊。脂質相關的功能註解包含脂肪酸、甘油脂質與磷脂質代謝以及 PPAR 訊息傳遞路徑。PNPLA2、FABP1 與 LCAT 表現出 RNA 豐度增加且 $m^6A$ 富集度降低，而 ELOVL6 與 FADS2 的轉錄本豐度及 $m^6A$ 富集度則皆降低。PDK4 的 RNA 豐度增加，但其兩個差異峰則呈現相反方向的變化。一致與相反的 RNA-峰值模式顯示，脂質相關基因中甲基化與轉錄本豐度之間的關係具有差異性。這些發現支持飲食中的錳、轉錄本特異性 $m^6A$ 重塑以及脂質代謝基因表現之間的關聯性。這些整合的候選基因可為探討脂肪組織對錳的反應提供基礎，而改變甲基化的因果貢獻則有待功能性驗證。"
   },
   {
+   "doi": "10.3390/ani16223632",
+   "title": "Long-Term Fecundity Monitoring as an Element of Fallow Deer Population Management",
+   "abstract": "The fallow deer (Dama dama) is a non-native species in many regions of Europe, including Poland. At high population densities, fallow deer can exert substantial pressure on the habitats they occupy. It is also a competitor of the roe deer, a native member of the deer family. Therefore, active management of fallow deer populations is required, based on the monitoring of ecological parameters, including reproduction. The aim of this study was a long-term assessment (2015–2023) of reproductive success and fecundity as indicators useful for monitoring changes in a free-ranging population in which density had been reduced. The study analysed the abundance of individuals in particular age and sex groups (2015–2020), as well as ovulation and pregnancy rates and fetal dimensions in females that were shot after the end of the rutting period (2021–2024). Our study, conducted in a population characterised by high density (&gt;100 individuals per 10 km2 of forest area), showed an increase in female fecundity compared with the 1990s. In the 2020s, almost 100% of females participated in reproduction, including individuals aged 1–3 years, although their mean body mass in the study area decreased concurrently. Fallow deer in western Poland are most likely benefiting from climate warming, which is leading to the disappearance of severe and snowy winters and to an extension of the growing season. In addition, fertilisation of females was found to occur quite frequently after the main rutting period in October, which may have reduced juvenile survival. This is because no increase was observed—compared to the 1990s—in the proportion of fawns relative to the number of females present in the autumn population. The study population had high reproductive potential because females outnumbered males. The predominance of females among adult fallow deer occurred despite a balanced fetal sex ratio. No significant relationship was found between fetal sex and maternal body mass. The study confirmed the need for systematic monitoring of reproduction and other ecological parameters. In populations of non-native species, such monitoring helps reduce the risk of increasing population density and pressure on the environment.",
+   "authors": [
+    "Robert Kamieniarz",
+    "Jacek Kamczyc",
+    "Anna Łukomska",
+    "Maciej Skorupski"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223632",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 8.0,
+   "matched": [
+    "reproduction",
+    "ovulation"
+   ],
+   "abstract_zh": "黇鹿（*Dama dama*）在包括波蘭在內的許多歐洲地區皆為外來物種。在高族群密度下，黇鹿會對其棲息環境造成巨大的壓力，同時也是鹿科本土物種西方狍的競爭者。因此，基於包括繁殖在內的生態參數監測，有必要對黇鹿族群進行主動管理。本研究旨在對繁殖成功率與繁殖力進行長期評估（2015–2023年），以作為監測密度已獲調降之自由放養族群變化的有用指標。本研究分析了各年齡與性別群組的個體豐度（2015–2020年），以及在交配期結束後遭到獵捕之雌鹿的排卵率、懷孕率與胎兒大小（2021–2024年）。本研究針對具備高密度特徵（每10平方公里林地超過100隻個體）的族群進行，結果顯示，與1990年代相比，雌鹿的繁殖力有所提升。在2020年代，幾乎100%的雌鹿皆參與繁殖，其中包括1至3歲的個體，儘管牠們的研究區平均體重同步下降。波蘭西部的黇鹿極可能受惠於氣候暖化，這導致嚴峻多雪的冬季消失以及生長季的延長。此外，研究發現雌鹿的受精經常發生在10月份的主交配期之後，這可能會降低幼獸的存活率。這是因為與1990年代相比，秋季族群中幼獸佔雌鹿數量的比例並未增加。由於雌鹿數量多於雄鹿，該研究族群具備高繁殖潛力。儘管胎兒性別比例均衡，成年黇鹿中仍以雌性居多。胎兒性別與母體體重之間並無顯著關聯。本研究證實了對繁殖及其他生態參數進行系統性監測的必要性。在外來物種的族群中，此類監測有助於降低族群密度增加及對環境造成壓力的風險。"
+  },
+  {
    "doi": "10.3390/ani16223633",
    "title": "Effects of Dietary Fatty Acid and Vitamin Supplementation, Alone or in Combination, on Ovarian Development and Liver Health in Coreius guichenoti",
    "abstract": "Largemouth bronze gudgeon (Coreius guichenoti, LBG) is an endangered endemic fish in the upper Yangtze River, and poor gonadal development and reproductive performance limit its artificial propagation. We recently identified docosahexaenoic acid (DHA), arachidonic acid (ARA), vitamin C (VC), and VE as key candidate nutrients regulating ovarian development in LBG. This study therefore preliminarily investigated the effects of dietary vitamin (VC + VE, VIT) and fatty acid (ARA + DHA, FAG) inclusion, alone or in combination (MIX), in a basal diet (CON) on the growth performance, liver health, and ovarian development of LBG. VC and VE were supplemented at 400 and 300 mg/kg in the vitamin-enriched diets, respectively, while DHA and ARA were supplemented at 0.77% and 0.24% in the fatty acid-enriched diets, respectively. A total of 480 female F1 LBG (165.3 ± 1.71 g) were randomly assigned to 12 tanks (40 fish/tank; 3 tanks/treatment) and fed their respective diets for 180 days. The results showed that specific growth rate and feed efficiency ratio were improved only by dietary vitamin inclusion. Liver histological features (hepatocyte vacuolization, nuclear displacement, and nuclear aggregation) in CON and FAG fish were attenuated by dietary vitamin inclusion, probably due to improved antioxidant defense. Both dietary vitamin and fatty acid supplementation stimulated steroid hormone, prostaglandin, and vitellogenin synthesis at the biochemical and/or molecular level, thereby promoting the development of oocytes to late stage III in LBG. In general, the beneficial effects of vitamins on oocyte development were inferior to those of fatty acids, with the best values observed in MIX fish. In conclusion, growth performance and liver health of female LBG benefit from dietary vitamin administration, while both vitamins and fatty acids improve oocyte development, although the effects of vitamins on ovary development are inferior to those of fatty acids. Including fatty acids and vitamins in combination in the diet is recommended to improve liver health and ovary development in LBG. Further studies are warranted to determine their optimal supplemental doses and verify their beneficial effects on the reproductive performance of LBG.",
@@ -5654,25 +5784,35 @@
    "abstract_zh": "長江銅魚（Coreius guichenoti, LBG）是長江上游的瀕危特有魚類，其性腺發育不良和繁殖性能低下限制了人工繁殖。我們近期的研究發現，二十二碳六烯酸（DHA）、花生四烯酸（ARA）、維生素C（VC）和維生素E（VE）是調節長江銅魚卵巢發育的關鍵營養素候選者。因此，本研究初步探討了在基礎飼料（CON）中單獨或聯合（MIX）添加維生素（VC + VE, VIT）及脂肪酸（ARA + DHA, FAG）對長江銅魚生長性能、肝臟健康及卵巢發育的影響。富含維生素飼料中VC和VE的添加量分別為400和300 mg/kg，而富含脂肪酸飼料中DHA和ARA的添加量分別為0.77%和0.24%。試驗選取總計480尾雌性F1代長江銅魚（165.3 ± 1.71 g），隨機分配至12個水族槽中（每槽40尾；每組3個重複），投餵各自的試驗飼料180天。結果顯示，特異性生長率和飼料效率僅因飼料中添加維生素而有所改善。飼料中添加維生素減輕了CON組和FAG組魚類的肝臟組織學病變（肝細胞空泡化、細胞核位移和核聚集），這可能歸因於抗氧化防禦能力的提升。飼料中添加維生素和脂肪酸均在生化和／或分子水平上刺激了類固醇激素、前列腺素和卵黃生成素的合成，從而促進長江銅魚卵母細胞發育至第III期後期。總體而言，維生素對卵母細胞發育的促進作用不如脂肪酸顯著，而以MIX組的數值表現最佳。綜上所述，飼料中添加維生素有益於雌性長江銅魚的生長性能和肝臟健康，而維生素和脂肪酸均能改善卵母細胞發育，儘管維生素對卵巢發育的效果不及脂肪酸。建議在飼料中聯合添加脂肪酸和維生素，以改善長江銅魚的肝臟健康和卵巢發育。未來仍需進一步研究以確定其最佳添加劑量，並驗證其對長江銅魚繁殖性能的促進效果。"
   },
   {
-   "doi": "10.3390/ani16223632",
-   "title": "Long-Term Fecundity Monitoring as an Element of Fallow Deer Population Management",
-   "abstract": "The fallow deer (Dama dama) is a non-native species in many regions of Europe, including Poland. At high population densities, fallow deer can exert substantial pressure on the habitats they occupy. It is also a competitor of the roe deer, a native member of the deer family. Therefore, active management of fallow deer populations is required, based on the monitoring of ecological parameters, including reproduction. The aim of this study was a long-term assessment (2015–2023) of reproductive success and fecundity as indicators useful for monitoring changes in a free-ranging population in which density had been reduced. The study analysed the abundance of individuals in particular age and sex groups (2015–2020), as well as ovulation and pregnancy rates and fetal dimensions in females that were shot after the end of the rutting period (2021–2024). Our study, conducted in a population characterised by high density (&gt;100 individuals per 10 km2 of forest area), showed an increase in female fecundity compared with the 1990s. In the 2020s, almost 100% of females participated in reproduction, including individuals aged 1–3 years, although their mean body mass in the study area decreased concurrently. Fallow deer in western Poland are most likely benefiting from climate warming, which is leading to the disappearance of severe and snowy winters and to an extension of the growing season. In addition, fertilisation of females was found to occur quite frequently after the main rutting period in October, which may have reduced juvenile survival. This is because no increase was observed—compared to the 1990s—in the proportion of fawns relative to the number of females present in the autumn population. The study population had high reproductive potential because females outnumbered males. The predominance of females among adult fallow deer occurred despite a balanced fetal sex ratio. No significant relationship was found between fetal sex and maternal body mass. The study confirmed the need for systematic monitoring of reproduction and other ecological parameters. In populations of non-native species, such monitoring helps reduce the risk of increasing population density and pressure on the environment.",
+   "doi": "10.1002/age.70229",
+   "title": "Integrated Transcriptomic and Metabolomic Analyses Reveal Metabolic Pathways Associated With Wool Follicle Development in Jiekarzi Semi‐Fine Wool Sheep",
+   "abstract": "The development of wool follicles is considered a complex biological process that is regulated by the coordination of metabolic, molecular, and genetic processes during animal growth. In the current study, the “Jiekarzi semi‐fine wool sheep” (a relatively understudied and indigenous breed) [male] at two developmental stages, S3 (3 months) and S12 (12 months) [(S3; n = 6); (S12; n = 6)] was used. The phenotypic traits along with multi‐omics profiles were analyzed to reveal the mechanisms underlying wool follicle development. Phenotypic analyses showed significant variations in staple length, fiber count, straightened length, and the stretch ratio across both groups ( p &lt; 0.05), highlighting substantial morphological variations during skin maturation, whereas there was relative stability in fiber diameter and its variability parameters. Multiple DE‐circRNAs and DE‐miRNAs were identified across both groups. Functional enrichment analysis illustrated that predicted target genes of DE‐ncRNAs were associated with biological processes relevant to metabolic activity, cellular regulation, and signal transduction. Moreover, metabolomic analysis showed clear separation across developmental stages and revealed significant variations in metabolites and their associated pathways, connected with amino acid, lipid, and retinol metabolism, and biosynthesis of steroid hormones. KEGG pathway enrichment indicated coordinated changes in metabolic pathways potentially associated with wool follicle development. Additionally, circRNA‐miRNA interaction networks revealed complex regulatory relationships among ncRNAs during development. Overall, our findings provide new insights into the metabolic, molecular, and phenotypic mechanisms responsible for the development of wool follicles in this unique sheep breed and also identify potential regulatory pathways linked to it.",
    "authors": [
-    "Robert Kamieniarz",
-    "Jacek Kamczyc",
-    "Anna Łukomska",
-    "Maciej Skorupski"
+    "Ayesha Khan",
+    "Luosang",
+    "Gaofu Wang",
+    "Ouzhu Duoji",
+    "Hua Long",
+    "Yulong Sun",
+    "Jingjing Li",
+    "Zhenzhen Zhang",
+    "Wenrui Ye",
+    "Rui Luo",
+    "Khuram Shahzad",
+    "Tianzeng Song",
+    "Wangsheng Zhao"
    ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223632",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
+   "journal": "Animal Genetics",
+   "url": "https://doi.org/10.1002/age.70229",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
    "score": 8.0,
    "matched": [
-    "reproduction",
-    "ovulation"
+    "sheep",
+    "amino acid",
+    "omics"
    ],
-   "abstract_zh": "黇鹿（*Dama dama*）在包括波蘭在內的許多歐洲地區皆為外來物種。在高族群密度下，黇鹿會對其棲息環境造成巨大的壓力，同時也是鹿科本土物種西方狍的競爭者。因此，基於包括繁殖在內的生態參數監測，有必要對黇鹿族群進行主動管理。本研究旨在對繁殖成功率與繁殖力進行長期評估（2015–2023年），以作為監測密度已獲調降之自由放養族群變化的有用指標。本研究分析了各年齡與性別群組的個體豐度（2015–2020年），以及在交配期結束後遭到獵捕之雌鹿的排卵率、懷孕率與胎兒大小（2021–2024年）。本研究針對具備高密度特徵（每10平方公里林地超過100隻個體）的族群進行，結果顯示，與1990年代相比，雌鹿的繁殖力有所提升。在2020年代，幾乎100%的雌鹿皆參與繁殖，其中包括1至3歲的個體，儘管牠們的研究區平均體重同步下降。波蘭西部的黇鹿極可能受惠於氣候暖化，這導致嚴峻多雪的冬季消失以及生長季的延長。此外，研究發現雌鹿的受精經常發生在10月份的主交配期之後，這可能會降低幼獸的存活率。這是因為與1990年代相比，秋季族群中幼獸佔雌鹿數量的比例並未增加。由於雌鹿數量多於雄鹿，該研究族群具備高繁殖潛力。儘管胎兒性別比例均衡，成年黇鹿中仍以雌性居多。胎兒性別與母體體重之間並無顯著關聯。本研究證實了對繁殖及其他生態參數進行系統性監測的必要性。在外來物種的族群中，此類監測有助於降低族群密度增加及對環境造成壓力的風險。"
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/00071668.2026.2721464",
@@ -5984,6 +6124,33 @@
     "livestock"
    ],
    "abstract_zh": "牛 viral 下痢（BVD）對全球乳業生產造成經濟損失。在泰國，BVD 尚未列入國家防疫優先項目，導致疾病管理的負擔完全轉嫁給地方的生物安全選擇。本研究採用質性方法，探討泰國認證之優良農業規範（GAP）產業中乳農的認知與生物安全實務。對泰國西部的小農進行了半結構化、面對面深度的訪談與田野觀察，並使用主題分析法對逐字稿進行分析。結果顯示，顯著性偏差導致了一個深奧的「生物安全悖論」：雖然農民對口蹄疫和結節疹等高能見度的傳染病表現出普遍的認知並嚴格執行緊急協議，但他們對 BVD 等亞臨床病原體卻嚴重缺乏認知。關鍵在於，視覺選牛與結構性信任例行性地導致在未經篩檢的情況下引入持續性感染的後備母牛。此外，生殖廢棄物的非標準化管理十分普遍，大多數參與者將具傳染性的組織棄置於戶外。僵化的由上而下 GAP 規則在財務窘迫的小農中引起了強烈的監管疲勞。由於嚴重的勞動力限制，農民明確拒絕傳統的推廣小組工作坊，而是偏好去中心化的數位微學習（手機短片與農場海報）以及與來訪執業獸醫的臨床互動。本研究為畜牧政策提供了一個經驗藍圖，建議從被動、依賴農民通報的模式轉向政府主導的主動監測，以保護國家乳牛群的健康。"
+  },
+  {
+   "doi": "10.3390/ani16223641",
+   "title": "Farm-Level Heterogeneity, Management Constraints, and Exploratory Profiles of Extensive Sheep Systems in Warm Tropical Areas of Amazonas, Peru",
+   "abstract": "Sheep production systems in warm tropical areas of Peru remain poorly documented. This study aimed to characterize surveyed sheep farms in Amazonas and explore their production profiles. A cross-sectional convenience sample of 60 farms was assessed in April 2026 using a 42-question instrument covering resources, flock structure, feeding, reproduction, health, infrastructure, marketing, and constraints. Descriptive analyses and false discovery rate-adjusted bivariate tests were combined with factor analysis of mixed data, Ward clustering, and k-means; sensitivity was assessed using Gower dissimilarity and partitioning around medoids. Farms were predominantly extensive (95.0%), relied on natural pasture grazing (95.0%), and sold live animals (98.3%). Median flock size was 25.5 sheep. Feed shortage (48.3%) and limited technical assistance (41.7%) were the leading reported constraints. Area allocated to sheep production correlated positively with flock size (Spearman’s rho = 0.580; adjusted p &lt; 0.001). Five factorial dimensions explained 72.9% of variability. Three profiles differed in land, water, flock structure, apparent density, and income dependence but showed weak separation (silhouette = 0.186) and modest cross-method agreement (adjusted Rand index = 0.356). Thus, the profiles are exploratory planning summaries, not definitive typologies, and require validation in larger probability-based samples.",
+   "authors": [
+    "Hugo Frias Torres",
+    "Nilton Luis Murga Valderrama",
+    "Segundo Melecio Portocarrero Villegas",
+    "Gleni Tatiana Segura Portocarrero",
+    "Rainer M. López Lapa",
+    "Ysai Paucar Sullca",
+    "Flor L. Mejía Risco",
+    "Juan José Barrios Paima",
+    "Jhorsan David Mauri Pablo",
+    "William Bardales Escalante"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223641",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 7.0,
+   "matched": [
+    "sheep",
+    "reproduction"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1186/s40104-026-01500-0",
@@ -6532,6 +6699,27 @@
     "carcass"
    ],
    "abstract_zh": "本研究探討在最終育肥期於飼糧中添加共軛亞麻油酸（CLA），對去勢公豬與母豬之瑞典長白豬（Swedish Landrace）的生長、屠體性狀、背脂及屠體組織組成之影響。試驗共使用 112 頭豬隻，採 2 × 2 因子設計，以飼糧（對照組或 CLA 組）及性別為因子。在 130 至 175 日齡期間，豬隻餵食對照飼糧或以 0.5% CLA 油（約 0.3% CLA）替代部分大豆油之試驗飼糧。隨機選取 60 頭屠體（每組 15 頭）之左半部進行解剖，分為肌肉、皮下脂肪、肌間脂肪、皮膚與骨骼。結果顯示，CLA 對最終體重、日增重、屠體重或屠宰率皆無顯著影響。若以欄位作為試驗單位，在不考慮屠宰體重的情況下，CLA 降低了平均背脂厚度（主要終點，p = 0.008）與皮下脂肪百分比（p = 0.021），並增加了肌肉百分比（p = 0.036）以及肌肉與脂肪之比率（p = 0.018）。在個體豬隻分析中，四個部位的背脂亦皆降低（p ≤ 0.045），總脂肪百分比亦然（p = 0.015）。全屠體之「飼糧 × 性別」交戶作用並不顯著，且腹部中有兩個名義上顯著的部位層級交戶作用，在經多重檢定校正後不再顯著。解剖結果顯示，CLA 降低了所有十個部位的皮下脂肪（其中七個部位在經多重檢定校正後達顯著差異），並使屠體組成朝向肌肉化發展，且不影響生長或屠宰產率。本研究未顯示出具性別特異性之反應。"
+  },
+  {
+   "doi": "10.1080/00071668.2026.2738155",
+   "title": "Effects of dietary supplementation with lycopene, curcumin, allicin and sodium butyrate mixture on immunity and jejunal health in laying hens",
+   "abstract": "spp. were significantly enriched in the CLYC group.5. Dietary supplementation with a mixture of lycopene, curcumin, allicin and sodium butyrate enhanced the relative expression of junctional-complex genes and promoted the growth of beneficial microbiota, thereby supporting jejunal health in laying hens.",
+   "authors": [
+    "M. Chen",
+    "Z. Xu",
+    "J. Pan",
+    "X. Zhang",
+    "X. Zheng"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2738155",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 6.0,
+   "matched": [
+    "laying hen"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1186/s40104-026-01494-9",
@@ -8009,49 +8197,6 @@
    "abstract_zh": "貝氏網路與結構方程模型等圖形模型，已廣泛應用於數量遺傳學中，以探討表型性狀間假定的因果關係。基於限制式的演算法已被提出，用於尋遞迴表型間的遞迴因果結構，並以加性遺傳效應為條件；然而，這些方法通常僅考慮多基因背景，而未明確納入可能同時影響研究性狀的主效基因效應。在此，我們提出 PolyMaGNet（具主效基因網路分析的多基因性狀），這是一種混合方法，用於推論假定的因果表型網路，同時考量透過系譜加性關係建模的多基因效應，以及由與數量性狀基因座（QTL）相關之標記所代表的主效基因效應。該方法結合了將主要基因座納入共變量的貝氏多性狀動物模式，以及應用於殘差共變異數矩陣後驗樣本的歸納因果關係演算法。接著，利用赤池資訊準則比較候選有向圖，以選出最終完全定向的假定因果結構。在基於 QTL 定位族群的模擬中，PolyMaGNet 較僅以多基因效應為條件的方法更常還原出真實骨架，並在多數模擬重複中選出真實的完全定向網路。該方法進一步應用於 F2杜洛克 × 皮特蘭豬資源族群，以重建縱向背脂、肉質、脂肪沉積與屠體組成性狀間的假定因果網路。結果顯示，明確納入主效基因效應可以改善複雜性狀間假定表型網路的重建，並為探討動物育種族群中多變量遺傳架構的方向性關係提供一個有用的框架。"
   },
   {
-   "doi": "10.1080/00071668.2026.2741876",
-   "title": "Influences of dietary valine supplementation on performance, intestinal traits and expression of lipid metabolism-related genes in broilers",
-   "abstract": "",
-   "authors": [
-    "J. Yang",
-    "N. Pang",
-    "N. Ma",
-    "J. Yu",
-    "S. Zhao",
-    "X. Hu"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2741876",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 4.0,
-   "matched": [
-    "broiler"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/00071668.2026.2738155",
-   "title": "Effects of dietary supplementation with lycopene, curcumin, allicin and sodium butyrate mixture on immunity and jejunal health in laying hens",
-   "abstract": "",
-   "authors": [
-    "M. Chen",
-    "Z. Xu",
-    "J. Pan",
-    "X. Zhang",
-    "X. Zheng"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2738155",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 4.0,
-   "matched": [
-    "laying hen"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223626",
    "title": "Detection of PCV1-5 and Genetic Characterization of PCV2, PCV3, and PCV5 in Wild Boar from Hunan Province, China",
    "abstract": "Wild boars are important reservoirs for multiple pathogens, many of which can spread intra- and inter-species and pose spillover risks to domestic animal populations. Porcine circovirus (PCV) is an economically critical pathogen threatening the global swine industry. Although PCV circulation in wild boar populations has attracted attention across the world, epidemiological data regarding PCV prevalence in wild boars remain insufficient in Hunan province, a major swine-raising region in China. In the present study, tissue samples from 48 wild boars were collected in two regions of Hunan province from 2020 to 2023, and screened for five known PCV genotypes (PCV1-5). Genetic characterization and phylogenetic analysis were performed on the obtained PCV2, PCV3 and PCV5 genomic sequences. The results demonstrated that all samples were negative for PCV1 and PCV4. The overall prevalence of PCV2, PCV3 and PCV5 was 52.1% (25/48), 22.9% (11/48) and14.6% (7/48), respectively. Notably, all PCV3-positive samples presented PCV2 co-infection. Furthermore, samples collected in 2023 exhibited significantly higher infection rates of PCV2 (76.92%, 10/13) and PCV3 (69.23%, 9/13) compared with those collected in previous years. Phylogenetic analysis based on ORF2 gene sequences revealed that six of seven PCV2 strains belonged to genotype 2d (PCV2d) and the remaining strain belonged to genotype 2b (PCV2b). Both PCV3 strains were classified as PCV3a. The identified PCV2b strain shared 100% nucleotide homology with a domestic pig strain previously reported in Fujian Province, China, while the PCV3a strains showed the closest genetic similarity to strains circulating in Spain. Additionally, the capsid amino acid sequence of the detected PCV5 exhibited high genetic relatedness to a fur seal feces-associated circular virus. Collectively, these findings demonstrate that wild boars act as important natural reservoirs for PCV2, PCV3 and PCV5 in Hunan province, potentially facilitating PCV transmission cross-regionally and cross-species.",
@@ -8077,6 +8222,26 @@
     "amino acid"
    ],
    "abstract_zh": "野豬是多種病原體的重要自然宿主，其中許多病原體可在物種內及物種間傳播，並對家畜族群構成跨物種傳播（spillover）的風險。豬圓環病毒（Porcine circovirus, PCV）是威脅全球養豬業具經濟重要性的病原體。儘管野豬族群中PCV的流行情況已受到全球關注，但在中國主要養豬省份之一的湖南省，有關野豬中PCV流行率的流行病學數據仍顯不足。在本研究中，於2020年至2023年間從湖南省兩個地區採集了48份野豬組織檢體，並篩檢了五種已知的PCV基因型（PCV1-5）。對獲得的PCV2、PCV3和PCV5基因體序列進行了基因特性鑑定與親緣關係分析。結果顯示，所有檢體的PCV1和PCV4均呈陰性。PCV2、PCV3和PCV5的總流行率分別為52.1%（25/48）、22.9%（11/48）和14.6%（7/48）。值得注意的是，所有PCV3陽性檢體皆呈現PCV2共同感染。此外，與前幾年採集的檢體相比，2023年採集的檢體顯示出顯著較高的PCV2（76.92%, 10/13）與PCV3（69.23%, 9/13）感染率。基於ORF2基因序列的親緣關係分析顯示，七株PCV2毒株中有六株屬於2d基因型（PCV2d），其餘一株屬於2b基因型（PCV2b）。兩株PCV3毒株皆被歸類為PCV3a。所鑑定的PCV2b毒株與先前中國福建省報導之家豬毒株具有100%的核苷酸同源性，而PCV3a毒株則與西班牙流行的毒株顯示出最近的基因相似性。此外，所檢測到的PCV5之衣殼（capsid）胺基酸序列與海狗糞便相關環狀病毒（fur seal feces-associated circular virus）具有高度的基因相關性。綜上所述，這些發現證明野豬是湖南省PCV2、PCV3和PCV5的重要自然宿主，可能促進PCV的跨區域與跨物種傳播。"
+  },
+  {
+   "doi": "10.3390/ani16223643",
+   "title": "Wild Norway Rats as a Model of Experimental Domestication: Research Results over 50 Years of Breeding",
+   "abstract": "In this review, we consolidate the results of all physiological, immunological, morphological, ethological, and genetic studies obtained throughout this extensive fifty-year experiment. Data on cerebral monoamine levels, blood hormone concentrations, immunoglobulins, T cells, craniometry, coat color changes, behavioral differences, and gene expression patterns are presented. The experimental domestication model in Norway rats vividly illustrates Belyaev’s concept regarding the role of artificial selection for domestication in destabilizing the organismal regulatory systems: it alters not only the trait under selection—the behavioral response of Norway rats to humans—but also the associated regulatory neuroendocrine systems, including the stress response system. This in turn expands the range of phenotypic variability of many traits in domesticated animals.",
+   "authors": [
+    "Rimma Kozhemyakina",
+    "Arcady Markel",
+    "Mikhail Ponomarenko",
+    "Irina Chadaeva"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223643",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 4.0,
+   "matched": [
+    "breeding"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1002/age.70217",
@@ -9401,6 +9566,30 @@
    "abstract_zh": "當利用原位尼龍袋法（in situ nylon bag technique）評估瘤胃降解特性時，若未對尼龍袋殘渣中的微生物汙染進行校正，將會低估粗飼料氮在瘤胃中的降解率。因此，本研究的目的在於測定粗飼料在瘤胃原位培養過程中的細菌汙染，並建立預測瘤胃培養殘渣微生物汙染的方程式。利用尼龍袋法，將總共 30 種粗飼料置於 4 隻昭烏達肉羊的瘤胃中進行培養。持續向瘤胃內輸注 $(^{15}\\text{NH}_4)_2\\text{SO}_4$，隨後透過對瘤胃內容物樣品進行差速離心，分離出標記的瘤胃固體附著細菌（SAB）與瘤胃液體附著細菌（LAB）沉澱顆粒。經微生物校正後，24 種粗飼料氮的瘤胃降解率顯著增加（$p < 0.05$），6 種粗飼料氮的數值有所增加但無顯著差異（$p > 0.05$），且 SAB 與 LAB 兩種標記方法之間沒有差異。除了進口苜蓿乾草（AH）外，29 種粗飼料的細菌汙染進程均可以通式為 $N_{\\text{cont.}} = N_{\\text{max}} [1 - \\exp(-C \\cdot t)]$ 的指數函數來描述，其中 $N_{\\text{max}}$ 隨飼料的營養成分而變化。分別為秸稈類粗飼料、乾草類粗飼料以及全部 29 種粗飼料合併建立了預測模型，納入粗蛋白質（CP）、中性洗滌纖維（NDF）、酸性洗滌纖維（ADF）、乾物質（DM）和有機物（OM）來估算 $N_{\\text{max}}$。結果證實，微生物汙染會對尼龍袋測定造成系統性偏差，導致對真實瘤胃氮降解率的持續低估，特別是對於高纖維、低蛋白質的飼料。由於汙染遵循由飼料養分特性驅動的可預測指數模式，簡單的養分數據即可可靠地預測並校正此偏差。SAB 與 LAB 標記法的等效性表明，任一微生物菌群均可作為參考，從而簡化了未來的應用。最重要的是，所開發的模型僅需利用常規飼料分析即可對微生物汙染進行準確校正，消除了對昂貴同位素設備的需求，使尼龍袋法在評估反芻動物粗飼料蛋白質品質方面更加穩健且易於實施。"
   },
   {
+   "doi": "10.3390/ani16223638",
+   "title": "Integrated Metagenomic and Metabolomic Analysis of Breed-Associated Differences in the Colonic Microbiota of Chun’an Spotted and Landrace Pigs",
+   "abstract": "Gut microorganisms influence host energy metabolism and fat deposition. We compared the colonic microbiota and metabolome of the indigenous Chun’an Spotted pig with those of the commercial Landrace pig. Chun’an Spotted pigs are a Chinese breed with a strong propensity for fat deposition and high intramuscular fat content. Integrated metagenomic and untargeted metabolomic profiling of colonic contents revealed breed-associated differences in microbial community structure and metabolite profiles. Chun’an Spotted pigs (CA) had a higher relative abundance of Bacillota. Bacteroidota was more abundant in Landrace pigs (LD) than in CA. The CA microbiota had higher relative abundances of Lactobacillus and Ruminococcus and a higher relative abundance of glycoside hydrolase family GH13. It also had more genes annotated to glycogen metabolism pathways. In contrast, the LD microbiota had higher relative abundances of Prevotella and hemicellulose-degrading enzyme families, including GH43 and CE1. Bile acid derivatives and δ-tocopherol were more abundant in CA. Correlation analysis identified associations among key microbial genera (Lactobacillus, Ruminococcus, and Blautia), specific metabolites (piptamine, glycochenodeoxycholate-3-sulfate, and 23-nordeoxycholic acid), and fat phenotypes (backfat thickness and intramuscular fat content). Prevotella sp. and Segatella copri were significantly negatively correlated with intramuscular fat (IMF) content but not with backfat thickness (BFT). Overall, Lactobacillus, Ruminococcus, and Segatella may serve as candidate taxa, and the breed-associated microbial and metabolomic patterns described here provide a basis for further studies.",
+   "authors": [
+    "Huanhuan Wang",
+    "Yanlu Wang",
+    "Yuanhao Zhou",
+    "Yinghui Wei",
+    "Hang Liu",
+    "Weiwu Zhang",
+    "Lei Zhang",
+    "Jinghui Fan"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223638",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 2.0,
+   "matched": [
+    "pig"
+   ],
+   "abstract_zh": "腸道微生物會影響宿主的能量代謝與脂肪沉積。本研究比較了地方品種淳安花豬與商業品種藍瑞斯豬的結腸微生物相與代謝體。淳安花豬為中國本土品種，具有強烈的脂肪沉積傾向及高肌間脂肪含量。對結腸內容物進行整合性巨基因體學與非標靶代謝體學分析顯示，不同品種間的微生物群落結構與代謝物圖譜存在差異。淳安花豬（CA）的厚壁菌門（Bacillota）相對豐度較高；擬桿菌門（Bacteroidota）在藍瑞斯豬（LD）中的豐度則高於 CA。CA 的微生物相具有較高相對豐度的乳酸桿菌屬（Lactobacillus）與瘤胃球菌屬（Ruminococcus），以及較高相對豐度的糖苷水解酶家族 GH13，同時亦帶有較多註解至肝醣代謝路徑的基因。相對地，LD 的微生物相則具有較高相對豐度的普雷沃氏菌屬（Prevotella）及半纖維素降解酵素家族（包含 GH43 與 CE1）。膽酸衍生物與 δ-生育酚在 CA 中更為豐富。相關性分析鑑定出關鍵微生物屬（乳酸桿菌屬、瘤胃球菌屬與布勞氏菌屬 [Blautia]）、特定代謝物（piptamine、甘氨鵝脫氧膽酸-3-硫酸酯 [glycochenodeoxycholate-3-sulfate] 與 23-去甲脫氧膽酸 [23-nordeoxycholic acid]）以及脂肪表型（背脂厚度與肌間脂肪含量）之間的關聯。普雷沃氏菌屬（Prevotella sp.）與糞便塞加特氏菌（Segatella copri）與肌間脂肪（IMF）含量呈顯著負相關，但與背脂厚度（BFT）無顯著相關。總體而言，乳酸桿菌屬、瘤胃球菌屬與塞加特氏菌屬可作為候選分類群，且本文所述之品種相關微生物與代謝體模式為未來的研究提供了基礎。"
+  },
+  {
    "doi": "10.3390/ani16223613",
    "title": "Acute Exercise-Associated Collapse in a Racing Siberian Husky: A Case Report",
    "abstract": "The cause of exercise-associated collapse is rarely established when episodes are transient and occur in the field. A 4.5-year-old intact female Siberian Husky with a body condition score of 3/9 collapsed while competing in a 246 km multi-stage sled-dog race at about 1500 m altitude. On day 2, after 14 min of running and at the start of the first uphill section, she fell into lateral recumbency, became apnoeic and unresponsive, and recovered within seconds after chest compressions by the musher. Investigations comprised clinical examination, blood analyses at 30 min and 72 h, dietary analysis, training records and race tracking data. The examination 10 min later was unremarkable. Hyperglycaemia, increased cortisol and muscle and liver enzyme activities, and a mildly decreased haematocrit were consistent with an acute exercise and stress response. Calculated energy intake (1633 kcal/day) was below estimated racing requirements (2116–2539 kcal/day), and she had trained almost exclusively on flat terrain near sea level. No definitive cause could be identified. Several contributing factors were considered, including body condition, nutritional status, training specificity, altitude exposure, and race demands. A transient mismatch between oxygen delivery and metabolic demand remains one possible explanation; however, this hypothesis could not be confirmed, and a transient cardiac arrhythmia could not be excluded. Unexplained collapse in canine endurance athletes warrants withdrawal from competition and a structured cardiovascular, metabolic, nutritional, and training evaluation.",
@@ -9442,28 +9631,25 @@
    "abstract_zh": "乳 產 量 與 乳 成 分 是 評 估 乳 牛 生 產 性 能 與 牛 奶 品 質 的 關 鍵 指 標 ， 而 生 產 壽 命 （ 此 處 定 義 為 自 首 次 分 娩 至 淘 汰 之 期 間 ） 則 與 場 內 獲 利 能 力 及 動 物 福 利 息 息 相 關 。 隨 著 荷 思 特 牛 （ Holstein ） 的 育 種 目 標 從 單 純 追 求 產 量 ， 擴 大 至 涵 蓋 牛 奶 品 質 、 健 康 與 長 壽 性 ， 乳 生 產 性 狀 與 生 產 壽 命 間 的 關 聯 性 越 發 受 到 重 視 。 因 此 ， 本 研 究 探 討 了 乳 產 量 與 乳 成 分 在 不 同 胎 次 間 的 表 型 變 異 ， 評 估 這 些 性 狀 與 淘 汰 風 險 之 關 聯 性 ， 並 篩 選 出 生 產 壽 命 的 潛 在 指 標 ， 以 作 為 長 壽 性 選 育 及 精 準 牛 群 管 理 之 參 考 。 本 研 究 共 收 集 自 2009 年 至 2023 年 間 9 個 牧 場 、 23,330 頭 乳 牛 之 492,425 筆 乳 牛 群 效 能 改 良 （ DHI ） 測 定 日 紀 錄 ， 以 及 40,228 頭 乳 牛 之 淘 汰 紀 錄 。 經 品 管 後 ， 針 對 23,123 頭 乳 牛 分 析 乳 產 量 與 乳 成 分 在 不 同 胎 次 間 之 變 異 。 經 進 一 步 品 管 後 ， 利 用 卡 普 蘭 - 梅 爾 分 析 （ Kaplan-Meier analysis ） 、 對 数 秩 檢 定 （ log-rank test ） 以 及 單 變 量 與 多 變 量 考 克 斯 比 例 風 險 迴 歸 分 析 （ Cox proportional hazards regression analyses ） ， 評 估 這 些 性 狀 與 淘 汰 風 險 之 關 聯 性 。 淘 汰 紀 錄 編 碼 為 1， 未 有 淘 汰 紀 錄 之 乳 牛 則 在 其 最 後 可 得 紀 錄 時 進 行 右 刪 截 （ right-censored, 0 ） 。 經 共 線 性 評 估 後 ， 建 立 諾 モ 圖 （ nomogram ） 以 預 測 生 產 壽 命 。 表 型 分 析 結 果 顯 示 ， 日 乳 產 量 （ DMY ）、 乳 脂 量 （ MFY ） 及 乳 蛋 白 量 （ MPY ） 大 致 隨 胎 次 增 加 而 提 高 。 日 乳 產 量 自 第 一 胎 的 32.57 kg 增 加 至 第 三 胎 的 38.56 kg ， 且 各 胎 次 皆 在 泌 乳 第 50 天 左 右 達 到 高 峰 。 乳 脂 率 （ MFP ） 與 乳 蛋 白 率 （ MPP ） 在 各 胎 次 間 變 化 不 大 ， 兩 者 皆 在 泌 乳 第 30–60 天 降 至 最 低 水 平 ， 其 後 隨 著 泌 乳 期 增 加 而 上 升 。 乳 乳 糖 率 （ MLP ） 略 有 下 降 ， 而 體 細 胞 數 （ SCC ） 則 自 第 一 胎 的 21.33 × 10⁴ cells/mL 升 至 第 三 胎 的 31.38 × 10⁴ cells/mL 。 荷 思 特 乳 牛 在 由 日 乳 產 量 及 乳 成 分 性 狀 所 劃 分 之 各 組 間 ， 其 卡 普 蘭 - 梅 爾 生 存 曲 線 具 有 顯 著 差 異 （ p < 0.0001 ）， 且 所 有 分 組 之 淘 汰 風 險 皆 隨 著 時 間 逐 漸 增 加 。 單 變 量 考 克 斯 迴 歸 分 析 顯 示 ， 日 乳 產 量 、 乳 脂 率 、 乳 蛋 白 率 、 乳 脂 量 、 乳 蛋 白 量 、 乳 乳 糖 率 及 體 細 胞 數 皆 與 生 存 時 間 具 有 顯 著 關 聯 （ p < 0.01 ）。 多 變 量 考 克 斯 迴 歸 證 實 ， 在 校 正 牧 場 、 初 產 年 齡 、 初 產 年 份 - 季 節 、 出 生 年 份 - 季 節 及 測 定 年 份 等 因 子 後 ， 日 乳 產 量 、 乳 脂 量 、 乳 蛋 白 量 、 乳 乳 糖 率 及 體 細 胞 數 與 生 存 時 間 仍 維 持 顯 著 關 聯 （ p < 0.01 ）。 日 乳 產 量 、 乳 脂 量 、 乳 蛋 白 量 及 乳 乳 糖 率 之 風 險 比 （ HRs ） 分 別 為 0.9903 （ 95% CI: 0.9868–0.9938 ）、 0.8199 （ 95% CI: 0.7543–0.8912 ）、 0.7074 （ 95% CI: 0.6299–0.7945 ） 及 0.7919 （ 95% CI: 0.6841–0.9168 ）。 所 有 風 險 比 皆 小 於 1， 表 明 這 些 性 狀 數 值 較 高 者 其 淘 汰 風 險 較 低 。 體 細 胞 數 之 風 險 比 大 於 1（ HR = 1.0009 ）， 表 明 體 細 胞 數 較 高 者 淘 汰 風 險 亦 較 高 。 共 線 性 分 析 顯 示 ， 日 乳 產 量 、 乳 脂 量 及 乳 蛋 白 量 間 具 有 高 度 共 線 性 。 因 此 ， 本 研 究 保 留 乳 脂 量 、 乳 乳 糖 率 及 體 細 胞 數 用 於 建 立 荷 思 特 乳 牛 生 產 壽 命 之 諾 モ 圖 。 諾 モ 圖 結 果 顯 示 ， 高 乳 脂 量 、 高 乳 乳 糖 率 及 低 體 細 胞 數 與 較 高 的 總 分 及 更 為 理 想 的 生 存 結 果 相 關 。 這 些 發 現 表 明 ， 乳 脂 量 、 乳 乳 糖 率 及 體 細 胞 數 可 作 為 淘 汰 風 險 與 生 產 壽 命 的 潛 在 預 測 指 標 。 利 用 這 些 指 標 開 發 之 諾 モ 圖 有 助 於 荷 思 特 乳 牛 之 淘 汰 風 險 評 估 與 長 壽 性 管 理 。"
   },
   {
-   "doi": "10.3390/ani16223638",
-   "title": "Integrated Metagenomic and Metabolomic Analysis of Breed-Associated Differences in the Colonic Microbiota of Chun’an Spotted and Landrace Pigs",
-   "abstract": "Gut microorganisms influence host energy metabolism and fat deposition. We compared the colonic microbiota and metabolome of the indigenous Chun’an Spotted pig with those of the commercial Landrace pig. Chun’an Spotted pigs are a Chinese breed with a strong propensity for fat deposition and high intramuscular fat content. Integrated metagenomic and untargeted metabolomic profiling of colonic contents revealed breed-associated differences in microbial community structure and metabolite profiles. Chun’an Spotted pigs (CA) had a higher relative abundance of Bacillota. Bacteroidota was more abundant in Landrace pigs (LD) than in CA. The CA microbiota had higher relative abundances of Lactobacillus and Ruminococcus and a higher relative abundance of glycoside hydrolase family GH13. It also had more genes annotated to glycogen metabolism pathways. In contrast, the LD microbiota had higher relative abundances of Prevotella and hemicellulose-degrading enzyme families, including GH43 and CE1. Bile acid derivatives and δ-tocopherol were more abundant in CA. Correlation analysis identified associations among key microbial genera (Lactobacillus, Ruminococcus, and Blautia), specific metabolites (piptamine, glycochenodeoxycholate-3-sulfate, and 23-nordeoxycholic acid), and fat phenotypes (backfat thickness and intramuscular fat content). Prevotella sp. and Segatella copri were significantly negatively correlated with intramuscular fat (IMF) content but not with backfat thickness (BFT). Overall, Lactobacillus, Ruminococcus, and Segatella may serve as candidate taxa, and the breed-associated microbial and metabolomic patterns described here provide a basis for further studies.",
+   "doi": "10.3390/ani16223644",
+   "title": "Retrospective Analysis of Elasmobranch Neoplasia",
+   "abstract": "Elasmobranchs are a subclass of Chondrichthyes representing one of the oldest extant vertebrate groups. This class includes approximately 1000 known extant species that have been kept under human care since the 1860s and are widely held for display in public aquaria. Neoplasia is of increasing interest in managed aquarium populations; however, few systematic evaluations of neoplasia in managed fish populations exist outside of individual case studies and unpublished observations. With the growing popularity of elasmobranchs in managed care and their current population decline in the wild, it is increasingly important to describe diseases affecting these species. This study aimed to compile cases of elasmobranch neoplasia and evaluate trends to increase veterinary understanding of neoplastic disease in this taxon. Cases were compiled from the Exotic Species Cancer Research Alliance (ESCRA) database, literature reports, and private institutions. Data compiled included: animal order, genus, species, common name, age and age class at diagnosis, sex, tumor classification and histologic diagnosis, malignancy, presence of metastases, treatment, and survival time in months. This study compiled 108 cases, representing 9 orders, 44 species and 35 neoplasia types, a 2.5-fold increase since the last report on elasmobranch neoplasia published approximately 20 years ago. The most reported species was the whitespotted shark (Chiloscyllium plagiosum). The most common tumor classification was epithelial/pigment cell tumors, with the most common tumor being papillomatosis. This study emphasizes the limited understanding of neoplasia in cartilaginous fishes and highlights the need for future work for clinical and pathological workup of neoplasia in elasmobranchs.",
    "authors": [
-    "Huanhuan Wang",
-    "Yanlu Wang",
-    "Yuanhao Zhou",
-    "Yinghui Wei",
-    "Hang Liu",
-    "Weiwu Zhang",
-    "Lei Zhang",
-    "Jinghui Fan"
+    "Kayla Bonadie",
+    "Emma Ferraro",
+    "Elizabeth Duke",
+    "Brigid Troan",
+    "Tara M. Harrison"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223638",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
+   "url": "https://doi.org/10.3390/ani16223644",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
    "score": 2.0,
    "matched": [
-    "pig"
+    "disease"
    ],
-   "abstract_zh": "腸道微生物會影響宿主的能量代謝與脂肪沉積。本研究比較了地方品種淳安花豬與商業品種藍瑞斯豬的結腸微生物相與代謝體。淳安花豬為中國本土品種，具有強烈的脂肪沉積傾向及高肌間脂肪含量。對結腸內容物進行整合性巨基因體學與非標靶代謝體學分析顯示，不同品種間的微生物群落結構與代謝物圖譜存在差異。淳安花豬（CA）的厚壁菌門（Bacillota）相對豐度較高；擬桿菌門（Bacteroidota）在藍瑞斯豬（LD）中的豐度則高於 CA。CA 的微生物相具有較高相對豐度的乳酸桿菌屬（Lactobacillus）與瘤胃球菌屬（Ruminococcus），以及較高相對豐度的糖苷水解酶家族 GH13，同時亦帶有較多註解至肝醣代謝路徑的基因。相對地，LD 的微生物相則具有較高相對豐度的普雷沃氏菌屬（Prevotella）及半纖維素降解酵素家族（包含 GH43 與 CE1）。膽酸衍生物與 δ-生育酚在 CA 中更為豐富。相關性分析鑑定出關鍵微生物屬（乳酸桿菌屬、瘤胃球菌屬與布勞氏菌屬 [Blautia]）、特定代謝物（piptamine、甘氨鵝脫氧膽酸-3-硫酸酯 [glycochenodeoxycholate-3-sulfate] 與 23-去甲脫氧膽酸 [23-nordeoxycholic acid]）以及脂肪表型（背脂厚度與肌間脂肪含量）之間的關聯。普雷沃氏菌屬（Prevotella sp.）與糞便塞加特氏菌（Segatella copri）與肌間脂肪（IMF）含量呈顯著負相關，但與背脂厚度（BFT）無顯著相關。總體而言，乳酸桿菌屬、瘤胃球菌屬與塞加特氏菌屬可作為候選分類群，且本文所述之品種相關微生物與代謝體模式為未來的研究提供了基礎。"
+   "abstract_zh": ""
   },
   {
    "doi": "10.1186/s40104-026-01504-w",
@@ -10265,6 +10451,28 @@
    "abstract_zh": "乳腺炎是影響乳牛最常見的疾病之一。在大多數情況下，乳房內感染是由細菌引起，其中乳房鏈球菌（*Streptococcus uberis*, *S. uberis*）目前扮演著重要角色。本研究旨在分析 *S. uberis* 分離株對抗生素的表現型與基因型抗藥性。研究材料包含從位於波蘭庫亞維－波美拉尼亞省（Kuyavian–Pomeranian Voivodeship）28 個農場的荷仕登（Holstein Friesian, HF）乳牛所採集的 194 個乳樣，總牛隻群體大小為 1241 頭乳牛。我們的研究結果表明，*S. uberis* 是乳牛乳腺炎的重要病因之一。對 *S. uberis* 分離株的抗菌劑敏感性評估鑑別出 21 種不同的抗藥圖譜。最常見的模式是對四環黴素、紅黴素和林克黴素同時產生抗藥性。在 *S. uberis* 分離株中觀察到 33.3% 的多重抗藥性；另一方面，20.0% 的 *S. uberis* 分離株對所有抗生素皆具敏感性或中等敏感性。體外活性最高的是盤尼西林、頭孢喹諾、頭孢哌酮、頭孢氨苄和頭孢噻呋（敏感分離株分別佔 90.0%、86.7%、73.3%、70.0%、70.0%）。分子研究證實了決定各種抗生素群抗藥性基因的存在。在 66.7% 的 *S. uberis* 分離株中檢測到至少一個抗藥性基因。佔最高比例的是負責對四環黴素產生抗藥性的 *tet* 基因：*tetL*、*tetM* 和 *tetO*。其次依頻率為編碼對巨環類（*ermB*）、林克醯胺類（*linB*）、β-內醯胺類抗生素（*blaZ*）和胺基糖苷類（*aac(6′)-Ie-aph(2″)-Ia*）抗藥性的基因。"
   },
   {
+   "doi": "10.3390/ani16223625",
+   "title": "Evaluation of the Probiotic Potential and Whole-Genome Characteristics of Ligilactobacillus salivarius LABH018 Isolated from Captive Amur Tiger Feces",
+   "abstract": "Host-derived lactic acid bacteria (LAB) from endangered wildlife can provide valuable microbial resources for health management and potential microbiota-based interventions. Therefore, this study aimed to screen LAB strains from the feces of captive Amur tigers (Panthera tigris altaica) for probiotic potential and evaluate their safety. Eight LAB strains were isolated and identified through morphological examination, physiological and biochemical characterization, and 16S rRNA gene sequencing. The probiotic potential and safety profiles of the isolates were evaluated based on acid and bile salt tolerance, auto-aggregation ability, cell surface hydrophobicity, antibacterial activity, antibiotic susceptibility, and hemolytic activity. The isolates belonged to four genera: Enterococcus, Pediococcus, Ligilactobacillus, and Lactobacillus. Among them, Ligilactobacillus salivarius LABH018 exhibited relatively high tolerance to acidic and bile salt conditions, high auto-aggregation ability, and strong cell surface hydrophobicity. LABH018 showed inhibitory activity against Escherichia coli, Staphylococcus aureus, and Salmonella enterica, while no hemolytic activity was observed. Whole-genome analysis identified genes related to carbohydrate metabolism and transport and candidate genes associated with cell surface and polysaccharide functions. These findings suggest that Ligilactobacillus salivarius LABH018 has promising in vitro probiotic potential and may serve as a host-derived candidate strain for research on gut health management and microbiota-based interventions in endangered animals.",
+   "authors": [
+    "Yanmei He",
+    "Xuancheng Yin",
+    "Liuwei Xie",
+    "Longxia Fu",
+    "Naiquan Yao",
+    "Chao Xu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223625",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 1.0,
+   "matched": [
+    "salmonella"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16223628",
    "title": "Molecular Detection of Pathogenic Leptospira in Wild Mammals of Catalonia, Spain",
    "abstract": "Leptospirosis is one of the most widespread zoonotic diseases worldwide and is caused by bacteria of the genus Leptospira. These bacteria can persist in water and soil for several months, increasing the risk of infection for humans engaged in outdoor occupational or recreational activities, particularly in warm and humid environments such as the Mediterranean region. Wildlife plays a significant role in the transmission cycle, acting as reservoirs that shed leptospires into the environment and facilitate infection of new hosts. This study aimed to determine the prevalence of pathogenic Leptospira in wildlife from Catalonia, Spain, using a real-time PCR testing. Pathogenic Leptospira was detected in 6% of the sampled animals (n = 197). The highest prevalence was observed in autochthonous carnivores, including European badgers (Meles meles) (19%) and Eurasian otters (Lutra lutra) (12.5%), followed by red foxes (8%). Lower prevalence was found in invasive species, including American mink (Neogale vison) (7%) and coypu (Myocastor coypus) (4%). No positive European hedgehogs (Erinaceus europaeus) were detected. Most positive cases were detected in the provinces of Barcelona and Girona, which are areas with high human population density. These findings highlight the role of both native and invasive wildlife species in the epidemiology of leptospirosis and underscore the importance of a One Health approach, as wildlife reservoirs may contribute to the risk of infection in domestic animals and humans.",
@@ -10284,25 +10492,6 @@
     "disease"
    ],
    "abstract_zh": "鉤端螺旋體病是全球最廣泛的人畜共通傳染病之一，由鉤端螺旋體屬（Leptospira）的細菌引起。這些細菌可在水和土壤中存活數月，增加從事戶外職業或休閒活動的人群感染風險，特別是在地中海等溫暖潮濕的環境中。野生動物在傳播循環中扮演重要角色，作為保菌宿主將鉤端螺旋體排出至環境中，並促進新宿主的感染。本研究旨在利用即時聚合酶鏈鎖反應（real-time PCR）檢測，探討西班牙加泰隆尼亞地區野生動物中病原性鉤端螺旋體的盛行率。在採樣動物（n = 197）中，有 6% 檢出病原性鉤端螺旋體。最高的盛行率見於本土食肉動物，包括歐洲獾（Meles meles，19%）和歐亞水獺（Lutra lutra，12.5%），其次是赤狐（8%）。入侵物種的盛行率較低，包括美洲水貂（Neogale vison，7%）和海狸鼠（Myocastor coypus，4%）。未檢出歐洲刺蝟（Erinaceus europaeus）呈陽性。多數陽性病例發現於人口密度較高的巴塞隆納省和赫羅納省。這些發現突顯了本土與入侵野生動物物種在鉤端螺旋體病流行病學中的作用，並強調了「健康一體」（One Health）方法的重要性，因為野生動物宿主可能會增加家畜和人類的感染風險。"
-  },
-  {
-   "doi": "10.3390/ani16223619",
-   "title": "A Male Reproductive Tissue-Enriched Transcript Encoding a Putative Peptide Precursor Is Associated with Testicular Homeostasis in the Chinese Mitten Crab Eriocheir sinensis",
-   "abstract": "In crustaceans, spermatogenesis is regulated by endocrine and local factors, though many key regulators remain unknown. We identified a previously uncharacterized transcript enriched in male reproductive tissues of the Chinese mitten crab Eriocheir sinensis, encoding a predicted peptide precursor designated MRSS. MRSS encodes a 102-amino acid protein featuring an N-terminal signal peptide and nine C-terminal tandem DEDAA pentapeptide repeats. MRSS is abundantly expressed in the androgenic gland (AG) and accessory sex gland (AsG), with higher expression during the synthesis and secretory stages of AG development. RNAi-mediated knockdown of MRSS altered testicular histology, leading to abnormal vacuolization and abnormal chromatin morphology in spermatocytes. In the AG, MRSS knockdown reduced the expression of IAG and iDMY, while in the testis it downregulated the germ cell maintenance and cell cycle-related genes vasa, PCNA, and cyclin B. MRSS deficiency was also associated with increased apoptosis-related markers, as indicated by an increased Bax/Bcl2 ratio, more prominent TUNEL-positive signals in spermatocytes, and elevated caspase-3-like and caspase-9-like activities. Conversely, in vitro incubation of testes with recombinant MRSS (rMRSS) increased germ cell maintenance and cell cycle-related markers, and reduced apoptosis-related markers, including the Bax/Bcl2 ratio and caspase-3/9-like activities. Our results support a role for MRSS in maintaining testicular homeostasis, potentially in association with IAG expression. This study provides the first evidence of a male reproductive tissue-enriched transcript encoding a predicted peptide precursor involved in testicular structure homeostasis in decapod crustaceans.",
-   "authors": [
-    "Yanan Yang",
-    "Chenchang Bao",
-    "Zhaoxia Cui"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223619",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 1.0,
-   "matched": [
-    "amino acid"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.3390/ani16223623",
@@ -10327,24 +10516,21 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223625",
-   "title": "Evaluation of the Probiotic Potential and Whole-Genome Characteristics of Ligilactobacillus salivarius LABH018 Isolated from Captive Amur Tiger Feces",
-   "abstract": "Host-derived lactic acid bacteria (LAB) from endangered wildlife can provide valuable microbial resources for health management and potential microbiota-based interventions. Therefore, this study aimed to screen LAB strains from the feces of captive Amur tigers (Panthera tigris altaica) for probiotic potential and evaluate their safety. Eight LAB strains were isolated and identified through morphological examination, physiological and biochemical characterization, and 16S rRNA gene sequencing. The probiotic potential and safety profiles of the isolates were evaluated based on acid and bile salt tolerance, auto-aggregation ability, cell surface hydrophobicity, antibacterial activity, antibiotic susceptibility, and hemolytic activity. The isolates belonged to four genera: Enterococcus, Pediococcus, Ligilactobacillus, and Lactobacillus. Among them, Ligilactobacillus salivarius LABH018 exhibited relatively high tolerance to acidic and bile salt conditions, high auto-aggregation ability, and strong cell surface hydrophobicity. LABH018 showed inhibitory activity against Escherichia coli, Staphylococcus aureus, and Salmonella enterica, while no hemolytic activity was observed. Whole-genome analysis identified genes related to carbohydrate metabolism and transport and candidate genes associated with cell surface and polysaccharide functions. These findings suggest that Ligilactobacillus salivarius LABH018 has promising in vitro probiotic potential and may serve as a host-derived candidate strain for research on gut health management and microbiota-based interventions in endangered animals.",
+   "doi": "10.3390/ani16223619",
+   "title": "A Male Reproductive Tissue-Enriched Transcript Encoding a Putative Peptide Precursor Is Associated with Testicular Homeostasis in the Chinese Mitten Crab Eriocheir sinensis",
+   "abstract": "In crustaceans, spermatogenesis is regulated by endocrine and local factors, though many key regulators remain unknown. We identified a previously uncharacterized transcript enriched in male reproductive tissues of the Chinese mitten crab Eriocheir sinensis, encoding a predicted peptide precursor designated MRSS. MRSS encodes a 102-amino acid protein featuring an N-terminal signal peptide and nine C-terminal tandem DEDAA pentapeptide repeats. MRSS is abundantly expressed in the androgenic gland (AG) and accessory sex gland (AsG), with higher expression during the synthesis and secretory stages of AG development. RNAi-mediated knockdown of MRSS altered testicular histology, leading to abnormal vacuolization and abnormal chromatin morphology in spermatocytes. In the AG, MRSS knockdown reduced the expression of IAG and iDMY, while in the testis it downregulated the germ cell maintenance and cell cycle-related genes vasa, PCNA, and cyclin B. MRSS deficiency was also associated with increased apoptosis-related markers, as indicated by an increased Bax/Bcl2 ratio, more prominent TUNEL-positive signals in spermatocytes, and elevated caspase-3-like and caspase-9-like activities. Conversely, in vitro incubation of testes with recombinant MRSS (rMRSS) increased germ cell maintenance and cell cycle-related markers, and reduced apoptosis-related markers, including the Bax/Bcl2 ratio and caspase-3/9-like activities. Our results support a role for MRSS in maintaining testicular homeostasis, potentially in association with IAG expression. This study provides the first evidence of a male reproductive tissue-enriched transcript encoding a predicted peptide precursor involved in testicular structure homeostasis in decapod crustaceans.",
    "authors": [
-    "Yanmei He",
-    "Xuancheng Yin",
-    "Liuwei Xie",
-    "Longxia Fu",
-    "Naiquan Yao",
-    "Chao Xu"
+    "Yanan Yang",
+    "Chenchang Bao",
+    "Zhaoxia Cui"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223625",
+   "url": "https://doi.org/10.3390/ani16223619",
    "date": "2026-11-16",
    "first_seen": "2026-11-17",
    "score": 1.0,
    "matched": [
-    "salmonella"
+    "amino acid"
    ],
    "abstract_zh": ""
   },
@@ -12889,19 +13075,6 @@
    "abstract_zh": "犬隻急性胰臟炎會引起劇烈腹痛，通常以全身性類鴉片藥物治療，但此類藥物可能妨礙胃腸道蠕動並延遲復原。本前瞻性臨床通訊旨在評估超音波引導下腹橫肌平面阻斷術納入急性胰臟炎犬隻多模式止痛方案中的類鴉片藥物節省效果及臨床結果。12隻犬隻被分配至局部區域阻斷組（n = 6）與以類鴉片藥物治療的對照組（n = 6），兩組依入院時記錄的五項嚴重程度評分進行配對。主要評估指標為納入後最初24小時內的類鴉片藥物消耗量；次要評估指標包括同期疼痛情況、首次自主攝食時間、住院天數及發炎反應。阻斷組接受的美沙酮劑數顯著較少（中位數 0 比 4.5；p = 0.015），且6隻犬中有5隻在納入劑量後無需額外使用美沙酮。阻斷組在最初24小時內的累積疼痛評分也顯著較低（p = 0.037）。阻斷組的首次自主攝食時間較短（12比48小時；p = 0.02）。住院天數或存活率則無顯著差異。將腹橫肌平面阻斷術加入多模式方案中，與顯著的類鴉片藥物節省效果相關，並能促進較早的自主攝食，惟這些初步結果仍需大型研究進一步確認。"
   },
   {
-   "doi": "10.1080/00439339.2026.2750664",
-   "title": "Education and Training",
-   "abstract": "For the most current information, please visit the Calendar on the website (www.wpsa.com).WVEPAH is a branch of the “European Association for Veterinary Specialization” (EAVS), a non-profit organiz...",
-   "authors": [],
-   "journal": "World's Poultry Science Journal",
-   "url": "https://doi.org/10.1080/00439339.2026.2750664",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-11",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "欲了解最新資訊，請造訪網站上的行事曆 (www.wpsa.com)。WVEPAH 是「歐洲獸醫專科學會」(European Association for Veterinary Specialization, EAVS) 的分支機構，EAVS 是一個非營利組織……"
-  },
-  {
    "doi": "10.1080/00439339.2026.2750663",
    "title": "Calendar",
    "abstract": "",
@@ -12913,6 +13086,19 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "欲獲取最新資訊，請造訪網站上的行事曆（www.wpsa.com）。2027年2月1日至3日澳洲雪梨雪梨大學第38屆澳洲家禽科學研討會（APSS）20..."
+  },
+  {
+   "doi": "10.1080/00439339.2026.2750664",
+   "title": "Education and Training",
+   "abstract": "For the most current information, please visit the Calendar on the website (www.wpsa.com).WVEPAH is a branch of the “European Association for Veterinary Specialization” (EAVS), a non-profit organiz...",
+   "authors": [],
+   "journal": "World's Poultry Science Journal",
+   "url": "https://doi.org/10.1080/00439339.2026.2750664",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "欲了解最新資訊，請造訪網站上的行事曆 (www.wpsa.com)。WVEPAH 是「歐洲獸醫專科學會」(European Association for Veterinary Specialization, EAVS) 的分支機構，EAVS 是一個非營利組織……"
   },
   {
    "doi": "10.3390/ani16223553",
@@ -13295,25 +13481,6 @@
    "abstract_zh": "肌間骨（Intermuscular bones, IBs）是嵌入魚類肌肉組織中的小型礦化構造，會增加加工處理的複雜度，因此在養殖鯉科魚類中被視為一項品質缺點。儘管 bmp6 已被證實與肌間骨發育有關，但其缺失所關聯的細胞變化仍尚未被完全解析。在本研究中，我們對野生型和 bmp6 基因敲除斑馬魚的肌間骨相關肌肉組織進行了單細胞轉錄體分析。在我們分析的突變體樣本中，成骨細胞的比例較低，且肌腱幹／祖細胞（TSPCs）與成骨細胞之間推導出的轉錄軌跡也發生了改變。此外，我們識別出一個具有與破骨細胞相關轉錄特徵的獨特突變體特異性 runx2+/ctsk+ 細胞群。CellChat 分析進一步預測，在 bmp6 突變體中，涉及 LAMC1 與 DAG1 的 LAMININ 相關細胞間通訊亦發生了改變。這些發現進一步闡明了與 bmp6 缺陷相關的細胞變化，並為斑馬魚肌間骨發育的細胞調控機制提供了見解。"
   },
   {
-   "doi": "10.3390/ani16223601",
-   "title": "Extracellular Vesicles Mediate Feline Panleukopenia Virus to Suppress IFN-ω-Induced Antiviral Cytokine Expression",
-   "abstract": "The immune escape and cross-host transmission mechanisms of feline panleukopenia virus (FPV) remain poorly elucidated, and extracellular vesicles (EVs) play critical regulatory roles in viral infection progression. To explore the molecular mechanism by which EVs mediate FPV infection, proliferation, and immune escape, EVs were isolated from FPV-infected F81 cells and peripheral blood of FPV-affected cats in this study. CD63 antibody-based magnetic bead immunoaffinity chromatography was applied for EV purification. Multiple approaches, including transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), Western blotting (WB), and quantitative real-time PCR (qPCR), were used for vesicle characterization. Cell infection assays, neutralizing antibody blockade assays, and interferon (IFN) intervention assays were performed to clarify the biological functions of FPV-derived EVs. The results showed that FPV-positive EVs with typical morphology, particle size, and biomarker characteristics were successfully isolated and purified, and the purification strategy markedly reduced free virus contamination. Functional experiments verified that FPV-infected cell-derived EVs could be rapidly internalized by host cells, significantly accelerate early FPV proliferation and cytopathic effects, and inhibition of EV secretion efficiently blocked FPV propagation. Moreover, FPV-EVs overcame the host entry restriction of FPV, mediated FPV entry into non-permissive HEK293T cells, and escaped the blockade of neutralizing antibodies. Mechanistically, FPV-EVs potently antagonized IFN-ω-mediated cellular antiviral responses and inhibited the expression of interferon-stimulated genes (ISGs) including ISG15, ISG56, and MX1. This immunosuppressive effect was independent of EV carriers and exhibited broad-spectrum activity in different cell types. Furthermore, EVs derived from the peripheral blood of FPV-infected cats also efficiently mediated FPV infection, assisted viral escape from humoral immunity, and antagonized host IFN-mediated antiviral responses. Collectively, this study indicates that EVs act as a key medium for FPV to achieve efficient proliferation, cross-cell infection, and immune escape, revealing a novel transmission mechanism of FPV, although productive replication and progeny release in the non-permissive human cells were not demonstrated and the potential for host-range expansion remains hypothetical. These findings provide important experimental evidence and theoretical support for improving the pathogenic mechanism of FPV and developing novel prevention and control strategies.",
-   "authors": [
-    "Guowei Xu",
-    "Meiling Jin",
-    "Chao Liang",
-    "Jingyan Zhang",
-    "Jianxi Li"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223601",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "貓泛白血球減少症病毒（FPV）的免疫逃逸與跨宿主傳播機制仍未完全闡明，而細胞外囊泡（EVs）在病毒感染進程中扮演關鍵的調節角色。本研究旨在探討EVs介導FPV感染、增殖及免疫逃逸的分子機制，自FPV感染的F81細胞以及FPV病貓的外周血中分離出EVs。應用基於CD63抗體的磁珠免疫親和層析法進行EVs純化。結合多種方法，包含透射電子顯微鏡（TEM）、奈米粒子追蹤分析（NTA）、西方墨漬法（WB）及即時定量PCR（qPCR）進行囊泡特徵鑑定。透過細胞感染實驗、中和抗體阻斷實驗及干擾素（IFN）干預實驗，以釐清FPV源性EVs的生物學功能。結果顯示，成功分離並純化出具有典型形態、粒徑及生物標記特徵的FPV陽性EVs，且該純化策略顯著降低了游離病毒的污染。功能實驗證實，FPV感染細胞源性的EVs能被宿主細胞快速內化，顯著加速早期FPV的增殖及細胞病變效應，而抑制EVs分泌則能有效阻斷FPV的擴散。此外，FPV-EVs克服了FPV的宿主細胞進入限制，介導FPV進入原本不支援感染的HEK293T細胞，並逃避中和抗體的阻斷。在機制上，FPV-EVs能強力拮抗IFN-ω介導的細胞抗病毒反應，並抑制干擾素刺激基因（ISGs）的表達，包含ISG15、ISG56及MX1。此種免疫抑制效應不依賴於EVs載體，並在不同細胞類型中展現廣譜活性。再者，源自FPV感染貓外周血的EVs亦能高效介導FPV感染、協助病毒逃避體液免疫，並拮抗宿主IFN介導的抗病毒反應。綜上所述，本研究顯示EVs作為FPV實現高效增殖、跨細胞感染及免疫逃逸的關鍵媒介，揭示了一種FPV的新型傳播機制，儘管在不支援感染的人類細胞中未表現出高效複製與子代釋放，且宿主範圍擴大的潛力仍屬假設性。這些發現為完善FPV的致病機制及開發新型防控策略提供了重要的實驗證據與理論支持。"
-  },
-  {
    "doi": "10.3390/ani16223602",
    "title": "Effects of Periodic Fasting and Refeeding on Enzyme Activities, Related Gene Expression and Gut Microbiota in the Sea Urchin Strongylocentrotus intermedius",
    "abstract": "Feeding strategy is a critical factor in sea urchin aquaculture. Previous studies have shown that the strategy of fasting for 3 days followed by refeeding for 9 days supports full compensatory growth in Strongylocentrotus intermedius, but the underlying mechanisms remain unclear. This study investigated the effects of periodic fasting and refeeding on enzyme activities, gene expression and gut microbiota in this species. Three feeding regimes were tested over 108 days: continuous feeding (group S0), fasting for 3 days followed by refeeding for 9 days (group S3), and fasting for 6 days followed by refeeding for 6 days (group S6). Group S3 had significantly higher digestive enzyme activities than group S0 (p &lt; 0.05), with unchanged antioxidant enzyme activities. Intestinal genes related to nutrient processing and lipid synthesis (MYP, Elovl4, Tgfbi1, Tgfbi2) were upregulated in group S3. Gut microbiota alpha diversity was comparable across groups, but beta diversity showed significant structural remodeling in group S3, with an elevated Bacillota/Bacteroidota ratio and enriched Lutibacter and Desulfobulbia. By contrast, group S6 showed reduced digestive enzyme activities, downregulated expression of target genes in the intestine, elevated pro-inflammatory TNF-α transcript levels, and reshaped gut microbiota structure. In conclusion, the strategy of fasting for 3 days followed by refeeding for 9 days is associated with improved feed absorption efficiency and compensatory growth, accompanied by enhanced digestive capacity and up-regulated the expression of growth-related target genes in the intestine, and reshaped gut microbiota composition, providing a theoretical reference for intermittent feeding in S. intermedius aquaculture.",
@@ -13335,6 +13502,65 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "投餵策略是海膽水產養殖的關鍵因素。先前的研究表明，禁食3天再恢復投餵9天的策略能促進中間球海膽（Strongylocentrotus intermedius）的完全補償生長，但其潛在機制仍不清楚。本研究探討了週期性禁食與恢復投餵對該物種的酵素活性、基因表現及腸道微生物相的影響。本研究進行了為期108天的三種投餵實驗組：連續投餵（S0組）、禁食3天後恢復投餵9天（S3組）、以及禁食6天後恢復投餵6天（S6組）。S3組的消化酶活性顯著高於S0組（p < 0.05），而抗氧化酶活性則無顯著變化。與營養物質加工和脂質合成相關的腸道基因（MYP、Elovl4、Tgfbi1、Tgfbi2）在S3組中表現上調。各組之間的腸道微生物相α多樣性（alpha diversity）相近，但β多樣性（beta diversity）顯示S3組的結構發生了顯著重塑，其厚壁菌門/擬桿菌門（Bacillota/Bacteroidota）比率升高，且Lutibacter和Desulfobulbia屬豐度增加。相比之下，S6組的消化酶活性降低，腸道中目標基因的表現下調，促發炎因子TNF-α轉錄水準升高，且腸道微生物相結構遭到重塑。綜上所述，禁食3天後恢復投餵9天的策略有助於提高飼料吸收效率並促進補償生長，伴隨著增強的消化能力、腸道中生長相關目標基因表現的上調，以及重塑的腸道微生物相組成，為中間球海膽水產養殖的間歇性投餵提供了理論參考。"
+  },
+  {
+   "doi": "10.3390/ani16223601",
+   "title": "Extracellular Vesicles Mediate Feline Panleukopenia Virus to Suppress IFN-ω-Induced Antiviral Cytokine Expression",
+   "abstract": "The immune escape and cross-host transmission mechanisms of feline panleukopenia virus (FPV) remain poorly elucidated, and extracellular vesicles (EVs) play critical regulatory roles in viral infection progression. To explore the molecular mechanism by which EVs mediate FPV infection, proliferation, and immune escape, EVs were isolated from FPV-infected F81 cells and peripheral blood of FPV-affected cats in this study. CD63 antibody-based magnetic bead immunoaffinity chromatography was applied for EV purification. Multiple approaches, including transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), Western blotting (WB), and quantitative real-time PCR (qPCR), were used for vesicle characterization. Cell infection assays, neutralizing antibody blockade assays, and interferon (IFN) intervention assays were performed to clarify the biological functions of FPV-derived EVs. The results showed that FPV-positive EVs with typical morphology, particle size, and biomarker characteristics were successfully isolated and purified, and the purification strategy markedly reduced free virus contamination. Functional experiments verified that FPV-infected cell-derived EVs could be rapidly internalized by host cells, significantly accelerate early FPV proliferation and cytopathic effects, and inhibition of EV secretion efficiently blocked FPV propagation. Moreover, FPV-EVs overcame the host entry restriction of FPV, mediated FPV entry into non-permissive HEK293T cells, and escaped the blockade of neutralizing antibodies. Mechanistically, FPV-EVs potently antagonized IFN-ω-mediated cellular antiviral responses and inhibited the expression of interferon-stimulated genes (ISGs) including ISG15, ISG56, and MX1. This immunosuppressive effect was independent of EV carriers and exhibited broad-spectrum activity in different cell types. Furthermore, EVs derived from the peripheral blood of FPV-infected cats also efficiently mediated FPV infection, assisted viral escape from humoral immunity, and antagonized host IFN-mediated antiviral responses. Collectively, this study indicates that EVs act as a key medium for FPV to achieve efficient proliferation, cross-cell infection, and immune escape, revealing a novel transmission mechanism of FPV, although productive replication and progeny release in the non-permissive human cells were not demonstrated and the potential for host-range expansion remains hypothetical. These findings provide important experimental evidence and theoretical support for improving the pathogenic mechanism of FPV and developing novel prevention and control strategies.",
+   "authors": [
+    "Guowei Xu",
+    "Meiling Jin",
+    "Chao Liang",
+    "Jingyan Zhang",
+    "Jianxi Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223601",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "貓泛白血球減少症病毒（FPV）的免疫逃逸與跨宿主傳播機制仍未完全闡明，而細胞外囊泡（EVs）在病毒感染進程中扮演關鍵的調節角色。本研究旨在探討EVs介導FPV感染、增殖及免疫逃逸的分子機制，自FPV感染的F81細胞以及FPV病貓的外周血中分離出EVs。應用基於CD63抗體的磁珠免疫親和層析法進行EVs純化。結合多種方法，包含透射電子顯微鏡（TEM）、奈米粒子追蹤分析（NTA）、西方墨漬法（WB）及即時定量PCR（qPCR）進行囊泡特徵鑑定。透過細胞感染實驗、中和抗體阻斷實驗及干擾素（IFN）干預實驗，以釐清FPV源性EVs的生物學功能。結果顯示，成功分離並純化出具有典型形態、粒徑及生物標記特徵的FPV陽性EVs，且該純化策略顯著降低了游離病毒的污染。功能實驗證實，FPV感染細胞源性的EVs能被宿主細胞快速內化，顯著加速早期FPV的增殖及細胞病變效應，而抑制EVs分泌則能有效阻斷FPV的擴散。此外，FPV-EVs克服了FPV的宿主細胞進入限制，介導FPV進入原本不支援感染的HEK293T細胞，並逃避中和抗體的阻斷。在機制上，FPV-EVs能強力拮抗IFN-ω介導的細胞抗病毒反應，並抑制干擾素刺激基因（ISGs）的表達，包含ISG15、ISG56及MX1。此種免疫抑制效應不依賴於EVs載體，並在不同細胞類型中展現廣譜活性。再者，源自FPV感染貓外周血的EVs亦能高效介導FPV感染、協助病毒逃避體液免疫，並拮抗宿主IFN介導的抗病毒反應。綜上所述，本研究顯示EVs作為FPV實現高效增殖、跨細胞感染及免疫逃逸的關鍵媒介，揭示了一種FPV的新型傳播機制，儘管在不支援感染的人類細胞中未表現出高效複製與子代釋放，且宿主範圍擴大的潛力仍屬假設性。這些發現為完善FPV的致病機制及開發新型防控策略提供了重要的實驗證據與理論支持。"
+  },
+  {
+   "doi": "10.3390/ani16223598",
+   "title": "Physiologic Effects of Assisted Ventilation with Preserved Spontaneous Breathing Versus Controlled Ventilation in Anesthetized Dogs",
+   "abstract": "Pressure support ventilation (PSV) is an assisted ventilation mode that supports spontaneous inspiratory efforts, whereas pressure-controlled ventilation (PCV) delivers mechanically controlled breaths. This randomized crossover study compared the cardiopulmonary effects of PSV and PCV in five clinically healthy adult Beagle dogs undergoing general anesthesia. Each dog underwent two anesthetic sessions separated by a minimum 2-week washout period. Hemodynamic variables, respiratory mechanics, and gas exchange were assessed during ventilation, and thoracic computed tomography was performed before and after each intervention to quantify lung aeration. PSV was associated with higher tidal volumes overall compared with PCV, while mean airway pressure was significantly lower at two time points. Peak inspiratory pressure did not differ significantly between ventilation modes. No statistically significant differences between ventilation modes were detected in hemodynamic variables, gas exchange, relative lung volume, or the proportions of hypoinflated and collapsed lung regions. Although differences in tidal volume and mean airway pressure were observed between ventilation modes, their physiological and clinical significance remains uncertain. Given the small sample size, these findings should be interpreted cautiously, and further studies are needed to establish their clinical significance.",
+   "authors": [
+    "Ji-Min Jeong",
+    "Sang-Won Yoo",
+    "Ji-Hyun Park",
+    "Chang-Hwan Moon",
+    "Lyon Y. Lee",
+    "Young Joo Kim",
+    "Dongbin Lee"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223598",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "壓力支援通氣（PSV）是一種支援自主吸氣努力的輔助通氣模式，而壓力控制通氣（PCV）則提供機械控制的通氣。本隨機交叉研究比較了PSV與PCV對五隻接受全身麻醉的臨床健康成年米格魯犬之心肺影響。每隻狗皆接受兩次麻醉療程，中間至少間隔2週的洗除期。在通氣期間評估血流動力學變數、呼吸力學及氣體交換，並在每次介入前後進行胸部電腦斷層掃描以量化肺部通氣量。與PCV相比，PSV整體而言具有較高的潮氣容積，而平均氣道壓則在兩個時間點顯著較低。兩種通氣模式之間的最大吸氣壓並無顯著差異。在血流動力學變數、氣體交換、相對肺容積，或通氣不足與萎陷肺區的比例方面，兩種通氣模式之間未檢測出具統計學上的顯著差異。儘管在不同通氣模式之間觀察到潮氣容積和平均氣道壓的差異，其生理及臨床意義仍不確定。鑑於樣本數較小，這些發現應審慎解讀，尚需進一步研究來確立其臨床意義。"
+  },
+  {
+   "doi": "10.3390/ani16223596",
+   "title": "Exploring Text-Guided Wildlife Counting in Aerial Imagery Without Additional Training",
+   "abstract": "Reliable wildlife counts support population assessment and conservation planning, while aerial imagery enables surveys over large or inaccessible areas. Most automated counting systems are developed for predefined animal categories and require retraining when targets change. Text-guided zero-shot counting offers a flexible alternative by specifying the target through language without category-specific retraining, but how such methods transfer to aerial wildlife imagery remains underexplored. Existing aerial animal datasets vary widely in tasks, categories, environments, resolution, and acquisition conditions, making consistent evaluation difficult. We therefore construct WZSC-5K by consolidating, cleaning, and harmonizing existing resources into a standardized 5000-image benchmark covering 28 animal categories. Existing zero-shot counters developed on natural images face challenges on the aerial wildlife imagery represented in WZSC-5K. Small targets and cluttered backgrounds complicate spatial localization, while top-down views can weaken the correspondence between generic text concepts and animal appearance. We therefore develop a training-free adaptation that uses spatial correspondence from a frozen vision foundation model to improve spatial coherence and incorporates aerial context to improve visual-text alignment. Without additional aerial-domain training, the proposed method reduces MAE and RMSE by 13.82% and 5.35% relative to the baseline model, demonstrating improved transfer under the standardized WZSC-5K evaluation setting.",
+   "authors": [
+    "Muming Zhao",
+    "Zhongzheng Wang",
+    "Xinyang Wang",
+    "Fu Xu",
+    "Xiaohui Cui"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223596",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "可靠 ၏ 野生動物數量點算支援族群評估與保育規劃，而空拍影像則能對大範圍或難以抵達的區域進行調查。多數自動化計數系統係針對預先定義的動物類別而開發，當目標改變時需要重新訓練。文字引導的零樣本計數（Text-guided zero-shot counting）透過語言指定目標而無需進行特定類別的重新訓練，提供了一種具彈性的替代方案，然而此類方法如何轉移至航空野生動物影像仍有待探討。現有的航空動物資料集在任務、類別、環境、解析度與採集條件上差異顯著，使得一致性的評估變得困難。因此，我們透過整合、清理並協調現有資源，建構了 WZSC-5K，這是一個涵蓋 28 個動物類別、包含 5000 張影像的標準化基準。在自然影像上開發的現有零樣本計數器在 WZSC-5K 所代表的航空野生動物影像上面臨挑戰。微小的目標與雜亂的背景使空間定位變得複雜，而俯視視角則可能削弱通用文字概念與動物外觀之間的對應關係。因此，我們開發了一種無需訓練的調適方法，利用來自凍結視覺基礎模型的空間對應來提升空間一致性，並納入空中背景以改善視覺與文字的對齊。在無需額外航空領域訓練的情況下，所提出的方法相較於基準模型，將平均絕對誤差（MAE）與均方根誤差（RMSE）分別降低了 13.82% 與 5.35%，展現了在標準化 WZSC-5K 評估設定下更佳的轉移能力。"
   },
   {
    "doi": "10.3390/ani16223587",
@@ -13435,153 +13661,19 @@
    "abstract_zh": "下頷形態與飲食之間的關係為理解哺乳動物的功能適應提供了關鍵見解。天竺鼠類囓齒動物是一個多樣化的新熱帶演化支，展現出廣泛的攝食習性，使其成為生態形態學研究的理想模型。本研究評估了下頷形狀變異是否能區分不同的飲食類別，並識別出與這些差異相關的形態組分。本研究運用幾何形態學方法，分析了來自 20 個物種共 184 個下頷骨，其中包括數個所知甚少的南美洲北部分類群（例如：Dasyprocta guamara、Pattonomys 屬、Proechimys 屬及 Coendou 屬）。透過主成分分析（PCA）檢視形狀變異。為避免高估群體區隔，利用前 13 個主成分（PC）得分執行典型變異數分析（CVA）與判別函數分析（DFA）。異速生長則透過置換程序進行評估。結果顯示，不同飲食群體之間存在顯著差異，食草群體的正確分類率高達 100%，混合飲食群體則超過 97%。食草物種表現出修長且纖細的下頷，而果葉食性與果種食性群體則呈現較短且較粗壯的結構。異速生長僅解釋了少部分的形狀變異，這表明形態差異主要由功能適應所驅動。儘管樣本中固然存在系統發育信號，但這些發現證實了下頷形狀變異與飲食分化高度相關，從而鞏固了下頷作為探究飲食生態的可靠代理指標之地位，並為理解新熱帶囓齒動物的形態演化提供了重要的區域基準。"
   },
   {
-   "doi": "10.3390/ani16223596",
-   "title": "Exploring Text-Guided Wildlife Counting in Aerial Imagery Without Additional Training",
-   "abstract": "Reliable wildlife counts support population assessment and conservation planning, while aerial imagery enables surveys over large or inaccessible areas. Most automated counting systems are developed for predefined animal categories and require retraining when targets change. Text-guided zero-shot counting offers a flexible alternative by specifying the target through language without category-specific retraining, but how such methods transfer to aerial wildlife imagery remains underexplored. Existing aerial animal datasets vary widely in tasks, categories, environments, resolution, and acquisition conditions, making consistent evaluation difficult. We therefore construct WZSC-5K by consolidating, cleaning, and harmonizing existing resources into a standardized 5000-image benchmark covering 28 animal categories. Existing zero-shot counters developed on natural images face challenges on the aerial wildlife imagery represented in WZSC-5K. Small targets and cluttered backgrounds complicate spatial localization, while top-down views can weaken the correspondence between generic text concepts and animal appearance. We therefore develop a training-free adaptation that uses spatial correspondence from a frozen vision foundation model to improve spatial coherence and incorporates aerial context to improve visual-text alignment. Without additional aerial-domain training, the proposed method reduces MAE and RMSE by 13.82% and 5.35% relative to the baseline model, demonstrating improved transfer under the standardized WZSC-5K evaluation setting.",
+   "doi": "10.3390/ani16223616",
+   "title": "From Anatomical Representation to Quantitative Measurement: A Deep Learning-Based Multi-View Framework for Automated Cardiac Size Assessment in Canine Thoracic Radiographs",
+   "abstract": "Accurate and reproducible quantitative assessment of cardiac size from thoracic radiographs remains challenging because conventional measurements require manual identification of multiple anatomical structures and geometric relationships. This study develops an automated multi-view image analysis system for quantitative cardiac measurement in canine thoracic radiographs. The proposed system integrates anatomical segmentation, keypoint localization, geometric measurement, and quantitative agreement analysis into a unified computational workflow. For lateral radiographs, an RSMF-DeepLabV3+ network was developed to segment the cardiac silhouette and thoracic vertebral structures for automated Vertebral Heart Size (VHS) calculation. A cross-sectional search strategy was introduced to constrain cardiac short-axis determination according to the geometric requirements of VHS measurement. For ventrodorsal/dorsoventral radiographs, YOLOv11-Pose was employed to localize predefined anatomical landmarks for automated cardiothoracic ratio (CTR) estimation. On the independent test sets, the automated VHS measurement achieved a Pearson correlation coefficient of 0.8767 and an ICC of 0.8744 with manual reference measurements, while the corresponding values for CTR were 0.8557 and 0.7928, respectively. Bland–Altman analysis was additionally used to characterize the agreement and measurement differences between automated and manual results. These findings demonstrate the feasibility of integrating deep learning-based anatomical analysis and geometry-based measurement for automated cardiac size quantification from complementary radiographic views. The proposed framework provides a computer-aided approach for standardized multi-view quantitative assessment of cardiac size in veterinary thoracic radiography.",
    "authors": [
-    "Muming Zhao",
-    "Zhongzheng Wang",
-    "Xinyang Wang",
-    "Fu Xu",
-    "Xiaohui Cui"
+    "Rui Qin",
+    "Jing Chang",
+    "Xingye Ze",
+    "Huijie Jiang",
+    "Tianyi Wang",
+    "Xue Ding"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223596",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "可靠 ၏ 野生動物數量點算支援族群評估與保育規劃，而空拍影像則能對大範圍或難以抵達的區域進行調查。多數自動化計數系統係針對預先定義的動物類別而開發，當目標改變時需要重新訓練。文字引導的零樣本計數（Text-guided zero-shot counting）透過語言指定目標而無需進行特定類別的重新訓練，提供了一種具彈性的替代方案，然而此類方法如何轉移至航空野生動物影像仍有待探討。現有的航空動物資料集在任務、類別、環境、解析度與採集條件上差異顯著，使得一致性的評估變得困難。因此，我們透過整合、清理並協調現有資源，建構了 WZSC-5K，這是一個涵蓋 28 個動物類別、包含 5000 張影像的標準化基準。在自然影像上開發的現有零樣本計數器在 WZSC-5K 所代表的航空野生動物影像上面臨挑戰。微小的目標與雜亂的背景使空間定位變得複雜，而俯視視角則可能削弱通用文字概念與動物外觀之間的對應關係。因此，我們開發了一種無需訓練的調適方法，利用來自凍結視覺基礎模型的空間對應來提升空間一致性，並納入空中背景以改善視覺與文字的對齊。在無需額外航空領域訓練的情況下，所提出的方法相較於基準模型，將平均絕對誤差（MAE）與均方根誤差（RMSE）分別降低了 13.82% 與 5.35%，展現了在標準化 WZSC-5K 評估設定下更佳的轉移能力。"
-  },
-  {
-   "doi": "10.3390/ani16223598",
-   "title": "Physiologic Effects of Assisted Ventilation with Preserved Spontaneous Breathing Versus Controlled Ventilation in Anesthetized Dogs",
-   "abstract": "Pressure support ventilation (PSV) is an assisted ventilation mode that supports spontaneous inspiratory efforts, whereas pressure-controlled ventilation (PCV) delivers mechanically controlled breaths. This randomized crossover study compared the cardiopulmonary effects of PSV and PCV in five clinically healthy adult Beagle dogs undergoing general anesthesia. Each dog underwent two anesthetic sessions separated by a minimum 2-week washout period. Hemodynamic variables, respiratory mechanics, and gas exchange were assessed during ventilation, and thoracic computed tomography was performed before and after each intervention to quantify lung aeration. PSV was associated with higher tidal volumes overall compared with PCV, while mean airway pressure was significantly lower at two time points. Peak inspiratory pressure did not differ significantly between ventilation modes. No statistically significant differences between ventilation modes were detected in hemodynamic variables, gas exchange, relative lung volume, or the proportions of hypoinflated and collapsed lung regions. Although differences in tidal volume and mean airway pressure were observed between ventilation modes, their physiological and clinical significance remains uncertain. Given the small sample size, these findings should be interpreted cautiously, and further studies are needed to establish their clinical significance.",
-   "authors": [
-    "Ji-Min Jeong",
-    "Sang-Won Yoo",
-    "Ji-Hyun Park",
-    "Chang-Hwan Moon",
-    "Lyon Y. Lee",
-    "Young Joo Kim",
-    "Dongbin Lee"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223598",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "壓力支援通氣（PSV）是一種支援自主吸氣努力的輔助通氣模式，而壓力控制通氣（PCV）則提供機械控制的通氣。本隨機交叉研究比較了PSV與PCV對五隻接受全身麻醉的臨床健康成年米格魯犬之心肺影響。每隻狗皆接受兩次麻醉療程，中間至少間隔2週的洗除期。在通氣期間評估血流動力學變數、呼吸力學及氣體交換，並在每次介入前後進行胸部電腦斷層掃描以量化肺部通氣量。與PCV相比，PSV整體而言具有較高的潮氣容積，而平均氣道壓則在兩個時間點顯著較低。兩種通氣模式之間的最大吸氣壓並無顯著差異。在血流動力學變數、氣體交換、相對肺容積，或通氣不足與萎陷肺區的比例方面，兩種通氣模式之間未檢測出具統計學上的顯著差異。儘管在不同通氣模式之間觀察到潮氣容積和平均氣道壓的差異，其生理及臨床意義仍不確定。鑑於樣本數較小，這些發現應審慎解讀，尚需進一步研究來確立其臨床意義。"
-  },
-  {
-   "doi": "10.3390/ani16223634",
-   "title": "A Double-Blinded Polysaccharide Analysis of Products Purchased Online and Labelled as Containing Mushrooms: Ten Products for Pets and One for Human Use",
-   "abstract": "Eleven commercial mushroom products sourced from online resellers (ten labelled for veterinary use and one labelled for human use) were subjected to simple quantitative and qualitative polysaccharide analysis methods to differentiate products containing only mushrooms (the fruiting bodies of the fungal life-cycle) from those that include the whole solid fermentation resulting from the fungal mycelium of cereal grain. The therapeutic benefits of fungi are often attributed to their β-glucan content, which, unlike cereal grain β-glucans, is uniquely characterized by 1,3–1,6 β-glycosidic linkages. Fungal polysaccharide markers were used to distinguish mushroom-containing products from grain-based mycelial products in this study, which highlighted the compositional variability in marketplace products. These products were subjected to a multifaceted analytical approach by enzymatic quantification of α- and β-glucans and starch, and Lugol’s iodine staining for starch detection. The resulting analyses identified two distinct product profiles: (1) polysaccharide profiles consistent with mushrooms, exhibiting high β-glucan and low α-glucan content and (2) products consistent with fermentation of cereal grains by fungal mycelium that have lower levels of β-glucans, higher levels of α-glucans, and a strong positive iodine-starch test. This study proposes objective, composition-based criteria, derived from the products analyzed, for differentiation of these product profiles; the polysaccharide profiles of some products labelled as mushroom-derived were consistent with mycelium-fermented grain rather than with mushrooms. This method can be adapted to assess other fungal-derived products and to help verify the label claims of mushroom-based veterinary products.",
-   "authors": [
-    "David Atuahene",
-    "Robert J. Silver"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223634",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223639",
-   "title": "Aboveground Occurrence of Kaloula borealis in Relation to Antecedent Rainfall, Recent Precipitation, and Nighttime Temperature",
-   "abstract": "Fossorial amphibians appear aboveground only during restricted periods of favorable weather, so surveys that miss these periods can fail to detect them; yet, the relative roles of antecedent wetness, recent rainfall, and temperature remain poorly resolved. We examined the weather associated with the aboveground occurrence of the endangered boreal digging frog Kaloula borealis using a time-stratified case-crossover design. Each 1 km cell–night with a South Korean GBIF record was matched to referent nights in the same cell, year, month, and weekday at the same clock time. The windows were anchored to the observation time: IMERG rainfall in the preceding 24 h and 24–96 h, and ERA5-Land air temperature in the preceding 3 h. In 653 strata, the occurrence odds were higher after 25 mm than after 0 mm of recent rainfall (odds ratio 2.54, 95% CI 1.96–3.28) and of antecedent rainfall (1.61, 1.23–2.10), and at temperatures 5 °C above the median (1.52, 1.14–2.02). The observation-anchored windows fitted far better than the calendar-day windows (ΔAIC = 31.8). Most strata (82%) came from one locality; the rainfall associations persisted when it was excluded, whereas the temperature association did not. Occurrence thus tracks with recent rainfall most closely, and these results can help time surveys of this rarely detected species.",
-   "authors": [
-    "Jun-Hyeok Yu",
-    "Hyung Wook Kwon",
-    "Yang-Seop Bae",
-    "Sung-Ho Lim",
-    "Yuno Do"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223639",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223631",
-   "title": "Regional Gastrointestinal Microbial and Hepatic Transcriptional Responses to a Pediococcus acidilactici-Containing Drinking-Water Formulation in Mice",
-   "abstract": "Regional gastrointestinal and accompanying hepatic transcriptional responses to a Pediococcus acidilactici-containing drinking-water formulation remain incompletely characterized. Sixty healthy male Kunming mice received plain water (NW) or a P. acidilactici-containing formulation (NP) for 50 days under standard-chow conditions. Stomach, small-intestinal, cecal, and colonic contents and paired liver tissue were sampled from the same 12 mice, one per cage (six cages per group). Analyses combined 16S sequencing, targeted fatty-acid quantification, untargeted liquid chromatography–mass spectrometry (LC–MS), and hepatic RNA sequencing. Pediococcus relative abundance was higher at all four sites. Community composition differed in three intestinal regions, with dispersion differences in the small intestine and cecum. Cross-site isobutyrate, isovalerate, and valerate concentrations were 46.3%, 60.5%, and 34.8% lower, respectively (all q = 0.0058). Twelve increased LC–MS features were shared across three intestinal sites. Hepatic RNA sequencing identified 209 genes meeting false discovery rate (FDR) and twofold-change thresholds, including increased Insig1 and Insig2 and decreased mitochondrial transcripts. Mean liver-homogenate triglycerides were 23.2% lower, but neither hepatic biochemistry nor hepatic LC–MS yielded FDR-supported differences. These findings characterize regional gastrointestinal and accompanying hepatic transcriptional responses to the formulation and identify shared intestinal chemical features for targeted investigation. Without a carrier-matched control, strain-specific effects cannot be established.",
-   "authors": [
-    "Xinyu Cao",
-    "Yulong Hu",
-    "Yifan Li",
-    "Jinyang Shi",
-    "Qian Chen",
-    "Majireding Aikelaimuc",
-    "Jianlei Jia"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223631",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223635",
-   "title": "A Suitable Bridge? The South African Constitution and Animal Protection",
-   "abstract": "This article examines the “animal turn” in South African constitutional jurisprudence following the Constitutional Court’s ruling in National Society for the Prevention of Cruelty to Animals v Minister of Justice and Constitutional Development 2017 1 SACR 284 (CC). The article fundamentally asks, following a conceptualisation of the Constitution as a bridge between the past of deeply divided society characterised by suffering and injustice and a future founded in peaceful co-existence for all, whether the South African Constitution (and the law more generally) provides a suitable vehicle for the protection of animals’ fundamental interests. We reflect on the implications of the NSPCA ruling by discussing the Court’s inclusion of animals under the constitutional environmental right and reflecting on the way in which the Court affirmed a notion of animal dignity and destabilised the substratum of animals’ legal status. The article concludes by arguing that, whilst constituting a landmark ruling towards the protection of animals, the NSPCA case embodies several illogical inconsistencies and highlights the challenges that accompany the utilisation of law as a mechanism for animal liberation more generally.",
-   "authors": [
-    "Jan-Harm de Villiers",
-    "Lizelle le Roux"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223635",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223621",
-   "title": "Evaluation of the Efficacy of Fluoxetine in Reducing Stereotypic Behavior in Cynomolgus Monkeys (Macaca fascicularis)",
-   "abstract": "Stereotypic behavior is a significant welfare concern in captive nonhuman primates, and selective serotonin reuptake inhibitors have shown promise in rhesus macaques (Macaca mulatta). However, evidence of their efficacy in cynomolgus monkeys (Macaca fascicularis) remains limited. This study evaluated the efficacy and tolerability of orally administered fluoxetine in non-naïve cynomolgus monkeys with pre-existing, non-experimentally induced stereotypic behavior. Eight male cynomolgus monkeys were allocated to receive fluoxetine (2 mg/kg orally, once daily for 28 days; n = 4) or placebo (n = 4). Abnormal behavior was scored daily, and body weight, complete blood count, serum biochemistry parameters, and cortisol were monitored. The fluoxetine group showed approximately an 83.8% reduction in mean abnormal behavior score from Week 1 to Week 5, compared with 2.5% in the placebo group. Three of four fluoxetine-treated animals exhibited near-complete behavioral stabilization. Cortisol levels showed a modest downward trend in the fluoxetine group (−12.2%), whereas the placebo group showed high inter-individual variability. No treatment-related mortality or clinically overt adverse effects on monitored health parameters were observed. The findings support fluoxetine at 2 mg/kg as a potential component of multimodal welfare management for captive cynomolgus monkeys with pre-existing stereotypic behaviors, consistent with the Refinement principle of the 3Rs.",
-   "authors": [
-    "Ki Ho Lee",
-    "Heejin Kim",
-    "Kiyoung Kim",
-    "Hanseul Oh"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223621",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223614",
-   "title": "Post-Release Movement, Site Fidelity and Habitat Selection of Reintroduced Nubian Ibex Capra nubiana in Albaidah National Park, Saudi Arabia",
-   "abstract": "Telemetry studies can clarify how reintroduced animals use recipient landscapes after release. We examined post-release movement, space use, site fidelity, and habitat selection in four captive-born Nubian ibex (Capra nubiana) released together with three other ibex in Albaidah National Park, Saudi Arabia. GPS monitoring yielded 24,336 locations over 124.7–365.7 days; two collars malfunctioned prematurely. We estimated tracking-period home ranges using autocorrelated kernel density estimation (AKDE), evaluated temporal variation using generalized additive models (GAMs), compared movements with randomized trajectories, quantified revisitation, and fitted individual-level resource selection functions. Estimated 95% AKDE areas ranged from 54.4 to 175.0 km2, and 50% core-use areas from 11.6 to 31.9 km2. Home-range areas varied without consistent progressive contraction, three animals shifted their principal areas of use, and some collared individuals moved in close association. All four ibex exhibited lower mean squared displacement than buffered-boundary random-walk simulations (Holm-adjusted p = 0.008–0.015) and repeatedly used previously occupied areas. Terrain ruggedness was positively associated with relative habitat use in all four individuals (odds ratios: 1.24–2.38), whereas associations with NDVI and proximity to recorded water sources varied. These findings provide quantitative baseline information on post-release movement and habitat use, complementing future demographic monitoring to evaluate reintroduction outcomes.",
-   "authors": [
-    "Ahmed Boug",
-    "Zaffar Rais Mir",
-    "Saleh Al-Aamri",
-    "Mesfer Al-Hlafi",
-    "Ali Al-Qarni",
-    "Khalid Al-Musaibi",
-    "Abdulaziz Al-Salman",
-    "Anwar Al-Anazi",
-    "Norah Aldosari",
-    "Naif Al-Hanoush"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223614",
+   "url": "https://doi.org/10.3390/ani16223616",
    "date": "2026-11-16",
    "first_seen": "2026-11-17",
    "score": 0.0,
@@ -13613,21 +13705,161 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223616",
-   "title": "From Anatomical Representation to Quantitative Measurement: A Deep Learning-Based Multi-View Framework for Automated Cardiac Size Assessment in Canine Thoracic Radiographs",
-   "abstract": "Accurate and reproducible quantitative assessment of cardiac size from thoracic radiographs remains challenging because conventional measurements require manual identification of multiple anatomical structures and geometric relationships. This study develops an automated multi-view image analysis system for quantitative cardiac measurement in canine thoracic radiographs. The proposed system integrates anatomical segmentation, keypoint localization, geometric measurement, and quantitative agreement analysis into a unified computational workflow. For lateral radiographs, an RSMF-DeepLabV3+ network was developed to segment the cardiac silhouette and thoracic vertebral structures for automated Vertebral Heart Size (VHS) calculation. A cross-sectional search strategy was introduced to constrain cardiac short-axis determination according to the geometric requirements of VHS measurement. For ventrodorsal/dorsoventral radiographs, YOLOv11-Pose was employed to localize predefined anatomical landmarks for automated cardiothoracic ratio (CTR) estimation. On the independent test sets, the automated VHS measurement achieved a Pearson correlation coefficient of 0.8767 and an ICC of 0.8744 with manual reference measurements, while the corresponding values for CTR were 0.8557 and 0.7928, respectively. Bland–Altman analysis was additionally used to characterize the agreement and measurement differences between automated and manual results. These findings demonstrate the feasibility of integrating deep learning-based anatomical analysis and geometry-based measurement for automated cardiac size quantification from complementary radiographic views. The proposed framework provides a computer-aided approach for standardized multi-view quantitative assessment of cardiac size in veterinary thoracic radiography.",
+   "doi": "10.3390/ani16223639",
+   "title": "Aboveground Occurrence of Kaloula borealis in Relation to Antecedent Rainfall, Recent Precipitation, and Nighttime Temperature",
+   "abstract": "Fossorial amphibians appear aboveground only during restricted periods of favorable weather, so surveys that miss these periods can fail to detect them; yet, the relative roles of antecedent wetness, recent rainfall, and temperature remain poorly resolved. We examined the weather associated with the aboveground occurrence of the endangered boreal digging frog Kaloula borealis using a time-stratified case-crossover design. Each 1 km cell–night with a South Korean GBIF record was matched to referent nights in the same cell, year, month, and weekday at the same clock time. The windows were anchored to the observation time: IMERG rainfall in the preceding 24 h and 24–96 h, and ERA5-Land air temperature in the preceding 3 h. In 653 strata, the occurrence odds were higher after 25 mm than after 0 mm of recent rainfall (odds ratio 2.54, 95% CI 1.96–3.28) and of antecedent rainfall (1.61, 1.23–2.10), and at temperatures 5 °C above the median (1.52, 1.14–2.02). The observation-anchored windows fitted far better than the calendar-day windows (ΔAIC = 31.8). Most strata (82%) came from one locality; the rainfall associations persisted when it was excluded, whereas the temperature association did not. Occurrence thus tracks with recent rainfall most closely, and these results can help time surveys of this rarely detected species.",
    "authors": [
-    "Rui Qin",
-    "Jing Chang",
-    "Xingye Ze",
-    "Huijie Jiang",
-    "Tianyi Wang",
-    "Xue Ding"
+    "Jun-Hyeok Yu",
+    "Hyung Wook Kwon",
+    "Yang-Seop Bae",
+    "Sung-Ho Lim",
+    "Yuno Do"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223616",
+   "url": "https://doi.org/10.3390/ani16223639",
    "date": "2026-11-16",
    "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223614",
+   "title": "Post-Release Movement, Site Fidelity and Habitat Selection of Reintroduced Nubian Ibex Capra nubiana in Albaidah National Park, Saudi Arabia",
+   "abstract": "Telemetry studies can clarify how reintroduced animals use recipient landscapes after release. We examined post-release movement, space use, site fidelity, and habitat selection in four captive-born Nubian ibex (Capra nubiana) released together with three other ibex in Albaidah National Park, Saudi Arabia. GPS monitoring yielded 24,336 locations over 124.7–365.7 days; two collars malfunctioned prematurely. We estimated tracking-period home ranges using autocorrelated kernel density estimation (AKDE), evaluated temporal variation using generalized additive models (GAMs), compared movements with randomized trajectories, quantified revisitation, and fitted individual-level resource selection functions. Estimated 95% AKDE areas ranged from 54.4 to 175.0 km2, and 50% core-use areas from 11.6 to 31.9 km2. Home-range areas varied without consistent progressive contraction, three animals shifted their principal areas of use, and some collared individuals moved in close association. All four ibex exhibited lower mean squared displacement than buffered-boundary random-walk simulations (Holm-adjusted p = 0.008–0.015) and repeatedly used previously occupied areas. Terrain ruggedness was positively associated with relative habitat use in all four individuals (odds ratios: 1.24–2.38), whereas associations with NDVI and proximity to recorded water sources varied. These findings provide quantitative baseline information on post-release movement and habitat use, complementing future demographic monitoring to evaluate reintroduction outcomes.",
+   "authors": [
+    "Ahmed Boug",
+    "Zaffar Rais Mir",
+    "Saleh Al-Aamri",
+    "Mesfer Al-Hlafi",
+    "Ali Al-Qarni",
+    "Khalid Al-Musaibi",
+    "Abdulaziz Al-Salman",
+    "Anwar Al-Anazi",
+    "Norah Aldosari",
+    "Naif Al-Hanoush"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223614",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223621",
+   "title": "Evaluation of the Efficacy of Fluoxetine in Reducing Stereotypic Behavior in Cynomolgus Monkeys (Macaca fascicularis)",
+   "abstract": "Stereotypic behavior is a significant welfare concern in captive nonhuman primates, and selective serotonin reuptake inhibitors have shown promise in rhesus macaques (Macaca mulatta). However, evidence of their efficacy in cynomolgus monkeys (Macaca fascicularis) remains limited. This study evaluated the efficacy and tolerability of orally administered fluoxetine in non-naïve cynomolgus monkeys with pre-existing, non-experimentally induced stereotypic behavior. Eight male cynomolgus monkeys were allocated to receive fluoxetine (2 mg/kg orally, once daily for 28 days; n = 4) or placebo (n = 4). Abnormal behavior was scored daily, and body weight, complete blood count, serum biochemistry parameters, and cortisol were monitored. The fluoxetine group showed approximately an 83.8% reduction in mean abnormal behavior score from Week 1 to Week 5, compared with 2.5% in the placebo group. Three of four fluoxetine-treated animals exhibited near-complete behavioral stabilization. Cortisol levels showed a modest downward trend in the fluoxetine group (−12.2%), whereas the placebo group showed high inter-individual variability. No treatment-related mortality or clinically overt adverse effects on monitored health parameters were observed. The findings support fluoxetine at 2 mg/kg as a potential component of multimodal welfare management for captive cynomolgus monkeys with pre-existing stereotypic behaviors, consistent with the Refinement principle of the 3Rs.",
+   "authors": [
+    "Ki Ho Lee",
+    "Heejin Kim",
+    "Kiyoung Kim",
+    "Hanseul Oh"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223621",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223635",
+   "title": "A Suitable Bridge? The South African Constitution and Animal Protection",
+   "abstract": "This article examines the “animal turn” in South African constitutional jurisprudence following the Constitutional Court’s ruling in National Society for the Prevention of Cruelty to Animals v Minister of Justice and Constitutional Development 2017 1 SACR 284 (CC). The article fundamentally asks, following a conceptualisation of the Constitution as a bridge between the past of deeply divided society characterised by suffering and injustice and a future founded in peaceful co-existence for all, whether the South African Constitution (and the law more generally) provides a suitable vehicle for the protection of animals’ fundamental interests. We reflect on the implications of the NSPCA ruling by discussing the Court’s inclusion of animals under the constitutional environmental right and reflecting on the way in which the Court affirmed a notion of animal dignity and destabilised the substratum of animals’ legal status. The article concludes by arguing that, whilst constituting a landmark ruling towards the protection of animals, the NSPCA case embodies several illogical inconsistencies and highlights the challenges that accompany the utilisation of law as a mechanism for animal liberation more generally.",
+   "authors": [
+    "Jan-Harm de Villiers",
+    "Lizelle le Roux"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223635",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223631",
+   "title": "Regional Gastrointestinal Microbial and Hepatic Transcriptional Responses to a Pediococcus acidilactici-Containing Drinking-Water Formulation in Mice",
+   "abstract": "Regional gastrointestinal and accompanying hepatic transcriptional responses to a Pediococcus acidilactici-containing drinking-water formulation remain incompletely characterized. Sixty healthy male Kunming mice received plain water (NW) or a P. acidilactici-containing formulation (NP) for 50 days under standard-chow conditions. Stomach, small-intestinal, cecal, and colonic contents and paired liver tissue were sampled from the same 12 mice, one per cage (six cages per group). Analyses combined 16S sequencing, targeted fatty-acid quantification, untargeted liquid chromatography–mass spectrometry (LC–MS), and hepatic RNA sequencing. Pediococcus relative abundance was higher at all four sites. Community composition differed in three intestinal regions, with dispersion differences in the small intestine and cecum. Cross-site isobutyrate, isovalerate, and valerate concentrations were 46.3%, 60.5%, and 34.8% lower, respectively (all q = 0.0058). Twelve increased LC–MS features were shared across three intestinal sites. Hepatic RNA sequencing identified 209 genes meeting false discovery rate (FDR) and twofold-change thresholds, including increased Insig1 and Insig2 and decreased mitochondrial transcripts. Mean liver-homogenate triglycerides were 23.2% lower, but neither hepatic biochemistry nor hepatic LC–MS yielded FDR-supported differences. These findings characterize regional gastrointestinal and accompanying hepatic transcriptional responses to the formulation and identify shared intestinal chemical features for targeted investigation. Without a carrier-matched control, strain-specific effects cannot be established.",
+   "authors": [
+    "Xinyu Cao",
+    "Yulong Hu",
+    "Yifan Li",
+    "Jinyang Shi",
+    "Qian Chen",
+    "Majireding Aikelaimuc",
+    "Jianlei Jia"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223631",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223634",
+   "title": "A Double-Blinded Polysaccharide Analysis of Products Purchased Online and Labelled as Containing Mushrooms: Ten Products for Pets and One for Human Use",
+   "abstract": "Eleven commercial mushroom products sourced from online resellers (ten labelled for veterinary use and one labelled for human use) were subjected to simple quantitative and qualitative polysaccharide analysis methods to differentiate products containing only mushrooms (the fruiting bodies of the fungal life-cycle) from those that include the whole solid fermentation resulting from the fungal mycelium of cereal grain. The therapeutic benefits of fungi are often attributed to their β-glucan content, which, unlike cereal grain β-glucans, is uniquely characterized by 1,3–1,6 β-glycosidic linkages. Fungal polysaccharide markers were used to distinguish mushroom-containing products from grain-based mycelial products in this study, which highlighted the compositional variability in marketplace products. These products were subjected to a multifaceted analytical approach by enzymatic quantification of α- and β-glucans and starch, and Lugol’s iodine staining for starch detection. The resulting analyses identified two distinct product profiles: (1) polysaccharide profiles consistent with mushrooms, exhibiting high β-glucan and low α-glucan content and (2) products consistent with fermentation of cereal grains by fungal mycelium that have lower levels of β-glucans, higher levels of α-glucans, and a strong positive iodine-starch test. This study proposes objective, composition-based criteria, derived from the products analyzed, for differentiation of these product profiles; the polysaccharide profiles of some products labelled as mushroom-derived were consistent with mycelium-fermented grain rather than with mushrooms. This method can be adapted to assess other fungal-derived products and to help verify the label claims of mushroom-based veterinary products.",
+   "authors": [
+    "David Atuahene",
+    "Robert J. Silver"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223634",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1002/age.70239",
+   "title": "ESRRA Promotes Porcine Myoblast Differentiation Through CPT1A ‐Mediated Fatty Acid Oxidation",
+   "abstract": "Myoblast differentiation requires coordinated transcriptional regulation and metabolic remodeling, but the signaling mechanisms that couple transcription factor activity to fatty acid‐dependent energy metabolism during myogenic differentiation remain incompletely understood. Here, by integrating time‐series bulk transcriptomic profiles with single‐cell transcriptomic data from porcine embryonic longissimus lumborum muscle, we identified ESRRA as a candidate regulator of myoblast differentiation and validated its function in primary porcine myoblasts. ESRRA expression was progressively upregulated during myotube formation, accompanied by enhanced ESRRA regulon activity in late‐stage myoblasts. Functional inhibition of ESRRA impaired MyHC‐positive myotube formation, reduced myogenic marker expression, suppressed fatty acid oxidation and ATP production, and promoted lipid droplet accumulation. Activation of fatty acid oxidation with bezafibrate partially rescued the differentiation defects caused by ESRRA knockdown, indicating that ESRRA supports myogenic differentiation through fatty acid oxidation‐dependent metabolic signaling. Mechanistically, CUT&amp;Tag, CUT&amp;RUN‐qPCR, expression analysis, and rescue experiments identified CPT1A as a direct transcriptional target and functional downstream effector of ESRRA . Together, these findings define an ESRRA – CPT1A transcriptional–metabolic signaling axis that couples fatty acid oxidation to porcine myoblast differentiation, providing new insight into how metabolic signaling regulates skeletal muscle cell differentiation.",
+   "authors": [
+    "Yu Tian",
+    "Mingjun Li",
+    "Tao Meng",
+    "Qinghui Wang",
+    "Guangkun Bai",
+    "Shuwen An",
+    "Chao Qi",
+    "Xiangwei Zhai",
+    "Min Zhang",
+    "Shuer Zhang",
+    "Junjie Wang",
+    "Wei Shen"
+   ],
+   "journal": "Animal Genetics",
+   "url": "https://doi.org/10.1002/age.70239",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223642",
+   "title": "Description of a Dorsal Landmark-Guided Brachial Plexus Block Technique in Common Pigeons (Columba livia domestica): Anatomical Description and Cadaveric Evaluation",
+   "abstract": "Brachial plexus blockade can contribute to multimodal analgesia in avian patients, but interspecific anatomical variation may limit the reliability of extrapolated techniques. This cadaveric study aimed to develop and evaluate the anatomical feasibility of a dorsal landmark-guided approach to the brachial plexus block in common pigeons (Columba livia domestica). Twenty-three cadavers were used in two sequential phases: six for anatomical landmark development and 17 for technique validation. Validation cadavers were positioned in sternal recumbency with the wings folded. A 1:1 lidocaine:methylene blue mixture (0.4 mL/kg) was injected beneath the scapula through a 25 G needle advanced in a dorsoventral direction with a slight lateral orientation toward the scapula, to a depth of approximately 0.5–1.0 cm. After dissection, staining was scored as 0 (absent), 1 (partial/non-circumferential), or 2 (complete/extensive circumferential). Of 34 attempted injections, one was excluded because of a pre-existing scapular fracture. Score 2 was achieved in 28 of 33 evaluable injections (84.8%; exact 95% CI, 68.1–94.9%), score 1 in five (15.2%; exact 95% CI, 5.1–31.9%), and score 0 in none (0%; exact 95% CI, 0–10.6%). There was no statistically significant difference between right and left wings (exact McNemar p = 0.375). The approach provided consistent anatomical targeting, but in vivo studies are required to establish functional blockade, safety, and clinical applicability.",
+   "authors": [
+    "Alexandra Maria Creţ",
+    "Iulia Melega",
+    "Lucia Victoria Bel",
+    "Maria-Carmen Turcu",
+    "Cosmin Peştean",
+    "Mihai Cenariu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223642",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
