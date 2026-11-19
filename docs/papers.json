@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:27:50+00:00",
+ "updated": "2026-11-19T03:07:31+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -441,6 +441,32 @@
     "nutrition"
    ],
    "abstract_zh": "繁殖效率決定了放牧肉牛母子牛系統的生物學與經濟永續性，然而營養狀況改變基因型相關繁殖性能的程度仍不清楚。本篇綜論批判性地檢視了從配種到斷奶連續過程中，品種改良雜交、雜種優勢、牧草容許量與繁殖表現之間的關係。透過結構化敘述性綜合分析評估了 36 篇文獻，並將其分類為直接的繁殖基因型 × 營養環境（G × N）證據（第一級，n = 2）、基因型與雜交證據（第二級，n = 14）、營養證據（第三級，n = 9）以及機制或支持性證據（第四級，n = 11）。在所審視的研究中，雜交通常與良好的繁殖及母性表現相關，儘管這些相關性的大小和一致性在不同品種組合、生產環境與繁殖終點之間有所差異。在部分研究中，較高的牧草可利用率與較佳的營養狀態也與改善的體況及繁殖表現相關，這與既有的代謝與內分泌機制一致。然而，這些與基因型和營養相關的模式本身並不能確立因果效應或 G × N 互動作用。僅有兩篇文獻在分析架構內直接評估了繁殖 G × N，兩者皆源自同一個放牧研究計畫。其中一篇報告了具分階段特異性的互動作用證據，特別是在分娩至斷奶期間；另一篇則包含互動作用項，但未單獨報告其估計值。營養效應隨生理階段、胎次、體況及先前的營養暴露而異。這些發現強調，單純的受胎率無法完整代表繁殖效率，因為隨後的繁殖與仔牛損失會影響累積生產力。以每頭配種母牛斷奶仔牛數（配合斷奶仔牛總重）作為終點指標，能提供更全面的評估。需要在多樣化的基因型與放牧環境中進行獨立、縱向的析因研究，以確立繁殖 G × N 互動作用的可重複性、生物學意義與管理意涵。"
+  },
+  {
+   "doi": "10.3390/ani16223648",
+   "title": "A GWAS-Informed Weighted Genomic Relationship Matrix Approach for Genomic Prediction in Korean Native Chickens",
+   "abstract": "SNP-weighted genomic relationship matrices (GRMs) may better reflect heterogeneous marker effects, but their performance depends on population and weighting intensity. We evaluated genome-wide association study (GWAS)-informed weighted genomic best linear unbiased prediction (GBLUP) in the red-brown line of Korean native chickens for 8-week body weight, 10-week carcass weight, and carcass yield. SNP effects were estimated using mixed linear model association (MLMA) and BayesC, and three weighting schemes were applied to construct weighted GRMs. Predictive performance was assessed using five repetitions of five-fold cross-validation, and weighting intensity was evaluated across 18 λ levels from unweighted to fully weighted models. Weighted models modestly increased predictive ability for body and carcass weight, whereas responses for carcass yield were small and inconsistent. Across traits, weighting generally increased the root mean square error (RMSE) and mean absolute error (MAE), reduced dispersion slopes, and increased reliability. Increasing λ altered estimates of additive genetic variance and heritability, particularly under squared-effect Bayesian weighting, and increased GRM diagonal heterogeneity. These results suggest that GWAS-informed SNP weighting did not consistently improve prediction in this population, and that its evaluation may benefit from considering prediction errors, calibration, and variance estimates alongside predictive ability.",
+   "authors": [
+    "Soo Hyun Lee",
+    "Minjun Kim",
+    "Doo Ho Lee",
+    "Nam Uk Kim",
+    "Hyojun Choo",
+    "Yeong Kuk Kim"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223648",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 34.0,
+   "matched": [
+    "chicken",
+    "gblup",
+    "gwas",
+    "heritability",
+    "carcass"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.3390/ani16203266",
@@ -1268,6 +1294,31 @@
     "poultry"
    ],
    "abstract_zh": "去氧雪腐鐮刀菌烯醇（DON）是一種由鐮刀菌產生的黴菌毒素，經常汙染以穀物為基礎的家禽飼料。儘管其孵化後的毒性已被廣泛記錄，但胚胎期暴露的後果仍所知甚少。本研究探討了胚胎期暴露於 DON 對肉雞生長性能和腸道健康的影響。在胚胎第 14 天，將 336 枚具活力的胚胎隨機分為三組：生理食鹽水對照組（C）、低劑量 DON 組（LD；0.5 奈克 DON/枚種蛋）及高劑量 DON 組（HD；1 奈克 DON/枚種蛋），每組 112 枚種蛋。每個種蛋於氣室內接受單次 0.1 毫升的注射。監測生長性能至第 42 天，並於孵化後第 21 天和第 42 天評估腸道參數及盲腸微生物相。胚胎期暴露於 1 奈克 DON/枚種蛋會降低孵化體重及平均每日採食量（ADFI），增加飼料換肉率（FCR），並損害平均每日增重（ADG），其中兩個 DON 暴露組的整體平均每日增重皆低於對照組（p < 0.05）。DON 暴露亦降低了絨毛高度及部分腸道消化酶活性，增加丙二醛（MDA）濃度，並降低多項抗氧化指標。此外，空腸基因表現分析顯示，抗氧化相關基因（Nrf2、HO-1、CAT、SOD 及 GPx-1）、緊密接合相關基因（claudin-1、occludin 及 ZO-1）以及抗發炎細胞激素基因 IL-10 表現下調，同時伴隨促發炎細胞激素基因（IL-1β、IL-6 及 TNF-α）表現增加。這些反應因 DON 劑量與孵化後日齡而異。盲腸微生物相分析顯示，特定細菌分類群存在年齡特異性差異；然而，在兩個取樣日齡時，對照組與高劑量組鳥類的整體微生物群落組成均未檢測到顯著差異。綜上所述，這些發現表明，實驗性胚胎期暴露於 DON 會對孵化後的生長性能產生不良影響，並伴隨腸道形態、消化功能、氧化狀態、發炎及腸道屏障相關基因表現的改變。微生物相的發現暗示了選擇性的分類群變化，而非整體盲腸微生物群落的顯著重組。"
+  },
+  {
+   "doi": "10.3390/ani16223646",
+   "title": "Sunflower Protein Concentrate as an Alternative to Soybean Meal in Broiler Diets: Effects on Growth Performance, Ileal Amino Acid Digestibility, and Intestinal Fermentation",
+   "abstract": "This study evaluated the potential of sunflower concentrate (SFC) as an alternative to soybean meal (SBM) in broiler diets, focusing on growth performance, apparent ileal amino acid (AA) digestibility, intestinal fermentation metabolites, and economic outcomes. A total of 576 one-day-old male Ross 308 broiler chickens were allocated to 48 floor pens, with 12 birds per pen and 12 replicate pens per treatment. Four dietary treatments were evaluated: a control diet containing SBM and diets in which approximately one-third (SFC 1/3), two-thirds (SFC 2/3), or all (SFC 3/3) of the SBM protein was replaced with SFC. Increasing SBM replacement with SFC improved growth performance, with significant linear responses for body weight (BW), BW gain (BWG), and feed conversion ratio (FCR) over the 35-day experimental period (p &lt; 0.01). Apparent ileal digestibility increased linearly with SFC inclusion for indispensable AAs and several dispensable AAs, as well as total AAs (p &lt; 0.05). In the caecum, concentrations of isobutyric acid, isovaleric acid, and total branched-chain fatty acids decreased with increasing SFC inclusion (p &lt; 0.05), indicating reduced proteolytic fermentation. Despite higher feed costs with increasing SFC inclusion, SFC 2/3 provided the most favorable balance between performance and economic return. Overall, SFC effectively replaced a substantial proportion of SBM protein without impairing broiler performance or AA utilization. The combined biological and economic responses indicate that partial replacement, particularly around two-thirds of SBM protein, may provide a more favorable balance than complete replacement under the price conditions evaluated.",
+   "authors": [
+    "Ali Kiani",
+    "Teemu Rinttilä",
+    "Eija Valkonen",
+    "Suvi Vartiainen",
+    "Hannele Kettunen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223646",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 22.0,
+   "matched": [
+    "chicken",
+    "broiler",
+    "feed conversion ratio",
+    "fcr",
+    "amino acid"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1186/s12711-026-01087-0",
@@ -3051,6 +3102,29 @@
    "abstract_zh": "本研究旨在探討性別對家貓營養代謝的影響。試驗選取十二隻健康的1歲齡中華家貓（公母各半），隨機分為雌性組（F組）與雄性組（M組），飼餵相同飲食，試驗期為30天。本研究透過測長生長性能、營養物質全腸道表觀消化率及血清生化指標，並結合糞便高通量16S rRNA定序與血清非標靶代謝體學（LC-MS）進行綜合分析。結果顯示，M組的平均日採食量與粗纖維表觀消化率顯著高於F組（p < 0.05），而F組的血清丙胺酸轉胺酶活性顯著高於M組（p < 0.05）。在腸道菌相方面，F組的阿爾法多樣性指數（Chao1、Faith、Shannon、Simpson）均顯著高於M組，且貝塔多樣性呈現高度顯著分離（p < 0.01）。LEfSe分析顯示，F組以布勞氏菌屬 A（Blautia A）和糞單胞菌屬（Faecalimonas）為特徵菌屬，M組則以雙歧桿菌屬（Bifidobacterium）為特徵。血清代謝體學共篩選出符合探索性篩選標準（VIP > 1, p < 0.05）的125個候選代謝物；與M組相比，F組的L-組織胺酸顯著上調；而M組的L-半胱胺酸、α-生育酚、γ-麩胺酰菲林甘胺酸（$\\gamma$-glutamylfelinylglycine）與6-磷酸葡萄糖酸顯著高於F組。這些代謝物主要富集於亞麻油酸代謝、花生四烯酸代謝、牛磺酸與亞牛磺酸代謝以及組織胺酸代謝等途徑。聯合分析表明，雙歧桿菌屬與L-半胱胺酸、$\\gamma$-麩胺酰菲林甘胺酸、α-生育酚、6-磷酸葡萄糖酸及菲林（felinine）呈顯著正相關，與L-組織胺酸呈顯著負相關。綜上所述，貓的營養代謝效率與性別調控的腸道菌相及代謝途徑有關，本研究結果為針對不同性別貓隻開發精準營養配方提供了初步依據。"
   },
   {
+   "doi": "10.3390/ani16223657",
+   "title": "Cassava Starch-Processing Residue in Liquid Diets for Growing-Finishing Pigs: Effects on Feed Efficiency, Nutrient Digestibility, and Pork Quality",
+   "abstract": "Cassava starch-processing residue (CR) was supplemented in liquid diets for growing-finishing pigs at 0, 3, or 6% of the basal-feed weight to assess responses to increasing supplementation levels. A total of 720 pigs (initial body weight, 34.6 ± 0.46 kg) were fed the experimental diets for 12 weeks. Feed intake increased linearly during weeks 1–3, 4–6, and 7–9 (p &lt; 0.05) and tended to increase over the entire feeding period (p = 0.057). Average daily gain decreased linearly only during weeks 7–9 (p = 0.013), whereas overall average daily gain and final body weight were unaffected. In contrast, the gain-to-feed ratio decreased linearly during weeks 1–3, 4–6, 7–9, and overall (p &lt; 0.05). Increasing CR supplementation also linearly reduced the apparent total tract digestibility of dry matter, ether extract, and crude ash (p &lt; 0.05), without affecting nitrogen digestibility. At week 12, fecal acetate increased linearly (p = 0.042), while total short-chain fatty acids tended to increase (p = 0.076). Muscle crude fat, oleic acid, and total monounsaturated fatty acids increased linearly, whereas cooking loss decreased (p &lt; 0.05). Overall, increasing CR supplementation did not significantly affect final body weight or overall average daily gain, but generally increased feed intake resulting in reduced feed efficiency. These findings suggest that further processing of CR and optimization of feeding strategies may be needed to improve its utilization in liquid diets for growing-finishing pigs.",
+   "authors": [
+    "Lin Liu",
+    "Shenglai Cui",
+    "Biao Xuan",
+    "Yufei Zhao",
+    "Xiuping Zhao",
+    "Yinghai Jin",
+    "Xinghao Jin"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223657",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 15.0,
+   "matched": [
+    "feed efficiency"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s12711-026-01089-y",
    "title": "Correction: Genetic parameters via predictivity in large populations under strong genomic selection",
    "abstract": "",
@@ -3483,6 +3557,28 @@
    "abstract_zh": "脂肪源性細胞外囊泡（EVs）作為細胞間通訊及脂質代謝的調節因子，近年來備受關注。這些奈米級囊泡攜帶多種內含物，包括蛋白質、脂質、mRNA、lncRNA 和 miRNA。透過這些內含物，脂肪組織與遠端器官進行通訊並影響代謝恆定。在此，我們綜述了脂肪源性EVs的生物學特徵與功能角色，重點探討其在脂肪生成、胰島素訊號傳導、發育發炎以及如非酒精性脂肪性肝病和動脈粥狀硬化等代謝疾病中的參與。我們綜合考量了人類與囓齒類動物的研究證據，以及目前可用之有限的牛隻數據。重要的是，此處討論的大多數機制證據皆源自非牛類模型，因此我們將其應用於畜牧生產與肉品特性的研究視為一種研究展望，而非既定的功能。特別的是，我們檢視了EV介導的訊號傳導可能調節肌肉內脂肪沉積與肉質特性的假說，並概述了牛隻專屬研究面臨的主要挑戰與研究方向。長期而言，更深入理解這些通訊途徑有助於提供與肉質相關的研究方向，但仍需在牛隻中進行直接的功能驗證。"
   },
   {
+   "doi": "10.3390/ani16223651",
+   "title": "Diet of the Iberian Imperial Eagle in the Guadiana Valley, Southern Portugal: Rabbit Dependence and Scavenging on Sheep",
+   "abstract": "The Iberian imperial eagle (Aquila adalberti) depends heavily on the wild rabbit (Oryctolagus cuniculus), whose populations declined after the spread of a new variant of rabbit haemorrhagic disease. This study aimed to describe the eagle’s diet in the Guadiana Valley (southern Portugal) and to test two hypotheses: that the diet remains dominated by rabbit (H1), and that sheep are consumed as carrion, in a spatially concentrated way, rather than through widespread predation (H2). Pellets and prey remains collected non-invasively at ten localities (nest sites and roosts) in 2017–2019 and 2022–2023 yielded 173 prey items, identified macroscopically and by guard-hair microscopy. Lagomorphs accounted for 69.9% of prey items (95% CI 62.7–76.3%) and 72.6% of estimated ingested biomass; birds and sheep each accounted for 12.7% of items. Sheep remains were concentrated at two localities (86.4% of occurrences; p = 0.039), and there was no evidence of predation on livestock. Lagomorphs were less frequent in 2023 than in 2017–2022 (50.0% vs. 75.2%), a difference largely driven by one locality and treated as exploratory. Both hypotheses were supported. The eagle’s conservation appears compatible with game and livestock management, provided rabbit populations are maintained.",
+   "authors": [
+    "Paulo Cardeira",
+    "Carlos Carrapato",
+    "Pedro Santos"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223651",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 13.0,
+   "matched": [
+    "sheep",
+    "rabbit",
+    "disease",
+    "livestock"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/00439339.2026.2731346",
    "title": "Opportunities for creating a circular economy in the Australian poultry industry",
    "abstract": "SUMMARYApproximately one third of the world’s food production is ultimately wasted. Current estimates suggest that the amount of land used to grow food that is wasted is greater than twice the landmass of Australia, and Australia itself wastes a landmass larger than the state of Victoria. With over 2 billion people suffering from food insecurity, an estimated world population of 9.7 billion by 2050, and ongoing detrimental environmental damage caused by industrialisation, there is ever increasing motivation to develop new and effective strategies to maximise efficiency in utilising the world’s available natural resources. In order to begin planning, an understanding of the present is required. Over the last 25 years, the idea of recycling food waste as animal feed on an industrial scale has become a focus for many researchers and agricultural industries. In particular, the poultry industry is well situated to take advantage, as it is an industry that already uses by-products and is intensive in nature and often integrated. A literature review was conducted to compare existing studies on the amount and value of wasted food and resources, the nutritional composition of various streams of food waste, and its potential application as poultry feed. This review explored global studies, ultimately focusing on an Australian context; a country in which poultry is the highest consumed protein source per capita. Many causes of food waste were identified, as well as several emerging strategies to combat this. While nutritional variability is a commonly noted issue, the consensus among researchers is that, depending on the source, food waste could feasibly be used to substitute conventional ingredients such as corn and soybean meal in poultry diets without production loss, with likely economic advantages.",
@@ -3848,6 +3944,31 @@
    "matched": [
     "chicken",
     "broiler"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223656",
+   "title": "The Origin, Dispersal, and Post-Domestication Evolution of Domestic Chickens",
+   "abstract": "The origins of domestic chickens and their subsequent evolution remain debated. This review integrates genomic, zooarchaeological, direct-dating, and ancient DNA evidence to examine ancestry, domestication, dispersal, selection, and gene flow. Current genetic evidence generally favors a single domestication origin followed by dispersal. Populations related to Gallus gallus spadiceus in southwestern China and mainland Southeast Asia provided the principal ancestry of domestic chickens, whereas other red junglefowl subspecies and junglefowl species contributed smaller segments, mainly through introgression as domestic chickens dispersed. The clearest early archaeological evidence of chicken husbandry comes from Ban Non Wat in Thailand at approximately 1650–1250 BCE, after cereal agriculture arrived. Possibly older records from Caiyuanzi and Dadunzi in Yunnan await specimen review and direct dating. Skeletal reassessment and direct dating have revised early chicken records and dispersal chronologies across Eurasia, Africa, and the Pacific. In parts of Europe, routine consumption followed burial and other special uses. Ancient DNA from Europe shows the derived thyroid-stimulating hormone receptor (TSHR) allele rising from the medieval period, and modern breeding changed production traits within decades. Most sampled modern G. g. spadiceus carry substantial domestic ancestry; commercial ancestry has probably reached them through local chickens and may also enter directly.",
+   "authors": [
+    "Yihang Dong",
+    "Lei Tan",
+    "Yong Zhang",
+    "Yi Huang",
+    "Hao Wu",
+    "Tengfei Dou",
+    "Changrong Ge",
+    "Kun Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223656",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 12.0,
+   "matched": [
+    "chicken",
+    "breeding"
    ],
    "abstract_zh": ""
   },
@@ -4704,6 +4825,34 @@
    "abstract_zh": "飼料發酵會改變瘤胃的甲烷生成，然而較低的每日甲烷產量並不一定代表較低的甲烷產率或有效的減排，因為這可能是由採食量減少或消化受損所導致。這篇關鍵性敘述性文獻回顧搜尋了 Web of Science 核心合輯與 PubMed 資料庫中 2010 年 6 月 1 日至 2026 年 6 月 1 日發表的出版品。經標題、摘要及全文篩選，得出 157 篇候選出版品作為主要文獻庫。其中包括 30 項報告直接甲烷測量的原創研究，其中 13 項評估了發酵飼料介入措施。甲烷主要透過體外瘤胃模擬和動物直接測量進行評估。甲烷的反應在方向和幅度上皆有所差異。在四項回報減少的乳牛驗證研究中，每日甲烷產量減少了 10.7% 至 17.2%。一項使用發酵全混合日糧的 24 小時體外試驗報告甲烷產量減少了 13.7%。這些數值描述了特定的比較結果。其他介入措施則增加了甲烷或產生了無統計顯著性的反應，且部分減少現象伴隨著較差的動物表現。在此一異質性證據基礎上，尚未建立能一致解釋不同飼料原料與發酵工藝中甲烷反應的共同機制。原料替代與基質利用的改變進一步限制了將其歸因於發酵本身的說法。我們建議評估甲烷產量、甲烷產率、基於產品的甲烷強度、以及每單位降解乾物質的甲烷產量，並同時考量採食量、消化率、動物表現與健康。我們亦評估了作物秸桿、農業工業副產物以及中藥渣作為中國發酵飼料基質的潛力。需要進行具備適當對照組的長期動物試驗，以確定是否能在不損害養分利用或動物表現的情況下實現持續的甲烷減排。"
   },
   {
+   "doi": "10.3390/ani16223662",
+   "title": "Effects of Succinic Acid Supplementation in Corn Silage-Based Total Mixed Ration on Growth Performance, Carcass Traits, and Meat Quality of Hainan Black Goats",
+   "abstract": "This study investigated the effects of succinic acid (SA) supplementation in a total mixed ration based on corn stalk silage on the growth performance, carcass traits, and meat quality in Hainan Black goats. A total of 105 three-month-old male Hainan Black goats (initial body weight 14.53 ± 0.26 kg) were randomly allocated to five dietary treatment groups, with three replicate pens per treatment and seven goats per pen (21 goats per treatment; pen was the experimental unit): a basal control diet (CON, alfalfa-based total mixed ration), a total mixed ration based on corn stalk silage (CS), and three CS-based diets supplemented with 0.5%, 1.0%, or 1.5% SA. Growth performance analysis showed that the 1% SA group exhibited the greatest average daily gain (ADG; p &lt; 0.05) and final body weight (FBW; p &lt; 0.05). The 1% SA diet increased carcass weight and fat thickness at the 12th rib (GR; p &lt; 0.05), elevated meat redness (p &lt; 0.05) and crude protein, and lowered muscle moisture and ash without affecting instrumental shear force (p &gt; 0.05). Relative to CON group, CS and 1% SA groups both reduced saturated fatty acid concentrations and elevated the ratio of polyunsaturated fatty acids (PUFAs) to saturated fatty acids (SFAs; p &lt; 0.05). Notably, 1% SA upregulated C20:3n-6 (p &lt; 0.001) and altered the relative internal standard (IS)-equivalent abundance of lipid-derived volatiles, particularly aldehydes (e.g., hexanal, heptanal) and ketones, compared with CS. Collectively, these findings indicate that 1% succinic acid supplementation improved selected nutritional and meat quality traits and altered the semi-quantitative IS-equivalent volatile profile of goat meat.",
+   "authors": [
+    "Yang Gao",
+    "Jianyu Ma",
+    "Xiuyuan Wang",
+    "Zhibo Wang",
+    "Yixin Liang",
+    "Weiming Zhong",
+    "Shang Gao",
+    "Yanli Zhang",
+    "Feng Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223662",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 10.0,
+   "matched": [
+    "goat",
+    "nutrition",
+    "meat quality",
+    "carcass"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s40104-026-01503-x",
    "title": "Chestnut–quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production",
    "abstract": "Background Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, diarrhea occurrence, gut metagenome, and fecal metabolome in piglets reared under two commercial farm conditions. A total of 160 weaned piglets (initial body weight 6.53 ± 0.13 kg) were assigned to a 2 × 2 factorial design comprising 2 weaning units (W1 and W2) and 2 dietary treatments (control diet or control diet + 2 g/kg tannin blend; 40 piglets per treatment × farm). The trial lasted 76 d, with weighings at T0 (entry into weaning, median 28 d), T1 (d 35), T2 (d 49), and T3 (d 76). Fecal scores and samples were collected at T1, T2, and T3 for shotgun metagenomics (155 samples per time point) and untargeted metabolomics, and targeted urolithin quantification was performed in tannin-treated piglets at T1 and T2. Results Tannin supplementation did not affect overall growth performance throughout the weaning phase, but reduced diarrhea occurrence at T2 in W2 ( P = 0.032). Species-level beta diversity was consistently affected by treatment across time points ( R 2 = 0.01–0.03; P &lt; 0.01), whereas alpha diversity was mainly farm-driven during the early post-weaning phase. Linear discriminant analysis effect size identified farm-dependent taxonomic markers, including Escherichia coli in control pigs from W1 at T1 and Megasphaera elsdenii , Faecalibacterium prausnitzii , and Lactobacillus amylovorus in tannin-treated pigs at later time points. Untargeted metabolomics revealed treatment-related fecal signatures, with isourolithin A and urolithin B among the most discriminant metabolites in treated pigs, especially in W2. Targeted analysis identified 3 urolithin metabotypes (metabotype B in 50.0% of samples), with higher isourolithin A, urolithin B, and urolithin A in W2 than W1 at T2 ( P &lt; 0.01). Network integration identified candidate cooperative microbial consortia associated with urolithin production, including Ellagibacter isourolithinifaciens ; these co-abundance associations are correlative and remain to be functionally validated. Conclusions Overall, chestnut–quebracho tannins were associated with a farm-dependent reduction in post-weaning diarrhea and modulated the gut ecosystem through microbiota-dependent polyphenol metabolism.",
@@ -5098,6 +5247,33 @@
    "url": "https://doi.org/10.3390/ani16223640",
    "date": "2026-11-17",
    "first_seen": "2026-11-18",
+   "score": 9.0,
+   "matched": [
+    "omics"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223658",
+   "title": "Investigating the Effects of the Taraxacum kok-saghyz Rodin Polysaccharide on Intestinal Immune Function in Lambs Based on the “Gut Microbiota–Metabolites” Axis",
+   "abstract": "Objective: To investigate the differential regulatory effects of Taraxacum kok-saghyz Rodin leaf polysaccharide (TKP-L) and Taraxacum kok-saghyz Rodin root polysaccharide (TKP-R) on intestinal immune function in lambs, and to explore the potential association between the gut microbiota and jejunal metabolites. Methods: After a 7-day adaptation period, twenty-one two-month-old male lambs were randomly divided into three groups (n = 7 per group): control (CK), TKP-L, and TKP-R. The feeding trial lasted 28 days. TKP-L and TKP-R were administered orally by gavage at 400 mg/kg body weight per day, while the CK group received no additional treatment. At the end of the trial, all lambs were euthanized, and samples were collected for tissue and omics analyses (n = 7 per group). Exploratory network pharmacology prediction based on human databases was used to generate candidate targets and pathways, which guided the selection of subsequent in vivo parameters. qPCR was used to detect the mRNA expression of PIgR, TNF-α, and IL-6 in the duodenum and jejunum. HE staining and immunofluorescence were used to evaluate liver and intestinal morphology and the expression of ZO-1 and IgA. 16S rRNA sequencing was used to analyze the fecal microbiota. Untargeted metabolomics was used to analyze jejunal metabolites. Correlations between fecal microbiota and jejunal metabolites were then analyzed. Results: Exploratory network pharmacology prediction suggested 47 and 27 candidate intersection targets for TKP-L and TKP-R, respectively, which were predicted to be enriched in neuroactive ligand–receptor interaction and calcium signaling pathways. Neither TKP-L nor TKP-R induced statistically significant changes in duodenal pIgR, TNF-α, or IL-6 mRNA expression or jejunal pIgR mRNA expression compared with the CK group. Although numerical variations were observed, these differences were not statistically significant. Jejunal IL-6 expression differed significantly between the TKP-L and TKP-R groups, whereas neither treatment group differed significantly from the CK group. Immunofluorescence showed that TKP-R was associated with a higher ZO-1 signal, whereas TKP-L showed a stronger IgA immunofluorescence signal. However, secreted sIgA and barrier function were not directly measured. 16S rRNA analysis showed that polysaccharide treatment did not significantly change α diversity but was associated with the enrichment of specific bacteria (TKP-L: Oscillospiraceae; TKP-R: Ruminococcaceae). Untargeted metabolomics showed that TKP-L was mainly associated with changes in inflammation-related lipid mediators (PGI2 and Lipoxin B4), while TKP-R was mainly associated with changes in anti-inflammatory polyunsaturated fatty acids (EPA and α-linolenic acid). Correlation analysis revealed that the abundance of Prevotella was positively correlated with immunomodulatory metabolites such as Curine and LPI-18-1. Conclusions: TKP-L and TKP-R were associated with differential changes in selected intestinal immune markers, fecal microbiota composition, and jejunal metabolites in lambs. TKP-L was associated with higher PIgR mRNA and IgA immunofluorescence signals, whereas TKP-R was associated with a higher ZO-1 signal. However, the predicted targets and pathways were not validated in lamb tissues. In addition, secreted sIgA, intestinal barrier function, growth performance, nutrient utilization, and the efficacy of TKP as a feed additive were not directly evaluated. These findings provide preliminary evidence and require further investigation. Exploratory untargeted metabolomics suggested candidate abundance differences in selected jejunal metabolite features, whereas global metabolite profiles did not differ significantly among groups (PERMANOVA, p = 0.2258). The metabolite-level patterns and microbiota–metabolite associations warrant further validation.",
+   "authors": [
+    "Xiaohui Zhang",
+    "Saifuding Abula",
+    "Yan Zhang",
+    "Abudukeyoumu Abudurezike",
+    "Qiang Gao",
+    "Ayjamal Keram",
+    "Jiamin Cao",
+    "Lisi Tang",
+    "Tuhanguli Tuoheti",
+    "Lin Xu",
+    "Zulikeyan Manafu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223658",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
    "score": 9.0,
    "matched": [
     "omics"
@@ -5693,6 +5869,52 @@
    "abstract_zh": "墨西哥克里奧爾牛是當地適應良好的遺傳資源，其對選擇的基因組反應目前仍未得到充分解析。本研究使用整合單倍型分數（iHS）和跨群體擴展單倍型純合性（XP-EHH），對 69 頭動物（科雷諾牛 [Coreño] n = 30；拉拉穆里牛 [Rarámuri] n = 39）在 63,676 個體染色體單核苷酸多型性（SNP）位點上的選擇訊號進行了調查，並以固定指數（FST）作為互補證據。基因組範圍內的遺傳分化較低（加權 FST = 0.038）。我們識別出 57 個候選區域，其中包括 14 個高優先級區域。染色體 27（16.17–18.14 Mb）上顯著的科雷諾牛 XP-EHH 區域與一個 FST 候選區域重疊，而最強的拉拉穆里牛 iHS 訊號則出現在染色體 5（55.86–56.85 Mb）上。基因註釋與基因本體論（GO）、京都基因與基因組百科全書（KEGG）以及數量性狀基因座（QTL）分析顯示出不同的功能特徵：科雷諾牛主要涉及內分泌與生殖過程、脂質代謝、止血、細胞凋亡、免疫及乳品相關性狀；拉拉穆里牛則主要涉及對環境的生理反應、免疫、生長、發育、生殖及體型構型。群體特異性候選區域的功能特徵顯示出某些共同的生物學主題，特別是與生殖和免疫相關的主題。鑑於樣本量和 SNP 晶片解析度，表型與環境研究將有助於闡明其生物學相關性。總體而言，本研究提供了科雷諾牛和拉拉穆里牛基於單倍型的候選選擇訊號的首個比較評估，擴展了其基因組特徵，並突顯了可能與當地適應相關的生物學過程。"
   },
   {
+   "doi": "10.3390/ani16223633",
+   "title": "Effects of Dietary Fatty Acid and Vitamin Supplementation, Alone or in Combination, on Ovarian Development and Liver Health in Coreius guichenoti",
+   "abstract": "Largemouth bronze gudgeon (Coreius guichenoti, LBG) is an endangered endemic fish in the upper Yangtze River, and poor gonadal development and reproductive performance limit its artificial propagation. We recently identified docosahexaenoic acid (DHA), arachidonic acid (ARA), vitamin C (VC), and VE as key candidate nutrients regulating ovarian development in LBG. This study therefore preliminarily investigated the effects of dietary vitamin (VC + VE, VIT) and fatty acid (ARA + DHA, FAG) inclusion, alone or in combination (MIX), in a basal diet (CON) on the growth performance, liver health, and ovarian development of LBG. VC and VE were supplemented at 400 and 300 mg/kg in the vitamin-enriched diets, respectively, while DHA and ARA were supplemented at 0.77% and 0.24% in the fatty acid-enriched diets, respectively. A total of 480 female F1 LBG (165.3 ± 1.71 g) were randomly assigned to 12 tanks (40 fish/tank; 3 tanks/treatment) and fed their respective diets for 180 days. The results showed that specific growth rate and feed efficiency ratio were improved only by dietary vitamin inclusion. Liver histological features (hepatocyte vacuolization, nuclear displacement, and nuclear aggregation) in CON and FAG fish were attenuated by dietary vitamin inclusion, probably due to improved antioxidant defense. Both dietary vitamin and fatty acid supplementation stimulated steroid hormone, prostaglandin, and vitellogenin synthesis at the biochemical and/or molecular level, thereby promoting the development of oocytes to late stage III in LBG. In general, the beneficial effects of vitamins on oocyte development were inferior to those of fatty acids, with the best values observed in MIX fish. In conclusion, growth performance and liver health of female LBG benefit from dietary vitamin administration, while both vitamins and fatty acids improve oocyte development, although the effects of vitamins on ovary development are inferior to those of fatty acids. Including fatty acids and vitamins in combination in the diet is recommended to improve liver health and ovary development in LBG. Further studies are warranted to determine their optimal supplemental doses and verify their beneficial effects on the reproductive performance of LBG.",
+   "authors": [
+    "Jian Zhu",
+    "Yihao Xiao",
+    "Haiyue Tan",
+    "Maohua Li",
+    "Xin Lu",
+    "Pei Chen",
+    "Yongjun Chen",
+    "Huantao Qu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223633",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 8.0,
+   "matched": [
+    "feed efficiency",
+    "oocyte"
+   ],
+   "abstract_zh": "長江銅魚（Coreius guichenoti, LBG）是長江上游的瀕危特有魚類，其性腺發育不良和繁殖性能低下限制了人工繁殖。我們近期的研究發現，二十二碳六烯酸（DHA）、花生四烯酸（ARA）、維生素C（VC）和維生素E（VE）是調節長江銅魚卵巢發育的關鍵營養素候選者。因此，本研究初步探討了在基礎飼料（CON）中單獨或聯合（MIX）添加維生素（VC + VE, VIT）及脂肪酸（ARA + DHA, FAG）對長江銅魚生長性能、肝臟健康及卵巢發育的影響。富含維生素飼料中VC和VE的添加量分別為400和300 mg/kg，而富含脂肪酸飼料中DHA和ARA的添加量分別為0.77%和0.24%。試驗選取總計480尾雌性F1代長江銅魚（165.3 ± 1.71 g），隨機分配至12個水族槽中（每槽40尾；每組3個重複），投餵各自的試驗飼料180天。結果顯示，特異性生長率和飼料效率僅因飼料中添加維生素而有所改善。飼料中添加維生素減輕了CON組和FAG組魚類的肝臟組織學病變（肝細胞空泡化、細胞核位移和核聚集），這可能歸因於抗氧化防禦能力的提升。飼料中添加維生素和脂肪酸均在生化和／或分子水平上刺激了類固醇激素、前列腺素和卵黃生成素的合成，從而促進長江銅魚卵母細胞發育至第III期後期。總體而言，維生素對卵母細胞發育的促進作用不如脂肪酸顯著，而以MIX組的數值表現最佳。綜上所述，飼料中添加維生素有益於雌性長江銅魚的生長性能和肝臟健康，而維生素和脂肪酸均能改善卵母細胞發育，儘管維生素對卵巢發育的效果不及脂肪酸。建議在飼料中聯合添加脂肪酸和維生素，以改善長江銅魚的肝臟健康和卵巢發育。未來仍需進一步研究以確定其最佳添加劑量，並驗證其對長江銅魚繁殖性能的促進效果。"
+  },
+  {
+   "doi": "10.3390/ani16223632",
+   "title": "Long-Term Fecundity Monitoring as an Element of Fallow Deer Population Management",
+   "abstract": "The fallow deer (Dama dama) is a non-native species in many regions of Europe, including Poland. At high population densities, fallow deer can exert substantial pressure on the habitats they occupy. It is also a competitor of the roe deer, a native member of the deer family. Therefore, active management of fallow deer populations is required, based on the monitoring of ecological parameters, including reproduction. The aim of this study was a long-term assessment (2015–2023) of reproductive success and fecundity as indicators useful for monitoring changes in a free-ranging population in which density had been reduced. The study analysed the abundance of individuals in particular age and sex groups (2015–2020), as well as ovulation and pregnancy rates and fetal dimensions in females that were shot after the end of the rutting period (2021–2024). Our study, conducted in a population characterised by high density (&gt;100 individuals per 10 km2 of forest area), showed an increase in female fecundity compared with the 1990s. In the 2020s, almost 100% of females participated in reproduction, including individuals aged 1–3 years, although their mean body mass in the study area decreased concurrently. Fallow deer in western Poland are most likely benefiting from climate warming, which is leading to the disappearance of severe and snowy winters and to an extension of the growing season. In addition, fertilisation of females was found to occur quite frequently after the main rutting period in October, which may have reduced juvenile survival. This is because no increase was observed—compared to the 1990s—in the proportion of fawns relative to the number of females present in the autumn population. The study population had high reproductive potential because females outnumbered males. The predominance of females among adult fallow deer occurred despite a balanced fetal sex ratio. No significant relationship was found between fetal sex and maternal body mass. The study confirmed the need for systematic monitoring of reproduction and other ecological parameters. In populations of non-native species, such monitoring helps reduce the risk of increasing population density and pressure on the environment.",
+   "authors": [
+    "Robert Kamieniarz",
+    "Jacek Kamczyc",
+    "Anna Łukomska",
+    "Maciej Skorupski"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223632",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 8.0,
+   "matched": [
+    "reproduction",
+    "ovulation"
+   ],
+   "abstract_zh": "黇鹿（*Dama dama*）在包括波蘭在內的許多歐洲地區皆為外來物種。在高族群密度下，黇鹿會對其棲息環境造成巨大的壓力，同時也是鹿科本土物種西方狍的競爭者。因此，基於包括繁殖在內的生態參數監測，有必要對黇鹿族群進行主動管理。本研究旨在對繁殖成功率與繁殖力進行長期評估（2015–2023年），以作為監測密度已獲調降之自由放養族群變化的有用指標。本研究分析了各年齡與性別群組的個體豐度（2015–2020年），以及在交配期結束後遭到獵捕之雌鹿的排卵率、懷孕率與胎兒大小（2021–2024年）。本研究針對具備高密度特徵（每10平方公里林地超過100隻個體）的族群進行，結果顯示，與1990年代相比，雌鹿的繁殖力有所提升。在2020年代，幾乎100%的雌鹿皆參與繁殖，其中包括1至3歲的個體，儘管牠們的研究區平均體重同步下降。波蘭西部的黇鹿極可能受惠於氣候暖化，這導致嚴峻多雪的冬季消失以及生長季的延長。此外，研究發現雌鹿的受精經常發生在10月份的主交配期之後，這可能會降低幼獸的存活率。這是因為與1990年代相比，秋季族群中幼獸佔雌鹿數量的比例並未增加。由於雌鹿數量多於雄鹿，該研究族群具備高繁殖潛力。儘管胎兒性別比例均衡，成年黇鹿中仍以雌性居多。胎兒性別與母體體重之間並無顯著關聯。本研究證實了對繁殖及其他生態參數進行系統性監測的必要性。在外來物種的族群中，此類監測有助於降低族群密度增加及對環境造成壓力的風險。"
+  },
+  {
    "doi": "10.3390/ani16223622",
    "title": "In Vitro Maturation and Parthenogenetic Activation of Southern Pudu (Pudu puda) Oocytes: Morphological and Functional Evaluation",
    "abstract": "The declining pudu population highlights the need for genetic preservation strategies. This study characterized pudu oocyte morphology and evaluated in vitro competence against a bovine model. Pudu ovaries were collected from one juvenile female following therapeutic ovariohysterectomy to prevent dystocia associated with pelvic injuries. Previously adapted bovine protocols were applied. Of 26 recovered iCOCs, 6 were grade I, 14 grade II, 5 grade III, and 1 grade IV. Twenty grade I and II oocytes underwent IVM, showing significant cumulus expansion after 24 h (270.0 ± 55.9 versus 467.8 ± 93.0 µm); 70.0% reached metaphase II. Zona pellucida thickness (12.9 ± 1.1 µm), cytoplasmic diameter (124.7 ± 3.8 µm), and total diameter (159.6 ± 3.4 µm) differed significantly from bovine values. Nine matured oocytes were subjected to parthenogenetic activation (PA): 77.8% cleaved by day 2, and 33.3% reached morulae by day 5; none formed blastocysts. Bovine oocytes reached both stages. In conclusion, sampling one individual limits generalizability, as age, health, and reproductive status may influence oocyte competence. However, these results demonstrated that pudu oocytes can mature in vitro and develop to morulae following PA using bovine protocols. Culture optimization is needed to achieve blastocysts, and studies involving additional individuals are required.",
@@ -5738,52 +5960,6 @@
    "abstract_zh": "飲食中的錳（Mn）可減少肉雞腹部脂肪沉積，但其相關的轉錄後調控機制仍不清楚。我們結合了核糖核酸定序（RNA-seq）與甲基化RNA免疫沉澱定序（MeRIP-seq），以分析對照組與補充錳的愛拔益加（Arbor Acres）公肉雞之腹部脂肪組織特徵。補充錳的劑量在第1–21天為 110 mg/kg，第22–42天為 80 mg/kg。每組選取三個樣本進行分子分析。使用未調整的 $p < 0.05$ 且倍數變化（fold change）$>1.5$ 或 $<1/1.5$ 作為標準，我們鑑別出 1,174 個差異表現基因以及與 2,080 個基因相關的 2,100 個差異 $m^6A$ 峰（peaks）；兩個資料集之間共有 159 個基因重疊。脂質相關的功能註解包含脂肪酸、甘油脂質與磷脂質代謝以及 PPAR 訊息傳遞路徑。PNPLA2、FABP1 與 LCAT 表現出 RNA 豐度增加且 $m^6A$ 富集度降低，而 ELOVL6 與 FADS2 的轉錄本豐度及 $m^6A$ 富集度則皆降低。PDK4 的 RNA 豐度增加，但其兩個差異峰則呈現相反方向的變化。一致與相反的 RNA-峰值模式顯示，脂質相關基因中甲基化與轉錄本豐度之間的關係具有差異性。這些發現支持飲食中的錳、轉錄本特異性 $m^6A$ 重塑以及脂質代謝基因表現之間的關聯性。這些整合的候選基因可為探討脂肪組織對錳的反應提供基礎，而改變甲基化的因果貢獻則有待功能性驗證。"
   },
   {
-   "doi": "10.3390/ani16223632",
-   "title": "Long-Term Fecundity Monitoring as an Element of Fallow Deer Population Management",
-   "abstract": "The fallow deer (Dama dama) is a non-native species in many regions of Europe, including Poland. At high population densities, fallow deer can exert substantial pressure on the habitats they occupy. It is also a competitor of the roe deer, a native member of the deer family. Therefore, active management of fallow deer populations is required, based on the monitoring of ecological parameters, including reproduction. The aim of this study was a long-term assessment (2015–2023) of reproductive success and fecundity as indicators useful for monitoring changes in a free-ranging population in which density had been reduced. The study analysed the abundance of individuals in particular age and sex groups (2015–2020), as well as ovulation and pregnancy rates and fetal dimensions in females that were shot after the end of the rutting period (2021–2024). Our study, conducted in a population characterised by high density (&gt;100 individuals per 10 km2 of forest area), showed an increase in female fecundity compared with the 1990s. In the 2020s, almost 100% of females participated in reproduction, including individuals aged 1–3 years, although their mean body mass in the study area decreased concurrently. Fallow deer in western Poland are most likely benefiting from climate warming, which is leading to the disappearance of severe and snowy winters and to an extension of the growing season. In addition, fertilisation of females was found to occur quite frequently after the main rutting period in October, which may have reduced juvenile survival. This is because no increase was observed—compared to the 1990s—in the proportion of fawns relative to the number of females present in the autumn population. The study population had high reproductive potential because females outnumbered males. The predominance of females among adult fallow deer occurred despite a balanced fetal sex ratio. No significant relationship was found between fetal sex and maternal body mass. The study confirmed the need for systematic monitoring of reproduction and other ecological parameters. In populations of non-native species, such monitoring helps reduce the risk of increasing population density and pressure on the environment.",
-   "authors": [
-    "Robert Kamieniarz",
-    "Jacek Kamczyc",
-    "Anna Łukomska",
-    "Maciej Skorupski"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223632",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 8.0,
-   "matched": [
-    "reproduction",
-    "ovulation"
-   ],
-   "abstract_zh": "黇鹿（*Dama dama*）在包括波蘭在內的許多歐洲地區皆為外來物種。在高族群密度下，黇鹿會對其棲息環境造成巨大的壓力，同時也是鹿科本土物種西方狍的競爭者。因此，基於包括繁殖在內的生態參數監測，有必要對黇鹿族群進行主動管理。本研究旨在對繁殖成功率與繁殖力進行長期評估（2015–2023年），以作為監測密度已獲調降之自由放養族群變化的有用指標。本研究分析了各年齡與性別群組的個體豐度（2015–2020年），以及在交配期結束後遭到獵捕之雌鹿的排卵率、懷孕率與胎兒大小（2021–2024年）。本研究針對具備高密度特徵（每10平方公里林地超過100隻個體）的族群進行，結果顯示，與1990年代相比，雌鹿的繁殖力有所提升。在2020年代，幾乎100%的雌鹿皆參與繁殖，其中包括1至3歲的個體，儘管牠們的研究區平均體重同步下降。波蘭西部的黇鹿極可能受惠於氣候暖化，這導致嚴峻多雪的冬季消失以及生長季的延長。此外，研究發現雌鹿的受精經常發生在10月份的主交配期之後，這可能會降低幼獸的存活率。這是因為與1990年代相比，秋季族群中幼獸佔雌鹿數量的比例並未增加。由於雌鹿數量多於雄鹿，該研究族群具備高繁殖潛力。儘管胎兒性別比例均衡，成年黇鹿中仍以雌性居多。胎兒性別與母體體重之間並無顯著關聯。本研究證實了對繁殖及其他生態參數進行系統性監測的必要性。在外來物種的族群中，此類監測有助於降低族群密度增加及對環境造成壓力的風險。"
-  },
-  {
-   "doi": "10.3390/ani16223633",
-   "title": "Effects of Dietary Fatty Acid and Vitamin Supplementation, Alone or in Combination, on Ovarian Development and Liver Health in Coreius guichenoti",
-   "abstract": "Largemouth bronze gudgeon (Coreius guichenoti, LBG) is an endangered endemic fish in the upper Yangtze River, and poor gonadal development and reproductive performance limit its artificial propagation. We recently identified docosahexaenoic acid (DHA), arachidonic acid (ARA), vitamin C (VC), and VE as key candidate nutrients regulating ovarian development in LBG. This study therefore preliminarily investigated the effects of dietary vitamin (VC + VE, VIT) and fatty acid (ARA + DHA, FAG) inclusion, alone or in combination (MIX), in a basal diet (CON) on the growth performance, liver health, and ovarian development of LBG. VC and VE were supplemented at 400 and 300 mg/kg in the vitamin-enriched diets, respectively, while DHA and ARA were supplemented at 0.77% and 0.24% in the fatty acid-enriched diets, respectively. A total of 480 female F1 LBG (165.3 ± 1.71 g) were randomly assigned to 12 tanks (40 fish/tank; 3 tanks/treatment) and fed their respective diets for 180 days. The results showed that specific growth rate and feed efficiency ratio were improved only by dietary vitamin inclusion. Liver histological features (hepatocyte vacuolization, nuclear displacement, and nuclear aggregation) in CON and FAG fish were attenuated by dietary vitamin inclusion, probably due to improved antioxidant defense. Both dietary vitamin and fatty acid supplementation stimulated steroid hormone, prostaglandin, and vitellogenin synthesis at the biochemical and/or molecular level, thereby promoting the development of oocytes to late stage III in LBG. In general, the beneficial effects of vitamins on oocyte development were inferior to those of fatty acids, with the best values observed in MIX fish. In conclusion, growth performance and liver health of female LBG benefit from dietary vitamin administration, while both vitamins and fatty acids improve oocyte development, although the effects of vitamins on ovary development are inferior to those of fatty acids. Including fatty acids and vitamins in combination in the diet is recommended to improve liver health and ovary development in LBG. Further studies are warranted to determine their optimal supplemental doses and verify their beneficial effects on the reproductive performance of LBG.",
-   "authors": [
-    "Jian Zhu",
-    "Yihao Xiao",
-    "Haiyue Tan",
-    "Maohua Li",
-    "Xin Lu",
-    "Pei Chen",
-    "Yongjun Chen",
-    "Huantao Qu"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223633",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 8.0,
-   "matched": [
-    "feed efficiency",
-    "oocyte"
-   ],
-   "abstract_zh": "長江銅魚（Coreius guichenoti, LBG）是長江上游的瀕危特有魚類，其性腺發育不良和繁殖性能低下限制了人工繁殖。我們近期的研究發現，二十二碳六烯酸（DHA）、花生四烯酸（ARA）、維生素C（VC）和維生素E（VE）是調節長江銅魚卵巢發育的關鍵營養素候選者。因此，本研究初步探討了在基礎飼料（CON）中單獨或聯合（MIX）添加維生素（VC + VE, VIT）及脂肪酸（ARA + DHA, FAG）對長江銅魚生長性能、肝臟健康及卵巢發育的影響。富含維生素飼料中VC和VE的添加量分別為400和300 mg/kg，而富含脂肪酸飼料中DHA和ARA的添加量分別為0.77%和0.24%。試驗選取總計480尾雌性F1代長江銅魚（165.3 ± 1.71 g），隨機分配至12個水族槽中（每槽40尾；每組3個重複），投餵各自的試驗飼料180天。結果顯示，特異性生長率和飼料效率僅因飼料中添加維生素而有所改善。飼料中添加維生素減輕了CON組和FAG組魚類的肝臟組織學病變（肝細胞空泡化、細胞核位移和核聚集），這可能歸因於抗氧化防禦能力的提升。飼料中添加維生素和脂肪酸均在生化和／或分子水平上刺激了類固醇激素、前列腺素和卵黃生成素的合成，從而促進長江銅魚卵母細胞發育至第III期後期。總體而言，維生素對卵母細胞發育的促進作用不如脂肪酸顯著，而以MIX組的數值表現最佳。綜上所述，飼料中添加維生素有益於雌性長江銅魚的生長性能和肝臟健康，而維生素和脂肪酸均能改善卵母細胞發育，儘管維生素對卵巢發育的效果不及脂肪酸。建議在飼料中聯合添加脂肪酸和維生素，以改善長江銅魚的肝臟健康和卵巢發育。未來仍需進一步研究以確定其最佳添加劑量，並驗證其對長江銅魚繁殖性能的促進效果。"
-  },
-  {
    "doi": "10.1002/age.70229",
    "title": "Integrated Transcriptomic and Metabolomic Analyses Reveal Metabolic Pathways Associated With Wool Follicle Development in Jiekarzi Semi‐Fine Wool Sheep",
    "abstract": "The development of wool follicles is considered a complex biological process that is regulated by the coordination of metabolic, molecular, and genetic processes during animal growth. In the current study, the “Jiekarzi semi‐fine wool sheep” (a relatively understudied and indigenous breed) [male] at two developmental stages, S3 (3 months) and S12 (12 months) [(S3; n = 6); (S12; n = 6)] was used. The phenotypic traits along with multi‐omics profiles were analyzed to reveal the mechanisms underlying wool follicle development. Phenotypic analyses showed significant variations in staple length, fiber count, straightened length, and the stretch ratio across both groups ( p &lt; 0.05), highlighting substantial morphological variations during skin maturation, whereas there was relative stability in fiber diameter and its variability parameters. Multiple DE‐circRNAs and DE‐miRNAs were identified across both groups. Functional enrichment analysis illustrated that predicted target genes of DE‐ncRNAs were associated with biological processes relevant to metabolic activity, cellular regulation, and signal transduction. Moreover, metabolomic analysis showed clear separation across developmental stages and revealed significant variations in metabolites and their associated pathways, connected with amino acid, lipid, and retinol metabolism, and biosynthesis of steroid hormones. KEGG pathway enrichment indicated coordinated changes in metabolic pathways potentially associated with wool follicle development. Additionally, circRNA‐miRNA interaction networks revealed complex regulatory relationships among ncRNAs during development. Overall, our findings provide new insights into the metabolic, molecular, and phenotypic mechanisms responsible for the development of wool follicles in this unique sheep breed and also identify potential regulatory pathways linked to it.",
@@ -5811,6 +5987,30 @@
     "sheep",
     "amino acid",
     "omics"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223647",
+   "title": "Tectorigenin Supplementation Enhances Cytoplasmic Competence and Promotes Subsequent Embryo Development in Tan Sheep Oocytes During In Vitro Maturation",
+   "abstract": "Tectorigenin, a natural isoflavonoid, exhibits antioxidant and lipid-regulating properties, but its effects on ovine oocyte maturation remain unexplored. This study investigated the impact of tectorigenin supplementation during in vitro maturation (IVM) on cytoplasmic quality, mitochondrial function, lipid homeostasis, and subsequent embryonic development in Tan sheep oocytes. Oocytes were matured with graded tectorigenin concentrations (0, 1, 10, 50 μM). While no significant difference was observed in first polar body extrusion rates among groups, 10 μM tectorigenin markedly improved blastocyst formation rate (37.48% vs. 16.30% in control, p &lt; 0.01). Mechanistically, tectorigenin elevated intracellular glutathione levels, upregulated CAT and SOD2 expression, maintained mitochondrial membrane potential, and modulated apoptosis-related gene expression (BCL2 up, BAX and CASPASE3 down). It also promoted the accumulation of neutral lipid droplets (FASN up, ACC down), accompanied by altered expression of lipid metabolism-related genes. Resulting blastocysts exhibited higher total cell numbers, increased proliferation (EdU-positive cells), and elevated OCT4 and CDX2 expression. However, 50 μM tectorigenin showed no beneficial effect, highlighting dose dependency. Collectively, supplementation with 10 μM tectorigenin is associated with improved cytoplasmic maturation-related indicators in oocytes, as evidenced by increased GSH reserves, maintained mitochondrial membrane potential, and altered transcription of apoptosis- and lipid metabolism-related genes, which corresponds to enhanced subsequent embryonic developmental competence.",
+   "authors": [
+    "Mengqi Zhao",
+    "Sirui Min",
+    "Huan Liu",
+    "Jinghua Wang",
+    "Anmin Lei",
+    "Xinfeng Liu",
+    "Qiang Chen"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223647",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 8.0,
+   "matched": [
+    "sheep",
+    "oocyte"
    ],
    "abstract_zh": ""
   },
@@ -6149,6 +6349,28 @@
    "matched": [
     "sheep",
     "reproduction"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223649",
+   "title": "Effects of Fermented Peanut Meal as a Partial Substitute for Soybean Meal on Growth, Nutrient Utilization, and Fecal Microbiota in Weaned Piglets",
+   "abstract": "This study investigated the effects of incorporating fermented peanut meal (FPM) into weaned piglet diets as a partial replacement for soybean meal (SBM), with particular emphasis on growth performance, nutrient digestibility, serum amino acid profiles, and intestinal microbial fermentation. Thirty 28-day-old weaned Duroc × Landrace × Yorkshire piglets (initial body weight 7.85 ± 0.05 kg) were randomly assigned to three dietary treatments (n = 10 per group): a basal corn–soybean meal diet (Control), a diet with 6% peanut meal (PM), and a diet with 6% FPM, fed for 21 days. Growth performance, apparent nutrient digestibility, fecal short-chain fatty acids (SCFAs), serum biochemical parameters, amino acid profiles, and fecal microbiota composition were analyzed using standard methods. The FPM diet significantly increased average daily gain (ADG) and apparent digestibility of energy and crude protein while reducing the feed conversion ratio compared with the Control and PM groups (p &lt; 0.05). Serum alanine aminotransferase, aspartate aminotransferase, and albumin concentrations were greater in the FPM group (p &lt; 0.05), whereas serum amino acid profiles and fecal SCFA concentrations were unaffected. Microbiota analysis revealed a greater Shannon index in the FPM group than in the Control group and a greater Simpson index than in the PM group (p &lt; 0.05). Principal coordinate analysis indicated differences in microbial community structure among dietary treatments. The PM group had a greater relative abundance of Streptococcus, whereas the FPM group was enriched in the Veillonellaceae and Selenomonadaceae. Overall, the inclusion of FPM at 6% of the diet in place of soybean meal was associated with improved growth performance and nutrient digestibility and altered fecal microbial community composition in weaned piglets, supporting its potential as an alternative protein ingredient.",
+   "authors": [
+    "Hao Cheng",
+    "Yijin Guo",
+    "Kejun Liu",
+    "Lintao Mei",
+    "Qiang Tu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223649",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 7.0,
+   "matched": [
+    "feed conversion ratio",
+    "amino acid"
    ],
    "abstract_zh": ""
   },
@@ -6718,6 +6940,120 @@
    "score": 6.0,
    "matched": [
     "laying hen"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/00071668.2026.2740034",
+   "title": "Nutrition-related mucosal adaptations and adipokine immunoreactivity in the chicken gastrointestinal tract",
+   "abstract": "",
+   "authors": [
+    "M. Ghassan Salahaldeen Altormhale",
+    "G. Halıcı Kurt",
+    "H. Kara",
+    "D. Tekiner",
+    "A. Kara"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2740034",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 6.0,
+   "matched": [
+    "chicken",
+    "nutrition"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223654",
+   "title": "Brazilian Challenges and Perspectives on Klebsiella pneumoniae Antimicrobial Resistance: A One Health Narrative Review",
+   "abstract": "The escalating complexity of interactions among humans, animals, and the environment has driven the global adoption of the One Health framework as a strategic framework to address health threats that transcend disciplinary boundaries. This is especially the case in Brazil, a country of global relevance where high rates of antimicrobial resistance (AMR) in Klebsiella pneumoniae intersect with structural limitations in veterinary practice, public health governance, and environmental surveillance. This narrative review synthesizes the existing literature to explore the evolution of the One Health concept, from its historical roots to its current recognition, reinforced by health emergencies such as the COVID-19 pandemic. Fundamental pillars of the approach—interdisciplinarity, cross-sectoral collaboration, and integrated surveillance—were discussed in light of the essential role of veterinarians in mitigating such threats. The discussion deepens the understanding of AMR within a multisectoral context, reinforcing the need for coordinated, preemptive actions rather than reactive responses. We advocate that the implementation of a robust One Health agenda, supported by advanced tools like metagenomics, is fundamental to ensuring population health, economic sustainability, and global security.",
+   "authors": [
+    "Walter Aparecido Pimentel Monteiro",
+    "Yasmin Ferreira de Campos",
+    "Paloma Aparecida Alves de Oliveira",
+    "Lúcio Fábio Caldas Ferraz"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223654",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 6.0,
+   "matched": [
+    "antimicrobial resistance",
+    "omics"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223660",
+   "title": "Stage-Resolved Ecological Hoof Print and Greenhouse Gas Emissions of Growth and Health Inputs in Chinese Swine Fattening",
+   "abstract": "Livestock environmental management has largely emphasized downstream pollution control, whereas the upstream inputs required to sustain swine growth and health, including feed, veterinary drugs and vaccines, have received less integrated assessment. This study used primary data from large-scale commercial swine production in China as a case of intensive production systems. Within a stage-resolved growth–health framework, it quantified the ecological hoof print (EHP), greenhouse gas (GHG) emissions, feed energy supply and modelled metabolic energy requirement of these inputs across five growth stages (7–120 kg). Feed was the dominant contributor to both EHP and GHG emissions, accounting for approximately 0.304 ha of EHP and 156.37 kg CO2-eq per marketed swine. When feed, veterinary drugs and vaccines were combined, the deterministic baseline totals were 0.304353 ha of EHP and 165.69 kg CO2-eq per marketed swine. Scaling these combined input-related baseline estimates to 726.6 million swine marketed in 2023 yielded indicative national-scale totals of 221.15 million ha of EHP and 120.39 million t CO2-eq, equivalent to approximately 24.7% of China’s dietary ecological footprint and 4.3% of food-related GHG emissions. Late finishing carried the largest feed-related environmental burden, whereas the weaning transition showed the highest EHP intensity per unit of feed. The comparison between feed energy supply and modelled metabolic energy requirement further revealed a stage-dependent supply–requirement mismatch. By showing that absolute environmental burdens and burden intensities peak at different stages, the stage-resolved framework reveals patterns that can be obscured by whole-cycle averages and provides a basis for stage-specific evaluation of production inputs. Because stage-based feeding is widely practised in intensive swine production, the same approach can be applied to production systems in other regions. These findings extend attention from downstream pollution control to the upstream inputs that sustain animal growth and health, emphasizing input precision rather than input minimization.",
+   "authors": [
+    "Weizheng Wang",
+    "Bingtao Su",
+    "Yuzi Wang",
+    "Pim Martens",
+    "Xianqiang Cao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223660",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 6.0,
+   "matched": [
+    "swine",
+    "livestock"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223653",
+   "title": "Comparison of the Unrest Index with Tracker-Derived Travel Distance and Optical Flow in Broiler Videos",
+   "abstract": "We compared the stepwise Unrest Index with tracker-derived travel distance and dense optical flow in eight overhead recordings of groups of ten Ross broilers recorded 15–40 days after housing. The principal recording lasted 29.8 min and the other seven about 60 min; four supplied no frames to model training or validation. In each recording, one tracked pass of an instance-segmentation model gave raw box centers, mask-area centroids and tracker box centers for identical instances. Agreement was Spearman’s ρ with paired block bootstrap intervals. With instances held fixed, the mask centroid showed no consistent difference from the box center in agreement with optical flow (Δρ −0.048 to +0.051). The higher agreement previously attributed to mask centroids was reproduced only when the model changed (Δρ +0.042 to +0.120; all within-recording intervals above zero). The 95th-percentile Hausdorff distance gave small gains over the maximum (Δρ +0.020 to +0.031 against flow), which do not identify an optimal percentile. Agreement with travel distance (ρ = 0.77–0.89) was stronger than with optical flow (ρ = 0.28–0.59), and switching the travel-distance coordinates from mask centroids to raw box centers reduced the correlation by 0.15–0.23. Restricting flow to the pen floor raised index–flow agreement. Distances are in pixels, and all results concern about ten birds per frame.",
+   "authors": [
+    "Igor Cristian Hübner",
+    "Allan Lincoln Rodrigues Siriani",
+    "Carlos Nobuaki Hokumura Filho",
+    "Mário Mollo Neto",
+    "Daniella Jorge de Moura",
+    "Juliana de Souza Granja Barros"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223653",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 6.0,
+   "matched": [
+    "broiler"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223652",
+   "title": "Plasma and Seminal Plasma Disposition of Enrofloxacin and Ciprofloxacin and Effects on Sperm Kinematics After Single Subcutaneous Doses of Enrofloxacin in Goat Bucks",
+   "abstract": "This study evaluated the pharmacokinetics of enrofloxacin (ENR) and its main metabolite ciprofloxacin (CIP) in both plasma and seminal plasma following a single subcutaneous injection of ENR at doses of 2.5, 5, and 10 mg/kg to goat bucks. Furthermore, the aim was to determine the dose-dependent effects of ENR injections at different dosages on spermatological parameters. The study was conducted on six Hair goat bucks using a three-phase crossover pharmacokinetic design. Plasma and seminal plasma ENR and CIP concentrations were quantified by high-performance liquid chromatography with ultraviolet detection. ENR at dosages of 5 and 10 mg/kg demonstrated an extended t1/2λz, an increased Vdarea/F, and a decreased dose-normalized Cmax in plasma (p &lt; 0.05). The AUC0–∞ SF/AUC0–∞ plasma ratio for ENR (except for the 10 mg/kg dose) and CIP in bucks was greater than 1 across all dose groups. This ratio decreased depending on the dose for ENR and CIP (p &lt; 0.05). A single ENR administration of 2.5–10 mg/kg caused transient and parameter-specific changes in sperm kinematics, while not significantly impairing conventional semen quality within 96 h. In conclusion, ENR and CIP penetrated seminal plasma well, although the extent of penetration decreased in a dose-dependent manner.",
+   "authors": [
+    "Orhan Corum",
+    "Kamil Uney",
+    "Ahmet Eser",
+    "Devran Coskun",
+    "Mustafa Hitit",
+    "Fatma Akin",
+    "Kemal Bagcı",
+    "Duygu Durna Corum",
+    "Mario Giorgi",
+    "Erdogan Memili"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223652",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 6.0,
+   "matched": [
+    "goat",
+    "semen"
    ],
    "abstract_zh": ""
   },
@@ -7556,27 +7892,6 @@
    "abstract_zh": "大豆粕是反芻動物日糧中的蛋白質來源，然而其成本高昂且易受市場波動影響。本研究比較了餵食大豆粕日糧之犛牛與餵食含有包膜尿素及 N-胺基甲酰谷氨酸且大豆粕替代比例最高之日糧（NU 組）的犛牛之肉質。每組評估六頭犛牛的肉品品質、肌纖維、氧化還原狀態、胺基酸、脂肪酸及揮發性化合物。NU 組具有較高的色澤數值、pH值、剪切力、速縮肌纖維比例及數項抗氧化指標，但蒸煮損失、纖維大小及丙二醛含量較低。游離胺基酸、絕對脂肪酸及揮發性化學物質組分在兩組間亦有差異。在整合未解析的同分異構物註釋後，重新分析的揮發性數據集包含 1131 個特徵。相對氣味活性值估計表明，NU 組中果香、花香和堅果香氣的貢獻較高，而青草味、脂肪味和硫磺味氣味的貢獻較低。總體而言，此複合日糧與肌肉結構、氧化還原狀態、營養組成及氣味相關化學組分的特定變化有關，為進一步評估犛牛育肥中使用減量大豆粕日糧提供了基礎。"
   },
   {
-   "doi": "10.3390/ani16223620",
-   "title": "Genome-Wide Association Analysis Identifies Loci Associated with Growth Traits in Hamdani Sheep",
-   "abstract": "This study aimed to identify genomic regions and candidate genes associated with seven growth and morphometric traits in Hamdani sheep using genome-wide association analysis. A total of 470 sheep were evaluated for body weight, body length, chest depth, heart girth, tail circumference, tail length, and withers height. Genome-wide association analyses were performed using the FarmCPU model implemented in GAPIT4, based on 54,000 single-nucleotide polymorphisms (SNPs). Fourteen significant SNPs were selected for reporting across the seven traits, including four for body weight, three each for heart girth and withers height, and one each for body length, chest depth, tail circumference, and tail length. Candidate gene annotation within ±100 kb of the selected SNPs identified ten protein-coding genes: ADAMTS17, MEF2A, CTNND2, DNTTIP1, UBE2C, TNNC2, RHOA, TGFA, IGSF3, and CNTN6. Gene Ontology analysis highlighted biological processes related to skeletal muscle development, actomyosin organization, and cellular differentiation. KEGG pathway analysis identified signaling pathways including Wnt, Ras, calcium, and cGMP–PKG signaling. These findings identify candidate genomic regions associated with growth and body conformation traits in Hamdani sheep and provide a foundation for further genetic and functional investigations.",
-   "authors": [
-    "Mervan Bayraktar",
-    "Hussein F. Hasan",
-    "Omer Shoshin",
-    "Nazan Koluman",
-    "Atalay Ergül"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223620",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 5.0,
-   "matched": [
-    "sheep"
-   ],
-   "abstract_zh": "本研究旨在利用全基因體關聯分析，識別與漢達尼羊（Hamdani sheep）七項生長及形態性狀相關的基因組區域與候選基因。總共評估了 470 隻綿羊的體重、體長、胸深、胸圍、尾周、尾長及體高。基於 54,000 個單核苷酸多型性（SNPs），使用實施於 GAPIT4 中的 FarmCPU 模型執行全基因體關聯分析。針對七個性狀共選出 14 個具顯著性的 SNPs 進行報告，其中包括體重 4 個、胸圍與體高各 3 個，以及體長、胸深、尾周和尾長各 1 個。在所選 SNPs 正負 100 kb 範圍內的候選基因註釋中，識別出十個蛋白質編碼基因：ADAMTS17、MEF2A、CTNND2、DNTTIP1、Ube2C、TNNC2、RHOA、TGFA、IGSF3 及 CNTN6。基因本體（Gene Ontology）分析突顯了與骨骼肌發育、肌動球蛋白組織和細胞分化相關的生物學過程。KEGG 路徑分析則識別出包括 Wnt、Ras、鈣及 cGMP–PKG 等信號傳導路徑。這些發現識別了與漢達尼羊生長及體型性狀相關的候選基因組區域，並為進一步的遺傳與功能研究奠定了基礎。"
-  },
-  {
    "doi": "10.3390/ani16223611",
    "title": "Dietary Energy Availability Is Associated with Sperm Quality and Cryopreservation Responses in Growing Goat Bucks",
    "abstract": "Dietary energy availability is a key regulator of reproductive maturity in livestock, yet its association with reproductive tract characteristics, sperm quality, and responses to cryopreservation remains incompletely defined. This study evaluated the effects of two contrasting dietary energy levels on testicular and epididymal histomorphology, fresh sperm functional traits, and post-thaw sperm characteristics in twelve 6-month-old growing Jianzhou Big-Eared bucks (N = 6 per group) offered high-energy (H, 10.71 MJ ME/kg) or low-energy (L, 8.93 MJ ME/kg) diets over a 91-day feeding trial. Compared with the L group, the H group showed larger seminiferous tubule diameter and luminal area (p &lt; 0.05), as well as greater epididymal luminal dimensions and luminal sperm occupancy (p &lt; 0.01). In fresh semen, bucks in the H group produced higher sperm concentrations with superior total and progressive motility, greater kinetic velocity, and enhanced plasma membrane and acrosome integrity (p &lt; 0.05). Fresh spermatozoa from the H group also exhibited higher catalase activity (p &lt; 0.01). Following cryopreservation, the H group retained significantly higher absolute post-thaw sperm quality, characterized by superior motility, velocity, membrane integrity, and acrosome integrity, as well as catalase and superoxide dismutase activities, and lower malondialdehyde accumulation (p &lt; 0.01). However, evaluation of absolute parameter changes revealed that spermatozoa from the L group exhibited smaller absolute reductions in total and progressive motility, membrane integrity, and straight-line velocity (p &lt; 0.01). Together, these findings suggest that contrasting dietary energy availability during growth is associated with distinct reproductive tract and sperm phenotypes in growing Jianzhou Big-Eared bucks.",
@@ -7602,6 +7917,27 @@
     "livestock"
    ],
    "abstract_zh": "飲食能量可利用性是家畜生殖成熟的關鍵調節因子，然而其與生殖道特徵、精子品質及冷凍保存反應之間的關聯尚未完全釐清。本研究旨在評估兩種對比的飲食能量水準，對十二隻6月齡生長中簡州大耳羊（每組 N = 6）之睪丸與副睪組織形態學、新鮮精子功能性狀以及解凍後精子特性的影響。試驗期為91天，分別提供高能量（H，10.71 MJ ME/kg）或低能量（L，8.93 MJ ME/kg）飼糧。與L組相比，H組顯示出較大的曲細精管直徑與管腔面積（p < 0.05），以及更大的副睪管腔尺寸與管腔精子佔有率（p < 0.01）。在新鮮精液方面，H組公羊產出較高的精子濃度，並具有較佳的總運動率與漸進運動率、較高的運動速率，以及增強的質膜與頂體完整性（p < 0.05）。H組的新鮮精子也展現出較高的過氧化氫酶活性（p < 0.01）。在冷凍保存後，H組保留了顯著較高的絕對解凍後精子品質，其特徵為較佳的運動率、速率、膜完整性與頂體完整性，以及過氧化氫酶和超氧化物歧化酶活性，並具有較低的丙二醛累積（p < 0.01）。然而，對絕對參數變化的評估顯示，L組的精子在總運動率、漸進運動率、膜完整性以及直線速率方面表現出較小的絕對降幅（p < 0.01）。綜上所述，這些發現表明，生長期間不同的飲食能量可利用性與生長中簡州大耳羊明顯的生殖道和精子表現型有關。"
+  },
+  {
+   "doi": "10.3390/ani16223620",
+   "title": "Genome-Wide Association Analysis Identifies Loci Associated with Growth Traits in Hamdani Sheep",
+   "abstract": "This study aimed to identify genomic regions and candidate genes associated with seven growth and morphometric traits in Hamdani sheep using genome-wide association analysis. A total of 470 sheep were evaluated for body weight, body length, chest depth, heart girth, tail circumference, tail length, and withers height. Genome-wide association analyses were performed using the FarmCPU model implemented in GAPIT4, based on 54,000 single-nucleotide polymorphisms (SNPs). Fourteen significant SNPs were selected for reporting across the seven traits, including four for body weight, three each for heart girth and withers height, and one each for body length, chest depth, tail circumference, and tail length. Candidate gene annotation within ±100 kb of the selected SNPs identified ten protein-coding genes: ADAMTS17, MEF2A, CTNND2, DNTTIP1, UBE2C, TNNC2, RHOA, TGFA, IGSF3, and CNTN6. Gene Ontology analysis highlighted biological processes related to skeletal muscle development, actomyosin organization, and cellular differentiation. KEGG pathway analysis identified signaling pathways including Wnt, Ras, calcium, and cGMP–PKG signaling. These findings identify candidate genomic regions associated with growth and body conformation traits in Hamdani sheep and provide a foundation for further genetic and functional investigations.",
+   "authors": [
+    "Mervan Bayraktar",
+    "Hussein F. Hasan",
+    "Omer Shoshin",
+    "Nazan Koluman",
+    "Atalay Ergül"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223620",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 5.0,
+   "matched": [
+    "sheep"
+   ],
+   "abstract_zh": "本研究旨在利用全基因體關聯分析，識別與漢達尼羊（Hamdani sheep）七項生長及形態性狀相關的基因組區域與候選基因。總共評估了 470 隻綿羊的體重、體長、胸深、胸圍、尾周、尾長及體高。基於 54,000 個單核苷酸多型性（SNPs），使用實施於 GAPIT4 中的 FarmCPU 模型執行全基因體關聯分析。針對七個性狀共選出 14 個具顯著性的 SNPs 進行報告，其中包括體重 4 個、胸圍與體高各 3 個，以及體長、胸深、尾周和尾長各 1 個。在所選 SNPs 正負 100 kb 範圍內的候選基因註釋中，識別出十個蛋白質編碼基因：ADAMTS17、MEF2A、CTNND2、DNTTIP1、Ube2C、TNNC2、RHOA、TGFA、IGSF3 及 CNTN6。基因本體（Gene Ontology）分析突顯了與骨骼肌發育、肌動球蛋白組織和細胞分化相關的生物學過程。KEGG 路徑分析則識別出包括 Wnt、Ras、鈣及 cGMP–PKG 等信號傳導路徑。這些發現識別了與漢達尼羊生長及體型性狀相關的候選基因組區域，並為進一步的遺傳與功能研究奠定了基礎。"
   },
   {
    "doi": "10.1002/age.70207",
@@ -10451,6 +10787,47 @@
    "abstract_zh": "乳腺炎是影響乳牛最常見的疾病之一。在大多數情況下，乳房內感染是由細菌引起，其中乳房鏈球菌（*Streptococcus uberis*, *S. uberis*）目前扮演著重要角色。本研究旨在分析 *S. uberis* 分離株對抗生素的表現型與基因型抗藥性。研究材料包含從位於波蘭庫亞維－波美拉尼亞省（Kuyavian–Pomeranian Voivodeship）28 個農場的荷仕登（Holstein Friesian, HF）乳牛所採集的 194 個乳樣，總牛隻群體大小為 1241 頭乳牛。我們的研究結果表明，*S. uberis* 是乳牛乳腺炎的重要病因之一。對 *S. uberis* 分離株的抗菌劑敏感性評估鑑別出 21 種不同的抗藥圖譜。最常見的模式是對四環黴素、紅黴素和林克黴素同時產生抗藥性。在 *S. uberis* 分離株中觀察到 33.3% 的多重抗藥性；另一方面，20.0% 的 *S. uberis* 分離株對所有抗生素皆具敏感性或中等敏感性。體外活性最高的是盤尼西林、頭孢喹諾、頭孢哌酮、頭孢氨苄和頭孢噻呋（敏感分離株分別佔 90.0%、86.7%、73.3%、70.0%、70.0%）。分子研究證實了決定各種抗生素群抗藥性基因的存在。在 66.7% 的 *S. uberis* 分離株中檢測到至少一個抗藥性基因。佔最高比例的是負責對四環黴素產生抗藥性的 *tet* 基因：*tetL*、*tetM* 和 *tetO*。其次依頻率為編碼對巨環類（*ermB*）、林克醯胺類（*linB*）、β-內醯胺類抗生素（*blaZ*）和胺基糖苷類（*aac(6′)-Ie-aph(2″)-Ia*）抗藥性的基因。"
   },
   {
+   "doi": "10.3390/ani16223619",
+   "title": "A Male Reproductive Tissue-Enriched Transcript Encoding a Putative Peptide Precursor Is Associated with Testicular Homeostasis in the Chinese Mitten Crab Eriocheir sinensis",
+   "abstract": "In crustaceans, spermatogenesis is regulated by endocrine and local factors, though many key regulators remain unknown. We identified a previously uncharacterized transcript enriched in male reproductive tissues of the Chinese mitten crab Eriocheir sinensis, encoding a predicted peptide precursor designated MRSS. MRSS encodes a 102-amino acid protein featuring an N-terminal signal peptide and nine C-terminal tandem DEDAA pentapeptide repeats. MRSS is abundantly expressed in the androgenic gland (AG) and accessory sex gland (AsG), with higher expression during the synthesis and secretory stages of AG development. RNAi-mediated knockdown of MRSS altered testicular histology, leading to abnormal vacuolization and abnormal chromatin morphology in spermatocytes. In the AG, MRSS knockdown reduced the expression of IAG and iDMY, while in the testis it downregulated the germ cell maintenance and cell cycle-related genes vasa, PCNA, and cyclin B. MRSS deficiency was also associated with increased apoptosis-related markers, as indicated by an increased Bax/Bcl2 ratio, more prominent TUNEL-positive signals in spermatocytes, and elevated caspase-3-like and caspase-9-like activities. Conversely, in vitro incubation of testes with recombinant MRSS (rMRSS) increased germ cell maintenance and cell cycle-related markers, and reduced apoptosis-related markers, including the Bax/Bcl2 ratio and caspase-3/9-like activities. Our results support a role for MRSS in maintaining testicular homeostasis, potentially in association with IAG expression. This study provides the first evidence of a male reproductive tissue-enriched transcript encoding a predicted peptide precursor involved in testicular structure homeostasis in decapod crustaceans.",
+   "authors": [
+    "Yanan Yang",
+    "Chenchang Bao",
+    "Zhaoxia Cui"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223619",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 1.0,
+   "matched": [
+    "amino acid"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223623",
+   "title": "Long-Read Assembly of the Ichthyophthirius multifiliis Mitochondrial Genome from Strain GX-TS and Its Long Inverted Repeat Region",
+   "abstract": "Ichthyophthirius multifiliis is an obligate parasitic ciliate that causes white spot disease in freshwater fish. Its mitochondrial genome has been represented by a single linear sequence from strain G5, leaving variation among isolates largely unexplored. We combined PacBio long-read and Illumina sequencing to assemble and annotate the mitochondrial sequence of the Chinese culture GX-TS. The 71,439 bp assembly contained 41 protein-coding genes, seven tRNA genes, fragmented nad1, fragmented LSU and SSU rRNA genes, and a 23,819 bp tandem-repeat region. This region comprised an estimated 52 forward and 52 reverse-complementary repeat units separated by a 407 bp junction, forming a nearly mirror-symmetric array. Read depth declined across both repeat arrays to a minimum at the central junction, which was fully spanned by a single HiFi read. The assembly was computationally circularized, but the physical topology of the mitochondrial DNA remains unconfirmed. GX-TS and G5 had similar gene content and order, with marked differences in repeat representation and several intergenic spacers. Comparison with Tetrahymena rostrata TRAUS revealed differences in ymf-family annotations, tRNA complements, intergenic spacing, codon use, and nucleotide skew. An exploratory maximum-likelihood analysis of a 1296 bp cox1 alignment from 43 isolates identified identical or closely related sequences from different countries. The GX-TS assembly adds a mitochondrial reference for I. multifiliis and identifies repeat-rich and intergenic regions for further study of mitochondrial structure and variation.",
+   "authors": [
+    "Fuguang Luo",
+    "Zhiqiang Wang",
+    "Yanhong Wen",
+    "Xiaoyun Zhou",
+    "Jiehu Chen",
+    "Ying Pan"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223623",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16223625",
    "title": "Evaluation of the Probiotic Potential and Whole-Genome Characteristics of Ligilactobacillus salivarius LABH018 Isolated from Captive Amur Tiger Feces",
    "abstract": "Host-derived lactic acid bacteria (LAB) from endangered wildlife can provide valuable microbial resources for health management and potential microbiota-based interventions. Therefore, this study aimed to screen LAB strains from the feces of captive Amur tigers (Panthera tigris altaica) for probiotic potential and evaluate their safety. Eight LAB strains were isolated and identified through morphological examination, physiological and biochemical characterization, and 16S rRNA gene sequencing. The probiotic potential and safety profiles of the isolates were evaluated based on acid and bile salt tolerance, auto-aggregation ability, cell surface hydrophobicity, antibacterial activity, antibiotic susceptibility, and hemolytic activity. The isolates belonged to four genera: Enterococcus, Pediococcus, Ligilactobacillus, and Lactobacillus. Among them, Ligilactobacillus salivarius LABH018 exhibited relatively high tolerance to acidic and bile salt conditions, high auto-aggregation ability, and strong cell surface hydrophobicity. LABH018 showed inhibitory activity against Escherichia coli, Staphylococcus aureus, and Salmonella enterica, while no hemolytic activity was observed. Whole-genome analysis identified genes related to carbohydrate metabolism and transport and candidate genes associated with cell surface and polysaccharide functions. These findings suggest that Ligilactobacillus salivarius LABH018 has promising in vitro probiotic potential and may serve as a host-derived candidate strain for research on gut health management and microbiota-based interventions in endangered animals.",
@@ -10492,47 +10869,6 @@
     "disease"
    ],
    "abstract_zh": "鉤端螺旋體病是全球最廣泛的人畜共通傳染病之一，由鉤端螺旋體屬（Leptospira）的細菌引起。這些細菌可在水和土壤中存活數月，增加從事戶外職業或休閒活動的人群感染風險，特別是在地中海等溫暖潮濕的環境中。野生動物在傳播循環中扮演重要角色，作為保菌宿主將鉤端螺旋體排出至環境中，並促進新宿主的感染。本研究旨在利用即時聚合酶鏈鎖反應（real-time PCR）檢測，探討西班牙加泰隆尼亞地區野生動物中病原性鉤端螺旋體的盛行率。在採樣動物（n = 197）中，有 6% 檢出病原性鉤端螺旋體。最高的盛行率見於本土食肉動物，包括歐洲獾（Meles meles，19%）和歐亞水獺（Lutra lutra，12.5%），其次是赤狐（8%）。入侵物種的盛行率較低，包括美洲水貂（Neogale vison，7%）和海狸鼠（Myocastor coypus，4%）。未檢出歐洲刺蝟（Erinaceus europaeus）呈陽性。多數陽性病例發現於人口密度較高的巴塞隆納省和赫羅納省。這些發現突顯了本土與入侵野生動物物種在鉤端螺旋體病流行病學中的作用，並強調了「健康一體」（One Health）方法的重要性，因為野生動物宿主可能會增加家畜和人類的感染風險。"
-  },
-  {
-   "doi": "10.3390/ani16223623",
-   "title": "Long-Read Assembly of the Ichthyophthirius multifiliis Mitochondrial Genome from Strain GX-TS and Its Long Inverted Repeat Region",
-   "abstract": "Ichthyophthirius multifiliis is an obligate parasitic ciliate that causes white spot disease in freshwater fish. Its mitochondrial genome has been represented by a single linear sequence from strain G5, leaving variation among isolates largely unexplored. We combined PacBio long-read and Illumina sequencing to assemble and annotate the mitochondrial sequence of the Chinese culture GX-TS. The 71,439 bp assembly contained 41 protein-coding genes, seven tRNA genes, fragmented nad1, fragmented LSU and SSU rRNA genes, and a 23,819 bp tandem-repeat region. This region comprised an estimated 52 forward and 52 reverse-complementary repeat units separated by a 407 bp junction, forming a nearly mirror-symmetric array. Read depth declined across both repeat arrays to a minimum at the central junction, which was fully spanned by a single HiFi read. The assembly was computationally circularized, but the physical topology of the mitochondrial DNA remains unconfirmed. GX-TS and G5 had similar gene content and order, with marked differences in repeat representation and several intergenic spacers. Comparison with Tetrahymena rostrata TRAUS revealed differences in ymf-family annotations, tRNA complements, intergenic spacing, codon use, and nucleotide skew. An exploratory maximum-likelihood analysis of a 1296 bp cox1 alignment from 43 isolates identified identical or closely related sequences from different countries. The GX-TS assembly adds a mitochondrial reference for I. multifiliis and identifies repeat-rich and intergenic regions for further study of mitochondrial structure and variation.",
-   "authors": [
-    "Fuguang Luo",
-    "Zhiqiang Wang",
-    "Yanhong Wen",
-    "Xiaoyun Zhou",
-    "Jiehu Chen",
-    "Ying Pan"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223623",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 1.0,
-   "matched": [
-    "disease"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223619",
-   "title": "A Male Reproductive Tissue-Enriched Transcript Encoding a Putative Peptide Precursor Is Associated with Testicular Homeostasis in the Chinese Mitten Crab Eriocheir sinensis",
-   "abstract": "In crustaceans, spermatogenesis is regulated by endocrine and local factors, though many key regulators remain unknown. We identified a previously uncharacterized transcript enriched in male reproductive tissues of the Chinese mitten crab Eriocheir sinensis, encoding a predicted peptide precursor designated MRSS. MRSS encodes a 102-amino acid protein featuring an N-terminal signal peptide and nine C-terminal tandem DEDAA pentapeptide repeats. MRSS is abundantly expressed in the androgenic gland (AG) and accessory sex gland (AsG), with higher expression during the synthesis and secretory stages of AG development. RNAi-mediated knockdown of MRSS altered testicular histology, leading to abnormal vacuolization and abnormal chromatin morphology in spermatocytes. In the AG, MRSS knockdown reduced the expression of IAG and iDMY, while in the testis it downregulated the germ cell maintenance and cell cycle-related genes vasa, PCNA, and cyclin B. MRSS deficiency was also associated with increased apoptosis-related markers, as indicated by an increased Bax/Bcl2 ratio, more prominent TUNEL-positive signals in spermatocytes, and elevated caspase-3-like and caspase-9-like activities. Conversely, in vitro incubation of testes with recombinant MRSS (rMRSS) increased germ cell maintenance and cell cycle-related markers, and reduced apoptosis-related markers, including the Bax/Bcl2 ratio and caspase-3/9-like activities. Our results support a role for MRSS in maintaining testicular homeostasis, potentially in association with IAG expression. This study provides the first evidence of a male reproductive tissue-enriched transcript encoding a predicted peptide precursor involved in testicular structure homeostasis in decapod crustaceans.",
-   "authors": [
-    "Yanan Yang",
-    "Chenchang Bao",
-    "Zhaoxia Cui"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223619",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 1.0,
-   "matched": [
-    "amino acid"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1002/age.70213",
@@ -13661,6 +13997,59 @@
    "abstract_zh": "下頷形態與飲食之間的關係為理解哺乳動物的功能適應提供了關鍵見解。天竺鼠類囓齒動物是一個多樣化的新熱帶演化支，展現出廣泛的攝食習性，使其成為生態形態學研究的理想模型。本研究評估了下頷形狀變異是否能區分不同的飲食類別，並識別出與這些差異相關的形態組分。本研究運用幾何形態學方法，分析了來自 20 個物種共 184 個下頷骨，其中包括數個所知甚少的南美洲北部分類群（例如：Dasyprocta guamara、Pattonomys 屬、Proechimys 屬及 Coendou 屬）。透過主成分分析（PCA）檢視形狀變異。為避免高估群體區隔，利用前 13 個主成分（PC）得分執行典型變異數分析（CVA）與判別函數分析（DFA）。異速生長則透過置換程序進行評估。結果顯示，不同飲食群體之間存在顯著差異，食草群體的正確分類率高達 100%，混合飲食群體則超過 97%。食草物種表現出修長且纖細的下頷，而果葉食性與果種食性群體則呈現較短且較粗壯的結構。異速生長僅解釋了少部分的形狀變異，這表明形態差異主要由功能適應所驅動。儘管樣本中固然存在系統發育信號，但這些發現證實了下頷形狀變異與飲食分化高度相關，從而鞏固了下頷作為探究飲食生態的可靠代理指標之地位，並為理解新熱帶囓齒動物的形態演化提供了重要的區域基準。"
   },
   {
+   "doi": "10.3390/ani16223639",
+   "title": "Aboveground Occurrence of Kaloula borealis in Relation to Antecedent Rainfall, Recent Precipitation, and Nighttime Temperature",
+   "abstract": "Fossorial amphibians appear aboveground only during restricted periods of favorable weather, so surveys that miss these periods can fail to detect them; yet, the relative roles of antecedent wetness, recent rainfall, and temperature remain poorly resolved. We examined the weather associated with the aboveground occurrence of the endangered boreal digging frog Kaloula borealis using a time-stratified case-crossover design. Each 1 km cell–night with a South Korean GBIF record was matched to referent nights in the same cell, year, month, and weekday at the same clock time. The windows were anchored to the observation time: IMERG rainfall in the preceding 24 h and 24–96 h, and ERA5-Land air temperature in the preceding 3 h. In 653 strata, the occurrence odds were higher after 25 mm than after 0 mm of recent rainfall (odds ratio 2.54, 95% CI 1.96–3.28) and of antecedent rainfall (1.61, 1.23–2.10), and at temperatures 5 °C above the median (1.52, 1.14–2.02). The observation-anchored windows fitted far better than the calendar-day windows (ΔAIC = 31.8). Most strata (82%) came from one locality; the rainfall associations persisted when it was excluded, whereas the temperature association did not. Occurrence thus tracks with recent rainfall most closely, and these results can help time surveys of this rarely detected species.",
+   "authors": [
+    "Jun-Hyeok Yu",
+    "Hyung Wook Kwon",
+    "Yang-Seop Bae",
+    "Sung-Ho Lim",
+    "Yuno Do"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223639",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223635",
+   "title": "A Suitable Bridge? The South African Constitution and Animal Protection",
+   "abstract": "This article examines the “animal turn” in South African constitutional jurisprudence following the Constitutional Court’s ruling in National Society for the Prevention of Cruelty to Animals v Minister of Justice and Constitutional Development 2017 1 SACR 284 (CC). The article fundamentally asks, following a conceptualisation of the Constitution as a bridge between the past of deeply divided society characterised by suffering and injustice and a future founded in peaceful co-existence for all, whether the South African Constitution (and the law more generally) provides a suitable vehicle for the protection of animals’ fundamental interests. We reflect on the implications of the NSPCA ruling by discussing the Court’s inclusion of animals under the constitutional environmental right and reflecting on the way in which the Court affirmed a notion of animal dignity and destabilised the substratum of animals’ legal status. The article concludes by arguing that, whilst constituting a landmark ruling towards the protection of animals, the NSPCA case embodies several illogical inconsistencies and highlights the challenges that accompany the utilisation of law as a mechanism for animal liberation more generally.",
+   "authors": [
+    "Jan-Harm de Villiers",
+    "Lizelle le Roux"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223635",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223621",
+   "title": "Evaluation of the Efficacy of Fluoxetine in Reducing Stereotypic Behavior in Cynomolgus Monkeys (Macaca fascicularis)",
+   "abstract": "Stereotypic behavior is a significant welfare concern in captive nonhuman primates, and selective serotonin reuptake inhibitors have shown promise in rhesus macaques (Macaca mulatta). However, evidence of their efficacy in cynomolgus monkeys (Macaca fascicularis) remains limited. This study evaluated the efficacy and tolerability of orally administered fluoxetine in non-naïve cynomolgus monkeys with pre-existing, non-experimentally induced stereotypic behavior. Eight male cynomolgus monkeys were allocated to receive fluoxetine (2 mg/kg orally, once daily for 28 days; n = 4) or placebo (n = 4). Abnormal behavior was scored daily, and body weight, complete blood count, serum biochemistry parameters, and cortisol were monitored. The fluoxetine group showed approximately an 83.8% reduction in mean abnormal behavior score from Week 1 to Week 5, compared with 2.5% in the placebo group. Three of four fluoxetine-treated animals exhibited near-complete behavioral stabilization. Cortisol levels showed a modest downward trend in the fluoxetine group (−12.2%), whereas the placebo group showed high inter-individual variability. No treatment-related mortality or clinically overt adverse effects on monitored health parameters were observed. The findings support fluoxetine at 2 mg/kg as a potential component of multimodal welfare management for captive cynomolgus monkeys with pre-existing stereotypic behaviors, consistent with the Refinement principle of the 3Rs.",
+   "authors": [
+    "Ki Ho Lee",
+    "Heejin Kim",
+    "Kiyoung Kim",
+    "Hanseul Oh"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223621",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16223616",
    "title": "From Anatomical Representation to Quantitative Measurement: A Deep Learning-Based Multi-View Framework for Automated Cardiac Size Assessment in Canine Thoracic Radiographs",
    "abstract": "Accurate and reproducible quantitative assessment of cardiac size from thoracic radiographs remains challenging because conventional measurements require manual identification of multiple anatomical structures and geometric relationships. This study develops an automated multi-view image analysis system for quantitative cardiac measurement in canine thoracic radiographs. The proposed system integrates anatomical segmentation, keypoint localization, geometric measurement, and quantitative agreement analysis into a unified computational workflow. For lateral radiographs, an RSMF-DeepLabV3+ network was developed to segment the cardiac silhouette and thoracic vertebral structures for automated Vertebral Heart Size (VHS) calculation. A cross-sectional search strategy was introduced to constrain cardiac short-axis determination according to the geometric requirements of VHS measurement. For ventrodorsal/dorsoventral radiographs, YOLOv11-Pose was employed to localize predefined anatomical landmarks for automated cardiothoracic ratio (CTR) estimation. On the independent test sets, the automated VHS measurement achieved a Pearson correlation coefficient of 0.8767 and an ICC of 0.8744 with manual reference measurements, while the corresponding values for CTR were 0.8557 and 0.7928, respectively. Bland–Altman analysis was additionally used to characterize the agreement and measurement differences between automated and manual results. These findings demonstrate the feasibility of integrating deep learning-based anatomical analysis and geometry-based measurement for automated cardiac size quantification from complementary radiographic views. The proposed framework provides a computer-aided approach for standardized multi-view quantitative assessment of cardiac size in veterinary thoracic radiography.",
@@ -13674,6 +14063,43 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16223616",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223634",
+   "title": "A Double-Blinded Polysaccharide Analysis of Products Purchased Online and Labelled as Containing Mushrooms: Ten Products for Pets and One for Human Use",
+   "abstract": "Eleven commercial mushroom products sourced from online resellers (ten labelled for veterinary use and one labelled for human use) were subjected to simple quantitative and qualitative polysaccharide analysis methods to differentiate products containing only mushrooms (the fruiting bodies of the fungal life-cycle) from those that include the whole solid fermentation resulting from the fungal mycelium of cereal grain. The therapeutic benefits of fungi are often attributed to their β-glucan content, which, unlike cereal grain β-glucans, is uniquely characterized by 1,3–1,6 β-glycosidic linkages. Fungal polysaccharide markers were used to distinguish mushroom-containing products from grain-based mycelial products in this study, which highlighted the compositional variability in marketplace products. These products were subjected to a multifaceted analytical approach by enzymatic quantification of α- and β-glucans and starch, and Lugol’s iodine staining for starch detection. The resulting analyses identified two distinct product profiles: (1) polysaccharide profiles consistent with mushrooms, exhibiting high β-glucan and low α-glucan content and (2) products consistent with fermentation of cereal grains by fungal mycelium that have lower levels of β-glucans, higher levels of α-glucans, and a strong positive iodine-starch test. This study proposes objective, composition-based criteria, derived from the products analyzed, for differentiation of these product profiles; the polysaccharide profiles of some products labelled as mushroom-derived were consistent with mycelium-fermented grain rather than with mushrooms. This method can be adapted to assess other fungal-derived products and to help verify the label claims of mushroom-based veterinary products.",
+   "authors": [
+    "David Atuahene",
+    "Robert J. Silver"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223634",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223631",
+   "title": "Regional Gastrointestinal Microbial and Hepatic Transcriptional Responses to a Pediococcus acidilactici-Containing Drinking-Water Formulation in Mice",
+   "abstract": "Regional gastrointestinal and accompanying hepatic transcriptional responses to a Pediococcus acidilactici-containing drinking-water formulation remain incompletely characterized. Sixty healthy male Kunming mice received plain water (NW) or a P. acidilactici-containing formulation (NP) for 50 days under standard-chow conditions. Stomach, small-intestinal, cecal, and colonic contents and paired liver tissue were sampled from the same 12 mice, one per cage (six cages per group). Analyses combined 16S sequencing, targeted fatty-acid quantification, untargeted liquid chromatography–mass spectrometry (LC–MS), and hepatic RNA sequencing. Pediococcus relative abundance was higher at all four sites. Community composition differed in three intestinal regions, with dispersion differences in the small intestine and cecum. Cross-site isobutyrate, isovalerate, and valerate concentrations were 46.3%, 60.5%, and 34.8% lower, respectively (all q = 0.0058). Twelve increased LC–MS features were shared across three intestinal sites. Hepatic RNA sequencing identified 209 genes meeting false discovery rate (FDR) and twofold-change thresholds, including increased Insig1 and Insig2 and decreased mitochondrial transcripts. Mean liver-homogenate triglycerides were 23.2% lower, but neither hepatic biochemistry nor hepatic LC–MS yielded FDR-supported differences. These findings characterize regional gastrointestinal and accompanying hepatic transcriptional responses to the formulation and identify shared intestinal chemical features for targeted investigation. Without a carrier-matched control, strain-specific effects cannot be established.",
+   "authors": [
+    "Xinyu Cao",
+    "Yulong Hu",
+    "Yifan Li",
+    "Jinyang Shi",
+    "Qian Chen",
+    "Majireding Aikelaimuc",
+    "Jianlei Jia"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223631",
    "date": "2026-11-16",
    "first_seen": "2026-11-17",
    "score": 0.0,
@@ -13705,25 +14131,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223639",
-   "title": "Aboveground Occurrence of Kaloula borealis in Relation to Antecedent Rainfall, Recent Precipitation, and Nighttime Temperature",
-   "abstract": "Fossorial amphibians appear aboveground only during restricted periods of favorable weather, so surveys that miss these periods can fail to detect them; yet, the relative roles of antecedent wetness, recent rainfall, and temperature remain poorly resolved. We examined the weather associated with the aboveground occurrence of the endangered boreal digging frog Kaloula borealis using a time-stratified case-crossover design. Each 1 km cell–night with a South Korean GBIF record was matched to referent nights in the same cell, year, month, and weekday at the same clock time. The windows were anchored to the observation time: IMERG rainfall in the preceding 24 h and 24–96 h, and ERA5-Land air temperature in the preceding 3 h. In 653 strata, the occurrence odds were higher after 25 mm than after 0 mm of recent rainfall (odds ratio 2.54, 95% CI 1.96–3.28) and of antecedent rainfall (1.61, 1.23–2.10), and at temperatures 5 °C above the median (1.52, 1.14–2.02). The observation-anchored windows fitted far better than the calendar-day windows (ΔAIC = 31.8). Most strata (82%) came from one locality; the rainfall associations persisted when it was excluded, whereas the temperature association did not. Occurrence thus tracks with recent rainfall most closely, and these results can help time surveys of this rarely detected species.",
-   "authors": [
-    "Jun-Hyeok Yu",
-    "Hyung Wook Kwon",
-    "Yang-Seop Bae",
-    "Sung-Ho Lim",
-    "Yuno Do"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223639",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223614",
    "title": "Post-Release Movement, Site Fidelity and Habitat Selection of Reintroduced Nubian Ibex Capra nubiana in Albaidah National Park, Saudi Arabia",
    "abstract": "Telemetry studies can clarify how reintroduced animals use recipient landscapes after release. We examined post-release movement, space use, site fidelity, and habitat selection in four captive-born Nubian ibex (Capra nubiana) released together with three other ibex in Albaidah National Park, Saudi Arabia. GPS monitoring yielded 24,336 locations over 124.7–365.7 days; two collars malfunctioned prematurely. We estimated tracking-period home ranges using autocorrelated kernel density estimation (AKDE), evaluated temporal variation using generalized additive models (GAMs), compared movements with randomized trajectories, quantified revisitation, and fitted individual-level resource selection functions. Estimated 95% AKDE areas ranged from 54.4 to 175.0 km2, and 50% core-use areas from 11.6 to 31.9 km2. Home-range areas varied without consistent progressive contraction, three animals shifted their principal areas of use, and some collared individuals moved in close association. All four ibex exhibited lower mean squared displacement than buffered-boundary random-walk simulations (Holm-adjusted p = 0.008–0.015) and repeatedly used previously occupied areas. Terrain ruggedness was positively associated with relative habitat use in all four individuals (odds ratios: 1.24–2.38), whereas associations with NDVI and proximity to recorded water sources varied. These findings provide quantitative baseline information on post-release movement and habitat use, complementing future demographic monitoring to evaluate reintroduction outcomes.",
@@ -13741,77 +14148,6 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16223614",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223621",
-   "title": "Evaluation of the Efficacy of Fluoxetine in Reducing Stereotypic Behavior in Cynomolgus Monkeys (Macaca fascicularis)",
-   "abstract": "Stereotypic behavior is a significant welfare concern in captive nonhuman primates, and selective serotonin reuptake inhibitors have shown promise in rhesus macaques (Macaca mulatta). However, evidence of their efficacy in cynomolgus monkeys (Macaca fascicularis) remains limited. This study evaluated the efficacy and tolerability of orally administered fluoxetine in non-naïve cynomolgus monkeys with pre-existing, non-experimentally induced stereotypic behavior. Eight male cynomolgus monkeys were allocated to receive fluoxetine (2 mg/kg orally, once daily for 28 days; n = 4) or placebo (n = 4). Abnormal behavior was scored daily, and body weight, complete blood count, serum biochemistry parameters, and cortisol were monitored. The fluoxetine group showed approximately an 83.8% reduction in mean abnormal behavior score from Week 1 to Week 5, compared with 2.5% in the placebo group. Three of four fluoxetine-treated animals exhibited near-complete behavioral stabilization. Cortisol levels showed a modest downward trend in the fluoxetine group (−12.2%), whereas the placebo group showed high inter-individual variability. No treatment-related mortality or clinically overt adverse effects on monitored health parameters were observed. The findings support fluoxetine at 2 mg/kg as a potential component of multimodal welfare management for captive cynomolgus monkeys with pre-existing stereotypic behaviors, consistent with the Refinement principle of the 3Rs.",
-   "authors": [
-    "Ki Ho Lee",
-    "Heejin Kim",
-    "Kiyoung Kim",
-    "Hanseul Oh"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223621",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223635",
-   "title": "A Suitable Bridge? The South African Constitution and Animal Protection",
-   "abstract": "This article examines the “animal turn” in South African constitutional jurisprudence following the Constitutional Court’s ruling in National Society for the Prevention of Cruelty to Animals v Minister of Justice and Constitutional Development 2017 1 SACR 284 (CC). The article fundamentally asks, following a conceptualisation of the Constitution as a bridge between the past of deeply divided society characterised by suffering and injustice and a future founded in peaceful co-existence for all, whether the South African Constitution (and the law more generally) provides a suitable vehicle for the protection of animals’ fundamental interests. We reflect on the implications of the NSPCA ruling by discussing the Court’s inclusion of animals under the constitutional environmental right and reflecting on the way in which the Court affirmed a notion of animal dignity and destabilised the substratum of animals’ legal status. The article concludes by arguing that, whilst constituting a landmark ruling towards the protection of animals, the NSPCA case embodies several illogical inconsistencies and highlights the challenges that accompany the utilisation of law as a mechanism for animal liberation more generally.",
-   "authors": [
-    "Jan-Harm de Villiers",
-    "Lizelle le Roux"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223635",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223631",
-   "title": "Regional Gastrointestinal Microbial and Hepatic Transcriptional Responses to a Pediococcus acidilactici-Containing Drinking-Water Formulation in Mice",
-   "abstract": "Regional gastrointestinal and accompanying hepatic transcriptional responses to a Pediococcus acidilactici-containing drinking-water formulation remain incompletely characterized. Sixty healthy male Kunming mice received plain water (NW) or a P. acidilactici-containing formulation (NP) for 50 days under standard-chow conditions. Stomach, small-intestinal, cecal, and colonic contents and paired liver tissue were sampled from the same 12 mice, one per cage (six cages per group). Analyses combined 16S sequencing, targeted fatty-acid quantification, untargeted liquid chromatography–mass spectrometry (LC–MS), and hepatic RNA sequencing. Pediococcus relative abundance was higher at all four sites. Community composition differed in three intestinal regions, with dispersion differences in the small intestine and cecum. Cross-site isobutyrate, isovalerate, and valerate concentrations were 46.3%, 60.5%, and 34.8% lower, respectively (all q = 0.0058). Twelve increased LC–MS features were shared across three intestinal sites. Hepatic RNA sequencing identified 209 genes meeting false discovery rate (FDR) and twofold-change thresholds, including increased Insig1 and Insig2 and decreased mitochondrial transcripts. Mean liver-homogenate triglycerides were 23.2% lower, but neither hepatic biochemistry nor hepatic LC–MS yielded FDR-supported differences. These findings characterize regional gastrointestinal and accompanying hepatic transcriptional responses to the formulation and identify shared intestinal chemical features for targeted investigation. Without a carrier-matched control, strain-specific effects cannot be established.",
-   "authors": [
-    "Xinyu Cao",
-    "Yulong Hu",
-    "Yifan Li",
-    "Jinyang Shi",
-    "Qian Chen",
-    "Majireding Aikelaimuc",
-    "Jianlei Jia"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223631",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223634",
-   "title": "A Double-Blinded Polysaccharide Analysis of Products Purchased Online and Labelled as Containing Mushrooms: Ten Products for Pets and One for Human Use",
-   "abstract": "Eleven commercial mushroom products sourced from online resellers (ten labelled for veterinary use and one labelled for human use) were subjected to simple quantitative and qualitative polysaccharide analysis methods to differentiate products containing only mushrooms (the fruiting bodies of the fungal life-cycle) from those that include the whole solid fermentation resulting from the fungal mycelium of cereal grain. The therapeutic benefits of fungi are often attributed to their β-glucan content, which, unlike cereal grain β-glucans, is uniquely characterized by 1,3–1,6 β-glycosidic linkages. Fungal polysaccharide markers were used to distinguish mushroom-containing products from grain-based mycelial products in this study, which highlighted the compositional variability in marketplace products. These products were subjected to a multifaceted analytical approach by enzymatic quantification of α- and β-glucans and starch, and Lugol’s iodine staining for starch detection. The resulting analyses identified two distinct product profiles: (1) polysaccharide profiles consistent with mushrooms, exhibiting high β-glucan and low α-glucan content and (2) products consistent with fermentation of cereal grains by fungal mycelium that have lower levels of β-glucans, higher levels of α-glucans, and a strong positive iodine-starch test. This study proposes objective, composition-based criteria, derived from the products analyzed, for differentiation of these product profiles; the polysaccharide profiles of some products labelled as mushroom-derived were consistent with mycelium-fermented grain rather than with mushrooms. This method can be adapted to assess other fungal-derived products and to help verify the label claims of mushroom-based veterinary products.",
-   "authors": [
-    "David Atuahene",
-    "Robert J. Silver"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223634",
    "date": "2026-11-16",
    "first_seen": "2026-11-17",
    "score": 0.0,
@@ -13860,6 +14196,104 @@
    "url": "https://doi.org/10.3390/ani16223642",
    "date": "2026-11-17",
    "first_seen": "2026-11-18",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/00071668.2026.2738154",
+   "title": "Species-dependent differences in aquaporin immunoreactivity in avian brain tissues",
+   "abstract": "",
+   "authors": [
+    "H. Kara",
+    "D. Tekiner",
+    "G. Halıcı Kurt",
+    "A. Kara",
+    "D. Özdemir",
+    "Z. Özüdoğru",
+    "D. Özçelik"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2738154",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223661",
+   "title": "The Emerging Role and Integration of Artificial Intelligence Tools in Veterinary Education: A Narrative Review",
+   "abstract": "Artificial intelligence (AI), a data-driven and algorithm-supported technological system, has rapidly expanded its role in transforming daily life and professional practice over the past decade. In this narrative review, the recent literature was examined to evaluate current and emerging applications of AI in veterinary education and practice. A previously reported PubMed-focused search and a broader literature compilation served different purposes. The historical screening counts cannot be fully reconstructed, and the synthesis was narrative rather than systematic. Veterinary schools in the United States and elsewhere have begun exploring and integrating AI into Doctor of Veterinary Medicine (DVM) curricula to support teaching, learning, and competency development. This review summarizes recent advances in the application of AI in veterinary education. In anatomy, AI-based visualization and interactive tools are being explored, although controlled evidence of improved learning outcomes remains limited. In digital pathology, AI-assisted image analysis can provide students with opportunities to develop skills in recognizing and interpreting pathological findings. In clinical settings, AI models have shown potential in selected imaging and clinical-classification tasks, but their educational effectiveness requires further evaluation. Despite these advances, the broader implementation of AI in veterinary education and practice faces important regulatory and ethical challenges, including concerns regarding data privacy, algorithmic bias, academic integrity, and the reliability of AI-generated information. Addressing these issues will require multidisciplinary collaboration, multicenter data integration, appropriate validation, and strong ethical governance. With these foundations in place, AI may serve as a supportive educational and clinical tool rather than a replacement for veterinary educators and professionals. In the future, appropriately validated AI tools may contribute to veterinary education and clinical training.",
+   "authors": [
+    "Xu Zhang",
+    "Tian-Cai Tang",
+    "Ri-Hong Jike",
+    "Jibing Yang",
+    "Li-Li Hao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223661",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223659",
+   "title": "Study on the Lysine Requirement of Replacement Gilts During the Rearing Period",
+   "abstract": "This study aimed to determine the optimal dietary standardized ileal digestible lysine (SID-Lys) supply level for DanBred replacement gilts during the rearing period. In total, 243 DanBred Landrace × Yorkshire crossbred gilts at approximately 120 days of age were randomly assigned to five dietary treatments (T1–T5), with five replicate pens per treatment (9–12 gilts per pen). Treatments were arranged in a two-phase feeding program: phase 1 (120–156 d) contained graded SID-Lys concentrations of 0.55%, 0.60%, 0.65%, 0.70%, and 0.75%, and phase 2 (157 d to puberty) contained 0.40%, 0.45%, 0.50%, 0.55%, and 0.60% SID-Lys, respectively. Initial body weight was balanced across treatments (p &gt; 0.05) with homogeneous variance. Gilts were group-housed in a mechanically ventilated barn (20–25 °C; 12 h light:12 h dark photoperiod), with an allocated floor space of 1.5–2.0 m2 per gilt. Growth performance, estrus rate, puberty and first-mating parameters, and reproductive performance over the first two parities were measured. Increasing the dietary SID-Lys level significantly increased the average daily gain of gilts in each phase and over the entire rearing period (p &lt; 0.01), with significant linear and quadratic effects, and T4 showed the best growth performance. Dietary SID-Lys level had no significant effect on the estrus rate before 180, 200, or 220 d of age or on the age at puberty and at first mating (p &gt; 0.05). However, body weight at puberty, body weight at first mating, and backfat thickness at first mating increased significantly with increasing SID-Lys level (p &lt; 0.05). The average number of weaned piglets per sow over the first two parities was highest in T3 (23.45), significantly higher than in T1, T4, and T5 (p = 0.021), and the retention rates of T3 in parities 1 and 2 (95.74% and 85.11%) were both significantly higher than those of T1, T4, and T5 (p &lt; 0.05), whereas T4, which grew fastest, had the poorest reproductive performance. In summary, growth performance and reproductive performance showed an “uncoupling” in their responses to lysine, and the dietary SID-Lys level giving the best overall reproductive outcome was 0.65% in phase 1 and 0.50% in phase 2 (T3). Future studies should evaluate gilt SID-Lys requirements under different growth rates and target body composition benchmarks, and explore interactive effects between lysine supply and body energy reserves on long-term reproductive persistence in hyperprolific sow lines.",
+   "authors": [
+    "Junwen Wang",
+    "Jiajian Tan",
+    "Haiqing Sun",
+    "Haidi Jiang",
+    "Pengfei Cao",
+    "Hongkui Wei",
+    "Jian Peng",
+    "Yuanfei Zhou"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223659",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223655",
+   "title": "Early Weaning Induces Transcriptional Reprogramming of Intestinal Upper Villus Epithelial Cells in Piglets During Post-Weaning Days",
+   "abstract": "Early weaning often leads to intestinal dysfunction in piglets, while the molecular mechanisms underlying the epithelial cell renewal that is critical for maintaining intestinal mucosal homeostasis remain poorly understood. In this study, we isolated the IUVECs from the crypt–villus axis of piglet jejunum using divalent chelation-based precipitation technique. To capture the transcriptional dynamics of IUVECs under weaning stress, RNA-seq was performed on IUVECs at five time points, including 21-day-old suckling period (control) and PWD 1, 3, 7, and 14, with five biological replicates per time point (n = 5). A total of 18,852 genes were identified across all libraries. Compared with the control, we detected 31, 77, 154, and 112 DEGs at PWD 1, 3, 7, and 14, respectively, mainly involving apoptosis, oxidative stress, immune response, metabolic pathways, and hormone secretion regulation categories. Among these, PLA2G2A showed the greatest increase in expression, while CYCS expression levels rose significantly on PWD 3 and reached their peak on PWD 7; these transcriptional patterns suggest that weaning stress may drive transcriptional reprogramming in IUVECs through transcriptomic changes associated with inflammatory and apoptotic signaling. Gene Ontology (GO) analysis showed that the DEGs predominantly participate in cellular and metabolic processes, response to stimuli, and binding activities. KEGG pathway analysis revealed a temporal pattern of transcriptional changes characterized by an initial phase of enrichment of transcripts associated with immune activation (PWD 1–3), a subsequent phase reflecting transcriptional metabolic changes (PWD 7), and a final phase of transcripts associated with immune-metabolic processes (PWD 14). The qRT-PCR validation of eight DEGs associated with oxidative stress, inflammation, apoptosis, and metabolism supported the transcriptional patterns identified by RNA-seq. Taken together, our results reveal genome-wide transcriptional reprogramming of IUVECs from acute immune defense to metabolic-immune readjustment, and provide transcriptome-level insights into the adaptation of the piglet intestinal mucosa to early weaning stress.",
+   "authors": [
+    "Lijun Zou",
+    "Sicheng Li",
+    "Yirui Shao",
+    "Yuliang Wu",
+    "Yanyan Cai",
+    "Xia Xiong"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223655",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223650",
+   "title": "Musculoskeletal Health in Search-And-Rescue Dogs: Occupational Injuries, Prevention, and Conditioning",
+   "abstract": "Search-and-rescue (SAR) dogs perform physically demanding tasks involving prolonged searches, repeated jumping, and movement across unstable terrain. This narrative review summarizes evidence on acute occupational injuries, long-term musculoskeletal health, potential risk factors, and physical conditioning in SAR dogs, supplemented by research on other working and sporting dogs where SAR-specific evidence was limited. Deployment studies consistently identify paw-pad injuries, cuts, and abrasions as common acute problems. Lameness, stiffness, and other musculoskeletal conditions are also reported. In a 15-year SAR cohort, the musculoskeletal system was the most frequently affected body system, and musculoskeletal disorders were a major indication for surgery. Observational studies in military and sporting dogs have associated musculoskeletal injury with age, breed, previous injury, training exposure, body characteristics, and occupational demands, although these findings may not be directly transferable to SAR dogs. Working-dog conditioning programs emphasize aerobic fitness, strength, stability, mobility, and proprioception. Studies indicate that endurance training can improve aerobic capacity and that treadmill exercise may be a useful component of rubble-search conditioning. However, direct evidence that conditioning programs reduce musculoskeletal injury incidence in SAR dogs is lacking. Regular veterinary assessment, individualized physical conditioning, workload monitoring, and task-specific preparation may support occupational readiness, but their preventive effectiveness remains uncertain. Prospective SAR-specific studies are needed to evaluate whether these strategies reduce injuries, time lost from duty, and premature retirement.",
+   "authors": [
+    "Do-Youn Lee",
+    "Ga-Mi Kim"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223650",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
