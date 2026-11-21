@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:08:36+00:00",
+ "updated": "2026-11-21T03:20:07+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -2828,6 +2828,29 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223685",
+   "title": "Dietary Supplementation of Glucose Oxidase Modulates Gut Health and Welfare Measures in Broilers During Necrotic Enteritis Challenge",
+   "abstract": "This study evaluated dietary glucose oxidase (GOD) supplementation in broilers challenged with NE. A total of 720 one-day-old Cobb 500 chicks were assigned to six treatments: unchallenged control (UC); challenged control (CC); CC+ antibiotic (salinomycin + bacitracin; 500 g/t each) (ANT), and CC supplemented with GOD at 100, 200, and 300 g/t (GOD100, GOD200, GOD300). All groups except UC were challenged with Eimeria spp. and Clostridium perfringens. Before challenge (day 0–8), GOD supplementation improved weight gain (AWG) and feed conversion ratio (FCR) except GOD300 (both p &lt; 0.001). During day 9–19, CC birds exhibited impaired AWG and FCR (p &lt; 0.001) and increased intestinal lesions and serum fluorescein isothiocyanate dextran (FITC-d) concentrations. Under challenge, GOD100 increased gross energy (p &lt; 0.001) and crude protein (p &lt; 0.01) digestibility relative to CC groups, while GOD200 improved litter scores (p &lt; 0.05). GOD300 showed lower foot pad dermatitis scores than UC and ANT, but did not differ from CC. All GOD doses showed intermediate values in lesion scores, oocyst counts, serum FITC-d, and Production Efficiency Factor (except GOD200), which did not differ from those of CC group or UC and ANT groups (p &gt; 0.05). Despite no significant overall growth benefit over CC, GOD showed potential to improve selected digestive and welfare outcomes under NE challenge.",
+   "authors": [
+    "Sharmin Akter",
+    "Alip Kumar",
+    "Shu-Biao Wu",
+    "Yangyuan Li",
+    "Kosar Gharib Naseri"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223685",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 16.0,
+   "matched": [
+    "broiler",
+    "feed conversion ratio",
+    "fcr"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/00071668.2026.2699735",
    "title": "Effect of tannic acid and chitosan supplementation on growth performance, antioxidant status, immune function, and caecal microbial diversity of Pekin duck aged 0 to 21 days",
    "abstract": "1. Tannic acid (TA) and chitosan (CH) are natural compounds with antioxidant, antimicrobial and immunomodulatory bioactivities. This study evaluated the effects of dietary TA, CH and their combination on White Pekin ducks aged 0 to 21 d.2. A total of 336 one-day-old Pekin ducks were randomly assigned to one of four dietary treatments with six replicate cages per treatment and 14 birds per cage. The treatments included a basal diet (CON), CON +0.2% TA, CON +0.2% CH and CON +0.2% TA + 0.2% CH. The trial lasted 21 d.3. Dietary supplementation with 0.2% TA alone increased average daily gain (p < 0.05), while 0.2% CH decreased thymus weight and thymus index (p < 0.05). Both TA and CH alone improved serum antioxidant status and immunoglobulin levels, but their combination did not give any synergistic effects.4. All supplemented diets modified caecal microbial community structure, which significantly reduced the relative abundance of Proteobacteria at the phylum level and Desulphovibrio at the genus level (p < 0.05).5. In conclusion, 0.2% TA alone improved growth performance, while 0.2% CH alone enhanced antioxidant and immune function in 0–21 d Pekin ducks. The combination of TA and CH showed no synergistic benefits. Both compounds beneficially modulated caecal microbiota by inhibiting potentially harmful taxa. These results indicated that single supplementation of TA or CH is more suitable for Pekin duck production.",
@@ -4996,6 +5019,56 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223696",
+   "title": "Challenges of Using Chemically Synthesized Tin-Based Hierarchical Microstructures as Antibiotic Alternatives in Extended Ram Semen",
+   "abstract": "The present study aimed to investigate the potential effects of tin oxy-hydroxide nanostructures (SnNSs) on ram semen quality characteristics and microbial load. A preliminary trial evaluated the effects of SnNSs on sperm motility and kinematics. Ten ejaculates were extended and divided into the following groups: (i) control, (ii) 31.25 μL SnNSs/mL of extended semen, and (iii) 125 μL SnNSs/mL of extended semen. Measurements were performed at 0.5 h, 1 h, 3 h, and 6 h. The concentration of 125 μL SnNSs significantly negatively affected WOB, ALH, and hyperactivation. The concentration of 31.25 μL SnNSs had no significant effects on semen; therefore, it was selected for further evaluation. In the main trial, twenty ejaculates were extended in skimmed milk powder and divided into the following groups: (i) antibiotics-containing control (Group A), (ii) control free of antibiotics and SnNSs (Group B) and (iii) 31.25 μL SnNSs/mL of extended semen (Group C). Sperm motility, kinematics, viability, morphology, HOST, total bacterial, and Staphylococcus spp. load were assessed at 0 h, 3 h, and 6 h. At 3 h, SnNSs did not adversely affect sperm quality. At 6 h, rapid, progressive, and medium progressive spermatozoa were significantly reduced in Group C compared to Group A. At 6 h, VCL and ALH were significantly higher in Group A than in Group C. SnNSs did not reduce total bacterial or Staphylococcus spp. load. In conclusion, SnNSs did not provide antimicrobial benefits, exhibiting time-dependent effects on specific sperm motility and kinematic parameters.",
+   "authors": [
+    "Aikaterini Ntemka",
+    "Serafeim C. Chaintoutis",
+    "Konstantinos Simeonidis",
+    "Georgios Tsousis",
+    "Styliani Tsiligianni",
+    "Theodoros Samaras",
+    "Ioannis A. Tsakmakidis"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223696",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 10.0,
+   "matched": [
+    "semen"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223689",
+   "title": "Molecular Epidemiology and Phylogenetic Diversity of Major Enteric Viruses Associated with Calf Diarrhea in Yunnan Province",
+   "abstract": "Neonatal calf diarrhea (NCD) is one of the major causes of economic losses in the cattle industry. BRV, BCoV and BNoV are viral pathogens associated with this disease. However, there is currently a lack of sufficient understanding regarding the epidemiological distribution and genetic characteristics of these three viruses in Yunnan Province, southwestern China. In this study, a total of 403 fecal samples were collected from calves with diarrhea across 12 administrative regions in Yunnan Province and screened for the three viruses. The results showed that the overall detection rates for BRV, BCoV, and BNoV were 24.3% (98/403; 95% CI: 20.4–28.7%), 29.8% (120/403; 95% CI: 25.5–34.4%), and 7.2% (29/403; 95% CI: 5.1–10.1%), respectively. Kunming City had the highest detection rates for BRV (31.7%) and BCoV (39.8%), while Dehong Prefecture had the highest detection rate for BNoV at 16.7%. Analysis of mixed infections revealed that BRV/BCoV was the most common dual-infection combination (n = 17), and three viruses were detected simultaneously in 6 samples. Molecular characterization identified two BRV strains of the G10P[11] genotype, with nucleotide sequence identities ranging from 92.17 to 98.52% to representative P[11] strains and from 83.56 to 97.55% to representative G10 strains. Phylogenetic analysis of the BCoV S1 gene classified the four strains into two distinct evolutionary clades: PZ095466 and PZ095467 shared 98.51–99.65% nucleotide sequence identity with BCoV strains from Chinese cattle, whereas PZ095464 and PZ095465 showed nucleotide sequence identity of 99.57–99.86% with goat-derived strains from different geographical regions. Recombination analyses identified a putative recombination signal in PZ095464, with OR077311.1 and OP037396.1 inferred as the major and minor parental sequences, respectively, and a predicted breakpoint interval at nucleotides 420–578. The near-complete BNoV genome sequence PX919795 was classified as genotype GIII.2, with nucleotide sequence identity ranging from 77.91 to 96.15% compared to other GIII.2 strains. This study reveals the detection rate , co-infection patterns, and genetic characteristics of BRV, BCoV, and BNoV in calves with diarrhea in Yunnan Province, providing a data foundation for further epidemiological surveillance of these entero viruses.",
+   "authors": [
+    "Peiying Zhu",
+    "Yueyan Wang",
+    "Bin Lan",
+    "Xinyan Zhang",
+    "Yuqing Li",
+    "Suksawa Fanan",
+    "Chaiwat Jarassaeng",
+    "Wengui Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223689",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 10.0,
+   "matched": [
+    "cattle",
+    "goat",
+    "genetic diversity",
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s40104-026-01503-x",
    "title": "Chestnut–quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production",
    "abstract": "Background Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, diarrhea occurrence, gut metagenome, and fecal metabolome in piglets reared under two commercial farm conditions. A total of 160 weaned piglets (initial body weight 6.53 ± 0.13 kg) were assigned to a 2 × 2 factorial design comprising 2 weaning units (W1 and W2) and 2 dietary treatments (control diet or control diet + 2 g/kg tannin blend; 40 piglets per treatment × farm). The trial lasted 76 d, with weighings at T0 (entry into weaning, median 28 d), T1 (d 35), T2 (d 49), and T3 (d 76). Fecal scores and samples were collected at T1, T2, and T3 for shotgun metagenomics (155 samples per time point) and untargeted metabolomics, and targeted urolithin quantification was performed in tannin-treated piglets at T1 and T2. Results Tannin supplementation did not affect overall growth performance throughout the weaning phase, but reduced diarrhea occurrence at T2 in W2 ( P = 0.032). Species-level beta diversity was consistently affected by treatment across time points ( R 2 = 0.01–0.03; P &lt; 0.01), whereas alpha diversity was mainly farm-driven during the early post-weaning phase. Linear discriminant analysis effect size identified farm-dependent taxonomic markers, including Escherichia coli in control pigs from W1 at T1 and Megasphaera elsdenii , Faecalibacterium prausnitzii , and Lactobacillus amylovorus in tannin-treated pigs at later time points. Untargeted metabolomics revealed treatment-related fecal signatures, with isourolithin A and urolithin B among the most discriminant metabolites in treated pigs, especially in W2. Targeted analysis identified 3 urolithin metabotypes (metabotype B in 50.0% of samples), with higher isourolithin A, urolithin B, and urolithin A in W2 than W1 at T2 ( P &lt; 0.01). Network integration identified candidate cooperative microbial consortia associated with urolithin production, including Ellagibacter isourolithinifaciens ; these co-abundance associations are correlative and remain to be functionally validated. Conclusions Overall, chestnut–quebracho tannins were associated with a farm-dependent reduction in post-weaning diarrhea and modulated the gut ecosystem through microbiota-dependent polyphenol metabolism.",
@@ -6202,6 +6275,33 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1080/00071668.2026.2731586",
+   "title": "Effect of enrichment, stocking density and breed on feather corticosterone, feather dehydroepiandrosterone (sulphate) and their ratio in broiler chickens",
+   "abstract": "",
+   "authors": [
+    "I. Reimert",
+    "I. Pividori",
+    "A. Cotticelli",
+    "T. Peric",
+    "P. Sztandarski",
+    "A. Jaszczyk",
+    "M. Solka",
+    "B. Kemp",
+    "J. Marchewka",
+    "I. C. de Jong"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2731586",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 8.0,
+   "matched": [
+    "chicken",
+    "broiler"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/00071668.2026.2721464",
    "title": "In silico evaluation of selected plant-based compounds as potent dual target inhibitors against highly pathogenic avian influenza H5N1 virus",
    "abstract": "1. Influenza viruses remain a serious global health issue due to their high morbidity and mortality rates. Among them, avian influenza H5N1 virus is highly pathogenic, causing up to 100% mortality in poultry. As the avian influenza H5N1 virus continues to mutate across different regions, understanding multiple viral proteins, particularly the mutated haemagglutinin (HA) and neuraminidase (NA), is crucial for effective control.2. In this study, dual-target inhibitors capable of neutralising both HA and NA were developed, and a comprehensive in silico analysis was performed on different variants collected over the past decade. Structural modelling revealed conserved domains in NA (A0A1I9QM14, China) and HA (A0A0A0V4U2, Bali), which were selected for ligand docking.3. Twenty active compounds, traditionally used as natural feed additives in broiler chicken diets, were screened using protein-ligand docking, ADME profiling, and molecular dynamics (MD) simulations. Quercetin and luteolin emerged as promising dual-target inhibitors, showing high binding affinity, drug-likeness, and favourable toxicity profiles. The binding free energy (ΔG = −8 ± 0.2 kcal/mol) from docking studies confirmed their inhibitory potential against avian influenza H5N1 virus HA and NA.4. The results demonstrated that virtual screening of natural compounds can effectively identify those effective against influenza virus surface proteins. This integrative computational-experimental strategy supported the development of novel plant-derived antiviral agents with potential applications for disease control.",
@@ -6558,6 +6658,31 @@
    "matched": [
     "feed conversion ratio",
     "amino acid"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1186/s12711-026-01094-1",
+   "title": "Simulation-based assessment of parental contributions and genetic merit using in-silico pooled DNA genotyping in aquaculture",
+   "abstract": "Background Pooled DNA genotyping has gained increasing attention in recent decades due to its potential to substantially reduce genotyping costs and its applications in identifying trait-associated DNA markers and estimating parental contributions to pooled offspring samples. However, accurately estimating parental contributions from pooled offspring genotype data remains a major challenge in selective breeding. This study presents a novel approach based on a differential evolution (DE) algorithm to estimate individual parental contributions to pooled offspring samples and assesses its accuracy across a wide range of simulated scenarios. Results Parental contributions were estimated with up to 100% accuracy by genotyping both in-silico pooled offspring and individual parents across various conditions, including different parental combinations (20 males × 20 females, 8 males × 8 females, and 5 males × 5 females), SNP densities (10–3981 markers), and pool sizes (2–1000 individuals), with or without knowledge of parental sex. In a simulated progeny testing scenario involving five males and five females that produced six full-sib families with 200 offspring each, 1200 offspring were ranked by body weight and grouped into 10 in-silico pools based on fixed weight intervals. Parental contributions to each pool were accurately estimated, enabling reliable calculation of genetic merit, defined as the mean body weight of all offspring from each parent. Genetic merit estimates obtained from pooled genotyping showed a perfect correlation with those derived from individual genotyping, with a root mean squared error of 1.4 g relative to a mean offspring weight of 674 g. Only 10 in-silico pools were genotyped instead of 1200 individuals, substantially reducing genotyping effort. The method was implemented as an open-source R package, DNApooling , and validation using empirical genotyping data demonstrated reliable estimation of parental contributions and genetic merit under real-world conditions. Conclusions The method provides a robust, scalable, and cost-effective approach for estimating parental genetic merit through progeny testing, analysing mating patterns in mass-spawning species, and assessing genetic diversity within pooled samples. Its practical utility is particularly relevant to genetic evaluation in aquaculture breeding programs.",
+   "authors": [
+    "Bing Liang",
+    "Dean R. Jerry",
+    "Cecile Massault",
+    "Vu Nguyen",
+    "Xueyan Shen",
+    "Grace Loo",
+    "Shubha Vij",
+    "Jose A. Domingos"
+   ],
+   "journal": "Genetics Selection Evolution",
+   "url": "https://doi.org/10.1186/s12711-026-01094-1",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 7.0,
+   "matched": [
+    "genetic diversity",
+    "breeding"
    ],
    "abstract_zh": ""
   },
@@ -7131,6 +7256,28 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223660",
+   "title": "Stage-Resolved Ecological Hoof Print and Greenhouse Gas Emissions of Growth and Health Inputs in Chinese Swine Fattening",
+   "abstract": "Livestock environmental management has largely emphasized downstream pollution control, whereas the upstream inputs required to sustain swine growth and health, including feed, veterinary drugs and vaccines, have received less integrated assessment. This study used primary data from large-scale commercial swine production in China as a case of intensive production systems. Within a stage-resolved growth–health framework, it quantified the ecological hoof print (EHP), greenhouse gas (GHG) emissions, feed energy supply and modelled metabolic energy requirement of these inputs across five growth stages (7–120 kg). Feed was the dominant contributor to both EHP and GHG emissions, accounting for approximately 0.304 ha of EHP and 156.37 kg CO2-eq per marketed swine. When feed, veterinary drugs and vaccines were combined, the deterministic baseline totals were 0.304353 ha of EHP and 165.69 kg CO2-eq per marketed swine. Scaling these combined input-related baseline estimates to 726.6 million swine marketed in 2023 yielded indicative national-scale totals of 221.15 million ha of EHP and 120.39 million t CO2-eq, equivalent to approximately 24.7% of China’s dietary ecological footprint and 4.3% of food-related GHG emissions. Late finishing carried the largest feed-related environmental burden, whereas the weaning transition showed the highest EHP intensity per unit of feed. The comparison between feed energy supply and modelled metabolic energy requirement further revealed a stage-dependent supply–requirement mismatch. By showing that absolute environmental burdens and burden intensities peak at different stages, the stage-resolved framework reveals patterns that can be obscured by whole-cycle averages and provides a basis for stage-specific evaluation of production inputs. Because stage-based feeding is widely practised in intensive swine production, the same approach can be applied to production systems in other regions. These findings extend attention from downstream pollution control to the upstream inputs that sustain animal growth and health, emphasizing input precision rather than input minimization.",
+   "authors": [
+    "Weizheng Wang",
+    "Bingtao Su",
+    "Yuzi Wang",
+    "Pim Martens",
+    "Xianqiang Cao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223660",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 6.0,
+   "matched": [
+    "swine",
+    "livestock"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16223652",
    "title": "Plasma and Seminal Plasma Disposition of Enrofloxacin and Ciprofloxacin and Effects on Sperm Kinematics After Single Subcutaneous Doses of Enrofloxacin in Goat Bucks",
    "abstract": "This study evaluated the pharmacokinetics of enrofloxacin (ENR) and its main metabolite ciprofloxacin (CIP) in both plasma and seminal plasma following a single subcutaneous injection of ENR at doses of 2.5, 5, and 10 mg/kg to goat bucks. Furthermore, the aim was to determine the dose-dependent effects of ENR injections at different dosages on spermatological parameters. The study was conducted on six Hair goat bucks using a three-phase crossover pharmacokinetic design. Plasma and seminal plasma ENR and CIP concentrations were quantified by high-performance liquid chromatography with ultraviolet detection. ENR at dosages of 5 and 10 mg/kg demonstrated an extended t1/2λz, an increased Vdarea/F, and a decreased dose-normalized Cmax in plasma (p &lt; 0.05). The AUC0–∞ SF/AUC0–∞ plasma ratio for ENR (except for the 10 mg/kg dose) and CIP in bucks was greater than 1 across all dose groups. This ratio decreased depending on the dose for ENR and CIP (p &lt; 0.05). A single ENR administration of 2.5–10 mg/kg caused transient and parameter-specific changes in sperm kinematics, while not significantly impairing conventional semen quality within 96 h. In conclusion, ENR and CIP penetrated seminal plasma well, although the extent of penetration decreased in a dose-dependent manner.",
@@ -7197,28 +7344,6 @@
    "matched": [
     "antimicrobial resistance",
     "omics"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223660",
-   "title": "Stage-Resolved Ecological Hoof Print and Greenhouse Gas Emissions of Growth and Health Inputs in Chinese Swine Fattening",
-   "abstract": "Livestock environmental management has largely emphasized downstream pollution control, whereas the upstream inputs required to sustain swine growth and health, including feed, veterinary drugs and vaccines, have received less integrated assessment. This study used primary data from large-scale commercial swine production in China as a case of intensive production systems. Within a stage-resolved growth–health framework, it quantified the ecological hoof print (EHP), greenhouse gas (GHG) emissions, feed energy supply and modelled metabolic energy requirement of these inputs across five growth stages (7–120 kg). Feed was the dominant contributor to both EHP and GHG emissions, accounting for approximately 0.304 ha of EHP and 156.37 kg CO2-eq per marketed swine. When feed, veterinary drugs and vaccines were combined, the deterministic baseline totals were 0.304353 ha of EHP and 165.69 kg CO2-eq per marketed swine. Scaling these combined input-related baseline estimates to 726.6 million swine marketed in 2023 yielded indicative national-scale totals of 221.15 million ha of EHP and 120.39 million t CO2-eq, equivalent to approximately 24.7% of China’s dietary ecological footprint and 4.3% of food-related GHG emissions. Late finishing carried the largest feed-related environmental burden, whereas the weaning transition showed the highest EHP intensity per unit of feed. The comparison between feed energy supply and modelled metabolic energy requirement further revealed a stage-dependent supply–requirement mismatch. By showing that absolute environmental burdens and burden intensities peak at different stages, the stage-resolved framework reveals patterns that can be obscured by whole-cycle averages and provides a basis for stage-specific evaluation of production inputs. Because stage-based feeding is widely practised in intensive swine production, the same approach can be applied to production systems in other regions. These findings extend attention from downstream pollution control to the upstream inputs that sustain animal growth and health, emphasizing input precision rather than input minimization.",
-   "authors": [
-    "Weizheng Wang",
-    "Bingtao Su",
-    "Yuzi Wang",
-    "Pim Martens",
-    "Xianqiang Cao"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223660",
-   "date": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "score": 6.0,
-   "matched": [
-    "swine",
-    "livestock"
    ],
    "abstract_zh": ""
   },
@@ -8105,6 +8230,33 @@
    "abstract_zh": "本研究旨在利用全基因體關聯分析，識別與漢達尼羊（Hamdani sheep）七項生長及形態性狀相關的基因組區域與候選基因。總共評估了 470 隻綿羊的體重、體長、胸深、胸圍、尾周、尾長及體高。基於 54,000 個單核苷酸多型性（SNPs），使用實施於 GAPIT4 中的 FarmCPU 模型執行全基因體關聯分析。針對七個性狀共選出 14 個具顯著性的 SNPs 進行報告，其中包括體重 4 個、胸圍與體高各 3 個，以及體長、胸深、尾周和尾長各 1 個。在所選 SNPs 正負 100 kb 範圍內的候選基因註釋中，識別出十個蛋白質編碼基因：ADAMTS17、MEF2A、CTNND2、DNTTIP1、Ube2C、TNNC2、RHOA、TGFA、IGSF3 及 CNTN6。基因本體（Gene Ontology）分析突顯了與骨骼肌發育、肌動球蛋白組織和細胞分化相關的生物學過程。KEGG 路徑分析則識別出包括 Wnt、Ras、鈣及 cGMP–PKG 等信號傳導路徑。這些發現識別了與漢達尼羊生長及體型性狀相關的候選基因組區域，並為進一步的遺傳與功能研究奠定了基礎。"
   },
   {
+   "doi": "10.3390/ani16223687",
+   "title": "Maternal Maillard Flavor Diet Is Associated with Altered Amniotic Fluid and Milk Volatile Profiles and Greater Starter Preference and Intake in Cashmere Goat Kids",
+   "abstract": "This study investigated whether a maternal Maillard flavor diet was associated with altered volatile profiles in amniotic fluid and milk and with differences in offspring feeding preference, growth, selected blood biomarkers, and candidate appetite- and olfactory-related gene expression in cashmere goats. Forty healthy pregnant cashmere goats were randomly assigned to a control group (CON) receiving a basal diet or a Maillard reaction product group (MFD) receiving the basal diet supplemented with 1% MRPs. At kidding, 40 kids were allocated to the CON–CON and MFD–MFD groups and received the corresponding starter diets during lactation and after weaning. A representative subset of 12 dams (n = 6 per group) was used for volatile metabolomic analysis of amniotic fluid collected at 30 d prepartum and milk collected at 7 d postpartum, using headspace solid-phase microextraction coupled with gas chromatography–mass spectrometry (HS-SPME-GC-MS). Maternal MFD supplementation was associated with altered overall volatile profiles in both fluids, with fluid-specific patterns. In amniotic fluid, 64 candidate differential metabolites were identified (three higher and 61 lower in MFD), whereas in milk, 11 candidate differential metabolites were identified (eight higher and three lower in MFD). Flavoromics analyses based on relative odor activity values, sensory radar, and flavor wheel described shifts in annotated odor-active compound sets; these outputs do not measure perceived sensory intensity. Anethole in amniotic fluid and 5-methyl-2-hexanone in milk were among the changed compounds. The MFD–MFD kids showed greater preference for the MFD-flavored starter (57.0% vs. 43.0%; p &lt; 0.001), higher starter intake during 29–56 d (158.37 vs. 147.89 g/d; p = 0.035), and higher average daily gain during the same period (143.48 vs. 126.96 g/d; p = 0.043). At 56 d of age, the MFD–MFD kids were numerically 9.8% heavier than the CON–CON kids, but the difference was not statistically significant (10.86 vs. 9.89 kg; p = 0.094). At 56 d, the MFD–MFD kids also had higher SOD, GSH-Px, and CAT activities, lower MDA concentration, and higher IgA and IGF-1 concentrations. In the hypothalamus, NPY expression was higher and CART and POMC expression tended to be lower, whereas FFAR2, OR2W1, and OR2J3-like transcripts were higher in the olfactory bulb. These findings indicate that maternal MRP supplementation was associated with altered volatile profiles in amniotic fluid and milk and with differences in offspring starter preference, late pre-weaning intake and growth, selected blood biomarkers, and candidate appetite- and olfactory-related gene transcripts. Because maternal diet and starter flavor were paired, the independent contribution of prenatal exposure and the role of olfactory signaling remain unresolved. The results provide a basis for further hypothesis-driven studies.",
+   "authors": [
+    "Panliang Chen",
+    "Lu Jin",
+    "Min Nuo",
+    "Ding Yang",
+    "Qingyu Wang",
+    "Wenting Li",
+    "Cairui Feng",
+    "Zhijun Zhang",
+    "Yiping Wang",
+    "Haizhou Sun"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223687",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 5.0,
+   "matched": [
+    "goat",
+    "omics"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70207",
    "title": "Genome‐Wide SNP Discovery and Population Genomic Characterisation in Indian Major Carp Labeo catla (Hamilton, 1822) Through Low‐Depth Whole‐Genome Resequencing",
    "abstract": "Single nucleotide polymorphisms (SNPs) are key markers for population and conservation genetics in aquaculture species. Using low‐depth whole‐genome resequencing of 35 Labeo catla individuals from seven populations (three wild riverine, four hatchery), we generated the first genome‐wide SNP catalogue for this Indian major carp. Filtering against the L. catla reference genome (GCA_012976165.1) yielded 2.05 million high‐quality bi‐allelic SNPs (467 291–1 221 268 per population), with 27 000 shared across all populations. Heterozygosity (He = 0.4477–0.4532) and nucleotide diversity ( π = 0.4703–0.4816) were broadly comparable across populations. Pairwise F ST (0.079–0.106) and UPGMA clustering resolved Cauvery as most divergent population, grouping the remaining six into two clusters (PCA: PC1 = 21.4%, PC2 = 16.8%). A differentiation scan identified 270 candidate high‐differentiation SNPs (top 1%; score &gt; 0.222) enriched for missense variants (~2.05‐fold; p = 0.021), implicating cell‐adhesion, extracellular‐matrix and muscle‐development genes in population differentiation. An independent chi‐square test of allele‐frequency heterogeneity, corrected for multiple testing ( q &lt; 0.05), retained 114 of these 270 SNPs, mapping to 30 genes whose GO profile (endosome, granule and endolysosome lumen) differed from the broader 270‐SNP set indicating exploratory, hypothesis generating candidates rather than confirmed selection targets. Genome‐wide annotation of 2 521 013 SNPs classified 108 113 (1.14%) as moderate‐impact missense and 5266 (0.06%) as high‐impact variants. These findings align with prior genotyping‐by‐sequencing data but extend marker density ~200‐fold, providing the first genome‐wide diversity, differentiation and functional profile for L. catla . The dataset (BioProject PRJNA1441081; Figshare doi: https://doi.org/10.6084/m9.figshare.31829770 ) supports SNP array design, GWAS and conservation monitoring of Catla riverine stocks.",
@@ -8770,6 +8922,32 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223684",
+   "title": "Characterizing Sheep Farming Systems in the Andean Areas of Amazonas in Northern Peru Using an Exploratory Mixed Data Typology",
+   "abstract": "Sheep farming in the Peruvian Andes is heterogeneous, but farm-level evidence from Amazonas is limited. This cross-sectional exploratory study characterized 79 convenience-sampled farms in 18 localities of Luya and Chachapoyas. Quantitative and categorical survey data were integrated through factor analysis of mixed data (FAMD) and Ward.D2 clustering. Median flock size was eight sheep; 96.2% of farms used extensive management and 92.4% relied principally on natural grazing. Four FAMD dimensions explained 47.20% of inertia and produced three exploratory profiles (37, 36, and 6 farms), differing in land allocation, flock size, supplementation, and management components. Separation was modest (mean silhouette = 0.215), with subsampling Jaccard stabilities of 0.751, 0.677, and 0.683. Three- and five-dimension alternatives showed adjusted Rand indices (ARIs) of 0.733 and 0.744 against the reference. Agreement was much lower when infrastructure components were represented individually (ARI = 0.023) or land variables were excluded (ARI = 0.155–0.174). Profile III therefore remained provisional. The profiles describe configurations conditional on the sample and analytical representation. Management implications require prospective validation, and non-probability sampling precludes population-level estimates of profile frequencies.",
+   "authors": [
+    "Hugo Frias Torres",
+    "Nilton Luis Murga Valderrama",
+    "Segundo Melecio Portocarrero Villegas",
+    "Gleni Tatiana Segura Portocarrero",
+    "Rainer M. López Lapa",
+    "Ysai Paucar Sullca",
+    "Flor L. Mejía Risco",
+    "Juan José Barrios Paima",
+    "Jhorsan David Mauri Pablo",
+    "William Bardales Escalante"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223684",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 4.0,
+   "matched": [
+    "sheep"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70217",
    "title": "Breed Composition and Heterozygosity in Brangus and Braford Composite Cattle Breeds",
    "abstract": "Composite cattle breeds are developed to combine favorable traits from parental populations and to exploit heterosis across diverse production environments. However, their genomic structure becomes progressively more complex across generations, and it remains unclear to what extent patterns of local ancestry and heterozygosity are conserved across breeds. The objective of this study was to characterize genomic breed composition in Argentine Brangus and Braford at both global and local levels, and to identify shared genomic segments with extreme values of indicine ancestry and heterozygosity. A total of 783 animals from six breeds were analyzed using SNP data. Global ancestry proportions were estimated using STRUCTURE, whereas local ancestry was inferred through haplotype phasing (Shapeit5) and local ancestry inference using LOTER. Deviations between observed and expected breed composition and heterozygosity were evaluated at the SNP level using chi‐square tests with multiple testing correction. Shared genomic segments were defined as contiguous genomic intervals composed of SNPs showing significant deviations in both breeds. Brangus and Braford showed lower indicine proportions than the expected 37.5%, with reductions of 1.2% and 7.1%, respectively. Local ancestry analysis revealed heterogeneous genomic patterns, with shared segments enriched for indicine ancestry on chromosomes 3, 6, 20, and 28. In contrast, segments with reduced indicine ancestry were more broadly distributed. No SNP exceeded the expected heterozygosity; however, multiple regions showed significant reductions, particularly on chromosome 18. These results demonstrate that Brangus and Braford exhibit complex and heterogeneous genomic architectures, with shared genomic regions showing extreme patterns of ancestry and heterozygosity.",
@@ -9376,6 +9554,25 @@
    "score": 3.0,
    "matched": [
     "omics"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223688",
+   "title": "Canine Degenerative Myelopathy: A Narrative Review of Aetiology, Clinical Signs, Diagnosis, and Therapy",
+   "abstract": "Canine degenerative myelopathy (DM) is a progressive, non-inflammatory neurodegenerative disease of the spinal cord that primarily affects middle-aged to older dogs and is closely related to human amyotrophic lateral sclerosis (ALS). This narrative review synthesises current knowledge on the aetiology, clinical presentation, diagnosis, and therapy of canine DM, based on a literature search conducted between October 2024 and May 2025 using Scopus, PubMed, and Google Scholar; included primary studies were graded according to the evidence classification system of the Cochrane Musculoskeletal Group. A mutation in the superoxide dismutase 1 (SOD1) gene, inherited in an autosomal recessive manner with incomplete penetrance (not all individuals with the disease-causing genotype develop clinical signs), has now been identified in dog populations across Europe, Asia, and South America. Definitive diagnosis still requires post-mortem histopathology of the spinal cord, whereas genetic testing—which identifies genetic risk but does not confirm clinical disease—combined with exclusion of differential diagnoses represents the most useful ante-mortem approach; advanced imaging, electromyography, and cerebrospinal fluid biomarkers contribute supportive but non-definitive information. Of the therapeutic options reviewed, physiotherapy is the only intervention with the strongest currently available evidence for prolonging survival time; quality-of-life benefits are reported clinically, but quality of life was not formally measured as a primary outcome in the main supporting study. Laser therapy, curcumin, cannabinoids, stem cell transplantation, and modulation of macrophage migration inhibitory factor show preliminary promise but remain investigational. Across nearly all areas, the evidence base is limited by small sample sizes and a scarcity of controlled trials, underlining the need for larger, well-controlled studies to improve early detection and treatment of this devastating disease. While the available evidence supports the clinical benefit of intensive physiotherapy, the majority of therapeutic interventions are supported by Silver- or Bronze-level evidence only, and controlled, randomised trials remain largely absent from the canine DM literature.",
+   "authors": [
+    "Marion Selina Brückler",
+    "Bianca Reicher",
+    "Marion Mucha"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223688",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 3.0,
+   "matched": [
+    "disease"
    ],
    "abstract_zh": ""
   },
@@ -10254,6 +10451,77 @@
    "score": 2.0,
    "matched": [
     "nutrition"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223694",
+   "title": "Dietary Supplementation with 1.2% Fulvic Acid Improves Growth Performance and Reshapes the Hepatopancreatic Transcriptome of the Cold-Water Cyprinid Schizothorax wangchiachii",
+   "abstract": "Fulvic acid (FA), a low-molecular-weight fraction of humic substances, is increasingly used as a natural growth-promoting additive in aquaculture, but the molecular mechanisms underlying its effects on fish metabolism remain poorly understood. A preliminary 120-day dose-selection trial with 0, 0.4%, 0.8%, 1.2%, and 1.6% dietary FA identified 1.2% as the optimal inclusion level. In the subsequent main trial, 300 juvenile Schizothorax wangchiachii (initial body weight 3.87 ± 1.76 g) were randomly assigned to six indoor tanks (50 fish per tank, three replicate tanks per treatment) and fed either a control diet (CT) or the same diet supplemented with 1.2% FA (HC) three times daily at 2–3% of tank biomass for 120 days. Growth performance was recorded from ten fish per tank (n = 30 per treatment), and the hepatopancreatic transcriptomes of the two groups were compared using RNA sequencing (RNA-Seq) of six cDNA libraries (three pooled samples per treatment, each pool comprising the hepatopancreas of five fish from one replicate tank). Fish fed the HC diet achieved a weight gain rate (WGR) of 518.05 ± 110.67%, which was significantly higher than that of the CT group (285.00 ± 75.15%, p &lt; 0.001), with no significant difference in survival rate (86.00 ± 2.00% vs. 88.00 ± 2.00%, p = 0.288). Sequencing yielded 39.66 Gb of clean data (Q30 &gt; 92%) and 41,771 unigenes with an average length of 1321 bp. A total of 6583 differentially expressed genes (DEGs) were identified (|log2FC| &gt; 1 and q &lt; 0.05), of which 3049 were up-regulated and 3534 were down-regulated in the HC group. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses showed that the DEGs were predominantly involved in carbohydrate metabolism, energy metabolism, amino acid metabolism, and lipid metabolism. The DEGs related to glycolysis/gluconeogenesis, the tricarboxylic acid cycle, oxidative phosphorylation, fatty acid elongation and degradation, and the pentose phosphate pathway were mostly up-regulated in the HC group, whereas several genes involved in amino acid catabolism, such as aspartate aminotransferase, glutaminase, and arginase-1, were down-regulated. Quantitative real-time PCR (qRT-PCR) validation of eight randomly selected DEGs confirmed the reliability of the RNA-Seq data. Our results indicate that dietary FA promotes the growth of S. wangchiachii by enhancing hepatic nutrient oxidation and energy production, and provide new insights into the molecular basis of FA as a functional feed additive in cold-water fish aquaculture.",
+   "authors": [
+    "Junming Zhou",
+    "Yanzhen Dong",
+    "Dongming Qi",
+    "Jinfeng Zhao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223694",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 2.0,
+   "matched": [
+    "amino acid"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223692",
+   "title": "Cholinesterase Inhibitors in the Management of Canine Cognitive Dysfunction: A Review on the Mechanisms of Action, Current Evidence from Experimental and Clinical Studies, and Future Directions",
+   "abstract": "Canine cognitive dysfunction is a progressive, age-related neurodegenerative disorder that shares several clinical and neuropathological features with human Alzheimer’s disease, although important differences exist between the two conditions. The central mechanisms underlying the pathophysiology of canine cognitive dysfunction include the accumulation of amyloid-β plaques, cytoplasmic deposits of phosphorylated tau protein with rarely observed neurofibrillary tangles, cortical brain atrophy, and disturbances in neurotransmitters, particularly within cholinergic pathways. Compared with those in age-matched, cognitively unimpaired and young cohorts, the number of cholinergic neurons in the basal forebrain in old, cognitively impaired dogs is significantly lower. However, cholinergic deficit does not correlate directly with cortical amyloid-β load. These neurochemical and structural changes contribute to the characteristic cognitive and behavioral deficits of canine cognitive dysfunction. Cholinesterase inhibitors, which increase synaptic acetylcholine levels by inhibiting acetylcholinesterase and/or butyrylcholinesterase, have emerged as a promising pharmacological strategy. This review critically evaluates current evidence from experimental studies investigating the effects of cholinesterase inhibitors on age-associated cognitive performance in laboratory beagle dogs, as well as clinical studies involving client-owned dogs diagnosed with canine cognitive dysfunction; describes their mechanistic basis; and outlines currently available symptomatic pharmacological interventions, such as the monoamine oxidase B inhibitor selegiline (L-deprenyl), and non-pharmacological interventions, including environmental enrichment, regular exercise, diet, and nutritional supplements. Furthermore, it identifies knowledge gaps and proposes future research directions that could support the translation of cholinesterase inhibitors into effective therapeutic interventions for improving cognitive function and quality of life in aging dog populations.",
+   "authors": [
+    "Tomaž Trobec"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223692",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 2.0,
+   "matched": [
+    "nutrition",
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223683",
+   "title": "Isolation and Characterization of Caprine Parainfluenza Virus Type 3 from Guangxi, China",
+   "abstract": "Caprine parainfluenza virus type 3 (CPIV3) is associated with respiratory disease in goats, but isolate-level genomic and experimental data from Guangxi remain limited. This study aimed to isolate a Guangxi CPIV3 strain and characterize its in vitro growth, genome sequence, and experimental infection phenotypes. The plaque-derived isolate GXCX2024 replicated in MDBK, Vero, PK-15, A549, and BHK-21 cells, with the highest titers in MDBK cells. Electron microscopy showed pleomorphic particles consistent with paramyxoviruses. The 15,513-nt genome sequence was closely related to published CPIV3 genomes, and sequence comparisons identified substitutions in NP, F, and HN whose functional effects were not tested. Hamsters, guinea pigs, and goats were inoculated intranasally with passage-5 GXCX2024 at a titer of 107.85 TCID50/0.1 mL, corresponding to approximately 107.85, 108.55, and 109.33 TCID50 per animal, respectively. Hamsters showed transient pulmonary lesions and viral RNA in lung tissue. Seven of 25 infected guinea pigs died at 2–3 days post-inoculation, and pulmonary abnormalities occurred in infected animals. Goats developed respiratory signs, interstitial lung lesions, viral shedding, and hemagglutination-inhibition antibody responses. These data provide a regional CPIV3 genome sequence and a description of infection outcomes in each animal model under its respective experimental conditions. The findings support inclusion of CPIV3 in regional surveillance and differential diagnostic considerations for caprine respiratory disease while not establishing strain-specific virulence or functional effects of the identified substitutions.",
+   "authors": [
+    "Ren Wei",
+    "Zhitao Jia",
+    "Zhiyue Yang",
+    "Jiansen Huang",
+    "Xinwei Zhou",
+    "Yu Ye",
+    "Jindi Chen",
+    "Qingting Dong",
+    "Jiang Xie",
+    "Feixiang Long",
+    "Lei Liu",
+    "Kang Ouyang",
+    "Ying Chen",
+    "Zuzhang Wei",
+    "Yifeng Qin",
+    "Weijian Huang",
+    "Yan Pan"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223683",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 2.0,
+   "matched": [
+    "disease"
    ],
    "abstract_zh": ""
   },
@@ -14555,22 +14823,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223650",
-   "title": "Musculoskeletal Health in Search-And-Rescue Dogs: Occupational Injuries, Prevention, and Conditioning",
-   "abstract": "Search-and-rescue (SAR) dogs perform physically demanding tasks involving prolonged searches, repeated jumping, and movement across unstable terrain. This narrative review summarizes evidence on acute occupational injuries, long-term musculoskeletal health, potential risk factors, and physical conditioning in SAR dogs, supplemented by research on other working and sporting dogs where SAR-specific evidence was limited. Deployment studies consistently identify paw-pad injuries, cuts, and abrasions as common acute problems. Lameness, stiffness, and other musculoskeletal conditions are also reported. In a 15-year SAR cohort, the musculoskeletal system was the most frequently affected body system, and musculoskeletal disorders were a major indication for surgery. Observational studies in military and sporting dogs have associated musculoskeletal injury with age, breed, previous injury, training exposure, body characteristics, and occupational demands, although these findings may not be directly transferable to SAR dogs. Working-dog conditioning programs emphasize aerobic fitness, strength, stability, mobility, and proprioception. Studies indicate that endurance training can improve aerobic capacity and that treadmill exercise may be a useful component of rubble-search conditioning. However, direct evidence that conditioning programs reduce musculoskeletal injury incidence in SAR dogs is lacking. Regular veterinary assessment, individualized physical conditioning, workload monitoring, and task-specific preparation may support occupational readiness, but their preventive effectiveness remains uncertain. Prospective SAR-specific studies are needed to evaluate whether these strategies reduce injuries, time lost from duty, and premature retirement.",
-   "authors": [
-    "Do-Youn Lee",
-    "Ga-Mi Kim"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223650",
-   "date": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223661",
    "title": "The Emerging Role and Integration of Artificial Intelligence Tools in Veterinary Education: A Narrative Review",
    "abstract": "Artificial intelligence (AI), a data-driven and algorithm-supported technological system, has rapidly expanded its role in transforming daily life and professional practice over the past decade. In this narrative review, the recent literature was examined to evaluate current and emerging applications of AI in veterinary education and practice. A previously reported PubMed-focused search and a broader literature compilation served different purposes. The historical screening counts cannot be fully reconstructed, and the synthesis was narrative rather than systematic. Veterinary schools in the United States and elsewhere have begun exploring and integrating AI into Doctor of Veterinary Medicine (DVM) curricula to support teaching, learning, and competency development. This review summarizes recent advances in the application of AI in veterinary education. In anatomy, AI-based visualization and interactive tools are being explored, although controlled evidence of improved learning outcomes remains limited. In digital pathology, AI-assisted image analysis can provide students with opportunities to develop skills in recognizing and interpreting pathological findings. In clinical settings, AI models have shown potential in selected imaging and clinical-classification tasks, but their educational effectiveness requires further evaluation. Despite these advances, the broader implementation of AI in veterinary education and practice faces important regulatory and ethical challenges, including concerns regarding data privacy, algorithmic bias, academic integrity, and the reliability of AI-generated information. Addressing these issues will require multidisciplinary collaboration, multicenter data integration, appropriate validation, and strong ethical governance. With these foundations in place, AI may serve as a supportive educational and clinical tool rather than a replacement for veterinary educators and professionals. In the future, appropriately validated AI tools may contribute to veterinary education and clinical training.",
@@ -14583,6 +14835,22 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16223661",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223650",
+   "title": "Musculoskeletal Health in Search-And-Rescue Dogs: Occupational Injuries, Prevention, and Conditioning",
+   "abstract": "Search-and-rescue (SAR) dogs perform physically demanding tasks involving prolonged searches, repeated jumping, and movement across unstable terrain. This narrative review summarizes evidence on acute occupational injuries, long-term musculoskeletal health, potential risk factors, and physical conditioning in SAR dogs, supplemented by research on other working and sporting dogs where SAR-specific evidence was limited. Deployment studies consistently identify paw-pad injuries, cuts, and abrasions as common acute problems. Lameness, stiffness, and other musculoskeletal conditions are also reported. In a 15-year SAR cohort, the musculoskeletal system was the most frequently affected body system, and musculoskeletal disorders were a major indication for surgery. Observational studies in military and sporting dogs have associated musculoskeletal injury with age, breed, previous injury, training exposure, body characteristics, and occupational demands, although these findings may not be directly transferable to SAR dogs. Working-dog conditioning programs emphasize aerobic fitness, strength, stability, mobility, and proprioception. Studies indicate that endurance training can improve aerobic capacity and that treadmill exercise may be a useful component of rubble-search conditioning. However, direct evidence that conditioning programs reduce musculoskeletal injury incidence in SAR dogs is lacking. Regular veterinary assessment, individualized physical conditioning, workload monitoring, and task-specific preparation may support occupational readiness, but their preventive effectiveness remains uncertain. Prospective SAR-specific studies are needed to evaluate whether these strategies reduce injuries, time lost from duty, and premature retirement.",
+   "authors": [
+    "Do-Youn Lee",
+    "Ga-Mi Kim"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223650",
    "date": "2026-11-18",
    "first_seen": "2026-11-19",
    "score": 0.0,
@@ -14675,22 +14943,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223672",
-   "title": "Characterization and Evolutionary Insights of Seven Complete Mitochondrial Genomes in Aythya and Anas",
-   "abstract": "Aythya, comprising 12 species, is a group of ducks that forage by diving. Diving foraging is a high-energy-consuming activity, as aquatic environments can lead to substantial energy loss. Therefore, Aythya species require efficient energy production to maintain body temperature and meet high energy demands. Mitochondria are important energy-producing organelles that harbor their own genomes. Thus, the mitochondrial genome DNA (mtDNA) of Aythya species might be subject to different selective constraints compared with that of Anas species, which seldom exhibit diving foraging behavior. However, the characterization and evolution patterns of mtDNA in Aythya and their differences from Anas remain unclear. Therefore, we assembled three mitochondrial genomes from Aythya species (Aythya affinis, Aythya collaris, and Aythya innotata) and four from Anas species (Anas bahamensis, Anas capensis, Anas flavirostris, and Anas georgica) based on genome data from the publicly available Sequence Read Archive (SRA) database. These mitochondrial genomes exhibit the canonical genomic features of avian mitochondrial genomes in the family Anatidae. We then compared the evolutionary rates of the mitochondrial protein-coding genes (PCGs) of nine Aythya species with those of twelve Anas species. The free-ratios model results indicated that the 13 PCGs were mainly under purifying selection in both Aythya and Anas species, with purifying selection being slightly stronger in Aythya than that in Anas species. In addition, ND5 was detected as a rapidly evolving gene (REG) in the Aythya clade through the two- and one-ratio models. In summary, this study provides insights into the composition and evolutionary patterns of mitochondrial genomes in Aythya and offers new mitochondrial genome resources for future research.",
-   "authors": [
-    "Chentong Xu",
-    "Qinguo Wei"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223672",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223678",
    "title": "Caragana korshinskii Tannin Alleviates H2O2-Induced Oxidative Stress in Mouse Liver and Is Associated with Alterations in the Gut Microbiota",
    "abstract": "An imbalance between oxidative and antioxidant processes within the host can lead to excessive oxidation, resulting in oxidative stress. Tannins are naturally occurring polyphenolic compounds with strong antioxidant activity. In this study, Caragana korshinskii tannins (CKTs) were purified from Caragana korshinskii (CK), and their protective effects against hydrogen peroxide (H2O2)-induced liver injury in mice were evaluated at different concentrations. Furthermore, 16S rRNA sequencing was employed to analyze the gut microbiota composition and explore its correlation with oxidative stress-induced liver injury, as well as the underlying mechanism of tannin intervention. The results indicate that the purified CKTs were mainly composed of catechins. Administration of CKTs improved growth performance and average daily feed intake in mice under oxidative stress, reduced serum malondialdehyde (MDA) content, and increased glutathione (GSH) content and superoxide dismutase (SOD) activity in both serum and liver tissues. Histopathological staining (H&amp;E) further confirmed that CKTs alleviated oxidative stress-induced hepatic damage. Moreover, the CKTs mitigated oxidative injury by modulating the expression of key upstream and downstream genes in the Keap1/Nrf2 signaling pathway, with immunohistochemistry showing the strongest protective effect at 100 mg/kg. Notably, CKTs also enhanced the diversity of the gut microbiota in oxidatively stressed mice. The abundance of Rikenellaceae, Apibacter, and Lactobacillus was correlated with antioxidant enzyme activity in serum and liver, as well as with the expression of key antioxidant genes regulated by the Keap1/Nrf2 pathway. In summary, CKT alleviates oxidative stress-induced liver injury in mice by enhancing antioxidant enzyme activities, reducing oxidative stress markers, and activating the Keap1/Nrf2 pathway, and is associated with alterations in the gut microbiota.",
@@ -14732,21 +14984,15 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223669",
-   "title": "Mitigating Hepatic Steatosis and Oxidative Stress: The Role of Dietary Taurine in Juvenile Black Seabream Fed a High-Fat Diet",
-   "abstract": "High-fat diets are widely used in aquaculture but can induce hepatic steatosis and oxidative injury. This study evaluated whether dietary taurine (Tau) alleviates high-fat diet (HFD)-induced metabolic and hepatic stress in juvenile black seabream (Acanthopagrus schlegelii). Fish were fed for eight weeks with a control diet (11.17% crude lipid), an HFD (17.72% crude lipid), or the HFD supplemented with 2.5, 5, or 10 g/kg Tau. Tau improved weight gain and specific growth rate, reduced intraperitoneal fat, and increased hepatic and muscle Tau concentrations. Compared with the HFD, Tau significantly reduced serum ALT activity, while AST activity showed only a numerical decrease without a significant difference from the HFD group. Tau also modulated serum lipid-related parameters and promoted postprandial normalization of triglyceride and total cholesterol levels. Histological, Oil Red O, and ultrastructural analyses showed reduced hepatic lipid deposition and alleviated ultrastructural alterations. Tau suppressed the expression of lipogenic genes (srebp-1c and fas) and increased the expression of sirt1, lpl, and atgl, whereas pparα showed only a numerical increase without a significant overall treatment effect. Tau also decreased hepatic ROS and MDA levels, improved antioxidant status, and enhanced Nrf2/Keap1-associated antioxidant regulation, as reflected by increased Nrf2 and decreased Keap1 protein abundance. Tau also moderated inflammatory and apoptosis-related molecular responses, accompanied by reduced hepatic Jnk protein abundance. Overall, dietary Tau improved lipid utilization and hepatic redox homeostasis, supporting its potential as a functional additive for high-fat aquafeeds.",
+   "doi": "10.3390/ani16223672",
+   "title": "Characterization and Evolutionary Insights of Seven Complete Mitochondrial Genomes in Aythya and Anas",
+   "abstract": "Aythya, comprising 12 species, is a group of ducks that forage by diving. Diving foraging is a high-energy-consuming activity, as aquatic environments can lead to substantial energy loss. Therefore, Aythya species require efficient energy production to maintain body temperature and meet high energy demands. Mitochondria are important energy-producing organelles that harbor their own genomes. Thus, the mitochondrial genome DNA (mtDNA) of Aythya species might be subject to different selective constraints compared with that of Anas species, which seldom exhibit diving foraging behavior. However, the characterization and evolution patterns of mtDNA in Aythya and their differences from Anas remain unclear. Therefore, we assembled three mitochondrial genomes from Aythya species (Aythya affinis, Aythya collaris, and Aythya innotata) and four from Anas species (Anas bahamensis, Anas capensis, Anas flavirostris, and Anas georgica) based on genome data from the publicly available Sequence Read Archive (SRA) database. These mitochondrial genomes exhibit the canonical genomic features of avian mitochondrial genomes in the family Anatidae. We then compared the evolutionary rates of the mitochondrial protein-coding genes (PCGs) of nine Aythya species with those of twelve Anas species. The free-ratios model results indicated that the 13 PCGs were mainly under purifying selection in both Aythya and Anas species, with purifying selection being slightly stronger in Aythya than that in Anas species. In addition, ND5 was detected as a rapidly evolving gene (REG) in the Aythya clade through the two- and one-ratio models. In summary, this study provides insights into the composition and evolutionary patterns of mitochondrial genomes in Aythya and offers new mitochondrial genome resources for future research.",
    "authors": [
-    "Yangguang Bao",
-    "Bingqian Yang",
-    "Wenli Zhao",
-    "Hongyu Peng",
-    "Tingting Zhu",
-    "Peng Sun",
-    "Qicun Zhou",
-    "Min Jin"
+    "Chentong Xu",
+    "Qinguo Wei"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223669",
+   "url": "https://doi.org/10.3390/ani16223672",
    "date": "2026-11-19",
    "first_seen": "2026-11-20",
    "score": 0.0,
@@ -14776,6 +15022,28 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223669",
+   "title": "Mitigating Hepatic Steatosis and Oxidative Stress: The Role of Dietary Taurine in Juvenile Black Seabream Fed a High-Fat Diet",
+   "abstract": "High-fat diets are widely used in aquaculture but can induce hepatic steatosis and oxidative injury. This study evaluated whether dietary taurine (Tau) alleviates high-fat diet (HFD)-induced metabolic and hepatic stress in juvenile black seabream (Acanthopagrus schlegelii). Fish were fed for eight weeks with a control diet (11.17% crude lipid), an HFD (17.72% crude lipid), or the HFD supplemented with 2.5, 5, or 10 g/kg Tau. Tau improved weight gain and specific growth rate, reduced intraperitoneal fat, and increased hepatic and muscle Tau concentrations. Compared with the HFD, Tau significantly reduced serum ALT activity, while AST activity showed only a numerical decrease without a significant difference from the HFD group. Tau also modulated serum lipid-related parameters and promoted postprandial normalization of triglyceride and total cholesterol levels. Histological, Oil Red O, and ultrastructural analyses showed reduced hepatic lipid deposition and alleviated ultrastructural alterations. Tau suppressed the expression of lipogenic genes (srebp-1c and fas) and increased the expression of sirt1, lpl, and atgl, whereas pparα showed only a numerical increase without a significant overall treatment effect. Tau also decreased hepatic ROS and MDA levels, improved antioxidant status, and enhanced Nrf2/Keap1-associated antioxidant regulation, as reflected by increased Nrf2 and decreased Keap1 protein abundance. Tau also moderated inflammatory and apoptosis-related molecular responses, accompanied by reduced hepatic Jnk protein abundance. Overall, dietary Tau improved lipid utilization and hepatic redox homeostasis, supporting its potential as a functional additive for high-fat aquafeeds.",
+   "authors": [
+    "Yangguang Bao",
+    "Bingqian Yang",
+    "Wenli Zhao",
+    "Hongyu Peng",
+    "Tingting Zhu",
+    "Peng Sun",
+    "Qicun Zhou",
+    "Min Jin"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223669",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16223663",
    "title": "Correction: Wolovelsky et al. Owned House Cats Show No Preference for Specific Land Cover Types When Roaming Outdoors. Animals 2026, 16, 864",
    "abstract": "There was an error in the original publication [...]",
@@ -14788,6 +15056,103 @@
    "url": "https://doi.org/10.3390/ani16223663",
    "date": "2026-11-19",
    "first_seen": "2026-11-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223693",
+   "title": "Genetic Characterization of a Divergent FIV Strain Using Sanger, Nanopore and Illumina Sequencing",
+   "abstract": "Feline immunodeficiency virus (FIV) is characterized by extensive genetic variability, particularly within the env gene, complicating its molecular characterization and subtype classification. This study aimed to characterize the complete env gene of a previously identified divergent Italian FIV strain by comparing Sanger, Oxford Nanopore, and Illumina sequencing. Nanopore and Illumina reads were analyzed using de novo and reference-guided approaches, where intrahost variability, recombination, phylogenetic relationships, and Env protein features were investigated. Both next-generation sequencing (NGS) platforms recovered identical complete env sequences, whereas Sanger sequencing produced uninterpretable chromatograms. Additionally, Illumina sequencing showed a lower error rate and a more conservative estimate of low-frequency intra-host variants across the env gene, suggesting potential advantages for viral quasispecies characterization, although further validation is needed. No evidence of recombination was detected. Phylogenetic analyses confirmed the genetic distinctiveness of the virus, whose placement varied according to the env fragment analyzed. Despite clustering with reference strains assigned to the proposed U clade in the complete-env analysis, the virus showed approximately 88% nucleotide identity with subtype B sequences, preventing an unequivocal subtype assignment. Overall, NGS proved more suitable than Sanger sequencing for characterizing this highly variable genomic region, with Illumina providing the most comprehensive information. These findings highlight the complexity of FIV classification and support further genomic investigation of divergent lineages.",
+   "authors": [
+    "Veronica Facile",
+    "Laura Gallina",
+    "Martina Magliocca",
+    "Andrea Balboni",
+    "Mara Battilani"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223693",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223691",
+   "title": "Between Public Service and Animal Welfare: The Legal Protection of Working Dogs in Polish Customs and Tax Service",
+   "abstract": "Working dogs employed by the Polish Customs and Tax Service perform specialized tasks in customs control and fiscal enforcement, including the detection of prohibited and undeclared goods. Their public-service role raises important questions concerning the adequacy of the legal framework governing their welfare. This study examines the legal protection of working dogs in the Polish Customs and Tax Service and assesses whether applicable regulations provide comprehensive safeguards throughout their service life. The analysis is based on a doctrinal examination of Polish legislation concerning animal protection, the organization and functioning of the Customs and Tax Service, and the status of service animals, supplemented by an assessment of relevant institutional and welfare standards. The study combines a legal-dogmatic analysis of Polish legislation and relevant animal welfare literature with empirical research based on information obtained from the Polish Customs and Tax Service under the Polish Act on Access to Public Information. The empirical data for the years 2025–February 2026, collected in 2026, are assessed against established animal welfare standards, including the Five Domains Model. The study identifies regulatory fragmentation concerning working conditions, workload, veterinary care, training, retirement, and post-service arrangements. Although Polish law establishes a general duty to protect animals from suffering and contains specific provisions concerning service animals, the existing framework remains primarily oriented toward the operational function of working dogs rather than their welfare. The findings indicate a need for greater coherence between animal-welfare legislation and sector-specific regulations. Clearer standards for working conditions, preventive veterinary care, rehabilitation, retirement, and post-service protection could strengthen the welfare-oriented regulation of public-service dogs.",
+   "authors": [
+    "Anna Haładyj",
+    "Emil Kruk",
+    "Marta Sagan-Martko",
+    "Ireneusz Nowak",
+    "Adriana Nowak"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223691",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223695",
+   "title": "Determination of Maintenance Requirements and Dietary Net Energy in Lactating Sows of Different Parities Using Respiratory Calorimetry Chambers",
+   "abstract": "This study examines the influence of parity on the dietary net energy requirements of lactating sows. A total of 36 lactating sows (Yorkshire × Landrace) were selected and divided into three treatment groups based on parity: parity 1, parity 2, and parity 3–5. All groups were fed a corn–soybean meal diet. A digestibility and metabolism trial was conducted during days 12 to 14 of lactation. The fasting heat production of the sows was measured using an open-circuit respiratory calorimetry system. The digestibility of acid detergent fiber (ADF) and neutral detergent fiber (NDF) was significantly higher (p &lt; 0.05) in lactating sows of parities 3–5 than in those of parities 1 and 2. The results showed that the net energy requirements for milk production of lactating sows were 46.37 MJ/d for parity 1, 50.46 MJ/d for parity 2, and 59.30 MJ/d for parity 3–5. The net energy requirements for the maintenance of metabolic weight of lactating sows were 420.32 kJ/kg BW0.75/d for parity 1, 381.35 kJ/kg BW0.75/d for parity 2, and 379.19 kJ/kg BW 0.75/d for parities 3–5. The net energy from weight loss of lactating sows was 19.50 MJ/d for parity 1, 15.91 MJ/d for parity 2, and 10.70 MJ/d for parity 3–5. Consequently, the dietary net energy requirements for lactating sows were calculated to be 45.79 MJ/d for parity 1, 53.82 MJ/d for parity 2, and 69.25 MJ/d for parities 3–5.",
+   "authors": [
+    "Ran Ning",
+    "Yongtong Liu",
+    "Jian Li",
+    "Chenyu Shi",
+    "Zirou Yu",
+    "Siqi Tian",
+    "Fenglai Wang",
+    "Hu Liu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223695",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223690",
+   "title": "Foraging Ecology and Tree Selection in Insectivorous Bird Species in Urban Parks in Buenos Aires City, Argentina",
+   "abstract": "Urban parks serve as key refuges for insectivorous birds that depend on forested areas in cities. However, their tree cover is often dominated by exotic species, which typically provide less prey than native trees. Studies of foraging behavior of insectivorous birds remain scarce in urban environments. This study aimed to analyze the foraging behaviors of insectivorous tree-dwelling birds in parks in the Autonomous City of Buenos Aires (Argentina) to assess whether they use the same prey-capture tactics, differ in substrate use, and select exotic tree species for foraging. We conducted focal observations of insectivorous, tree-dwelling birds while they foraged. We recorded nine species and 1578 foraging attempts. The species with the most records were the Narrow-billed Woodcreeper (Lepidocolaptes angustirostris) and the Green-barred Woodpecker (Colaptes melanochloros). In general, bird species were separated by foraging tactics and substrate use. Exotic conifers and native species from other regions of Argentina proved important to the birds. Argentina’s native tree Tipuana tipu was selected by birds that feed on both its foliage and its bark. The birds exhibited foraging behaviors similar to those described in natural environments. These results suggest that environmental filters, rather than behavioral plasticity, may drive the persistence of forest-specialist birds in urban parks. We emphasize the importance of incorporating ecological criteria into species selection for urban afforestation, prioritizing trees that offer a diversity of foraging microhabitats for forest birds.",
+   "authors": [
+    "Ianina N. Godoy",
+    "Ornela V. Ganduglia",
+    "Lucas M. Leveau"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223690",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223686",
+   "title": "First Molecularly Confirmed Perkinsus olseni-Associated Mass Mortality of Manila Clams in China",
+   "abstract": "Perkinsus olseni is widespread in Manila clam (Ruditapes philippinarum) populations in China, but the relationship between infection intensity and mortality requires further field evidence. In August 2025, about 50% of cultured Manila clams died at two neighboring sites in Nantong, Jiangsu, during a period when recorded water temperatures were 29–38 °C. Clams from these sites (A1 and A4; n = 15 each) were compared with those from a reference site with similar temperatures but no mortality (MJG; n = 15). All 45 clams were positive for Perkinsus by Ray’s fluid thioglycollate medium assay, but infection intensity on Mackin’s scale was higher at A1 and A4 (3.31 ± 1.01 and 3.38 ± 0.92) than at MJG (1.71 ± 1.36; p ≤ 0.002). Intensities above 2 occurred in 28 of 30 clams from the affected sites, compared with 3 of 15 MJG clams. Affected clams contained numerous trophozoites, often in foci enclosed by hemocytes, and internal transcribed spacer sequencing confirmed P. olseni. Ostreid herpesvirus 1 was not detected, and bacterial cycle threshold (Ct) values were higher in clams from the affected sites. Molecular identification and the site-level association between higher infection intensity and mortality support surveillance that records infection intensity alongside prevalence. The field comparison does not establish causation.",
+   "authors": [
+    "Bo-Wen Huang",
+    "Mao-Le Wei",
+    "Min Chao",
+    "Xiao-Chen Li",
+    "Xiang Zhang",
+    "Chang-Ming Bai"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223686",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
