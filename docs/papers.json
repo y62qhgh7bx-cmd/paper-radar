@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:20:07+00:00",
+ "updated": "2026-11-22T02:16:31+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -2277,6 +2277,33 @@
     "disease"
    ],
    "abstract_zh": "背景：鱗落病病毒（Scale drop disease virus, SDDV）威脅新加坡的尖吻鱸（*Lates calcarifer*）養殖產業，據報幼魚死亡率高達 40–90%。在缺乏有效治療或商業疫苗的情況下，選育（selective breeding）或許能為提高抗病力提供一條可持續的長期途徑。本研究旨在量化 SDDV 抗病力的加成（additive）與顯性（dominance）遺傳變異，並評估在新加坡海上網箱經歷自然疫情的四個商業世代中的基因體預測。結果：本研究包含 1966 尾發病幼魚（116.3 ± 66.0 g）與 1962 尾存活魚（426.5 ± 249.1 g），透過 ddRADseq 進行基因型分型，經品質控制後獲得 5089 個 SNPs。本研究配適了線性與非線性混合模式，這些模式使用代表加成效應（模式 A）、將加成與顯性視為獨立效應（模式 A + D），或將加成與顯性效應合併（模式 AD）的基因體親緣關係矩陣。在模式 A 下，窄義遺傳率（narrow-sense heritability）介於 0.44 至 0.52 之間；在模式 A + D 下則介於 0.23 至 0.32 之間，其中顯性佔表型變異的 22 至 30%。廣義遺傳率（broad-sense heritability）在模式 A + D 下介於 0.45 至 0.62 之間，在模式 AD 下則介於 0.61 至 0.70 之間。模式 AD 顯示出最高的預測能力（馬修斯相關係數 [Matthews correlation coefficient] 為 0.67 至 0.75，相較於模式 A 的 0.54 至 0.57），且在線性模式下具有最低的預測誤差；然而，將顯性視為獨立成分則會降低預測能力（0.38 至 0.47）。結論：SDDV 抗病力在這些世代中顯示出顯著的遺傳變異，支持將其納入育種目標。估計值取決於遺傳模式與分析規模。將顯性納入合併效應可改善遺傳值的預測，而將顯性視為獨立成分則否。由於顯性效應無法完整傳遞給後代，加成育種值仍是選擇親魚的基礎，而顯性則可透過交配策略加以利用。"
+  },
+  {
+   "doi": "10.1080/00071668.2026.2731586",
+   "title": "Effect of enrichment, stocking density and breed on feather corticosterone, feather dehydroepiandrosterone (sulphate) and their ratio in broiler chickens",
+   "abstract": "1. Understanding how husbandry practices affect chronic stress in broiler chickens is crucial to improve animal welfare.2. This study examined the separate and combined effects of environmental enrichment, stocking density and breed on feather corticosterone and dehydroepiandrosterone (sulphate) (DHEA(S)). These are two endocrine indicators of (long-term) stress.3. In four separate 2⨯2 factorial design experiments in Poland and two separate 2⨯2 factorial design experiments in the Netherlands, broilers with different growth rates were reared under different housing conditions. These varied in enrichment types and stocking densities, representing both conventional and less intensive conditions.4. Feather corticosterone concentrations were elevated in broilers housed without environmental enrichment and/or at higher stocking densities. However, feather corticosterone was not elevated in the faster growing breeds, but rather was lower or there was no genotype effect. The effects of enrichment, stocking density, breed and their interactions were less clear for feather DHEA(S) patterns and the corticosterone/DHEA(S) ratio.5. The results suggested that, while enrichment and stocking density clearly affected stress, the role of DHEA(S) remains complex and poorly understood.6. Further research is needed to confirm if DHEA(S) in feathers is a reliable biomarker of chronic stress in broiler chickens.",
+   "authors": [
+    "I. Reimert",
+    "I. Pividori",
+    "A. Cotticelli",
+    "T. Peric",
+    "P. Sztandarski",
+    "A. Jaszczyk",
+    "M. Solka",
+    "B. Kemp",
+    "J. Marchewka",
+    "I. C. de Jong"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2731586",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 18.0,
+   "matched": [
+    "chicken",
+    "broiler"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1002/age.70211",
@@ -6271,33 +6298,6 @@
    "matched": [
     "cattle",
     "heat stress"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/00071668.2026.2731586",
-   "title": "Effect of enrichment, stocking density and breed on feather corticosterone, feather dehydroepiandrosterone (sulphate) and their ratio in broiler chickens",
-   "abstract": "",
-   "authors": [
-    "I. Reimert",
-    "I. Pividori",
-    "A. Cotticelli",
-    "T. Peric",
-    "P. Sztandarski",
-    "A. Jaszczyk",
-    "M. Solka",
-    "B. Kemp",
-    "J. Marchewka",
-    "I. C. de Jong"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2731586",
-   "date": "2026-11-20",
-   "first_seen": "2026-11-21",
-   "score": 8.0,
-   "matched": [
-    "chicken",
-    "broiler"
    ],
    "abstract_zh": ""
   },
@@ -10412,25 +10412,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223671",
-   "title": "Maternal Obesity and Insulin Dysregulation in Horses: Evidence and Research Priorities for Heavy Draft Mares",
-   "abstract": "Direct evidence linking maternal obesity or insulin dysregulation to reproductive and foal outcomes in heavy draft mares remains sparse. We used supplementary searches in Web of Science and Scopus to identify original equine studies for this narrative review. We assessed their applicability to heavy draft mares and considered pre-existing adiposity, excess energy intake, ration composition and insulin status separately. Low prebreeding body condition was associated with poorer reproductive performance. The association between obesity and conception remains uncertain. In a cohort of light-breed mares, maternal obesity was associated with lower offspring insulin sensitivity at 6 and 18 months and more frequent osteochondrosis at 12 months. Follow-up analyses found differences in colostrum fatty acid profiles and a lower proportion of capric acid in milk at day 90. Selected placental measures at term showed no clear group differences. After transfer, a smaller proportion of embryos from overfed Shetland pony donors survived to gestational day 28. In an energy- and protein-matched supplement comparison, foals of mares fed the higher-starch supplement had higher baseline glucose concentrations through 80 days of age, within the normal range. Prospective studies should assess maternal exposures separately and track reproductive, lactation and foal outcomes in heavy draft mares.",
-   "authors": [
-    "Julia Jaszczur",
-    "Nikola Suchy",
-    "Anna Rapacz-Leonard"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223671",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-20",
-   "score": 2.0,
-   "matched": [
-    "breeding"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223673",
    "title": "Short-Term Dietary Tryptophan Supplementation Attenuates Acute-Stress-Induced Inflammatory Response of Senegalese Sole (Solea senegalensis)",
    "abstract": "Several studies have demonstrated that dietary supplementation with tryptophan can enhance stress and immune tolerance, potentially counteracting the natural progression of associated physiological mechanisms. The objective of this study was to evaluate the immune response of Senegalese sole (Solea senegalensis) juveniles to short-term dietary supplementation with tryptophan (1% and 2% of feed weight, diets Trp1 and Trp2, respectively) over varying feeding durations (2, 6, or 8 days), in the context of an acute stress challenge (air exposure for three minutes). Specifically, the aim was to identify the optimal tryptophan dosage and supplementation period that could mitigate stress-induced acute inflammatory responses. The results indicate that supplementation with tryptophan at levels exceeding the species’ nutritional requirements effectively attenuates the immune activation typically observed under acute stress. This effect was evidenced by a reduction in both plasma immune parameters and the expression of key immune-related genes, particularly in fish fed Trp2 diet. Additionally, the duration of supplementation played a critical role, with more pronounced attenuation of inflammatory mechanisms observed with longer feeding periods, especially at 8 days. The most significant reduction in stress-induced immune activation was observed in fish subjected to the Trp2 diet for 8 days, as supported by canonical discriminant analysis of molecular markers. Correlation analyses further suggest that the consumption of tryptophan by macrophages via indoleamine 2,3-dioxygenase 2 (IDO2) activity, through the kynurenine pathway and its associated anti-inflammatory effects, is a key mechanism underlying the observed immune modulation. In conclusion, dietary tryptophan supplementation, particularly at 2% of feed weight for 8 days, may modulate stress-related inflammatory responses in Senegalese sole. Interpretation of the findings should be approached with caution given the limitations of the trial design and the relatively high variability observed across outcomes. Nonetheless, these findings suggest that short-term dietary tryptophan supplementation could be a potential nutritional strategy to influence physiological responses to acute stress in aquaculture, although further studies are needed to confirm its effects and practical applicability.",
@@ -10455,22 +10436,21 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223694",
-   "title": "Dietary Supplementation with 1.2% Fulvic Acid Improves Growth Performance and Reshapes the Hepatopancreatic Transcriptome of the Cold-Water Cyprinid Schizothorax wangchiachii",
-   "abstract": "Fulvic acid (FA), a low-molecular-weight fraction of humic substances, is increasingly used as a natural growth-promoting additive in aquaculture, but the molecular mechanisms underlying its effects on fish metabolism remain poorly understood. A preliminary 120-day dose-selection trial with 0, 0.4%, 0.8%, 1.2%, and 1.6% dietary FA identified 1.2% as the optimal inclusion level. In the subsequent main trial, 300 juvenile Schizothorax wangchiachii (initial body weight 3.87 ± 1.76 g) were randomly assigned to six indoor tanks (50 fish per tank, three replicate tanks per treatment) and fed either a control diet (CT) or the same diet supplemented with 1.2% FA (HC) three times daily at 2–3% of tank biomass for 120 days. Growth performance was recorded from ten fish per tank (n = 30 per treatment), and the hepatopancreatic transcriptomes of the two groups were compared using RNA sequencing (RNA-Seq) of six cDNA libraries (three pooled samples per treatment, each pool comprising the hepatopancreas of five fish from one replicate tank). Fish fed the HC diet achieved a weight gain rate (WGR) of 518.05 ± 110.67%, which was significantly higher than that of the CT group (285.00 ± 75.15%, p &lt; 0.001), with no significant difference in survival rate (86.00 ± 2.00% vs. 88.00 ± 2.00%, p = 0.288). Sequencing yielded 39.66 Gb of clean data (Q30 &gt; 92%) and 41,771 unigenes with an average length of 1321 bp. A total of 6583 differentially expressed genes (DEGs) were identified (|log2FC| &gt; 1 and q &lt; 0.05), of which 3049 were up-regulated and 3534 were down-regulated in the HC group. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses showed that the DEGs were predominantly involved in carbohydrate metabolism, energy metabolism, amino acid metabolism, and lipid metabolism. The DEGs related to glycolysis/gluconeogenesis, the tricarboxylic acid cycle, oxidative phosphorylation, fatty acid elongation and degradation, and the pentose phosphate pathway were mostly up-regulated in the HC group, whereas several genes involved in amino acid catabolism, such as aspartate aminotransferase, glutaminase, and arginase-1, were down-regulated. Quantitative real-time PCR (qRT-PCR) validation of eight randomly selected DEGs confirmed the reliability of the RNA-Seq data. Our results indicate that dietary FA promotes the growth of S. wangchiachii by enhancing hepatic nutrient oxidation and energy production, and provide new insights into the molecular basis of FA as a functional feed additive in cold-water fish aquaculture.",
+   "doi": "10.3390/ani16223671",
+   "title": "Maternal Obesity and Insulin Dysregulation in Horses: Evidence and Research Priorities for Heavy Draft Mares",
+   "abstract": "Direct evidence linking maternal obesity or insulin dysregulation to reproductive and foal outcomes in heavy draft mares remains sparse. We used supplementary searches in Web of Science and Scopus to identify original equine studies for this narrative review. We assessed their applicability to heavy draft mares and considered pre-existing adiposity, excess energy intake, ration composition and insulin status separately. Low prebreeding body condition was associated with poorer reproductive performance. The association between obesity and conception remains uncertain. In a cohort of light-breed mares, maternal obesity was associated with lower offspring insulin sensitivity at 6 and 18 months and more frequent osteochondrosis at 12 months. Follow-up analyses found differences in colostrum fatty acid profiles and a lower proportion of capric acid in milk at day 90. Selected placental measures at term showed no clear group differences. After transfer, a smaller proportion of embryos from overfed Shetland pony donors survived to gestational day 28. In an energy- and protein-matched supplement comparison, foals of mares fed the higher-starch supplement had higher baseline glucose concentrations through 80 days of age, within the normal range. Prospective studies should assess maternal exposures separately and track reproductive, lactation and foal outcomes in heavy draft mares.",
    "authors": [
-    "Junming Zhou",
-    "Yanzhen Dong",
-    "Dongming Qi",
-    "Jinfeng Zhao"
+    "Julia Jaszczur",
+    "Nikola Suchy",
+    "Anna Rapacz-Leonard"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223694",
-   "date": "2026-11-20",
-   "first_seen": "2026-11-21",
+   "url": "https://doi.org/10.3390/ani16223671",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
    "score": 2.0,
    "matched": [
-    "amino acid"
+    "breeding"
    ],
    "abstract_zh": ""
   },
@@ -10489,6 +10469,26 @@
    "matched": [
     "nutrition",
     "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223694",
+   "title": "Dietary Supplementation with 1.2% Fulvic Acid Improves Growth Performance and Reshapes the Hepatopancreatic Transcriptome of the Cold-Water Cyprinid Schizothorax wangchiachii",
+   "abstract": "Fulvic acid (FA), a low-molecular-weight fraction of humic substances, is increasingly used as a natural growth-promoting additive in aquaculture, but the molecular mechanisms underlying its effects on fish metabolism remain poorly understood. A preliminary 120-day dose-selection trial with 0, 0.4%, 0.8%, 1.2%, and 1.6% dietary FA identified 1.2% as the optimal inclusion level. In the subsequent main trial, 300 juvenile Schizothorax wangchiachii (initial body weight 3.87 ± 1.76 g) were randomly assigned to six indoor tanks (50 fish per tank, three replicate tanks per treatment) and fed either a control diet (CT) or the same diet supplemented with 1.2% FA (HC) three times daily at 2–3% of tank biomass for 120 days. Growth performance was recorded from ten fish per tank (n = 30 per treatment), and the hepatopancreatic transcriptomes of the two groups were compared using RNA sequencing (RNA-Seq) of six cDNA libraries (three pooled samples per treatment, each pool comprising the hepatopancreas of five fish from one replicate tank). Fish fed the HC diet achieved a weight gain rate (WGR) of 518.05 ± 110.67%, which was significantly higher than that of the CT group (285.00 ± 75.15%, p &lt; 0.001), with no significant difference in survival rate (86.00 ± 2.00% vs. 88.00 ± 2.00%, p = 0.288). Sequencing yielded 39.66 Gb of clean data (Q30 &gt; 92%) and 41,771 unigenes with an average length of 1321 bp. A total of 6583 differentially expressed genes (DEGs) were identified (|log2FC| &gt; 1 and q &lt; 0.05), of which 3049 were up-regulated and 3534 were down-regulated in the HC group. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses showed that the DEGs were predominantly involved in carbohydrate metabolism, energy metabolism, amino acid metabolism, and lipid metabolism. The DEGs related to glycolysis/gluconeogenesis, the tricarboxylic acid cycle, oxidative phosphorylation, fatty acid elongation and degradation, and the pentose phosphate pathway were mostly up-regulated in the HC group, whereas several genes involved in amino acid catabolism, such as aspartate aminotransferase, glutaminase, and arginase-1, were down-regulated. Quantitative real-time PCR (qRT-PCR) validation of eight randomly selected DEGs confirmed the reliability of the RNA-Seq data. Our results indicate that dietary FA promotes the growth of S. wangchiachii by enhancing hepatic nutrient oxidation and energy production, and provide new insights into the molecular basis of FA as a functional feed additive in cold-water fish aquaculture.",
+   "authors": [
+    "Junming Zhou",
+    "Yanzhen Dong",
+    "Dongming Qi",
+    "Jinfeng Zhao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223694",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 2.0,
+   "matched": [
+    "amino acid"
    ],
    "abstract_zh": ""
   },
@@ -13970,19 +13970,6 @@
    "abstract_zh": "犬隻急性胰臟炎會引起劇烈腹痛，通常以全身性類鴉片藥物治療，但此類藥物可能妨礙胃腸道蠕動並延遲復原。本前瞻性臨床通訊旨在評估超音波引導下腹橫肌平面阻斷術納入急性胰臟炎犬隻多模式止痛方案中的類鴉片藥物節省效果及臨床結果。12隻犬隻被分配至局部區域阻斷組（n = 6）與以類鴉片藥物治療的對照組（n = 6），兩組依入院時記錄的五項嚴重程度評分進行配對。主要評估指標為納入後最初24小時內的類鴉片藥物消耗量；次要評估指標包括同期疼痛情況、首次自主攝食時間、住院天數及發炎反應。阻斷組接受的美沙酮劑數顯著較少（中位數 0 比 4.5；p = 0.015），且6隻犬中有5隻在納入劑量後無需額外使用美沙酮。阻斷組在最初24小時內的累積疼痛評分也顯著較低（p = 0.037）。阻斷組的首次自主攝食時間較短（12比48小時；p = 0.02）。住院天數或存活率則無顯著差異。將腹橫肌平面阻斷術加入多模式方案中，與顯著的類鴉片藥物節省效果相關，並能促進較早的自主攝食，惟這些初步結果仍需大型研究進一步確認。"
   },
   {
-   "doi": "10.1080/00439339.2026.2750664",
-   "title": "Education and Training",
-   "abstract": "For the most current information, please visit the Calendar on the website (www.wpsa.com).WVEPAH is a branch of the “European Association for Veterinary Specialization” (EAVS), a non-profit organiz...",
-   "authors": [],
-   "journal": "World's Poultry Science Journal",
-   "url": "https://doi.org/10.1080/00439339.2026.2750664",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-11",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "欲了解最新資訊，請造訪網站上的行事曆 (www.wpsa.com)。WVEPAH 是「歐洲獸醫專科學會」(European Association for Veterinary Specialization, EAVS) 的分支機構，EAVS 是一個非營利組織……"
-  },
-  {
    "doi": "10.1080/00439339.2026.2750663",
    "title": "Calendar",
    "abstract": "",
@@ -13994,6 +13981,19 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "欲獲取最新資訊，請造訪網站上的行事曆（www.wpsa.com）。2027年2月1日至3日澳洲雪梨雪梨大學第38屆澳洲家禽科學研討會（APSS）20..."
+  },
+  {
+   "doi": "10.1080/00439339.2026.2750664",
+   "title": "Education and Training",
+   "abstract": "For the most current information, please visit the Calendar on the website (www.wpsa.com).WVEPAH is a branch of the “European Association for Veterinary Specialization” (EAVS), a non-profit organiz...",
+   "authors": [],
+   "journal": "World's Poultry Science Journal",
+   "url": "https://doi.org/10.1080/00439339.2026.2750664",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "欲了解最新資訊，請造訪網站上的行事曆 (www.wpsa.com)。WVEPAH 是「歐洲獸醫專科學會」(European Association for Veterinary Specialization, EAVS) 的分支機構，EAVS 是一個非營利組織……"
   },
   {
    "doi": "10.3390/ani16223553",
@@ -14781,28 +14781,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223659",
-   "title": "Study on the Lysine Requirement of Replacement Gilts During the Rearing Period",
-   "abstract": "This study aimed to determine the optimal dietary standardized ileal digestible lysine (SID-Lys) supply level for DanBred replacement gilts during the rearing period. In total, 243 DanBred Landrace × Yorkshire crossbred gilts at approximately 120 days of age were randomly assigned to five dietary treatments (T1–T5), with five replicate pens per treatment (9–12 gilts per pen). Treatments were arranged in a two-phase feeding program: phase 1 (120–156 d) contained graded SID-Lys concentrations of 0.55%, 0.60%, 0.65%, 0.70%, and 0.75%, and phase 2 (157 d to puberty) contained 0.40%, 0.45%, 0.50%, 0.55%, and 0.60% SID-Lys, respectively. Initial body weight was balanced across treatments (p &gt; 0.05) with homogeneous variance. Gilts were group-housed in a mechanically ventilated barn (20–25 °C; 12 h light:12 h dark photoperiod), with an allocated floor space of 1.5–2.0 m2 per gilt. Growth performance, estrus rate, puberty and first-mating parameters, and reproductive performance over the first two parities were measured. Increasing the dietary SID-Lys level significantly increased the average daily gain of gilts in each phase and over the entire rearing period (p &lt; 0.01), with significant linear and quadratic effects, and T4 showed the best growth performance. Dietary SID-Lys level had no significant effect on the estrus rate before 180, 200, or 220 d of age or on the age at puberty and at first mating (p &gt; 0.05). However, body weight at puberty, body weight at first mating, and backfat thickness at first mating increased significantly with increasing SID-Lys level (p &lt; 0.05). The average number of weaned piglets per sow over the first two parities was highest in T3 (23.45), significantly higher than in T1, T4, and T5 (p = 0.021), and the retention rates of T3 in parities 1 and 2 (95.74% and 85.11%) were both significantly higher than those of T1, T4, and T5 (p &lt; 0.05), whereas T4, which grew fastest, had the poorest reproductive performance. In summary, growth performance and reproductive performance showed an “uncoupling” in their responses to lysine, and the dietary SID-Lys level giving the best overall reproductive outcome was 0.65% in phase 1 and 0.50% in phase 2 (T3). Future studies should evaluate gilt SID-Lys requirements under different growth rates and target body composition benchmarks, and explore interactive effects between lysine supply and body energy reserves on long-term reproductive persistence in hyperprolific sow lines.",
-   "authors": [
-    "Junwen Wang",
-    "Jiajian Tan",
-    "Haiqing Sun",
-    "Haidi Jiang",
-    "Pengfei Cao",
-    "Hongkui Wei",
-    "Jian Peng",
-    "Yuanfei Zhou"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223659",
-   "date": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223655",
    "title": "Early Weaning Induces Transcriptional Reprogramming of Intestinal Upper Villus Epithelial Cells in Piglets During Post-Weaning Days",
    "abstract": "Early weaning often leads to intestinal dysfunction in piglets, while the molecular mechanisms underlying the epithelial cell renewal that is critical for maintaining intestinal mucosal homeostasis remain poorly understood. In this study, we isolated the IUVECs from the crypt–villus axis of piglet jejunum using divalent chelation-based precipitation technique. To capture the transcriptional dynamics of IUVECs under weaning stress, RNA-seq was performed on IUVECs at five time points, including 21-day-old suckling period (control) and PWD 1, 3, 7, and 14, with five biological replicates per time point (n = 5). A total of 18,852 genes were identified across all libraries. Compared with the control, we detected 31, 77, 154, and 112 DEGs at PWD 1, 3, 7, and 14, respectively, mainly involving apoptosis, oxidative stress, immune response, metabolic pathways, and hormone secretion regulation categories. Among these, PLA2G2A showed the greatest increase in expression, while CYCS expression levels rose significantly on PWD 3 and reached their peak on PWD 7; these transcriptional patterns suggest that weaning stress may drive transcriptional reprogramming in IUVECs through transcriptomic changes associated with inflammatory and apoptotic signaling. Gene Ontology (GO) analysis showed that the DEGs predominantly participate in cellular and metabolic processes, response to stimuli, and binding activities. KEGG pathway analysis revealed a temporal pattern of transcriptional changes characterized by an initial phase of enrichment of transcripts associated with immune activation (PWD 1–3), a subsequent phase reflecting transcriptional metabolic changes (PWD 7), and a final phase of transcripts associated with immune-metabolic processes (PWD 14). The qRT-PCR validation of eight DEGs associated with oxidative stress, inflammation, apoptosis, and metabolism supported the transcriptional patterns identified by RNA-seq. Taken together, our results reveal genome-wide transcriptional reprogramming of IUVECs from acute immune defense to metabolic-immune readjustment, and provide transcriptome-level insights into the adaptation of the piglet intestinal mucosa to early weaning stress.",
@@ -14835,6 +14813,28 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16223661",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223659",
+   "title": "Study on the Lysine Requirement of Replacement Gilts During the Rearing Period",
+   "abstract": "This study aimed to determine the optimal dietary standardized ileal digestible lysine (SID-Lys) supply level for DanBred replacement gilts during the rearing period. In total, 243 DanBred Landrace × Yorkshire crossbred gilts at approximately 120 days of age were randomly assigned to five dietary treatments (T1–T5), with five replicate pens per treatment (9–12 gilts per pen). Treatments were arranged in a two-phase feeding program: phase 1 (120–156 d) contained graded SID-Lys concentrations of 0.55%, 0.60%, 0.65%, 0.70%, and 0.75%, and phase 2 (157 d to puberty) contained 0.40%, 0.45%, 0.50%, 0.55%, and 0.60% SID-Lys, respectively. Initial body weight was balanced across treatments (p &gt; 0.05) with homogeneous variance. Gilts were group-housed in a mechanically ventilated barn (20–25 °C; 12 h light:12 h dark photoperiod), with an allocated floor space of 1.5–2.0 m2 per gilt. Growth performance, estrus rate, puberty and first-mating parameters, and reproductive performance over the first two parities were measured. Increasing the dietary SID-Lys level significantly increased the average daily gain of gilts in each phase and over the entire rearing period (p &lt; 0.01), with significant linear and quadratic effects, and T4 showed the best growth performance. Dietary SID-Lys level had no significant effect on the estrus rate before 180, 200, or 220 d of age or on the age at puberty and at first mating (p &gt; 0.05). However, body weight at puberty, body weight at first mating, and backfat thickness at first mating increased significantly with increasing SID-Lys level (p &lt; 0.05). The average number of weaned piglets per sow over the first two parities was highest in T3 (23.45), significantly higher than in T1, T4, and T5 (p = 0.021), and the retention rates of T3 in parities 1 and 2 (95.74% and 85.11%) were both significantly higher than those of T1, T4, and T5 (p &lt; 0.05), whereas T4, which grew fastest, had the poorest reproductive performance. In summary, growth performance and reproductive performance showed an “uncoupling” in their responses to lysine, and the dietary SID-Lys level giving the best overall reproductive outcome was 0.65% in phase 1 and 0.50% in phase 2 (T3). Future studies should evaluate gilt SID-Lys requirements under different growth rates and target body composition benchmarks, and explore interactive effects between lysine supply and body energy reserves on long-term reproductive persistence in hyperprolific sow lines.",
+   "authors": [
+    "Junwen Wang",
+    "Jiajian Tan",
+    "Haiqing Sun",
+    "Haidi Jiang",
+    "Pengfei Cao",
+    "Hongkui Wei",
+    "Jian Peng",
+    "Yuanfei Zhou"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223659",
    "date": "2026-11-18",
    "first_seen": "2026-11-19",
    "score": 0.0,
@@ -14899,43 +14899,21 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223668",
-   "title": "Phylogenetic Relationships and Geographic Variation in Southeast Asian Hampala Fishes Based on Mitochondrial CO1 Sequences",
-   "abstract": "Genetic relationships and population structure of Southeast Asian Hampala fishes remain inadequately resolved. We analyzed 645-bp mitochondrial cytochrome c oxidase subunit 1 (CO1) sequences from 184 specimens collected in Thailand and Lao PDR, comprising 100 H. macrolepidota, 81 H. dispar, two H. salweenensis, and one H. siamensis, together with reference sequences. The single specimen provisionally identified as H. siamensis was placed among CO1 sequences assigned to H. macrolepidota. Newly generated sequences yielded 10 haplotypes in H. macrolepidota and three in H. dispar, with haplotype diversities of 0.568 and 0.503 and nucleotide diversities of 0.0023 and 0.0009, respectively. River-connectivity groups explained 84.08% of the variation in H. macrolepidota (FCT = 0.84080, p &lt; 0.02639), whereas catchments explained only 3.04% in H. dispar (FCT = 0.03043, p = 0.27664), which nevertheless exhibited significant differentiation among localities within catchments. Regional H. macrolepidota groups differed by 2.64% uncorrected distance, while H. siamensis was not clearly separated from H. macrolepidota. These findings revealed contrasting mitochondrial population structure and support further integrative assessment of Hampala diversity and conservation priorities.",
+   "doi": "10.3390/ani16223669",
+   "title": "Mitigating Hepatic Steatosis and Oxidative Stress: The Role of Dietary Taurine in Juvenile Black Seabream Fed a High-Fat Diet",
+   "abstract": "High-fat diets are widely used in aquaculture but can induce hepatic steatosis and oxidative injury. This study evaluated whether dietary taurine (Tau) alleviates high-fat diet (HFD)-induced metabolic and hepatic stress in juvenile black seabream (Acanthopagrus schlegelii). Fish were fed for eight weeks with a control diet (11.17% crude lipid), an HFD (17.72% crude lipid), or the HFD supplemented with 2.5, 5, or 10 g/kg Tau. Tau improved weight gain and specific growth rate, reduced intraperitoneal fat, and increased hepatic and muscle Tau concentrations. Compared with the HFD, Tau significantly reduced serum ALT activity, while AST activity showed only a numerical decrease without a significant difference from the HFD group. Tau also modulated serum lipid-related parameters and promoted postprandial normalization of triglyceride and total cholesterol levels. Histological, Oil Red O, and ultrastructural analyses showed reduced hepatic lipid deposition and alleviated ultrastructural alterations. Tau suppressed the expression of lipogenic genes (srebp-1c and fas) and increased the expression of sirt1, lpl, and atgl, whereas pparα showed only a numerical increase without a significant overall treatment effect. Tau also decreased hepatic ROS and MDA levels, improved antioxidant status, and enhanced Nrf2/Keap1-associated antioxidant regulation, as reflected by increased Nrf2 and decreased Keap1 protein abundance. Tau also moderated inflammatory and apoptosis-related molecular responses, accompanied by reduced hepatic Jnk protein abundance. Overall, dietary Tau improved lipid utilization and hepatic redox homeostasis, supporting its potential as a functional additive for high-fat aquafeeds.",
    "authors": [
-    "Weerachai Saijuntha",
-    "Warayutt Pilap",
-    "Kotchaphon Vaisusuk",
-    "Wasupon Chatan",
-    "Komgrit Wongpakam",
-    "Khamla Inkhavilay",
-    "Chavanut Jaroenchaiwattanachote",
-    "Watee Kongbuntad",
-    "Wittaya Tawong",
-    "Jatupon Saijuntha",
-    "Ross H. Andrews",
-    "Chairat Tantrawatpan"
+    "Yangguang Bao",
+    "Bingqian Yang",
+    "Wenli Zhao",
+    "Hongyu Peng",
+    "Tingting Zhu",
+    "Peng Sun",
+    "Qicun Zhou",
+    "Min Jin"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223668",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223674",
-   "title": "Advancing Non-Destructive Ovarian Maturity Classification in Live Female Mud Crabs Through Deep Learning and Expert Visual Assessment",
-   "abstract": "Reliable ovarian maturity assessment can support harvest decisions in cultured female mud crabs (Scylla paramamosain), but evaluating internal ovarian development non-destructively remains challenging. This study developed and evaluated a convolutional neural network (CNN)-based framework for binary ovarian maturity classification from smartphone-acquired RGB images without handcrafted feature extraction. Classification performance was systematically compared across two imaging modes: dorsal transillumination imaging (DTI) and flashlight-assisted imaging (FAI). The dataset comprised 2000 images (1000 per mode), with reference labels assigned by expert consensus. Five CNN architectures were evaluated under matched-condition, cross-condition, and combined-development settings, with five runs per architecture and development setting. Under matched conditions, VGG16 achieved the highest mean accuracy for DTI (0.9933), whereas DenseNet121 achieved the highest for FAI (0.9893). Cross-condition accuracies ranged from 0.7187 to 0.8947 for DTI→FAI and from 0.6907 to 0.8067 for FAI→DTI. Under combined DTI+FAI development, the highest mean accuracies were 0.9920 on DTI (VGG16) and 0.9947 on FAI (MobileNetV2). Combined development yielded higher mean accuracy than cross-condition evaluation on the same test subset for all five architectures. These findings characterize CNN performance across the evaluated imaging modes and may inform future non-destructive ovarian maturity assessment tools.",
-   "authors": [
-    "Guoxiang Huang",
-    "Kunlapat Thongkaew",
-    "Supapan Chaiprapat",
-    "Nutt Nuntapong"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223674",
+   "url": "https://doi.org/10.3390/ani16223669",
    "date": "2026-11-19",
    "first_seen": "2026-11-20",
    "score": 0.0,
@@ -14955,6 +14933,28 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16223678",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223666",
+   "title": "Molecular Basis of the Attraction of Crown-of-Thorns Starfish Acanthaster solaris to Semiochemicals",
+   "abstract": "The crown-of-thorns starfish (COTS, Acanthaster spp.) is one of the most significant biological drivers of coral reef degradation in the Indo-Pacific region. Increasing evidence suggests that semiochemicals released by prey (i.e., corals) may play important roles in mediating COTS aggregation. In this study, behavioral and transcriptomic analyses were combined to investigate the attraction of sustained release agents of semiochemicals derived from coral extract (Pocillopora damicornis, Pd), oyster tissue (Crassostrea gigas, Cg), glutamate (Glu), and aspartate (Asp) for COTS. It was found that COTS were attracted to the semiochemicals, while Pd exhibited the shortest moving distance, moving time, and longer residence time. Transcriptomic analysis revealed that Pd activated sensory recognition and neural signal transduction in the sensory tentacles (tubes at the top of the feet) of COTS. WGCNA further identified gene modules associated with GPCR signaling, GABA signaling, neuroactive ligand–receptor interaction and motor protein regulation, suggesting that the semiochemical sensing in COTS may be mediated by a potential regulatory mechanism involving the GABAergic neuroendocrine system, as well as chemosensory receptors (most of which were GPCRs). However, their functional involvement in semiochemical-induced attraction remains to be experimentally validated. Collectively, this study demonstrates the attraction potential of coral extract semiochemical formulations for COTS and provides preliminary molecular insights into the candidate pathways potentially associated with chemosensory perception and movement responses. These findings may contribute to the development of sustained release agents for COTS management.",
+   "authors": [
+    "Zhiwei Zhang",
+    "Yunjie Zhu",
+    "Kai Tang",
+    "Qin Chen",
+    "Yize Weng",
+    "Yi Wang",
+    "Zhaoqun Liu",
+    "Zhi Zhou"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223666",
    "date": "2026-11-19",
    "first_seen": "2026-11-20",
    "score": 0.0,
@@ -15000,21 +15000,17 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223666",
-   "title": "Molecular Basis of the Attraction of Crown-of-Thorns Starfish Acanthaster solaris to Semiochemicals",
-   "abstract": "The crown-of-thorns starfish (COTS, Acanthaster spp.) is one of the most significant biological drivers of coral reef degradation in the Indo-Pacific region. Increasing evidence suggests that semiochemicals released by prey (i.e., corals) may play important roles in mediating COTS aggregation. In this study, behavioral and transcriptomic analyses were combined to investigate the attraction of sustained release agents of semiochemicals derived from coral extract (Pocillopora damicornis, Pd), oyster tissue (Crassostrea gigas, Cg), glutamate (Glu), and aspartate (Asp) for COTS. It was found that COTS were attracted to the semiochemicals, while Pd exhibited the shortest moving distance, moving time, and longer residence time. Transcriptomic analysis revealed that Pd activated sensory recognition and neural signal transduction in the sensory tentacles (tubes at the top of the feet) of COTS. WGCNA further identified gene modules associated with GPCR signaling, GABA signaling, neuroactive ligand–receptor interaction and motor protein regulation, suggesting that the semiochemical sensing in COTS may be mediated by a potential regulatory mechanism involving the GABAergic neuroendocrine system, as well as chemosensory receptors (most of which were GPCRs). However, their functional involvement in semiochemical-induced attraction remains to be experimentally validated. Collectively, this study demonstrates the attraction potential of coral extract semiochemical formulations for COTS and provides preliminary molecular insights into the candidate pathways potentially associated with chemosensory perception and movement responses. These findings may contribute to the development of sustained release agents for COTS management.",
+   "doi": "10.3390/ani16223674",
+   "title": "Advancing Non-Destructive Ovarian Maturity Classification in Live Female Mud Crabs Through Deep Learning and Expert Visual Assessment",
+   "abstract": "Reliable ovarian maturity assessment can support harvest decisions in cultured female mud crabs (Scylla paramamosain), but evaluating internal ovarian development non-destructively remains challenging. This study developed and evaluated a convolutional neural network (CNN)-based framework for binary ovarian maturity classification from smartphone-acquired RGB images without handcrafted feature extraction. Classification performance was systematically compared across two imaging modes: dorsal transillumination imaging (DTI) and flashlight-assisted imaging (FAI). The dataset comprised 2000 images (1000 per mode), with reference labels assigned by expert consensus. Five CNN architectures were evaluated under matched-condition, cross-condition, and combined-development settings, with five runs per architecture and development setting. Under matched conditions, VGG16 achieved the highest mean accuracy for DTI (0.9933), whereas DenseNet121 achieved the highest for FAI (0.9893). Cross-condition accuracies ranged from 0.7187 to 0.8947 for DTI→FAI and from 0.6907 to 0.8067 for FAI→DTI. Under combined DTI+FAI development, the highest mean accuracies were 0.9920 on DTI (VGG16) and 0.9947 on FAI (MobileNetV2). Combined development yielded higher mean accuracy than cross-condition evaluation on the same test subset for all five architectures. These findings characterize CNN performance across the evaluated imaging modes and may inform future non-destructive ovarian maturity assessment tools.",
    "authors": [
-    "Zhiwei Zhang",
-    "Yunjie Zhu",
-    "Kai Tang",
-    "Qin Chen",
-    "Yize Weng",
-    "Yi Wang",
-    "Zhaoqun Liu",
-    "Zhi Zhou"
+    "Guoxiang Huang",
+    "Kunlapat Thongkaew",
+    "Supapan Chaiprapat",
+    "Nutt Nuntapong"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223666",
+   "url": "https://doi.org/10.3390/ani16223674",
    "date": "2026-11-19",
    "first_seen": "2026-11-20",
    "score": 0.0,
@@ -15022,21 +15018,25 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223669",
-   "title": "Mitigating Hepatic Steatosis and Oxidative Stress: The Role of Dietary Taurine in Juvenile Black Seabream Fed a High-Fat Diet",
-   "abstract": "High-fat diets are widely used in aquaculture but can induce hepatic steatosis and oxidative injury. This study evaluated whether dietary taurine (Tau) alleviates high-fat diet (HFD)-induced metabolic and hepatic stress in juvenile black seabream (Acanthopagrus schlegelii). Fish were fed for eight weeks with a control diet (11.17% crude lipid), an HFD (17.72% crude lipid), or the HFD supplemented with 2.5, 5, or 10 g/kg Tau. Tau improved weight gain and specific growth rate, reduced intraperitoneal fat, and increased hepatic and muscle Tau concentrations. Compared with the HFD, Tau significantly reduced serum ALT activity, while AST activity showed only a numerical decrease without a significant difference from the HFD group. Tau also modulated serum lipid-related parameters and promoted postprandial normalization of triglyceride and total cholesterol levels. Histological, Oil Red O, and ultrastructural analyses showed reduced hepatic lipid deposition and alleviated ultrastructural alterations. Tau suppressed the expression of lipogenic genes (srebp-1c and fas) and increased the expression of sirt1, lpl, and atgl, whereas pparα showed only a numerical increase without a significant overall treatment effect. Tau also decreased hepatic ROS and MDA levels, improved antioxidant status, and enhanced Nrf2/Keap1-associated antioxidant regulation, as reflected by increased Nrf2 and decreased Keap1 protein abundance. Tau also moderated inflammatory and apoptosis-related molecular responses, accompanied by reduced hepatic Jnk protein abundance. Overall, dietary Tau improved lipid utilization and hepatic redox homeostasis, supporting its potential as a functional additive for high-fat aquafeeds.",
+   "doi": "10.3390/ani16223668",
+   "title": "Phylogenetic Relationships and Geographic Variation in Southeast Asian Hampala Fishes Based on Mitochondrial CO1 Sequences",
+   "abstract": "Genetic relationships and population structure of Southeast Asian Hampala fishes remain inadequately resolved. We analyzed 645-bp mitochondrial cytochrome c oxidase subunit 1 (CO1) sequences from 184 specimens collected in Thailand and Lao PDR, comprising 100 H. macrolepidota, 81 H. dispar, two H. salweenensis, and one H. siamensis, together with reference sequences. The single specimen provisionally identified as H. siamensis was placed among CO1 sequences assigned to H. macrolepidota. Newly generated sequences yielded 10 haplotypes in H. macrolepidota and three in H. dispar, with haplotype diversities of 0.568 and 0.503 and nucleotide diversities of 0.0023 and 0.0009, respectively. River-connectivity groups explained 84.08% of the variation in H. macrolepidota (FCT = 0.84080, p &lt; 0.02639), whereas catchments explained only 3.04% in H. dispar (FCT = 0.03043, p = 0.27664), which nevertheless exhibited significant differentiation among localities within catchments. Regional H. macrolepidota groups differed by 2.64% uncorrected distance, while H. siamensis was not clearly separated from H. macrolepidota. These findings revealed contrasting mitochondrial population structure and support further integrative assessment of Hampala diversity and conservation priorities.",
    "authors": [
-    "Yangguang Bao",
-    "Bingqian Yang",
-    "Wenli Zhao",
-    "Hongyu Peng",
-    "Tingting Zhu",
-    "Peng Sun",
-    "Qicun Zhou",
-    "Min Jin"
+    "Weerachai Saijuntha",
+    "Warayutt Pilap",
+    "Kotchaphon Vaisusuk",
+    "Wasupon Chatan",
+    "Komgrit Wongpakam",
+    "Khamla Inkhavilay",
+    "Chavanut Jaroenchaiwattanachote",
+    "Watee Kongbuntad",
+    "Wittaya Tawong",
+    "Jatupon Saijuntha",
+    "Ross H. Andrews",
+    "Chairat Tantrawatpan"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223669",
+   "url": "https://doi.org/10.3390/ani16223668",
    "date": "2026-11-19",
    "first_seen": "2026-11-20",
    "score": 0.0,
@@ -15080,25 +15080,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223691",
-   "title": "Between Public Service and Animal Welfare: The Legal Protection of Working Dogs in Polish Customs and Tax Service",
-   "abstract": "Working dogs employed by the Polish Customs and Tax Service perform specialized tasks in customs control and fiscal enforcement, including the detection of prohibited and undeclared goods. Their public-service role raises important questions concerning the adequacy of the legal framework governing their welfare. This study examines the legal protection of working dogs in the Polish Customs and Tax Service and assesses whether applicable regulations provide comprehensive safeguards throughout their service life. The analysis is based on a doctrinal examination of Polish legislation concerning animal protection, the organization and functioning of the Customs and Tax Service, and the status of service animals, supplemented by an assessment of relevant institutional and welfare standards. The study combines a legal-dogmatic analysis of Polish legislation and relevant animal welfare literature with empirical research based on information obtained from the Polish Customs and Tax Service under the Polish Act on Access to Public Information. The empirical data for the years 2025–February 2026, collected in 2026, are assessed against established animal welfare standards, including the Five Domains Model. The study identifies regulatory fragmentation concerning working conditions, workload, veterinary care, training, retirement, and post-service arrangements. Although Polish law establishes a general duty to protect animals from suffering and contains specific provisions concerning service animals, the existing framework remains primarily oriented toward the operational function of working dogs rather than their welfare. The findings indicate a need for greater coherence between animal-welfare legislation and sector-specific regulations. Clearer standards for working conditions, preventive veterinary care, rehabilitation, retirement, and post-service protection could strengthen the welfare-oriented regulation of public-service dogs.",
-   "authors": [
-    "Anna Haładyj",
-    "Emil Kruk",
-    "Marta Sagan-Martko",
-    "Ireneusz Nowak",
-    "Adriana Nowak"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223691",
-   "date": "2026-11-20",
-   "first_seen": "2026-11-21",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223695",
    "title": "Determination of Maintenance Requirements and Dietary Net Energy in Lactating Sows of Different Parities Using Respiratory Calorimetry Chambers",
    "abstract": "This study examines the influence of parity on the dietary net energy requirements of lactating sows. A total of 36 lactating sows (Yorkshire × Landrace) were selected and divided into three treatment groups based on parity: parity 1, parity 2, and parity 3–5. All groups were fed a corn–soybean meal diet. A digestibility and metabolism trial was conducted during days 12 to 14 of lactation. The fasting heat production of the sows was measured using an open-circuit respiratory calorimetry system. The digestibility of acid detergent fiber (ADF) and neutral detergent fiber (NDF) was significantly higher (p &lt; 0.05) in lactating sows of parities 3–5 than in those of parities 1 and 2. The results showed that the net energy requirements for milk production of lactating sows were 46.37 MJ/d for parity 1, 50.46 MJ/d for parity 2, and 59.30 MJ/d for parity 3–5. The net energy requirements for the maintenance of metabolic weight of lactating sows were 420.32 kJ/kg BW0.75/d for parity 1, 381.35 kJ/kg BW0.75/d for parity 2, and 379.19 kJ/kg BW 0.75/d for parities 3–5. The net energy from weight loss of lactating sows was 19.50 MJ/d for parity 1, 15.91 MJ/d for parity 2, and 10.70 MJ/d for parity 3–5. Consequently, the dietary net energy requirements for lactating sows were calculated to be 45.79 MJ/d for parity 1, 53.82 MJ/d for parity 2, and 69.25 MJ/d for parities 3–5.",
@@ -15114,6 +15095,25 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16223695",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223691",
+   "title": "Between Public Service and Animal Welfare: The Legal Protection of Working Dogs in Polish Customs and Tax Service",
+   "abstract": "Working dogs employed by the Polish Customs and Tax Service perform specialized tasks in customs control and fiscal enforcement, including the detection of prohibited and undeclared goods. Their public-service role raises important questions concerning the adequacy of the legal framework governing their welfare. This study examines the legal protection of working dogs in the Polish Customs and Tax Service and assesses whether applicable regulations provide comprehensive safeguards throughout their service life. The analysis is based on a doctrinal examination of Polish legislation concerning animal protection, the organization and functioning of the Customs and Tax Service, and the status of service animals, supplemented by an assessment of relevant institutional and welfare standards. The study combines a legal-dogmatic analysis of Polish legislation and relevant animal welfare literature with empirical research based on information obtained from the Polish Customs and Tax Service under the Polish Act on Access to Public Information. The empirical data for the years 2025–February 2026, collected in 2026, are assessed against established animal welfare standards, including the Five Domains Model. The study identifies regulatory fragmentation concerning working conditions, workload, veterinary care, training, retirement, and post-service arrangements. Although Polish law establishes a general duty to protect animals from suffering and contains specific provisions concerning service animals, the existing framework remains primarily oriented toward the operational function of working dogs rather than their welfare. The findings indicate a need for greater coherence between animal-welfare legislation and sector-specific regulations. Clearer standards for working conditions, preventive veterinary care, rehabilitation, retirement, and post-service protection could strengthen the welfare-oriented regulation of public-service dogs.",
+   "authors": [
+    "Anna Haładyj",
+    "Emil Kruk",
+    "Marta Sagan-Martko",
+    "Ireneusz Nowak",
+    "Adriana Nowak"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223691",
    "date": "2026-11-20",
    "first_seen": "2026-11-21",
    "score": 0.0,
