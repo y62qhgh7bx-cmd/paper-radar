@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:14:48+00:00",
+ "updated": "2026-11-25T05:22:01+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -799,6 +799,59 @@
    "abstract_zh": "背景：粵西毛-毛捲羽雞（YFC）是中國粵西地區的本土雞種，因其捲羽特徵而以極佳的適應性以及對高溫高濕氣候的出色耐受力而聞名。為了探討YFC捲羽的基因組結構與遺傳標記，我們利用356隻YFC和85隻非捲羽雞的全基因組重定序數據，針對羽毛類型進行了全基因組關聯分析（GWAS）。結果：利用Fst、ROD和XPCLR進行選擇清除分析，共鑑定出267個重疊基因。對這些重疊基因進行GO和KEGG富集分析，表明角質蛋白絲、側枝萌芽的正向調節以及蛋白激酶B訊號傳導的正向調節可能與捲羽的形成有關。透過GWAS進一步研究，鑑定出KRT5和KRT3為重要的連鎖基因，Sanger定序顯示KRT5中的一個SNP和一個InDel，以及KRT3中的一個SNP可用作捲羽特徵的標記。儘管針對KRT75L4中15-bp缺失的補充實驗表明，KRT5和KRT3並非真正的因果基因，而僅與因果變異處於連鎖不平衡狀態，但這些關聯訊號仍為解析該品種捲羽表現型的遺傳機制提供了寶貴的線索。鑑於針對YFC品種體重與體型性狀的全基因組研究相當有限，本研究亦對YFC的生長性狀進行了GWAS。結果顯示數個與YFC生長性狀相關的基因，包括體重（ERC1、RAD52、ATP8A2、PPARGC1A）、龍骨長（RFX4、TMPRSS15、INPP4B、LUZP2、CCNJL、IGF1）、體斜長（RBFOX1）、脛骨長（IGF2BP1）、脛圍（SCRN1、ERO1B、RAB4A、MAPK10）、胸寬（MID1、GRID1、ARHGAP6、FRMPD4）以及胸深（LOC121109148）。結論：本研究不僅為捲羽性狀的單倍型背景與遺傳變異圖譜提供了新的見解，亦鑑定出數個與生長性狀相關的基因，有助於雞隻的遺傳改良。"
   },
   {
+   "doi": "10.3390/ani16233737",
+   "title": "Genetic Dissection and Breeding Applications of Huanghuai Goat Germplasm Resources",
+   "abstract": "Huanghuai goat, an indigenous Chinese breed, combines high fecundity with superior meat quality, yet crossbreeding, germplasm degradation, and polled intersex syndrome (PIS) threaten its sustainable use. This review synthesizes recent progress in genetic dissection and breeding applications of Huanghuai goats. Mitochondrial DNA analyses indicate high genetic diversity and a maternal origin from the Bezoar goat (wild goat). High fecundity is polygenic, with candidate variants such as PRKAA1 and CDH26 and transcriptomic genes associated with litter size; these are statistical associations, and independent replication and causal validation remain limited. PIS results from a confirmed 11.7 kb homozygous deletion on chromosome 1q43; the associated PFOXic marker should not be treated as a confirmed causal variant. Meat quality varies with sex and age through collagen, amino acid metabolism, and muscle-development genes; machine learning has identified key quality factors, and lipid oxidation is proposed as a central pathway linking quality and flavor, pending external validation. The Huayu Goat 50K Chip has been preliminarily applied in breeding high-fecundity, high-quality lines, although reported gains require validation in control populations. Remaining limitations include small validation populations, scarce causal evidence, and incomplete genomic resources. Future work should prioritize functional validation, pangenome construction, genomic selection optimization, and long-term diversity monitoring.",
+   "authors": [
+    "Haoyuan Han",
+    "Kai Quan",
+    "Jun Li",
+    "Kun Liu",
+    "Huibin Shi",
+    "Shanhe Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233737",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 28.0,
+   "matched": [
+    "goat",
+    "genomic selection",
+    "crossbreeding",
+    "genetic diversity",
+    "breeding",
+    "amino acid",
+    "meat quality"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233731",
+   "title": "Genetic Parameters, Breeding Value Trends, and Selection Response for Growth Traits in Kazakh White-Headed Cattle",
+   "abstract": "Improving growth performance through accurate genetic evaluation is an important objective in beef cattle breeding, particularly for locally adapted breeds with substantial breeding value. This study aimed to estimate genetic parameters for major growth traits in Kazakh White-Headed cattle, evaluate temporal changes in estimated breeding values (EBV), and develop a multi-trait selection index. Pedigree and performance records from 195,341 animals were analyzed using REML and BLUP procedures implemented in the BLUPF90 family of programs. Birth weight (BW), corrected weaning weight (CWW), and corrected 365-day weight (CW365) were the principal traits evaluated. Heritability estimates were 0.275, 0.217, and 0.303 for BW, CWW, and CW365, respectively, while the genetic correlation between CWW and CW365 was positive (r_g = 0.220). Linear regression of annual mean EBV on year showed significant positive temporal trends for BW (slope = +0.0309 kg/year, p = 0.013) and CWW (+0.0618 kg/year, p = 0.0028), whereas the trend for CW365 was not significant (+0.0237 kg/year, p = 0.559). A multi-trait selection index combining EBV for BW, CWW, and CW365 was developed, with CW365 contributing most strongly to index variation. Under the reported 10% selection scenario, expected genetic gain was +0.033, +0.88, and +6.14 kg for BW, CWW, and CW365, respectively. These findings support the use of BLUP-based evaluation and multi-trait selection for genetic improvement of growth performance in Kazakh White-Headed cattle.",
+   "authors": [
+    "Talgat Karymsakov",
+    "Meruyert Tastybay",
+    "Bakhtiyar Utelbayev",
+    "Aibyn Torekhanov",
+    "Elena Romanova",
+    "Alexander Sermyagin"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233731",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 28.0,
+   "matched": [
+    "cattle",
+    "heritability",
+    "genetic parameters",
+    "breeding"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70214",
    "title": "FBLN1 Regulates Embryonic Myoblast Proliferation and Differentiation in Geese: Functional Characterization of a Meat Quality‐Associated Candidate Gene From Prior Multi‐Omics Screening",
    "abstract": "Meat quality is a vital economic trait in geese and is largely determined by embryonic muscle development. Building on previously reported whole‐genome resequencing and breast muscle transcriptome data from Xianghai Flying (XHF) Goose and Zi Goose, two breeds with divergent meat quality, f ib ulin ‐ 1 ( FBLN1 ) was identified as a candidate gene showing both strong selection signals and significant differential expression. FBLN1 was overexpressed and knocked down in primary goose embryonic myoblasts. Because no goose‐specific antibody is commercially available, all readouts were obtained at the mRNA level. FBLN1 was found to promote myoblast proliferation and to accelerate the G1/S cell cycle transition, with increased expression of CCND1 and CDK2 . Apoptosis was concurrently suppressed, accompanied by downregulation of Bax and upregulation of Bcl‐2 , whereas transcript levels of Caspase‐3 and Caspase‐9 remained unaltered. The mRNA levels of the myogenic differentiation markers Myomaker , MYOD1 , and MYF5 were correspondingly affected. Bioinformatic analyses predicted FBLN1 to be an extracellular matrix protein that interacts with proteins implicated in muscle elasticity, tenderness, and juiciness. These findings suggest that FBLN1 plays an important role in embryonic myoblast development and represents a valuable candidate gene for improving goose meat quality, thereby offering new perspectives for poultry molecular breeding.",
@@ -1404,6 +1457,31 @@
     "feed conversion ratio",
     "fcr",
     "amino acid"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233733",
+   "title": "Preservation of Distinct Maternal Lineages Despite Reduced Genetic Diversity in Captive Formosan Sambar Deer (Rusa unicolor swinhoii)",
+   "abstract": "The Formosan sambar deer (Rusa unicolor swinhoii), an endemic subspecies of Taiwan, was designated as livestock because of the economic value of its velvet antlers. Deer farming, which was established in the early 20th century, increased pressure on wild populations through overharvesting. However, following the enactment of the Wildlife Conservation Act, wild populations recovered, and deer farming shifted to a closed-herd breeding system. We assessed the genetic diversity and population genetic structure of captive Formosan sambar deer using mitochondrial DNA D-loop sequences, integrating our findings with previously published wild population data to investigate the maternal evolutionary origins of captive populations and their phylogenetic relationships with wild populations. Captive populations exhibited slightly lower genetic diversity than wild populations, with low nucleotide diversity but high haplotype diversity. Furthermore, no shared sampled mitochondrial haplotypes were detected between the captive and wild populations. Phylogenetic analysis revealed that the maternal lineage of Formosan sambar deer dates to the Middle Pleistocene and that captive populations formed a single monophyletic clade representing an ancient lineage not detected in contemporary wild populations. This maternal lineage may have become rare or remained undetected in extant wild populations as a result of historical habitat destruction and hunting pressures, which may have caused severe population declines and genetic bottlenecks. Extensive human-mediated movement through trade and breeding exchanges among farms may have contributed to the low mitochondrial genetic differentiation among the captive populations. Despite the low level of genetic diversity, captive populations preserve an evolutionarily distinct maternal lineage, indicating their importance as unique genetic resources. This study provides valuable information for conservation, genetic management, and sustainable breeding of captive Formosan sambar deer in Taiwan. Our findings offer important baseline insights; however, incorporating genome-wide markers into future studies will be essential to fully elucidate the fine-scale population genetic structure of captive and wild Formosan sambar deer.",
+   "authors": [
+    "Hsiao-Mei Liang",
+    "Chi-Chun Huang",
+    "Yu-Han Chen",
+    "Ming-Yang Tsai",
+    "Der-Yuh Lin",
+    "Jeng-Yong Lin",
+    "Kuo-Hsiang Hung"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233733",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 22.0,
+   "matched": [
+    "genetic diversity",
+    "breeding",
+    "livestock"
    ],
    "abstract_zh": ""
   },
@@ -4552,6 +4630,30 @@
    "abstract_zh": "飼養系統顯著影響產蛋雞的福利與產品特性，然而跨生產階段的全面性比較評估仍然有限。本研究評估了在 36 週齡和 52 週齡時，以放牧（n = 5340）及室內平飼（n = 5750）系統飼養之海蘭褐（Hy-Line Brown）產蛋雞的羽毛狀況、血漿皮質酮、雞蛋品質及蛋黃脂肪酸組成。每種飼養系統各代表一棟商業雞舍，因此比較具探索性且僅針對所研究的雞舍。放牧雞舍的產蛋雞在多個解剖部位的羽毛損傷評分均低於室內平飼雞舍的產蛋雞。放牧雞舍產蛋雞的整體血漿皮質酮濃度也較低。放牧雞蛋展現出較高的豪氏單位（82.30 對 79.41，p = 0.004）與蛋黃顏色評分（12.11 對 11.73，p = 0.001），而室內平飼系統則產出較佳的蛋殼破裂強度（4.18 對 3.87 kg/cm2，p = 0.005）。ALA、EPA、DPA、DHA 及總 n-3 多元不飽和脂肪酸（PUFA）均觀察到顯著的飼養方式 × 週齡交戶作用（所有 p ≤ 0.001）；36 週齡的放牧雞蛋達到α-次亞麻油酸（0.645%）與總 n-3 多元不飽和脂肪酸（1.31%）的最高濃度，並伴隨最有利的 n-6/n-3 比值（14.71）。相對地，在 52 週齡時，放牧雞蛋的總 n-3 PUFA 低於室內平飼雞蛋（0.63% 對 0.90%），導致較高的 n-6/n-3 比值（27.63 對 21.62）。此外，52 週齡室內平飼雞隻的蛋黃花生四烯酸濃度較高。這些研究結果證實了在商業條件下，生理福利特徵與雞蛋結構耐用性之間存在明顯的權衡，並強調飼養評估應考量生產階段與多重特徵結果，而非依賴單一指標。"
   },
   {
+   "doi": "10.3390/ani16223697",
+   "title": "Multi-Pathway Mechanisms of Lambda-Cyhalothrin-Induced Renal Injury in Chickens",
+   "abstract": "Lambda-cyhalothrin (LCT), a widely used type II pyrethroid insecticide, is frequently detected in poultry-house environments, yet toxicological data on the avian kidney remain scarce. We combined a hypothesis-generating transcriptomic analysis with a six-week in vivo experiment. Two public datasets were analysed: GSE66059 (chronic low-dose glyphosate exposure; rat kidney; training set) and GSE131263 (prenatal chlorpyrifos exposure; mouse embryonic kidney; validation set). Neither dataset involves LCT; they were used only to generate hypotheses about shared nephrotoxic mechanisms. Differentially expressed genes and co-expression module genes were intersected with LCT putative targets from the Comparative Toxicogenomics Database (CTD), and machine-learning screening of the resulting 128 candidate genes identified 22 core genes, enriched in cytochrome P450, MAPK, FoxO and NF-κB signalling. In vivo, 80 one-day-old Hy-Line Pink chickens were randomly allocated to four groups (n = 20 per group) and given feed sprayed with 0 (control), 1, 5 or 50 mg/kg body weight/day of LCT for six weeks. Serum creatinine (CRE) and blood urea nitrogen (BUN), renal histology and ultrastructure, terminal deoxynucleotidyl transferase dUTP nick-end labelling (TUNEL) staining, oxidative stress indices and mRNA expression were measured in three birds per group (n = 3). LCT produced dose-dependent tubular dilatation, interstitial inflammatory infiltration, mitochondrial swelling and more TUNEL-positive cells. CRE did not differ among groups, whereas BUN was lower in the high-dose group (p &lt; 0.01), a difference that may also reflect feed intake, growth or nitrogen metabolism rather than tubular function alone. In the low- and medium-dose groups, transcripts of the Nrf2–Keap1–NQO1/HO-1 axis and catalase activity were reduced, with a non-significant upward trend in MDA; at the high dose, Nrf2 and Keap1 transcripts rebounded while NQO1 remained low. The Bcl-2/Bax ratio was lower in all treated groups (p &lt; 0.01), with higher Caspase-9, Apaf-1 and Cyt-c mRNA. NF-κB/NLRP3 transcripts were suppressed at low and medium doses and rebounded at the high dose; P38 MAPK increased with dose and TP53 only at the high dose. These transcriptional changes are consistent with, but do not establish, Nrf2-axis suppression, mitochondrial apoptosis and inflammatory dysregulation. Structural renal injury was present at the lowest dose tested.",
+   "authors": [
+    "Wen Zhang",
+    "Huayu Zhang",
+    "Qiushi Li",
+    "Qiaochu Sun",
+    "Jinghan Wang",
+    "Xiaolong Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223697",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 11.0,
+   "matched": [
+    "chicken",
+    "poultry",
+    "omics"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233728",
    "title": "Standardized Aqueous Extract of Callicarpa nudiflora as a Phytogenic Additive Improves Intestinal Homeostasis in Danzhou Chickens: Effects on Epithelial Barrier, Immunity, and Cecal Microbiota",
    "abstract": "Danzhou chicken is a native South Chinese breed with desirable meat quality, slow growth and poor production efficiency. Callicarpa nudiflora is a traditional medicinal plant with anti-inflammatory activity. This study evaluated the effects of standardized aqueous extract of Callicarpa nudiflora (CNAE) on growth performance and intestinal homeostasis in Danzhou chickens. High-performance liquid chromatography fingerprinting verified high chemical similarity (similarity &gt; 0.95) between raw leaves and CNAE and identified seven shared marker compounds. Network pharmacology predicted their functions in immune and epithelial signaling. Four hundred 1-day-old female Danzhou chickens were assigned to five groups: negative control (NC), positive control (PC, 300 mg/kg Macleaya cordata extract), and three pure CNAE groups (150, 300, and 600 mg/kg). Compared with NC, 300 mg/kg CNAE significantly reduced the overall feed-to-gain ratio (p = 0.030), increased the jejunal villus height-to-crypt depth ratio, upregulated tight-junction (occludin, ZO-1, and ZO-2) mRNA expression (alongside lower serum diamine oxidase than PC and 600 mg/kg CNAE, p &lt; 0.05), downregulated pro-inflammatory cytokine and TLR/MyD88/NF-κB-related gene transcription (p &lt; 0.05), and altered cecal microbiota composition (p &lt; 0.05). In conclusion, 300 mg/kg CNAE showed consistent responses among the tested doses and has potential as a plant-derived gut health promoter.",
@@ -4578,30 +4680,6 @@
    "matched": [
     "chicken",
     "meat quality"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223697",
-   "title": "Multi-Pathway Mechanisms of Lambda-Cyhalothrin-Induced Renal Injury in Chickens",
-   "abstract": "Lambda-cyhalothrin (LCT), a widely used type II pyrethroid insecticide, is frequently detected in poultry-house environments, yet toxicological data on the avian kidney remain scarce. We combined a hypothesis-generating transcriptomic analysis with a six-week in vivo experiment. Two public datasets were analysed: GSE66059 (chronic low-dose glyphosate exposure; rat kidney; training set) and GSE131263 (prenatal chlorpyrifos exposure; mouse embryonic kidney; validation set). Neither dataset involves LCT; they were used only to generate hypotheses about shared nephrotoxic mechanisms. Differentially expressed genes and co-expression module genes were intersected with LCT putative targets from the Comparative Toxicogenomics Database (CTD), and machine-learning screening of the resulting 128 candidate genes identified 22 core genes, enriched in cytochrome P450, MAPK, FoxO and NF-κB signalling. In vivo, 80 one-day-old Hy-Line Pink chickens were randomly allocated to four groups (n = 20 per group) and given feed sprayed with 0 (control), 1, 5 or 50 mg/kg body weight/day of LCT for six weeks. Serum creatinine (CRE) and blood urea nitrogen (BUN), renal histology and ultrastructure, terminal deoxynucleotidyl transferase dUTP nick-end labelling (TUNEL) staining, oxidative stress indices and mRNA expression were measured in three birds per group (n = 3). LCT produced dose-dependent tubular dilatation, interstitial inflammatory infiltration, mitochondrial swelling and more TUNEL-positive cells. CRE did not differ among groups, whereas BUN was lower in the high-dose group (p &lt; 0.01), a difference that may also reflect feed intake, growth or nitrogen metabolism rather than tubular function alone. In the low- and medium-dose groups, transcripts of the Nrf2–Keap1–NQO1/HO-1 axis and catalase activity were reduced, with a non-significant upward trend in MDA; at the high dose, Nrf2 and Keap1 transcripts rebounded while NQO1 remained low. The Bcl-2/Bax ratio was lower in all treated groups (p &lt; 0.01), with higher Caspase-9, Apaf-1 and Cyt-c mRNA. NF-κB/NLRP3 transcripts were suppressed at low and medium doses and rebounded at the high dose; P38 MAPK increased with dose and TP53 only at the high dose. These transcriptional changes are consistent with, but do not establish, Nrf2-axis suppression, mitochondrial apoptosis and inflammatory dysregulation. Structural renal injury was present at the lowest dose tested.",
-   "authors": [
-    "Wen Zhang",
-    "Huayu Zhang",
-    "Qiushi Li",
-    "Qiaochu Sun",
-    "Jinghan Wang",
-    "Xiaolong Wang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223697",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 11.0,
-   "matched": [
-    "chicken",
-    "poultry",
-    "omics"
    ],
    "abstract_zh": ""
   },
@@ -5282,6 +5360,34 @@
    "matched": [
     "chicken",
     "poultry"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233739",
+   "title": "Ghrelin Accelerates Nuclear Maturation of Bovine Oocytes and Is Associated with PI3K-Akt Signaling and Redox Homeostasis",
+   "abstract": "Ghrelin is a metabolic and reproductive peptide that may influence oocyte competence, but its role in bovine oocyte in vitro maturation (IVM) remains insufficiently defined. This study investigated the effects of exogenous ghrelin supplementation on bovine oocyte nuclear maturation and examined its potential association with PI3K-Akt signaling and intracellular redox status. Bovine cumulus-oocyte complexes (COCs) were cultured with 50 ng/mL ghrelin, and maturation was evaluated based on the rate of first polar body extrusion and the expression of maturation-related genes. Ghrelin-like immunoreactivity and temporal transcript abundance were examined in cumulus cells and oocytes. RNA sequencing was performed using a 2 × 2 design comprising ghrelin treatment and IVM duration as the two factors. Differentially expressed genes were subjected to pathway enrichment analysis, followed by pharmacological intervention with the PI3K-Akt inhibitor LY294002 to further assess the involvement of PI3K-Akt signaling. Intracellular glutathione (GSH) and reactive oxygen species (ROS) fluorescence, mitochondrial and lysosomal fluorescence signals, and mitochondrial membrane potential were also evaluated. Ghrelin immunoreactivity was detected in immature COCs and denuded oocytes, while the relative abundance of ghrelin transcripts exhibited a time-dependent pattern during IVM. Ghrelin treatment increased the rate of first polar body extrusion at 16 h and enhanced the expression of HAS2, GDF9, and BMP15. Pathway enrichment analysis revealed that differentially expressed genes associated with ghrelin treatment and IVM duration were enriched in GSH metabolism and the PI3K-Akt signaling pathway. LY294002 altered ghrelin-associated expression patterns of VEGFA, FGF2, BCL-2, and BAX. Ghrelin-treated oocytes also showed increased GSH fluorescence, reduced ROS fluorescence, altered mitochondrial and lysosome-related fluorescence signals, and a higher JC-1 red-to-green fluorescence ratio. These findings suggest that ghrelin accelerates bovine oocyte nuclear maturation at 16 h of IVM and is accompanied by transcriptional changes consistent with PI3K-Akt signaling and by an altered GSH redox status, without establishing direct pathway activation.",
+   "authors": [
+    "Ruizhen Jian",
+    "Chuanqiang Zhang",
+    "Kuo Li",
+    "Xingyu Zhang",
+    "Daqing Wang",
+    "Zeyu Lu",
+    "Yanyan Yang",
+    "Lanting Wang",
+    "Xiaoxuan Fan",
+    "Yong Zhang",
+    "Guifang Cao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233739",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 10.0,
+   "matched": [
+    "bovine",
+    "oocyte"
    ],
    "abstract_zh": ""
   },
@@ -6566,6 +6672,30 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233741",
+   "title": "Co-Exposure to Lungworms and Respiratory Microbial Pathogens in Sheep: From Pulmonary Lesions to Disease Risk",
+   "abstract": "Lungworms are an underexamined component of respiratory polymicrobial disease in grazing sheep. This narrative review integrates epidemiological, pathological, and mechanistic evidence to examine how lungworm-associated pulmonary injury may influence the consequences of exposure to respiratory microbial pathogens. Ovine investigations document taxon-specific differences in bacterial recovery between parasitized and unaffected lung regions, concurrent verminous and viral pneumonia, and mixed-etiology respiratory outbreaks. These observations connect pulmonary parasitism with three processes relevant to disease progression: impaired airway clearance, altered local inflammatory and repair responses, and the cumulative loss of functional lung tissue. Studies of ovine mycoplasmal disease and helminth–bacterial infection in mice further identify epithelial integrity, macrophage function, and lower-airway microbial burden as determinants of infection outcome. The central synthesis is that the clinical relevance of co-exposure depends on the nature and activity of parasitic lesions and their anatomical relationship to microbial disease. This perspective links field observations to specific mechanisms and supports incorporating lungworm assessment into investigations of the ovine respiratory complex. Priorities include longitudinal comparisons of combined and single infections, spatially matched parasitological and microbial sampling, and evaluation of respiratory severity, growth, and treatment requirements. Such studies will establish which parasite–microorganism combinations contribute most to respiratory morbidity.",
+   "authors": [
+    "Wanhong He",
+    "Yongxia Duan",
+    "Xiu Wang",
+    "Xiping Fan",
+    "Dianwen Xu",
+    "Wangdong Zhang",
+    "Xiuping Wu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233741",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 8.0,
+   "matched": [
+    "sheep",
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/00071668.2026.2721464",
    "title": "In silico evaluation of selected plant-based compounds as potent dual target inhibitors against highly pathogenic avian influenza H5N1 virus",
    "abstract": "1. Influenza viruses remain a serious global health issue due to their high morbidity and mortality rates. Among them, avian influenza H5N1 virus is highly pathogenic, causing up to 100% mortality in poultry. As the avian influenza H5N1 virus continues to mutate across different regions, understanding multiple viral proteins, particularly the mutated haemagglutinin (HA) and neuraminidase (NA), is crucial for effective control.2. In this study, dual-target inhibitors capable of neutralising both HA and NA were developed, and a comprehensive in silico analysis was performed on different variants collected over the past decade. Structural modelling revealed conserved domains in NA (A0A1I9QM14, China) and HA (A0A0A0V4U2, Bali), which were selected for ligand docking.3. Twenty active compounds, traditionally used as natural feed additives in broiler chicken diets, were screened using protein-ligand docking, ADME profiling, and molecular dynamics (MD) simulations. Quercetin and luteolin emerged as promising dual-target inhibitors, showing high binding affinity, drug-likeness, and favourable toxicity profiles. The binding free energy (ΔG = −8 ± 0.2 kcal/mol) from docking studies confirmed their inhibitory potential against avian influenza H5N1 virus HA and NA.4. The results demonstrated that virtual screening of natural compounds can effectively identify those effective against influenza virus surface proteins. This integrative computational-experimental strategy supported the development of novel plant-derived antiviral agents with potential applications for disease control.",
@@ -6946,6 +7076,40 @@
    "score": 7.0,
    "matched": [
     "genetic diversity",
+    "breeding"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1002/age.70227",
+   "title": "Association of a Potential Regulatory Variant in the MSTN 5′UTR Region With Growth Traits in Hu Sheep",
+   "abstract": "Myostatin ( MSTN ) is a paramount negative regulator of skeletal muscle development; however, potential regulatory variants within its 5′ untranslated region (5′UTR) remain largely uncharacterized in sheep. This study explicitly targeted the 5′UTR to identify novel regulatory sites modulating ovine MSTN expression and evaluate their impact on Hu sheep growth performance. Tissue profiling confirmed predominant MSTN expression in skeletal muscle ( p &lt; 0.01). Sequence analysis identified a novel potential regulatory single nucleotide polymorphism (SNP), rs411139795 (g.129059715 C&gt;A), located directly within the MSTN 5′UTR. Association analyzes demonstrated that this locus is significantly associated with key growth traits across developmental stages, including body weight, height, length, and chest circumference ( p &lt; 0.05). Notably, the CC genotype conferred superior growth performance. Evolutionary analysis indicated the favorable C allele is highly enriched in commercial breeds compared to indigenous and wild Ovis populations. To emphasize the vital regulatory capacity of this 5′UTR site, we integrated ovine muscle ATAC‐seq and histone CUT&amp;Tag datasets, which definitively mapped rs411139795 to an active open chromatin region within the 5′UTR. Furthermore, in vivo expression assays revealed that individuals with the CC genotype exhibited significantly lower MSTN transcription in skeletal muscle compared to AA/AC variants. Collectively, these findings underscore the critical importance of 5′UTR regulatory sites in phenotypic variation. The rs411139795 variant is associated with reduced MSTN expression and presents a promising candidate molecular marker for accelerating the genetic improvement of meat production in sheep breeding.",
+   "authors": [
+    "Yanchao Li",
+    "Lijuan He",
+    "Zongwu Ma",
+    "Deyin Zhang",
+    "Xiaobin Yang",
+    "Dan Xu",
+    "Yukun Zhang",
+    "Yuan Zhao",
+    "Xiaolong Li",
+    "Jiangbo Cheng",
+    "Liming Zhao",
+    "Guoxing Jia",
+    "Xiaoxue Zhang",
+    "Weiwei Wu",
+    "Fadi Li",
+    "Weimin Wang",
+    "Huibin Tian"
+   ],
+   "journal": "Animal Genetics",
+   "url": "https://doi.org/10.1002/age.70227",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 7.0,
+   "matched": [
+    "sheep",
     "breeding"
    ],
    "abstract_zh": ""
@@ -9279,6 +9443,29 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233724",
+   "title": "Optimum Dietary Protein and Fish Oil Levels for Long-Whiskered Catfish (Mystus gulio) Fry to Fingerling",
+   "abstract": "This study evaluated responses of long-whiskered catfish (Mystus gulio) fry and fingerlings to graded fish-oil inclusion under two fixed crude-protein (CP) levels and compared monosex culture (MC) with normal culture (NC) under sequential feeding conditions. In Part 1, seven added fish-oil levels (0, 10, 20, 30, 40, 50, and 60 g/kg) were assigned to three replicate earthen ponds per treatment. At the start of the 42% CP phase, 10,500 fry (0.12 ± 0.08 g; 500 fish/pond) were reared for 60 days; after density adjustment, the same treatment series continued for 30 days at 35% CP from an initial phase weight of 4.85 ± 0.58 g. In Part 2, 1800 fish (0.35 ± 0.14 g; 300 fish/pond; three ponds per culture type) received 42% CP with 50 g/kg added fish oil for 60 days and then 35% CP with 40 g/kg added fish oil for 30 days. Growth, feed utilization, whole-body composition, FAS, ACC, Ac-CoA, tissue histomorphology, and growth-related gene expression (gh, igf-1, and igf-2) were evaluated. In Part 1, weight gain and specific growth rate increased and feed conversion ratio decreased toward the highest tested fish-oil inclusion, whereas whole-body protein and growth-related gene expression were highest at intermediate treatments. Viscerosomatic and hepatosomatic indices and hepatic fatty-cell area increased toward the upper end of the diet gradient. MC-NC differences were phase-specific. Because increasing fish oil displaced wheat flour, dietary lipid, carbohydrate, and gross energy changed concurrently; isolated fish-oil effects therefore cannot be inferred. The design characterizes treatment responses under two fixed protein conditions but does not independently estimate the protein requirement of M. gulio.",
+   "authors": [
+    "Phunsin Kantha",
+    "Kritchavat Songdum",
+    "Suwaree Kitikiew",
+    "Natthapong Paankhao",
+    "Chun-Hung Liu",
+    "Anurak Uchuwittayakul",
+    "Sahabhop Dokkaew"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233724",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 4.0,
+   "matched": [
+    "feed conversion ratio"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233713",
    "title": "Comparative Cranial Morphology and Sex-Related Variation in the Domestic Yak (Bos grunniens)",
    "abstract": "This study aimed to compare cranial size and shape among domestic yak (Bos grunniens), domestic cattle, water buffalo, and European bison, and to describe the regional anatomical differences among them. It also assessed whether shape differences persisted after accounting for size and whether size–shape relationships differed among taxa. As the domestic yak was the primary focus of the study, sex-related variation in cranial size, mean shape, and allometry was specifically investigated in a balanced sample of one-year-old female and male yaks. A total of 137 skulls were examined, comprising 38 yaks, 39 domestic cattle, 20 water buffalo, and 40 European bison. The skulls were digitized using structured-light three-dimensional scanning (EinScan Pro 2X), and 23 homologous anatomical landmarks were manually recorded on each surface model. Landmark coordinates were used to calculate centroid size and, following generalized Procrustes alignment, to assess cranial shape and allometry using principal component analysis and permutation-based statistical models. In the four-taxon comparison, the mean centroid size was 670.84 mm in yaks, 745.30 mm in domestic cattle, 741.29 mm in water buffalo, and 806.37 mm in European bison. Descriptive comparisons characterized the yak skull by relative rostral elongation, intermediate breadth across the caudal orbital margins, and a comparatively narrow mastoid region. Cranial differentiation among taxa persisted after accounting for size, and allometric relationships varied among groups. In the separate analysis restricted to one-year-old yaks, females and males showed closely similar cranial configurations, with no significant difference in overall mean shape in the unadjusted comparison. Male yaks had a greater mean centroid size than females (689.50 vs. 652.18 mm; difference: 37.32 mm), while allometric analyses revealed modest sex-related variation. These findings characterize the comparative cranial anatomy of yaks and indicate that sexual differentiation primarily concerns size, with limited differences in overall shape. These findings provide useful reference data for comparative veterinary anatomy, anatomical education, and the assessment of bovine cranial morphology in osteological collections.",
@@ -9307,25 +9494,42 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233724",
-   "title": "Optimum Dietary Protein and Fish Oil Levels for Long-Whiskered Catfish (Mystus gulio) Fry to Fingerling",
-   "abstract": "This study evaluated responses of long-whiskered catfish (Mystus gulio) fry and fingerlings to graded fish-oil inclusion under two fixed crude-protein (CP) levels and compared monosex culture (MC) with normal culture (NC) under sequential feeding conditions. In Part 1, seven added fish-oil levels (0, 10, 20, 30, 40, 50, and 60 g/kg) were assigned to three replicate earthen ponds per treatment. At the start of the 42% CP phase, 10,500 fry (0.12 ± 0.08 g; 500 fish/pond) were reared for 60 days; after density adjustment, the same treatment series continued for 30 days at 35% CP from an initial phase weight of 4.85 ± 0.58 g. In Part 2, 1800 fish (0.35 ± 0.14 g; 300 fish/pond; three ponds per culture type) received 42% CP with 50 g/kg added fish oil for 60 days and then 35% CP with 40 g/kg added fish oil for 30 days. Growth, feed utilization, whole-body composition, FAS, ACC, Ac-CoA, tissue histomorphology, and growth-related gene expression (gh, igf-1, and igf-2) were evaluated. In Part 1, weight gain and specific growth rate increased and feed conversion ratio decreased toward the highest tested fish-oil inclusion, whereas whole-body protein and growth-related gene expression were highest at intermediate treatments. Viscerosomatic and hepatosomatic indices and hepatic fatty-cell area increased toward the upper end of the diet gradient. MC-NC differences were phase-specific. Because increasing fish oil displaced wheat flour, dietary lipid, carbohydrate, and gross energy changed concurrently; isolated fish-oil effects therefore cannot be inferred. The design characterizes treatment responses under two fixed protein conditions but does not independently estimate the protein requirement of M. gulio.",
+   "doi": "10.1186/s12711-026-01105-1",
+   "title": "A theoretical and simulation-based assessment of the SNP- and haplotype-based genomic prediction in panmictic populations",
+   "abstract": "Background We theoretically and empirically compared single nucleotide polymorphism (SNP)- and haplotype-based genomic prediction. We derived and computed the relative prediction accuracy of a quantitative trait loci (QTL) additive value based on two SNPs and a haplotype of size 2 and the relative magnitude of the maximum linkage disequilibrium (LD) values for haplotype and SNP alleles. The empirical assessment was based on two criteria, using a simulated dataset: the efficacy of SNP- and haplotype-based genomic additive relationship matrices to express genotypic similarity for identical by descent (IBD) and identical by state (IBS) alleles, and the additive and epistatic genetic values prediction accuracies over six generations of random matings, assuming seven types of digenic epistasis. Results The values of efficacy of the haplotype-based QTL additive value prediction accuracy, relative to the SNP-based, showed that the two approaches are equivalent. The maximum LD value for a haplotype allele was higher than the maximum LD value for a SNP allele in only 10% of the scenarios. The correlations between the additive and the SNP- and haplotype-based genomic additive matrices showed that haplotypes expressed better than individual SNPs the genotypic similarity for IBD alleles. Considering the efficacy of the SNP- and haplotype-based genomic additive matrices to express genotypic similarity for IBS alleles, the correlations showed that SNPs and short haplotypes are also similar. Considering the additive value prediction accuracy over generations, in the high and low LD populations the increase in the haplotype size from 2 to 10 decreased the prediction accuracy. Regarding haplotypes of size 2, the absolute differences in accuracy between the SNP- and haplotype-based approaches were insignificant. Epistasis had a negative impact on the additive value prediction accuracy. Using SNPs and haplotypes of size 2, the predictions accuracies under epistasis were lower than the accuracies under the additive-dominance model, except for duplicate genes with cumulative effects and non-epistatic gene interaction. The decreases were higher for duplicate epistasis. Conclusions Based on the theoretical and empirical assessments, SNP- and haplotype-based genomic prediction of complex traits are equivalent assuming short haplotypes, regardless of the population LD level, trait heritability, and epistasis type.",
    "authors": [
-    "Phunsin Kantha",
-    "Kritchavat Songdum",
-    "Suwaree Kitikiew",
-    "Natthapong Paankhao",
-    "Chun-Hung Liu",
-    "Anurak Uchuwittayakul",
-    "Sahabhop Dokkaew"
+    "José M. S. Viana",
+    "Jean P. A. Silva",
+    "Kaio O. G. Dias"
    ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233724",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
+   "journal": "Genetics Selection Evolution",
+   "url": "https://doi.org/10.1186/s12711-026-01105-1",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 4.0,
    "matched": [
-    "feed conversion ratio"
+    "heritability"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233736",
+   "title": "The Camel Gut Microbiome: Diversity, Digestive Functions, and Potential Links to Desert Adaptation",
+   "abstract": "The camel gastrointestinal microbiome may contribute to the use of fibrous forage in arid environments, although microbial effects are difficult to separate from host physiology and feeding behavior. This critical narrative review of gut habitats and microbial groups (2016–2026) distinguishes community composition, genomic potential, measured activity and host outcomes. Bacterial communities differ among the forestomach, small intestine and hindgut. In one controlled roughage trial, more carbohydrate-active enzyme (CAZyme) families differed in gene abundance between liquid and solid fractions of the first stomach compartment (C1) than among diets, although unequal statistical power limits this comparison. Genome-resolved studies have uncovered thousands of uncultured species; cultivation, in situ incubation and recombinant enzymes confirmed activities in a subset. DNA- and RNA-based studies report different methanogen profiles, without paired methane measurements. The contributions of anaerobic fungi and ciliates remain poorly quantified, and the hosts and effects of viral sequences are largely unknown. Age, diet and management are associated with community variation, although confounding is common. Direct evidence that microbial processes improve camel performance during water or nutritional limitation is lacking. We outline testable hypotheses involving forage flexibility, nitrogen economy, functional resilience, water restriction and plant-compound transformation, and propose experiments linking microbial processes to host outcomes.",
+   "authors": [
+    "Emad M. Abdallah",
+    "Mohammed Aladhadh",
+    "Osama K. Abou-Emera"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233736",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 4.0,
+   "matched": [
+    "nutrition",
+    "methane",
+    "feeding behavior"
    ],
    "abstract_zh": ""
   },
@@ -10914,6 +11118,33 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223700",
+   "title": "Early-Life Risk Indicators Associated with Survival of Captive Giraffe Calves",
+   "abstract": "This retrospective study analysed 158 calving records from 73 captive female giraffes at the Chimelong breeding base between 2018 and 2025 to identify routinely recorded early-life variables associated with recorded 30-day calf survival. Overall, 139 calves survived to 30 days and 19 died within 30 days. In unadjusted exploratory analyses, surviving calves had greater birth weight (66.5 ± 8.6 kg vs. 58.5 ± 14.2 kg), shorter standing duration after birth (116.5 ± 65.0 min vs. 263.6 ± 112.0 min) and a shorter interval from standing to first confirmed colostrum intake (125.3 ± 141.5 min vs. 484.6 ± 208.3 min), compared with calves that died. ROC analysis suggested candidate warning values for standing duration (≥158 min), the interval from standing to first confirmed colostrum intake (≥308 min) and birth weight (&lt;63.5 kg), but these values were derived and evaluated in the same single-institution dataset and should not be regarded as validated clinical thresholds. Sex, parity, calving duration and prepartum dam weight were not significantly associated with 30-day survival (all p &gt; 0.05). Dam rearing failure was associated with death in the subset of records containing this variable, but sparse data and possible intervention effects limit interpretation. These findings suggest that delayed standing, prolonged time to first confirmed colostrum intake and lower birth weight may be useful candidate warning indicators for structured observation and future prospective validation.",
+   "authors": [
+    "Ziyuan Li",
+    "Handong Yang",
+    "Xueli Zhang",
+    "Tianyou Zhang",
+    "Shiqiang Zhou",
+    "Bin Zhang",
+    "Yubiao Yan",
+    "Jianping Ye",
+    "Weisen Qin",
+    "Peng Zhang",
+    "Guixin Dong"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223700",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 2.0,
+   "matched": [
+    "breeding"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233707",
    "title": "Recent Advances in the Application of Flaxseed Meal for Ruminant Production: From Detoxification to High-Value Utilization",
    "abstract": "Flaxseed meal (FSM) is obtained after the extraction of flaxseed oil. It is rich in various nutrients, including protein, dietary fiber, vitamins, and minerals, and contains a variety of bioactive compounds with antioxidant, anti-inflammatory, and anti-cancer properties. However, FSM also contains antinutrients, notably cyanogenic glycosides (CGs), which can release hydrogen cyanide only after hydrolysis and thereby limit its use in livestock feed. Compared to monogastric animals, ruminants possess a natural ruminal fermentation system in which microorganisms efficiently hydrolyze CGs, rapidly releasing hydrogen cyanide (HCN). This hydrolysis does not confer protection; at high dietary levels, it can instead increase susceptibility to acute cyanide poisoning. Ruminants can, however, detoxify limited amounts of cyanide through hepatic rhodanese and other endogenous pathways, which together with detoxification treatment and controlled inclusion rates underpins the safe use of FSM in ruminant feed. This paper reviews the nutritional composition of FSM, the mechanisms of its toxic effects and associated safety considerations, the principal physical, chemical, and biological detoxification methods, and recent research progress in ruminant applications and high-value utilization, with the aim of providing guidance for its safe and efficient utilization in ruminant feed.",
@@ -10938,29 +11169,56 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223700",
-   "title": "Early-Life Risk Indicators Associated with Survival of Captive Giraffe Calves",
-   "abstract": "This retrospective study analysed 158 calving records from 73 captive female giraffes at the Chimelong breeding base between 2018 and 2025 to identify routinely recorded early-life variables associated with recorded 30-day calf survival. Overall, 139 calves survived to 30 days and 19 died within 30 days. In unadjusted exploratory analyses, surviving calves had greater birth weight (66.5 ± 8.6 kg vs. 58.5 ± 14.2 kg), shorter standing duration after birth (116.5 ± 65.0 min vs. 263.6 ± 112.0 min) and a shorter interval from standing to first confirmed colostrum intake (125.3 ± 141.5 min vs. 484.6 ± 208.3 min), compared with calves that died. ROC analysis suggested candidate warning values for standing duration (≥158 min), the interval from standing to first confirmed colostrum intake (≥308 min) and birth weight (&lt;63.5 kg), but these values were derived and evaluated in the same single-institution dataset and should not be regarded as validated clinical thresholds. Sex, parity, calving duration and prepartum dam weight were not significantly associated with 30-day survival (all p &gt; 0.05). Dam rearing failure was associated with death in the subset of records containing this variable, but sparse data and possible intervention effects limit interpretation. These findings suggest that delayed standing, prolonged time to first confirmed colostrum intake and lower birth weight may be useful candidate warning indicators for structured observation and future prospective validation.",
+   "doi": "10.3390/ani16233738",
+   "title": "Radiographic Features of Feline Pericardial Effusion: Qualitative Characterization and Quantitative Assessment",
+   "abstract": "Pericardial effusion (PE) is uncommon in cats, and its thoracic radiographic manifestations are poorly characterized. This retrospective multicenter study described qualitative and quantitative radiographic features in cats with echocardiographically confirmed PE and assessed their diagnostic performance. Seventy-five cats were eligible for qualitative assessment; 44 had complete measurements and were compared with 22 healthy cats and 58 cats with cardiac disease without PE. Cardiomyopathies were identified in 49/75 cats (65.3%), and 74/75 (98.7%) had mild PE. Cardiomegaly occurred in 64/75 (85.3%); a rounded silhouette was present in 41/75 (54.7%) and partially present in another 14/75 (18.7%). For distinguishing PE from cardiac disease without PE, the lateral sphericity index had an area under the receiver operating characteristic curve (AUC) of 0.72 (95% confidence interval [CI], 0.62–0.82), and the global sphericity index had an AUC of 0.72 (95% CI, 0.61–0.82). These indices showed only moderate discrimination and require external validation. In this predominantly mild PE population with assessable radiographs, radiography may contribute to clinical suspicion but cannot replace echocardiography.",
    "authors": [
-    "Ziyuan Li",
-    "Handong Yang",
-    "Xueli Zhang",
-    "Tianyou Zhang",
-    "Shiqiang Zhou",
-    "Bin Zhang",
-    "Yubiao Yan",
-    "Jianping Ye",
-    "Weisen Qin",
-    "Peng Zhang",
-    "Guixin Dong"
+    "Carlo Guglielmini",
+    "Simone Perfetti",
+    "Giovanni Romito",
+    "Giulia Arcuri",
+    "Helen Poser",
+    "Francesca Piroli",
+    "Carlotta Valente",
+    "Nikolina Linta",
+    "Alessia Diana"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223700",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
+   "url": "https://doi.org/10.3390/ani16233738",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 2.0,
    "matched": [
-    "breeding"
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233729",
+   "title": "Correction: Li et al. SIRT5 Regulates Lipid Deposition in Goat Preadipocytes via PI3K-Akt and MAPK Signaling Pathways. Animals 2025, 15, 1072",
+   "abstract": "Error in Supplementary Tables [...]",
+   "authors": [
+    "Haiyang Li",
+    "Wenli Yao",
+    "Changheng Yang",
+    "Wenyang Zhang",
+    "Yong Wang",
+    "Yaqiu Lin",
+    "Zhanyu Du",
+    "Changhui Zhang",
+    "Lian Huang",
+    "Ming Zhang",
+    "Huaigong Fan",
+    "Jiangjiang Zhu",
+    "Hua Xiang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233729",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 2.0,
+   "matched": [
+    "goat"
    ],
    "abstract_zh": ""
   },
@@ -11869,6 +12127,28 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233718",
+   "title": "Laying Performance, Selected Yolk Fatty Acids, and Cholesterol in Hens Fed Diets Partially Replacing Soybean Meal and Fish Meal with Fermented Pangasius By-Product Extract",
+   "abstract": "Fermented Pangasius by-products may replace conventional feed ingredients, but such substitutions alter several dietary nutrients simultaneously. We compared laying performance, egg quality, yolk cholesterol, selected fatty acids, and hematology in 150 Hisex Brown hens allocated to 30 cages (five replicate cages per diet) during a 60-day trial. Diets comprised a basal control (P0), four formulations containing 0.5–2.0% fermented Pangasius by-product extract with sugar-palm starch as partial replacement for soybean meal and fish meal (P1–P4), and a pigment-reference diet (P5). Cage-level outcomes were assessed by one-way ANOVA and Tukey comparisons. Hen-day egg production differed among diets (p = 0.0053): P3 (79.76%) and P4 (80.36%) exceeded P0 (61.91%). Feed conversion did not differ significantly (p = 0.294). Mean yolk cholesterol was 1384.1 mg/100 g dry matter in P0 and 995.6 mg/100 g in P4. The final worksheet identified EPA, DHA, linoleic acid, and oleic acid as measured; ALA and arachidonic acid were estimated and excluded from measured outcomes. Derived group omega totals and yolk n-6: n-3 ratios were withdrawn. Because the substitution changed multiple diet components, findings describe complete-diet associations, not an isolated ingredient effect or an optimal inclusion level.",
+   "authors": [
+    "Abun Abun",
+    "Kiki Haetami",
+    "Munir Alinu Mulki",
+    "Rahmad Fani Ramdhan",
+    "Deny Saefulhadjar",
+    "Denny Rusmana"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233718",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 1.0,
+   "matched": [
+    "egg quality"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233716",
    "title": "Expression Profiling and RNA Interference Analysis of Rheb in Relation to Growth and Molting in Eriocheir sinensis",
    "abstract": "Ras homolog enriched in brain (Rheb) is a small GTPase and a key upstream regulator of the mechanistic target of rapamycin (mTOR) signaling pathway. Although Rheb has been characterized in Eriocheir sinensis, its expression during the molt cycle and its functional role in growth and molting remain unclear. In this study, the Rheb mRNA from the Chinese mitten crab E. sinensis (EsRheb) was cloned and characterized, and its expression pattern and biological function during the molt cycle were investigated. The full length of EsRheb cDNA was 1593 bp, containing a 549 bp open reading frame encoding a 182 amino acid protein with a predicted molecular weight of 23.5 kDa. Conserved domain analysis showed that EsRheb possessed a typical P-loop_NTPase domain, complete G1–G5 GTPase motifs, indicating its molecular function of the Rheb family. Phylogenetic analysis showed that EsRheb clustered with Rheb homologs from other decapod crustaceans. Transcripts analysis revealed that EsRheb was ubiquitously expressed and showed tissue-specific and molt-dependent expression patterns. RNA interference by dsRNA injection significantly reduced EsRheb expression, and slightly upregulated tuberous sclerosis complex 2 (TSC2), but significantly down-regulated mTOR, eukaryotic translation initiation factor 4E-binding protein 1 (4EBP1), and ribosomal protein S6 kinase (S6K). Long-term RNA interference reduced survival and weight gain rates, as well as a prolonged molt duration. The results indicate that EsRheb positively regulates mTOR signaling and contributes to molting and growth in E. sinensis, providing new molecular insight into the regulation of growth and development in crustaceans.",
@@ -11892,24 +12172,66 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233718",
-   "title": "Laying Performance, Selected Yolk Fatty Acids, and Cholesterol in Hens Fed Diets Partially Replacing Soybean Meal and Fish Meal with Fermented Pangasius By-Product Extract",
-   "abstract": "Fermented Pangasius by-products may replace conventional feed ingredients, but such substitutions alter several dietary nutrients simultaneously. We compared laying performance, egg quality, yolk cholesterol, selected fatty acids, and hematology in 150 Hisex Brown hens allocated to 30 cages (five replicate cages per diet) during a 60-day trial. Diets comprised a basal control (P0), four formulations containing 0.5–2.0% fermented Pangasius by-product extract with sugar-palm starch as partial replacement for soybean meal and fish meal (P1–P4), and a pigment-reference diet (P5). Cage-level outcomes were assessed by one-way ANOVA and Tukey comparisons. Hen-day egg production differed among diets (p = 0.0053): P3 (79.76%) and P4 (80.36%) exceeded P0 (61.91%). Feed conversion did not differ significantly (p = 0.294). Mean yolk cholesterol was 1384.1 mg/100 g dry matter in P0 and 995.6 mg/100 g in P4. The final worksheet identified EPA, DHA, linoleic acid, and oleic acid as measured; ALA and arachidonic acid were estimated and excluded from measured outcomes. Derived group omega totals and yolk n-6: n-3 ratios were withdrawn. Because the substitution changed multiple diet components, findings describe complete-diet associations, not an isolated ingredient effect or an optimal inclusion level.",
+   "doi": "10.3390/ani16233743",
+   "title": "Isolation and Genomic Characterization of a Frog Virus 3-like Ranavirus from Apparently Healthy Farmed Brown Frogs (Rana uenoi) in Korea",
+   "abstract": "Infection with ranaviruses is a WOAH-listed amphibian disease, and infected animals may show no clinical signs. In May 2024, during active surveillance, 24 post-metamorphic juvenile frogs and eight tadpoles without clinical signs were sampled from a brown frog (Rana uenoi) farm in Korea, where deaths had been reported during metamorphosis. All tissue pools were positive by two WOAH major capsid protein (MCP) PCR assays and by real-time PCR (mean pool values, 4.79 and 5.14 log10 genome copies mg−1, respectively). Batrachochytrium dendrobatidis and B. salamandrivorans were not detected. Juvenile frogs had no virus-associated lesions, and basophilic intracytoplasmic inclusion bodies were found in the liver and spleen of one tadpole. Virus was isolated in cell culture from both stages. Electron microscopy of infected cells showed cytoplasmic icosahedral virions (163.1 ± 8.9 nm) in assembly sites and paracrystalline arrays, and budding virions. Partial MCP sequences from both stages were identical and frog virus 3 (FV3)-like. The complete genome of isolate 24BFJF (106,054 bp; 91 ORFs) clustered within the Asian FV3-like clade. To the best of our knowledge, this is the first report of ranaviruses in farmed R. uenoi. Clinically normal farmed frogs can carry infectious ranaviruses and may spread the infection when moved or released; therefore, continuous ranavirus surveillance, including molecular testing, and a strengthened biosecurity system are needed on amphibian farms in Korea.",
    "authors": [
-    "Abun Abun",
-    "Kiki Haetami",
-    "Munir Alinu Mulki",
-    "Rahmad Fani Ramdhan",
-    "Deny Saefulhadjar",
-    "Denny Rusmana"
+    "Hee-Jung Choi",
+    "Min Jae Kim",
+    "Won-Sik Woo",
+    "Jae-Ok Kim",
+    "Hyo-Eun Lee",
+    "Mun-Gyeong Kwon",
+    "Eun Gyeong Lee"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233718",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
+   "url": "https://doi.org/10.3390/ani16233743",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 1.0,
    "matched": [
-    "egg quality"
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233742",
+   "title": "Dietary Supplementation Enhances Antler Development in Semi-Wild Fallow Deer (Dama dama), but Economic Benefits Depend on Developmental Stage",
+   "abstract": "Antler development in cervids is strongly influenced by nutrition, yet the biological and economic benefits of commercial dietary supplements remain poorly quantified under practical game-enclosure conditions. We evaluated antler development and the economic implications of dietary supplementation in fallow deer (Dama dama) maintained under two feeding regimes in a game enclosure in central Slovakia during 2023–2024. A total of 130 naturally shed antlers from supplemented and control enclosure sections were classified into four morphological stages. Antler length, basal circumference, distal circumference, and mass were analyzed using generalized additive mixed models, while economic returns were estimated from predicted trophy values and additional feeding costs. Antler development was generally greater under the supplemented regime, although responses varied among traits and morphological stages. Basal circumference was consistently greater across all stages, whereas antler mass showed the strongest differences in early palmated (+122.5 g) and fully palmated (+213.2 g) males. Economic simulations revealed that only fully palmated males consistently generated positive projected net returns, averaging €904–925 per individual under the evaluated cost scenarios. Returns for early and partially palmated males were less certain, while supplementation was economically unfavorable for spikers. These findings suggest that commercial dietary supplementation can enhance antler development under practical game-enclosure conditions, but improvements in antler characteristics do not necessarily translate into economic profitability. The economic value of supplementation depends primarily on developmental stage, trophy valuation, and feeding costs.",
+   "authors": [
+    "Peter Smolko",
+    "Tibor Lebocký",
+    "Stanislava Krieková",
+    "Rudolf Kropil"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233742",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 1.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233730",
+   "title": "Anaesthetic Management and 48-Hour Outcomes in Dogs with Gastric Dilatation-Volvulus: A Multicentre Cohort Study",
+   "abstract": "This secondary analysis of the prospective COMPLRED cohort describes anaesthetic management and outcomes in 185 dogs with confirmed gastric dilatation-volvulus from 50 centres in nine countries. The study protocol specified outcome recording from premedication until 48 h after extubation. Partial intravenous anaesthesia (PIVA) was used in 129 dogs, inhalational maintenance without a continuous intravenous adjunct (INH) in 51 and parenteral-only anaesthesia in five. Mechanical ventilation was used in 112 dogs and locoregional anaesthesia in 49. Outcomes were ALIVE (n = 159), anaesthesia-related or potentially related death (DEAD; n = 11), euthanasia (EUT; n = 14) and surgery- or disease-attributed death (SURG; n = 1). All-cause non-survival was 26/185 (14.1%; exact 95% CI, 9.4–19.9%), and the full-cohort DEAD proportion was 11/185 (5.9%; exact 95% CI, 3.0–10.4%). The conditional DEAD-versus-ALIVE comparison excluded EUT and SURG and included 170 dogs. Associations for both outcome definitions were explored using Firth logistic regression with ordinal ASA physical status adjustment and nominal 95% confidence intervals. Nine DEAD outcomes informed the INH/PIVA comparison and five the within-PIVA comparison. Sparse events, treatment selection, uncertain exposure timing and limited within-centre overlap restricted interpretation of these associations. The study provides a multicentre description of anaesthetic practice and 48 h outcomes in dogs with gastric dilatation-volvulus.",
+   "authors": [
+    "José I. Redondo",
+    "Pablo E. Otero",
+    "Jaime Viscasillas",
+    "Eliseo Belda",
+    "Fernando Martínez-Taboada"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233730",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 1.0,
+   "matched": [
+    "disease"
    ],
    "abstract_zh": ""
   },
@@ -15558,6 +15880,25 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223691",
+   "title": "Between Public Service and Animal Welfare: The Legal Protection of Working Dogs in Polish Customs and Tax Service",
+   "abstract": "Working dogs employed by the Polish Customs and Tax Service perform specialized tasks in customs control and fiscal enforcement, including the detection of prohibited and undeclared goods. Their public-service role raises important questions concerning the adequacy of the legal framework governing their welfare. This study examines the legal protection of working dogs in the Polish Customs and Tax Service and assesses whether applicable regulations provide comprehensive safeguards throughout their service life. The analysis is based on a doctrinal examination of Polish legislation concerning animal protection, the organization and functioning of the Customs and Tax Service, and the status of service animals, supplemented by an assessment of relevant institutional and welfare standards. The study combines a legal-dogmatic analysis of Polish legislation and relevant animal welfare literature with empirical research based on information obtained from the Polish Customs and Tax Service under the Polish Act on Access to Public Information. The empirical data for the years 2025–February 2026, collected in 2026, are assessed against established animal welfare standards, including the Five Domains Model. The study identifies regulatory fragmentation concerning working conditions, workload, veterinary care, training, retirement, and post-service arrangements. Although Polish law establishes a general duty to protect animals from suffering and contains specific provisions concerning service animals, the existing framework remains primarily oriented toward the operational function of working dogs rather than their welfare. The findings indicate a need for greater coherence between animal-welfare legislation and sector-specific regulations. Clearer standards for working conditions, preventive veterinary care, rehabilitation, retirement, and post-service protection could strengthen the welfare-oriented regulation of public-service dogs.",
+   "authors": [
+    "Anna Haładyj",
+    "Emil Kruk",
+    "Marta Sagan-Martko",
+    "Ireneusz Nowak",
+    "Adriana Nowak"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223691",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16223695",
    "title": "Determination of Maintenance Requirements and Dietary Net Energy in Lactating Sows of Different Parities Using Respiratory Calorimetry Chambers",
    "abstract": "This study examines the influence of parity on the dietary net energy requirements of lactating sows. A total of 36 lactating sows (Yorkshire × Landrace) were selected and divided into three treatment groups based on parity: parity 1, parity 2, and parity 3–5. All groups were fed a corn–soybean meal diet. A digestibility and metabolism trial was conducted during days 12 to 14 of lactation. The fasting heat production of the sows was measured using an open-circuit respiratory calorimetry system. The digestibility of acid detergent fiber (ADF) and neutral detergent fiber (NDF) was significantly higher (p &lt; 0.05) in lactating sows of parities 3–5 than in those of parities 1 and 2. The results showed that the net energy requirements for milk production of lactating sows were 46.37 MJ/d for parity 1, 50.46 MJ/d for parity 2, and 59.30 MJ/d for parity 3–5. The net energy requirements for the maintenance of metabolic weight of lactating sows were 420.32 kJ/kg BW0.75/d for parity 1, 381.35 kJ/kg BW0.75/d for parity 2, and 379.19 kJ/kg BW 0.75/d for parities 3–5. The net energy from weight loss of lactating sows was 19.50 MJ/d for parity 1, 15.91 MJ/d for parity 2, and 10.70 MJ/d for parity 3–5. Consequently, the dietary net energy requirements for lactating sows were calculated to be 45.79 MJ/d for parity 1, 53.82 MJ/d for parity 2, and 69.25 MJ/d for parities 3–5.",
@@ -15573,25 +15914,6 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16223695",
-   "date": "2026-11-20",
-   "first_seen": "2026-11-21",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223691",
-   "title": "Between Public Service and Animal Welfare: The Legal Protection of Working Dogs in Polish Customs and Tax Service",
-   "abstract": "Working dogs employed by the Polish Customs and Tax Service perform specialized tasks in customs control and fiscal enforcement, including the detection of prohibited and undeclared goods. Their public-service role raises important questions concerning the adequacy of the legal framework governing their welfare. This study examines the legal protection of working dogs in the Polish Customs and Tax Service and assesses whether applicable regulations provide comprehensive safeguards throughout their service life. The analysis is based on a doctrinal examination of Polish legislation concerning animal protection, the organization and functioning of the Customs and Tax Service, and the status of service animals, supplemented by an assessment of relevant institutional and welfare standards. The study combines a legal-dogmatic analysis of Polish legislation and relevant animal welfare literature with empirical research based on information obtained from the Polish Customs and Tax Service under the Polish Act on Access to Public Information. The empirical data for the years 2025–February 2026, collected in 2026, are assessed against established animal welfare standards, including the Five Domains Model. The study identifies regulatory fragmentation concerning working conditions, workload, veterinary care, training, retirement, and post-service arrangements. Although Polish law establishes a general duty to protect animals from suffering and contains specific provisions concerning service animals, the existing framework remains primarily oriented toward the operational function of working dogs rather than their welfare. The findings indicate a need for greater coherence between animal-welfare legislation and sector-specific regulations. Clearer standards for working conditions, preventive veterinary care, rehabilitation, retirement, and post-service protection could strengthen the welfare-oriented regulation of public-service dogs.",
-   "authors": [
-    "Anna Haładyj",
-    "Emil Kruk",
-    "Marta Sagan-Martko",
-    "Ireneusz Nowak",
-    "Adriana Nowak"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223691",
    "date": "2026-11-20",
    "first_seen": "2026-11-21",
    "score": 0.0,
@@ -15655,16 +15977,17 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233710",
-   "title": "Study on Retrieval and Cryopreservation Techniques for Feline Epididymal Spermatozoa",
-   "abstract": "Feline epididymal sperm cryopreservation is an important reproductive biotechnology tool; however, optimal strategies for sperm recovery and preservation remain unclear. This study investigated the influence of Tris and Uppsala extenders on the quality of epididymal spermatozoa before and after cryopreservation using the same sperm recovery technique. Epididymal spermatozoa were collected from 14 tomcats following bilateral orchiectomy. Cauda epididymides were incubated in either Tris or Uppsala extender for sperm recovery. Sperm quality was assessed by subjective motility, computer-assisted sperm analysis (CASA), acrosome integrity, plasma membrane integrity, live/dead ratio, and morphology. Samples were cryopreserved using glycerol egg-yolk-based extenders, stored in liquid nitrogen, and thawed. Before cryopreservation, the Tris extender yielded significantly higher sperm concentrations than the Uppsala extender (31.8 ± 25.7 × 106/mL vs. 29.1 ± 27.8 × 106/mL, p &lt; 0.05). Sperm recovered in Tris also showed significantly higher total motility (42.8 ± 16.2% vs. 36.2 ± 17.3%, p &lt; 0.05), acrosome integrity (48.8 ± 11.4% vs. 45.4 ± 11.0%, p &lt; 0.05), and live sperm proportion (55.5 ± 12.0% vs. 52.0 ± 12.0%, p &lt; 0.05) than sperm recovered in the Uppsala extender After thawing, however, spermatozoa processed within the Uppsala extender system exhibited significantly higher subjective motility (19.5 ± 8.3% vs. 16.0 ± 8.8%, p &lt; 0.05) and acrosome integrity (20.0 ± 8.2% vs. 17.1 ± 7.3%, p &lt; 0.05) than those processed within the Tris extender system, whereas post-thaw plasma membrane integrity, viability, and morphology did not differ significantly between systems. Overall, cryopreservation resulted in a marked decline in most sperm quality parameters in both extender systems. Within the limitations of the present study, the results indicate differences between the two extender systems, with the Tris system associated with superior pre-cryopreservation sperm quality and the Uppsala system associated with higher post-thaw motility and acrosome integrity. Because collection and freezing extenders were evaluated as linked protocols, the individual contribution of each extender component could not be determined.",
+   "doi": "10.3390/ani16233721",
+   "title": "A Review of Rice-Field Fisheries, Aquatic Animal Production, and Pollution Governance in the Lower Mekong Basin: Evidence from the Vietnamese Mekong Delta",
+   "abstract": "The Mekong Delta of Vietnam is one of Southeast Asia’s most important food-producing regions, supporting intensive rice cultivation, globally significant aquaculture, and diverse inland and rice-field fisheries that contribute to food security, rural livelihoods, and ecosystem functioning. However, hydraulic engineering, agricultural intensification, aquaculture expansion, urbanization, upstream river development, and climate-related pressures have progressively altered the hydrological and ecological processes sustaining these interconnected systems. This review synthesizes evidence on the transformation of rice-field fisheries and aquatic animal production in the Lower Mekong Basin, with particular emphasis on the Mekong Delta, and evaluates how effectively pollution governance addresses cumulative pressures on aquatic ecosystems. Peer-reviewed studies, official statistics, policy and legal documents, Mekong River Commission reports, and international institutional publications were assessed through a systematic critical review combining evidence mapping with structured narrative synthesis. The synthesis reveals a marked transition from hydrologically connected, multispecies production landscapes toward increasingly specialized rice and aquaculture systems. In the Mekong Delta region, recorded inland wild-fish catch declined from approximately 165,000 tonnes in 1995 to 30,000 tonnes in 2024, while aquaculture production increased more than eightfold, from approximately 78,000 to 650,000 tonnes, and rice production more than doubled, from 3.5 to 7.6 million tonnes. These contrasting trends coincided with high-dyke development, reduced floodplain connectivity, altered sediment and flow regimes, habitat modification, and greater agrochemical dependence. Major pollution pressures include nutrient and organic enrichment, pesticides, pharmaceuticals, domestic and industrial wastewater, micro-plastics, and acid-sulfate-soil drainage. Nevertheless, fishery decline cannot be attributed to pollution alone, because hydropower development, migration barriers, fishing pressure, habitat fragmentation, altered flood pulses, sediment deficits, and interact across spatial and temporal scales. Although Vietnam has established increasingly comprehensive fisheries, environment, water-resource, regional-planning, and climate-adaptation frameworks, implementation remains fragmented. Priority actions include integrated basin-to-field monitoring, cumulative-risk assessment, pollution prevention at source, stronger discharge controls, restoration of seasonal floodplain connectivity, protection of aquatic refuges, community co-management, and wider adoption of context-appropriate floating-rice, rice–fish, and rice–shrimp systems in this Delta region.",
    "authors": [
-    "Alexander René Rummel",
-    "Axel Wehrend",
-    "Abbas Farshad"
+    "Chau Thi Da",
+    "Thai Huynh Phuong Lan",
+    "Nguyen Thanh Tam",
+    "Hakan Berg"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233710",
+   "url": "https://doi.org/10.3390/ani16233721",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -15672,64 +15995,20 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233711",
-   "title": "L-Lactate-Induced Histone Lactylation Enhances Mitochondrial Biogenesis by Facilitating HDAC4-Dependent PGC1α Deacetylation",
-   "abstract": "L-lactate, traditionally considered a glycolytic byproduct, is increasingly recognized as a regulator of mitochondrial biogenesis, although its molecular basis remains incompletely defined. Here, we show that direct L-lactate exposure promotes mitochondrial biogenesis through histone H4 lysine 5 lactylation (H4K5la)-mediated activation of histone deacetylase 4 (HDAC4) transcription. L-lactate increased mitochondrial DNA (mtDNA) copy number, translocase of outer mitochondrial membrane 20 (TOM20) abundance, and mitochondrial mass. Mechanistically, H4K5la enrichment at the HDAC4 promoter increased HDAC4 expression, promoting peroxisome proliferator-activated receptor gamma coactivator 1-α (PGC1α) deacetylation at K329/330, nuclear accumulation, and interaction with nuclear respiratory factor 1 (NRF1) and GA-binding protein alpha (GABPA, also referred to as NRF2). These interactions were associated with increased mRNA levels of the genes encoding mitochondrial transcription factor B1, B2 and A (Tfb1m, Tfb2m, and Tfam). Interference with lactate uptake, E1A-binding protein P300/CREB-binding protein (P300/CBP)-dependent histone lactylation, HDAC4, or PGC1α K329/330 deacetylation attenuated these responses. In mice, sodium lactate administration increased H4K5la levels, HDAC4 abundance, and mitochondrial markers in the tibialis anterior muscle, kidney, and ovarian granulosa cells. Treatment was also associated with a shift in ovarian follicular stage distribution. Together, the cell-based findings support a role for the H4K5la–HDAC4–PGC1α pathway in the response to L-lactate.",
+   "doi": "10.3390/ani16233702",
+   "title": "Suspected Intentional Drowning of a Dog—A Veterinary Forensic Investigation",
+   "abstract": "Distinguishing antemortem drowning from postmortem immersion remains a major challenge in veterinary forensic investigations. This report describes a male Maltese dog recovered from the sea with a cord wrapped six times around the neck and attached to iron weights with a total mass of 15 kg. A complete postmortem examination, histopathology and aqueous humour biochemical analysis were performed to determine whether death preceded submersion. The findings revealed stable airway froth, pulmonary enlargement, oedema, congestion and haemorrhage. Pulmonary histopathology revealed acute alveolar overdistension, thinning and focal rupture of alveolar septa, intra-alveolar oedema and haemorrhage with occasional lymphocytes and neutrophils, and the presence of exogenous particulate material. No positive morphological evidence of fatal ligature strangulation was identified, although this mechanism could not be definitively excluded. Neither pulmonary particulate material nor aqueous humor biochemistry independently provided clear evidence of vitality at the time of submersion. Taken together, the integrated findings were most consistent with antemortem drowning, although alternative causes of death before submersion could not be completely excluded. This case highlights the importance of combined pathological assessment and cautious interpretation of ancillary evidence in investigations of animal cruelty.",
    "authors": [
-    "Tong He",
-    "Mengli Wei",
-    "Gang Wu",
-    "Min Chen",
-    "Senhua Qin",
-    "Linjie Zhu",
-    "Hongmin Li",
-    "Zhaojun Liu",
-    "Yu Zhou",
-    "Jinzhuo Dong",
-    "Honglin Liu",
-    "Ming Shen"
+    "Željko Mihaljević",
+    "Ksenija Šandor",
+    "Šimun Naletilić",
+    "Iva Kilvain",
+    "Krešimir Severin",
+    "Magdalena Palić",
+    "Marica Lolić"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233711",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16233717",
-   "title": "Effects of Rumen-Protected Methionine Supplementation on Cashmere Growth, Skin Hair Follicle Morphology, IGF-1 Concentration and mRNA Expression in Liaoning Cashmere Goats",
-   "abstract": "This study evaluated the effects of dietary rumen-protected methionine (RP-Met) supplementation on cashmere growth, skin hair follicle morphology, and the concentration and mRNA expression of insulin-like growth factor-1 (IGF-1) in Liaoning cashmere goats during the rapid cashmere fiber growth period. Twenty-four 1.5-year-old male cashmere goats, with an initial body weight of 35.41 ± 1.13 kg, were randomly assigned to four treatment groups. The goats were fed a basal diet (25% concentrate and 75% forage on a dry matter basis) ad libitum and supplemented with 0 (control), 1, 2, or 3 g/kg of RP-Met, respectively. The experiment lasted 16 weeks. At the end of the experiment, primary and secondary follicle widths in the groups supplemented with 1 and 2 g/kg of RP-Met were significantly greater than those in the control group, corresponding to increases of 21 μm (p &lt; 0.001) and 9.5 μm (p = 0.005), respectively. Quadratic trends were also observed for follicle depth (primary: p = 0.052; secondary: p = 0.093) and follicle density (primary: p = 0.096; secondary: p = 0.051). Plasma concentrations of growth hormone increased linearly with RP-Met supplementation (p &lt; 0.001). Although plasma IGF-1 concentration was unaffected, skin IGF-1 mRNA was significantly upregulated (treatment p = 0.007; linear p = 0.022), with the highest expression at the 2 g/kg RP-Met; IGF-1R mRNA showed a marginal treatment effect (p = 0.058) with a significant linear contrast (p = 0.030). In conclusion, dietary RP-Met supplementation stimulated skin follicle development and was associated with upregulated local IGF-1, without significant improvements in cashmere fiber length, diameter, or yield during the observation period. A supplementation level of 2 g/kg of RP-Met was suggested.",
-   "authors": [
-    "Dongying Qiu",
-    "Di Han",
-    "Kun Wang",
-    "Wennan Wang",
-    "Ying Lin",
-    "Zhiguo Quan",
-    "Haiying Liu",
-    "Xingtang Dou"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233717",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16223701",
-   "title": "No Evidence for Adaptive Hypotheses of Absolute Testis Asymmetry in Tibetan Plateau Frog (Rana kukunoris)",
-   "abstract": "Absolute testis asymmetry, the magnitude of bilateral mass disparity independent of directional bias, is widely interpreted as an indicator of developmental stability and male quality, yet its intraspecific drivers remain poorly understood, particularly in high-altitude ectotherms. Here, we tested five non-mutually exclusive hypotheses for the maintenance of absolute testis asymmetry using 173 adult male plateau brown frogs (Rana kukunoris) sampled from seven populations (2297–3441 m) across the eastern Tibetan Plateau. The hypotheses comprised compensatory overgrowth of the contralateral testis, spatial packaging constraints imposed by asymmetric liver mass, post-copulatory sperm competition indexed by residual total testis mass, pre-mating sexual selection indexed by the operational sex ratio, and environmental stress along altitudinal and latitudinal gradients. Linear mixed models with population identity as a random intercept revealed no significant association between absolute testis asymmetry (ATA) and any population-level predictor, with fixed effects explaining less than 4% of the variance in all five models. In contrast, individual body condition negatively predicted ATA, indicating that males in poorer somatic condition develop more asymmetric testes, although this individual-level effect explained only a modest proportion of variance (marginal R2 = 0.039). Subgroup comparisons further showed strong positive associations between contralateral testis masses in left-dominant (n = 86) and right-dominant (n = 85) males, indicating synchronous rather than antagonistic bilateral growth, which is not consistent with the mechanistic basis of the compensation hypothesis. Our findings provide the first intraspecific test of these frameworks in a high-altitude endemic amphibian and suggest that absolute testis asymmetry in R. kukunoris is shaped by individual physiological condition rather than by sexual or environmental selection.",
-   "authors": [
-    "Li-Ming Wang",
-    "Zhi-Yi Zhang",
-    "Tong-Lei Yu"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223701",
+   "url": "https://doi.org/10.3390/ani16233702",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -15766,6 +16045,59 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16223698",
+   "title": "A Preliminary 18S rRNA Metabarcoding Survey of Gut Contents from Two Endemic Fishes in the Lower Yarlung Zangbo River",
+   "abstract": "Fish of the lower Yarlung Zangbo River include several endemic species whose feeding ecology is largely unknown. Using 18S rRNA V4 metabarcoding of hindgut contents, we conducted a preliminary survey of the gut-content eukaryotic composition of two such fishes: the algae-scraping sisorid catfish Exostoma tenuicaudatum (n = 12) and the omnivorous cyprinid Garra tibetana (n = 14). The two populations differed in gut-content eukaryotic composition (Anosim R = 0.591, p = 0.001; Adonis R2 = 0.168, p = 0.001). Reads from E. tenuicaudatum were dominated by green-plant and algal taxa (unclassified Chloroplastida 47.45% and Phragmoplastophyta 25.49%), with Characiopodium (14.51%) and Neochloris (7.96%) dominant, whereas G. tibetana harboured a more diverse assemblage including fungi (Ascomycota 13.15%), land plants and metazoans. Because the two populations were sampled at single sites on single occasions, the results are a descriptive baseline rather than a test of the mechanisms that structure gut-content composition, and they provide, to our knowledge, the first molecular description of the gut-content eukaryotic composition of these poorly documented endemics.",
+   "authors": [
+    "Cong Wei",
+    "Feng Chen",
+    "Yanchao Liu",
+    "Jianchuan Li"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223698",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16223701",
+   "title": "No Evidence for Adaptive Hypotheses of Absolute Testis Asymmetry in Tibetan Plateau Frog (Rana kukunoris)",
+   "abstract": "Absolute testis asymmetry, the magnitude of bilateral mass disparity independent of directional bias, is widely interpreted as an indicator of developmental stability and male quality, yet its intraspecific drivers remain poorly understood, particularly in high-altitude ectotherms. Here, we tested five non-mutually exclusive hypotheses for the maintenance of absolute testis asymmetry using 173 adult male plateau brown frogs (Rana kukunoris) sampled from seven populations (2297–3441 m) across the eastern Tibetan Plateau. The hypotheses comprised compensatory overgrowth of the contralateral testis, spatial packaging constraints imposed by asymmetric liver mass, post-copulatory sperm competition indexed by residual total testis mass, pre-mating sexual selection indexed by the operational sex ratio, and environmental stress along altitudinal and latitudinal gradients. Linear mixed models with population identity as a random intercept revealed no significant association between absolute testis asymmetry (ATA) and any population-level predictor, with fixed effects explaining less than 4% of the variance in all five models. In contrast, individual body condition negatively predicted ATA, indicating that males in poorer somatic condition develop more asymmetric testes, although this individual-level effect explained only a modest proportion of variance (marginal R2 = 0.039). Subgroup comparisons further showed strong positive associations between contralateral testis masses in left-dominant (n = 86) and right-dominant (n = 85) males, indicating synchronous rather than antagonistic bilateral growth, which is not consistent with the mechanistic basis of the compensation hypothesis. Our findings provide the first intraspecific test of these frameworks in a high-altitude endemic amphibian and suggest that absolute testis asymmetry in R. kukunoris is shaped by individual physiological condition rather than by sexual or environmental selection.",
+   "authors": [
+    "Li-Ming Wang",
+    "Zhi-Yi Zhang",
+    "Tong-Lei Yu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16223701",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233723",
+   "title": "Sex and Individual Identification of Dholes (Cuon alpinus) Based on Fecal Metagenomic Shotgun Sequencing",
+   "abstract": "To verify that fecal metagenomic shotgun sequencing can provide valuable sex, habitat, and individual information, a total of 26 dhole (Cuon alpinus) fecal samples from 4 individuals for modeling and 24 samples from 14 individuals for externally verifying were metagenomic-sequenced. Our results showed that reads mapped to the reference genome in feces accounted for 18.36 ± 19.07% of the total reads in the samples. Bacteria, viruses, eukaryota, and archaea accounted for 95.40 ± 1.06%, 3.01 ± 0.82%, 1.36 ± 0.27%, and 0.23 ± 0.05%, respectively. Using Xcov/Acov, Christensenella massiliensis, Streptococcus agalactiae, Ureibacillus massiliensis, Parabacteroides sp. CT06, Clostridium argentinense, Escherichia fergusonii, and Pseudomonas chlororaphis, we constructed a generalized linear model (GLM) that showed potential for identifying dhole sexes. Using all microbial species with significant differences between pens, we constructed a GLM that showed potential for identifying dhole pens. The GLM constructed based on the fecal microbial species and host genomic information showed potential for identification of dhole individuals, achieving a high accuracy (100% and 91.67% for modeling and verifying samples). These results proved that GLMs constructed though integrating fecal microbial species and host genomic information exhibit potential for identifying sex, pen, and individual dholes, providing a potential method for the subsequent investigation of the ecological characteristics of wild dholes through fecal metagenomic sequencing.",
+   "authors": [
+    "Shu Wu",
+    "Qinxi Hou",
+    "Zhisong Yang",
+    "Jiajia Ni"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233723",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233706",
    "title": "Differential Physiological, Biochemical and Metabolic Effects of Warming and Dietary Composition in Two Freshwater Turtle Species",
    "abstract": "The physiological and metabolic performance of animals can be shaped by various factors, such as temperature and dietary composition. In this study, hatchlings of two freshwater turtle species, Trachemys scripta elegans and Mauremys sinensis, were maintained under different thermal regimes and dietary treatments to investigate physiological and metabolic responses to warming and high-protein diet level in turtles. Warming and a high-protein diet generally promoted growth, and increased serum glucose, cholesterol, and triglyceride levels in both species, with more pronounced effects in T. scripta elegans. Compared with M. sinensis, more extensive metabolic adjustments could be observed in T. scripta elegans under warming and high-protein diet treatments, including significantly altered expressions of genes related to gluconeogenesis, lipid metabolism and energy sensing, and enriched metabolic pathways related to energy metabolism, pyruvate metabolism, and purine metabolism. The expressions of selected genes and metabolomic responses were relatively mild in M. sinensis. Our study revealed that invasive T. scripta elegans might adopt a highly flexible, energy-centered metabolic strategy, whereas native M. sinensis exhibits more conservative and stable responses. It can be reasonably inferred that physiological and metabolic plasticity may contribute to species-specific responses to environmental changes and potentially facilitate the persistence of invasive species across heterogeneous environments.",
@@ -15785,17 +16117,91 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233723",
-   "title": "Sex and Individual Identification of Dholes (Cuon alpinus) Based on Fecal Metagenomic Shotgun Sequencing",
-   "abstract": "To verify that fecal metagenomic shotgun sequencing can provide valuable sex, habitat, and individual information, a total of 26 dhole (Cuon alpinus) fecal samples from 4 individuals for modeling and 24 samples from 14 individuals for externally verifying were metagenomic-sequenced. Our results showed that reads mapped to the reference genome in feces accounted for 18.36 ± 19.07% of the total reads in the samples. Bacteria, viruses, eukaryota, and archaea accounted for 95.40 ± 1.06%, 3.01 ± 0.82%, 1.36 ± 0.27%, and 0.23 ± 0.05%, respectively. Using Xcov/Acov, Christensenella massiliensis, Streptococcus agalactiae, Ureibacillus massiliensis, Parabacteroides sp. CT06, Clostridium argentinense, Escherichia fergusonii, and Pseudomonas chlororaphis, we constructed a generalized linear model (GLM) that showed potential for identifying dhole sexes. Using all microbial species with significant differences between pens, we constructed a GLM that showed potential for identifying dhole pens. The GLM constructed based on the fecal microbial species and host genomic information showed potential for identification of dhole individuals, achieving a high accuracy (100% and 91.67% for modeling and verifying samples). These results proved that GLMs constructed though integrating fecal microbial species and host genomic information exhibit potential for identifying sex, pen, and individual dholes, providing a potential method for the subsequent investigation of the ecological characteristics of wild dholes through fecal metagenomic sequencing.",
+   "doi": "10.3390/ani16233708",
+   "title": "Traumatic Injuries in 157 Loggerhead Sea Turtles (Caretta caretta): Clinical Presentation, Diagnostic Imaging, Microbiology, and Outcomes",
+   "abstract": "Traumatic injuries cause morbidity and mortality in Mediterranean loggerhead sea turtles (Caretta caretta). This retrospective study evaluated 157 turtles at the University of Bari Sea Turtle Clinic from 2015 to 2022; these represented 7.74% of 2028 turtles evaluated. Injuries were classified by site, severity, and chronicity. All turtles underwent radiography; multidetector computed tomography (MDCT) was performed in selected cases. Each wound was swabbed for aerobic bacterial culture and antimicrobial susceptibility testing. Injuries involved a single site in 115 turtles (73.2%) and multiple sites in 42 (26.8%); the carapace, flippers, and head were most frequently affected. MDCT characterized cranial and skeletal injuries and residual flipper vascularization. Cultures yielded 121 bacterial isolates, of which 76 (63%) exhibited a multidrug-resistant phenotype. Overall, 137 turtles (87.3%) were released, 17 (10.8%) died, and 3 (1.9%) were euthanized. In single-site cases, injury severity was associated with outcome (p = 0.045), whereas anatomical site was not. In multiple-site cases, neither severity nor site was associated with outcome; associations with hook and fishing-line ingestion were exploratory. These findings indicate that outcome may reflect the combined effects of injury severity and concurrent clinical conditions and support the use of advanced imaging, microbiological investigation, and targeted therapeutic management in sea turtle rehabilitation.",
    "authors": [
-    "Shu Wu",
-    "Qinxi Hou",
-    "Zhisong Yang",
-    "Jiajia Ni"
+    "Delia Franchini",
+    "Ilaria Laino",
+    "Carmela Valastro",
+    "Stefano Ciccarelli",
+    "Marcello Siniscalchi",
+    "Elisabetta D’Elia",
+    "Marialaura Corrente",
+    "Davide Nicola Bellomo",
+    "Serena Paci",
+    "Pasquale Salvemini",
+    "Alessandro Guarracino",
+    "Antonio V. F. Di Bello"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233723",
+   "url": "https://doi.org/10.3390/ani16233708",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233720",
+   "title": "Itaconic Acid Ameliorates Ammonia-Induced Lung Injury in Chicks via Suppression of cGAS-STING-Mediated Pyroptosis",
+   "abstract": "Ammonia (NH3), a pervasive environmental pollutant, poses significant health risks to humans and animals primarily through respiratory exposure. This study conducted a comprehensive analysis of the pulmonary toxicity mechanism of NH3 through network toxicology. The analysis confirmed that NH3 primarily induces lung damage through inflammation and oxidative stress. Itaconic acid (ITA), a tricarboxylic acid (TCA) cycle-derived metabolite, exhibits antioxidative, anti-inflammatory, and immunomodulatory properties. However, its protective mechanisms against NH3-induced lung injury in chicks remain unexplored. In this study, 120 7-day-old Hy-Line gray chicks were assigned to four experimental groups, including a control group (NH3 &lt;5 ppm), an NH3-exposed group (40–50 ppm), and two NH3-exposed groups supplemented with 4.0 or 6.0 g/kg ITA, respectively, for a period of 45 days. The results revealed that ITA dose-dependently ameliorated NH3-induced growth retardation, feed intake reduction, and pulmonary histopathological alterations, including alveolar deformation, epithelial disorganization, and interstitial fibrosis. Ultrastructural analysis revealed ITA-mediated preservation of nuclear membrane integrity and mitochondrial morphology. Mechanistically, ITA enhanced antioxidant capacity, as evidenced by upregulated antioxidase activity and reduced lipid peroxidation (MDA) level, along with Nrf2 pathway activation. Crucially, ITA suppressed pyroptosis by inhibiting the NLRP3/caspase-1/GSDMD axis and attenuated cGAS-STING-driven NF-κB activation, thereby mitigating inflammatory cytokine release. Correlation analyses confirmed interplay among pyroptosis, oxidative stress, and cGAS-STING signaling. These findings establish ITA as a novel therapeutic candidate for NH3-associated lung injury through dual modulation of the antioxidant pathway and cGAS-STING-mediated pyroptosis, providing critical insights into avian toxicology and immunometabolism.",
+   "authors": [
+    "Yang Hu",
+    "Chun Zeng",
+    "Panpan Cao",
+    "Jianyun Yuan",
+    "Qingpeng Wu",
+    "Yanqing Wang",
+    "Zhongtao Li",
+    "Xingyang Lin",
+    "Dan Wu",
+    "Xiaoquan Guo",
+    "Huabin Cao",
+    "Guoliang Hu",
+    "Wenjing Pu",
+    "Yu Zhuang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233720",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233717",
+   "title": "Effects of Rumen-Protected Methionine Supplementation on Cashmere Growth, Skin Hair Follicle Morphology, IGF-1 Concentration and mRNA Expression in Liaoning Cashmere Goats",
+   "abstract": "This study evaluated the effects of dietary rumen-protected methionine (RP-Met) supplementation on cashmere growth, skin hair follicle morphology, and the concentration and mRNA expression of insulin-like growth factor-1 (IGF-1) in Liaoning cashmere goats during the rapid cashmere fiber growth period. Twenty-four 1.5-year-old male cashmere goats, with an initial body weight of 35.41 ± 1.13 kg, were randomly assigned to four treatment groups. The goats were fed a basal diet (25% concentrate and 75% forage on a dry matter basis) ad libitum and supplemented with 0 (control), 1, 2, or 3 g/kg of RP-Met, respectively. The experiment lasted 16 weeks. At the end of the experiment, primary and secondary follicle widths in the groups supplemented with 1 and 2 g/kg of RP-Met were significantly greater than those in the control group, corresponding to increases of 21 μm (p &lt; 0.001) and 9.5 μm (p = 0.005), respectively. Quadratic trends were also observed for follicle depth (primary: p = 0.052; secondary: p = 0.093) and follicle density (primary: p = 0.096; secondary: p = 0.051). Plasma concentrations of growth hormone increased linearly with RP-Met supplementation (p &lt; 0.001). Although plasma IGF-1 concentration was unaffected, skin IGF-1 mRNA was significantly upregulated (treatment p = 0.007; linear p = 0.022), with the highest expression at the 2 g/kg RP-Met; IGF-1R mRNA showed a marginal treatment effect (p = 0.058) with a significant linear contrast (p = 0.030). In conclusion, dietary RP-Met supplementation stimulated skin follicle development and was associated with upregulated local IGF-1, without significant improvements in cashmere fiber length, diameter, or yield during the observation period. A supplementation level of 2 g/kg of RP-Met was suggested.",
+   "authors": [
+    "Dongying Qiu",
+    "Di Han",
+    "Kun Wang",
+    "Wennan Wang",
+    "Ying Lin",
+    "Zhiguo Quan",
+    "Haiying Liu",
+    "Xingtang Dou"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233717",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233727",
+   "title": "Spatiotemporal Standardization of Chub Mackerel (Scomber japonicus) Catch per Unit Effort in the Korean Large Purse Seine Fishery, 2000–2025",
+   "abstract": "Catch per unit effort (CPUE) of chub mackerel (Scomber japonicus) in the Korean large purse seine fishery informs stock assessment, but also reflects where and when the fleet fishes. We standardized it for the first time with a spatiotemporal species distribution model, fitted in sdmTMB to sampled fishing-operation reports for 2000–2025. Catch was related to sea surface temperature, chlorophyll a, mixed layer depth and bottom depth, with spatial and spatiotemporal random fields. Among six candidates, eligibility checks, the Akaike information criterion and leave-future-out cross-validation selected a delta-gamma model with autoregressive spatiotemporal fields, and a bias-corrected index was summed over a fixed grid that includes cells the fleet no longer fishes. Mixed layer depth showed the largest contrast in predicted catch, largely a seasonal one. The standardized index reached its three highest values in 2023–2025 (1.72 times the series mean in 2025), a rise that persisted on restricted grids, but 67.6% of the density predicted for 2025 lay in cells not fished that year. A hindcast fitted to 2000–2020 under-predicted every year of 2021–2025, although retrospective peels changed little (Mohn’s rho −0.023). The index can serve stock assessment as a standardized catch rate for the consistently fished grounds, proportional to abundance only if catchability is stable, but its recent rise, coinciding with contracting grounds, is not evidence that the stock grew.",
+   "authors": [
+    "Heejoong Kang",
+    "Moo-Jin Kim"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233727",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -15841,25 +16247,16 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233708",
-   "title": "Traumatic Injuries in 157 Loggerhead Sea Turtles (Caretta caretta): Clinical Presentation, Diagnostic Imaging, Microbiology, and Outcomes",
-   "abstract": "Traumatic injuries cause morbidity and mortality in Mediterranean loggerhead sea turtles (Caretta caretta). This retrospective study evaluated 157 turtles at the University of Bari Sea Turtle Clinic from 2015 to 2022; these represented 7.74% of 2028 turtles evaluated. Injuries were classified by site, severity, and chronicity. All turtles underwent radiography; multidetector computed tomography (MDCT) was performed in selected cases. Each wound was swabbed for aerobic bacterial culture and antimicrobial susceptibility testing. Injuries involved a single site in 115 turtles (73.2%) and multiple sites in 42 (26.8%); the carapace, flippers, and head were most frequently affected. MDCT characterized cranial and skeletal injuries and residual flipper vascularization. Cultures yielded 121 bacterial isolates, of which 76 (63%) exhibited a multidrug-resistant phenotype. Overall, 137 turtles (87.3%) were released, 17 (10.8%) died, and 3 (1.9%) were euthanized. In single-site cases, injury severity was associated with outcome (p = 0.045), whereas anatomical site was not. In multiple-site cases, neither severity nor site was associated with outcome; associations with hook and fishing-line ingestion were exploratory. These findings indicate that outcome may reflect the combined effects of injury severity and concurrent clinical conditions and support the use of advanced imaging, microbiological investigation, and targeted therapeutic management in sea turtle rehabilitation.",
+   "doi": "10.3390/ani16233710",
+   "title": "Study on Retrieval and Cryopreservation Techniques for Feline Epididymal Spermatozoa",
+   "abstract": "Feline epididymal sperm cryopreservation is an important reproductive biotechnology tool; however, optimal strategies for sperm recovery and preservation remain unclear. This study investigated the influence of Tris and Uppsala extenders on the quality of epididymal spermatozoa before and after cryopreservation using the same sperm recovery technique. Epididymal spermatozoa were collected from 14 tomcats following bilateral orchiectomy. Cauda epididymides were incubated in either Tris or Uppsala extender for sperm recovery. Sperm quality was assessed by subjective motility, computer-assisted sperm analysis (CASA), acrosome integrity, plasma membrane integrity, live/dead ratio, and morphology. Samples were cryopreserved using glycerol egg-yolk-based extenders, stored in liquid nitrogen, and thawed. Before cryopreservation, the Tris extender yielded significantly higher sperm concentrations than the Uppsala extender (31.8 ± 25.7 × 106/mL vs. 29.1 ± 27.8 × 106/mL, p &lt; 0.05). Sperm recovered in Tris also showed significantly higher total motility (42.8 ± 16.2% vs. 36.2 ± 17.3%, p &lt; 0.05), acrosome integrity (48.8 ± 11.4% vs. 45.4 ± 11.0%, p &lt; 0.05), and live sperm proportion (55.5 ± 12.0% vs. 52.0 ± 12.0%, p &lt; 0.05) than sperm recovered in the Uppsala extender After thawing, however, spermatozoa processed within the Uppsala extender system exhibited significantly higher subjective motility (19.5 ± 8.3% vs. 16.0 ± 8.8%, p &lt; 0.05) and acrosome integrity (20.0 ± 8.2% vs. 17.1 ± 7.3%, p &lt; 0.05) than those processed within the Tris extender system, whereas post-thaw plasma membrane integrity, viability, and morphology did not differ significantly between systems. Overall, cryopreservation resulted in a marked decline in most sperm quality parameters in both extender systems. Within the limitations of the present study, the results indicate differences between the two extender systems, with the Tris system associated with superior pre-cryopreservation sperm quality and the Uppsala system associated with higher post-thaw motility and acrosome integrity. Because collection and freezing extenders were evaluated as linked protocols, the individual contribution of each extender component could not be determined.",
    "authors": [
-    "Delia Franchini",
-    "Ilaria Laino",
-    "Carmela Valastro",
-    "Stefano Ciccarelli",
-    "Marcello Siniscalchi",
-    "Elisabetta D’Elia",
-    "Marialaura Corrente",
-    "Davide Nicola Bellomo",
-    "Serena Paci",
-    "Pasquale Salvemini",
-    "Alessandro Guarracino",
-    "Antonio V. F. Di Bello"
+    "Alexander René Rummel",
+    "Axel Wehrend",
+    "Abbas Farshad"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233708",
+   "url": "https://doi.org/10.3390/ani16233710",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -15867,17 +16264,25 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233721",
-   "title": "A Review of Rice-Field Fisheries, Aquatic Animal Production, and Pollution Governance in the Lower Mekong Basin: Evidence from the Vietnamese Mekong Delta",
-   "abstract": "The Mekong Delta of Vietnam is one of Southeast Asia’s most important food-producing regions, supporting intensive rice cultivation, globally significant aquaculture, and diverse inland and rice-field fisheries that contribute to food security, rural livelihoods, and ecosystem functioning. However, hydraulic engineering, agricultural intensification, aquaculture expansion, urbanization, upstream river development, and climate-related pressures have progressively altered the hydrological and ecological processes sustaining these interconnected systems. This review synthesizes evidence on the transformation of rice-field fisheries and aquatic animal production in the Lower Mekong Basin, with particular emphasis on the Mekong Delta, and evaluates how effectively pollution governance addresses cumulative pressures on aquatic ecosystems. Peer-reviewed studies, official statistics, policy and legal documents, Mekong River Commission reports, and international institutional publications were assessed through a systematic critical review combining evidence mapping with structured narrative synthesis. The synthesis reveals a marked transition from hydrologically connected, multispecies production landscapes toward increasingly specialized rice and aquaculture systems. In the Mekong Delta region, recorded inland wild-fish catch declined from approximately 165,000 tonnes in 1995 to 30,000 tonnes in 2024, while aquaculture production increased more than eightfold, from approximately 78,000 to 650,000 tonnes, and rice production more than doubled, from 3.5 to 7.6 million tonnes. These contrasting trends coincided with high-dyke development, reduced floodplain connectivity, altered sediment and flow regimes, habitat modification, and greater agrochemical dependence. Major pollution pressures include nutrient and organic enrichment, pesticides, pharmaceuticals, domestic and industrial wastewater, micro-plastics, and acid-sulfate-soil drainage. Nevertheless, fishery decline cannot be attributed to pollution alone, because hydropower development, migration barriers, fishing pressure, habitat fragmentation, altered flood pulses, sediment deficits, and interact across spatial and temporal scales. Although Vietnam has established increasingly comprehensive fisheries, environment, water-resource, regional-planning, and climate-adaptation frameworks, implementation remains fragmented. Priority actions include integrated basin-to-field monitoring, cumulative-risk assessment, pollution prevention at source, stronger discharge controls, restoration of seasonal floodplain connectivity, protection of aquatic refuges, community co-management, and wider adoption of context-appropriate floating-rice, rice–fish, and rice–shrimp systems in this Delta region.",
+   "doi": "10.3390/ani16233711",
+   "title": "L-Lactate-Induced Histone Lactylation Enhances Mitochondrial Biogenesis by Facilitating HDAC4-Dependent PGC1α Deacetylation",
+   "abstract": "L-lactate, traditionally considered a glycolytic byproduct, is increasingly recognized as a regulator of mitochondrial biogenesis, although its molecular basis remains incompletely defined. Here, we show that direct L-lactate exposure promotes mitochondrial biogenesis through histone H4 lysine 5 lactylation (H4K5la)-mediated activation of histone deacetylase 4 (HDAC4) transcription. L-lactate increased mitochondrial DNA (mtDNA) copy number, translocase of outer mitochondrial membrane 20 (TOM20) abundance, and mitochondrial mass. Mechanistically, H4K5la enrichment at the HDAC4 promoter increased HDAC4 expression, promoting peroxisome proliferator-activated receptor gamma coactivator 1-α (PGC1α) deacetylation at K329/330, nuclear accumulation, and interaction with nuclear respiratory factor 1 (NRF1) and GA-binding protein alpha (GABPA, also referred to as NRF2). These interactions were associated with increased mRNA levels of the genes encoding mitochondrial transcription factor B1, B2 and A (Tfb1m, Tfb2m, and Tfam). Interference with lactate uptake, E1A-binding protein P300/CREB-binding protein (P300/CBP)-dependent histone lactylation, HDAC4, or PGC1α K329/330 deacetylation attenuated these responses. In mice, sodium lactate administration increased H4K5la levels, HDAC4 abundance, and mitochondrial markers in the tibialis anterior muscle, kidney, and ovarian granulosa cells. Treatment was also associated with a shift in ovarian follicular stage distribution. Together, the cell-based findings support a role for the H4K5la–HDAC4–PGC1α pathway in the response to L-lactate.",
    "authors": [
-    "Chau Thi Da",
-    "Thai Huynh Phuong Lan",
-    "Nguyen Thanh Tam",
-    "Hakan Berg"
+    "Tong He",
+    "Mengli Wei",
+    "Gang Wu",
+    "Min Chen",
+    "Senhua Qin",
+    "Linjie Zhu",
+    "Hongmin Li",
+    "Zhaojun Liu",
+    "Yu Zhou",
+    "Jinzhuo Dong",
+    "Honglin Liu",
+    "Ming Shen"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233721",
+   "url": "https://doi.org/10.3390/ani16233711",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -15885,84 +16290,98 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16223698",
-   "title": "A Preliminary 18S rRNA Metabarcoding Survey of Gut Contents from Two Endemic Fishes in the Lower Yarlung Zangbo River",
-   "abstract": "Fish of the lower Yarlung Zangbo River include several endemic species whose feeding ecology is largely unknown. Using 18S rRNA V4 metabarcoding of hindgut contents, we conducted a preliminary survey of the gut-content eukaryotic composition of two such fishes: the algae-scraping sisorid catfish Exostoma tenuicaudatum (n = 12) and the omnivorous cyprinid Garra tibetana (n = 14). The two populations differed in gut-content eukaryotic composition (Anosim R = 0.591, p = 0.001; Adonis R2 = 0.168, p = 0.001). Reads from E. tenuicaudatum were dominated by green-plant and algal taxa (unclassified Chloroplastida 47.45% and Phragmoplastophyta 25.49%), with Characiopodium (14.51%) and Neochloris (7.96%) dominant, whereas G. tibetana harboured a more diverse assemblage including fungi (Ascomycota 13.15%), land plants and metazoans. Because the two populations were sampled at single sites on single occasions, the results are a descriptive baseline rather than a test of the mechanisms that structure gut-content composition, and they provide, to our knowledge, the first molecular description of the gut-content eukaryotic composition of these poorly documented endemics.",
+   "doi": "10.3390/ani16233744",
+   "title": "Predicting Suitable Habitat and Environmental Drivers for the Amur Leopard (Panthera pardus orientalis) Using a Multi-Algorithm Species Distribution Model",
+   "abstract": "Understanding the spatial distribution of large carnivores and the environmental factors driving it is important for conservation and habitat management. We modeled potential habitat suitability for the Amur leopard (Panthera pardus orientalis) in the southern Laoye Ridge, Heilongjiang Province, China, using 173 independent Amur leopard activity records obtained from infrared camera monitoring between 2021 and 2026. Climate, topography, vegetation, human disturbance, and prey-resource variables were integrated within a BIOMOD2 ensemble framework under five progressive scenarios. The Baseline scenario had the highest ensemble performance (EMmean AUC/TSS = 0.915/0.686; EMwmean AUC/TSS = 0.912/0.684), whereas performance declined after prey resources were added in the Full scenario (0.898/0.638 and 0.900/0.643, respectively). A paired Wilcoxon signed-rank test indicated a significant difference in validation TSS between the Baseline and Full models (V = 3099, p = 0.0295). In the Full model, distance to secondary roads, temperature seasonality, and mean vegetation greenness were the three most important variables, whereas the prey-resource proxy ranked 13th. Suitable habitat was concentrated mainly in continuous forests in the southern and eastern parts of the study area. These results highlight human disturbance, climatic conditions, and vegetation as major spatial filters at the current study scale.",
    "authors": [
-    "Cong Wei",
-    "Feng Chen",
-    "Yanchao Liu",
-    "Jianchuan Li"
+    "Binglian Liu",
+    "Qi Qi",
+    "Dan Ju",
+    "Hong Chen",
+    "Li Yin",
+    "Zidong Zhang",
+    "Shaochun Zhou",
+    "Shuying Zang"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16223698",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
+   "url": "https://doi.org/10.3390/ani16233744",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233702",
-   "title": "Suspected Intentional Drowning of a Dog—A Veterinary Forensic Investigation",
-   "abstract": "Distinguishing antemortem drowning from postmortem immersion remains a major challenge in veterinary forensic investigations. This report describes a male Maltese dog recovered from the sea with a cord wrapped six times around the neck and attached to iron weights with a total mass of 15 kg. A complete postmortem examination, histopathology and aqueous humour biochemical analysis were performed to determine whether death preceded submersion. The findings revealed stable airway froth, pulmonary enlargement, oedema, congestion and haemorrhage. Pulmonary histopathology revealed acute alveolar overdistension, thinning and focal rupture of alveolar septa, intra-alveolar oedema and haemorrhage with occasional lymphocytes and neutrophils, and the presence of exogenous particulate material. No positive morphological evidence of fatal ligature strangulation was identified, although this mechanism could not be definitively excluded. Neither pulmonary particulate material nor aqueous humor biochemistry independently provided clear evidence of vitality at the time of submersion. Taken together, the integrated findings were most consistent with antemortem drowning, although alternative causes of death before submersion could not be completely excluded. This case highlights the importance of combined pathological assessment and cautious interpretation of ancillary evidence in investigations of animal cruelty.",
+   "doi": "10.3390/ani16233740",
+   "title": "Dietary ε-Poly-L-lysine Protects Largemouth Bass (Micropterus salmoides) Against Aeromonas hydrophila-Induced Enteritis in Association with Gut Microbiota Remodeling and Enhanced Mucosal Immune Responses",
+   "abstract": "Background: Bacterial enteritis caused by Aeromonas hydrophila threatens largemouth bass aquaculture. ε-Poly-L-lysine (ε-PL), a natural antimicrobial widely used in food preservation, has been rarely investigated as a dietary immunostimulant in aquaculture. This study tested whether dietary ε-PL protects largemouth bass against A. hydrophila and characterised the associated changes in gut microbiota and mucosal immune gene expression. Methods: FITC labeling verified ε-PL binding to gut bacteria, and in vitro assays evaluated its antibacterial spectrum. Largemouth bass were fed 0.2 g/kg ε-PL for 28 days. 16S rRNA sequencing analyzed gut microbiota, H&amp;E staining observed intestinal histomorphology, and qPCR detected mucosal immune gene expression at 72 h post-challenge. Protective efficacy was assessed by anal intubation challenge, measuring 14-day survival and multi-tissue bacterial burden. Results: FITC-ε-PL bound gut bacteria dose-dependently and showed broad-spectrum bactericidal activity. ε-PL significantly increased gut microbial alpha diversity (Chao1, Shannon, Faith’s PD), altered community composition, and shifted ecological assembly. Goblet cell density increased, while villus length remained unchanged. At 72 h post-challenge, mucosal immune genes (IL-1β, IL-8, IFN-γ, TNF-α, IL-10, IgT) were significantly upregulated. Survival reached 84% in the ε-PL group vs. 54% in controls, with reduced bacterial burdens in multiple tissues. Conclusions: Dietary ε-PL confers prophylactic protection against A. hydrophila enteritis in largemouth bass by reshaping gut microbiota and improving intestinal mucosal immunity, supporting ε-PL as a promising functional feed additive for aquaculture.",
    "authors": [
-    "Željko Mihaljević",
-    "Ksenija Šandor",
-    "Šimun Naletilić",
-    "Iva Kilvain",
-    "Krešimir Severin",
-    "Magdalena Palić",
-    "Marica Lolić"
+    "Xingchen Huo",
+    "Zhihong Ma",
+    "Yuqi Zhu",
+    "Zhensheng Wang",
+    "Huanhuan Yu",
+    "Na Jiang"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233702",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
+   "url": "https://doi.org/10.3390/ani16233740",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233727",
-   "title": "Spatiotemporal Standardization of Chub Mackerel (Scomber japonicus) Catch per Unit Effort in the Korean Large Purse Seine Fishery, 2000–2025",
-   "abstract": "Catch per unit effort (CPUE) of chub mackerel (Scomber japonicus) in the Korean large purse seine fishery informs stock assessment, but also reflects where and when the fleet fishes. We standardized it for the first time with a spatiotemporal species distribution model, fitted in sdmTMB to sampled fishing-operation reports for 2000–2025. Catch was related to sea surface temperature, chlorophyll a, mixed layer depth and bottom depth, with spatial and spatiotemporal random fields. Among six candidates, eligibility checks, the Akaike information criterion and leave-future-out cross-validation selected a delta-gamma model with autoregressive spatiotemporal fields, and a bias-corrected index was summed over a fixed grid that includes cells the fleet no longer fishes. Mixed layer depth showed the largest contrast in predicted catch, largely a seasonal one. The standardized index reached its three highest values in 2023–2025 (1.72 times the series mean in 2025), a rise that persisted on restricted grids, but 67.6% of the density predicted for 2025 lay in cells not fished that year. A hindcast fitted to 2000–2020 under-predicted every year of 2021–2025, although retrospective peels changed little (Mohn’s rho −0.023). The index can serve stock assessment as a standardized catch rate for the consistently fished grounds, proportional to abundance only if catchability is stable, but its recent rise, coinciding with contracting grounds, is not evidence that the stock grew.",
+   "doi": "10.3390/ani16233732",
+   "title": "Sugarcane-Derived Polyphenols May Inhibit Spore Germination of Enterocytozoon hepatopenaei in Penaeus vannamei In Vitro",
+   "abstract": "Background: Enterocytozoon hepatopenaei (EHP) is a microsporidian pathogen that causes hepatopancreatic microsporidiosis, reduces the growth of farmed Penaeus vannamei, and contributes to economic losses in shrimp aquaculture. As no effective treatment is currently available, this study evaluated the in vitro effect of Polygain™, a sugarcane-derived polyphenol extract, on EHP spore germination. Methods: Spores from two batches (Batch 1, 20 ppt; Batch 2, 10 ppt source salinity) were incubated with Polygain™ at 0.1–0.6% (v/v) for 5–60 min. Germination was assessed microscopically as the percentage of spores exhibiting polar tube extrusion. Treatments were compared with the control within each batch using ANOVA followed by Dunnett’s test. Results: Exposure to Polygain™ was associated with a concentration-dependent reduction in polar tube extrusion in both batches. At concentrations of 0.4% and 0.6%, extrusion was significantly lower than in the controls at all incubation times (adjusted p &lt; 0.05). At 0.6%, extrusion decreased from 88.33% (Batch 1) and 86.67% (Batch 2) in the controls to 3.00% and 10.00% after 5 min, and to 1.00% and 2.67% after 60 min. Conclusions: Polygain™ may inhibit EHP spore germination in vitro without causing visible structural damage. Further in vivo studies are required to evaluate its efficacy and delivery in shrimp aquaculture.",
    "authors": [
-    "Heejoong Kang",
-    "Moo-Jin Kim"
+    "Thalia M. Llalla Vidal",
+    "Ornchuma Itsathitphaisarn",
+    "Kallaya Sritunyalucksana",
+    "Matthew Flavel"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233727",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
+   "url": "https://doi.org/10.3390/ani16233732",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233720",
-   "title": "Itaconic Acid Ameliorates Ammonia-Induced Lung Injury in Chicks via Suppression of cGAS-STING-Mediated Pyroptosis",
-   "abstract": "Ammonia (NH3), a pervasive environmental pollutant, poses significant health risks to humans and animals primarily through respiratory exposure. This study conducted a comprehensive analysis of the pulmonary toxicity mechanism of NH3 through network toxicology. The analysis confirmed that NH3 primarily induces lung damage through inflammation and oxidative stress. Itaconic acid (ITA), a tricarboxylic acid (TCA) cycle-derived metabolite, exhibits antioxidative, anti-inflammatory, and immunomodulatory properties. However, its protective mechanisms against NH3-induced lung injury in chicks remain unexplored. In this study, 120 7-day-old Hy-Line gray chicks were assigned to four experimental groups, including a control group (NH3 &lt;5 ppm), an NH3-exposed group (40–50 ppm), and two NH3-exposed groups supplemented with 4.0 or 6.0 g/kg ITA, respectively, for a period of 45 days. The results revealed that ITA dose-dependently ameliorated NH3-induced growth retardation, feed intake reduction, and pulmonary histopathological alterations, including alveolar deformation, epithelial disorganization, and interstitial fibrosis. Ultrastructural analysis revealed ITA-mediated preservation of nuclear membrane integrity and mitochondrial morphology. Mechanistically, ITA enhanced antioxidant capacity, as evidenced by upregulated antioxidase activity and reduced lipid peroxidation (MDA) level, along with Nrf2 pathway activation. Crucially, ITA suppressed pyroptosis by inhibiting the NLRP3/caspase-1/GSDMD axis and attenuated cGAS-STING-driven NF-κB activation, thereby mitigating inflammatory cytokine release. Correlation analyses confirmed interplay among pyroptosis, oxidative stress, and cGAS-STING signaling. These findings establish ITA as a novel therapeutic candidate for NH3-associated lung injury through dual modulation of the antioxidant pathway and cGAS-STING-mediated pyroptosis, providing critical insights into avian toxicology and immunometabolism.",
+   "doi": "10.3390/ani16233735",
+   "title": "Engineering Control: Media Discourses on Biotechnological Solutions for Managing Animal Populations in Nature",
+   "abstract": "Historically, biotechnological interventions on nonhuman animals have been developed primarily within the medical and agricultural sectors to secure human benefits. More recently, as global conservation agendas have intensified, conservation biotechnologies applied to free-roaming animal populations have been increasingly promoted as technofixes for contemporary conservation challenges. Drawing on Science and Technology Studies and Critical Animal Studies, our research examines how media discourses surrounding conservation biotechnologies applied to free-roaming animal populations—focusing in particular on invasive species and pest control, and de-extinction—construct and naturalise particular understandings of these interventions and whose interests these configurations ultimately serve. Through a Critical Discourse Analysis of a corpus of international English-language newspaper articles published between 2016 and 2026, this study first maps the recurring arguments deployed to legitimate or contest biotechnological interventions affecting animal populations in nature; it then examines how the dialogic organisation of media texts opens the space for critical perspectives; finally, it analyses the ethical concerns raised in relation to these interventions and examines the extent to which the interests and welfare of nonhuman animals are centred or marginalised within media discourse. The findings reveal that the media discourses analysed recurrently framed support for biotechnological interventions through instrumental arguments, whereas opposition was more commonly framed through appeals on expert authority. Overall, media discourse privileged pro-biotechnology perspectives and scientific expertise, systematically underrepresenting animal welfare concerns and prioritising human interests over those of nonhuman animals.",
    "authors": [
-    "Yang Hu",
-    "Chun Zeng",
-    "Panpan Cao",
-    "Jianyun Yuan",
-    "Qingpeng Wu",
-    "Yanqing Wang",
-    "Zhongtao Li",
-    "Xingyang Lin",
-    "Dan Wu",
-    "Xiaoquan Guo",
-    "Huabin Cao",
-    "Guoliang Hu",
-    "Wenjing Pu",
-    "Yu Zhuang"
+    "Sara Vidal-Ramón",
+    "Núria Almiron"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233720",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
+   "url": "https://doi.org/10.3390/ani16233735",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233734",
+   "title": "Integrative Taxonomy Reveals New Species and Cryptic Diversity in Chinese Lepidostoma (Trichoptera: Lepidostomatidae)",
+   "abstract": "The genus Lepidostoma Rambur, 1842 (Trichoptera: Lepidostomatidae), includes more than 480 described species across the globe. However, accurate species identification based solely on morphology alone remains challenging. In this study, we conducted a taxonomic revision of the Chinese Lepidostoma, combining morphological and DNA barcoding methods. One new species of Lepidostoma was described and illustrated, and two species were reported as new records from China. Additionally, we sequenced 73 DNA barcode sequences for 19 species and improved the DNA barcode database of Chinese Lepidostoma. Cases of incongruence between morphological and molecular identifications were also detected, suggesting potential cryptic diversity within the genus. Our findings improve the accuracy of species identification for Lepidostoma, advance our knowledge of Trichoptera diversity in China, and provide baseline data that may support future freshwater biodiversity assessments.",
+   "authors": [
+    "Yanyan Ni",
+    "Ni Zhang",
+    "Jin Xu",
+    "Na Wang",
+    "Jiayi Zhu",
+    "Xinyu Ge",
+    "Jun Gao"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233734",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
