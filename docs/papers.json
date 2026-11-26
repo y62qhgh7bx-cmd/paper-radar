@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:22:01+00:00",
+ "updated": "2026-11-26T04:37:10+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -630,7 +630,7 @@
   {
    "doi": "10.1080/00071668.2026.2746684",
    "title": "Dietary pequi oil ( Caryocar brasiliense Camb.) improves feed efficiency and oxidative stability in broiler chickens",
-   "abstract": "1. The effects of increasing dietary levels of pequi oil (PO) on growth performance, oxidative status, and meat quality of broilers over a 42-d production period were evaluated. A total of 1,440 one-day-old male Cobb 500 broilers were randomly allocated to one of six dietary treatments with eight replicates and 30 birds per pen. These included a positive control diet supplemented with Avilamycin (0.05 g/kg; AGP), a negative control diet (without treatment; CON) or CON supplemented with 1.5, 3.0, 4.5 or 6.0 g/kg PO.2. During the starter phase (d 1–21), increasing PO levels reduced body weight (BW) and average daily gain (ADG; p 0.05).3. There was no effect of diet on blood biochemical parameters, leukocyte profiles, or relative organ weights, although PO supplementation reduced plasma lipid oxidation (p < 0.001). Meat quality data showed that PO supplementation caused reductions in redness (a*), cooking loss and shear force (p < 0.05). Malondialdehyde content in breast meat decreased in line with PO inclusion in tests covering over 90 days of storage (p = 0.049).4. Supplementing diets with PO improved FCR and oxidative stability without adverse effects on bird health or carcass traits. The data support the use of PO as a natural feed additive to enhance performance and meat quality in broilers.",
+   "abstract": "1. The effects of increasing dietary levels of pequi oil (PO) on growth performance, oxidative status, and meat quality of broilers over a 42-d production period were evaluated. A total of 1,440 one-day-old male Cobb 500 broilers were randomly allocated to one of six dietary treatments with eight replicates and 30 birds per pen. These included a positive control diet supplemented with Avilamycin (0.05 g/kg; AGP), a negative control diet (without treatment; CON) or CON supplemented with 1.5, 3.0, 4.5 or 6.0 g/kg PO.2. During the starter phase (d 1-21), increasing PO levels reduced body weight (BW) and average daily gain (ADG; p 0.05).3. There was no effect of diet on blood biochemical parameters, leukocyte profiles, or relative organ weights, although PO supplementation reduced plasma lipid oxidation (p < 0.001). Meat quality data showed that PO supplementation caused reductions in redness (a*), cooking loss and shear force (p < 0.05). Malondialdehyde content in breast meat decreased in line with PO inclusion in tests covering over 90 days of storage (p = 0.049).4. Supplementing diets with PO improved FCR and oxidative stability without adverse effects on bird health or carcass traits. The data support the use of PO as a natural feed additive to enhance performance and meat quality in broilers.",
    "authors": [
     "J. M. Cruvinel",
     "P. M. Groff-Urayama",
@@ -1354,7 +1354,7 @@
   {
    "doi": "10.1080/00071668.2026.2738150",
    "title": "Effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, gut morphology, skeletal traits and caecal microbiota of broiler chickens under tropical conditions",
-   "abstract": "1. This study investigated the effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, intestinal morphology, foot health, leg strength and tibial characteristics of broiler chickens reared in tropical conditions.2. A total of 840 fertile Ross 308 eggs were incubated at either the optimal temperature (37.5°C) or subjected to embryonic thermal manipulation (38.5°C from embryonic days (ED) 8 to 14). After hatch, chicks received either a basal diet or a basal diet supplemented with a synbiotic (1 g/kg) until 42 d of age.3. From d 21–28 all birds experienced an outbreak of leucocytozoonosis and received identical antiparasitic treatment, enabling comparisons of treatments under disease challenge.4. Embryonic thermal manipulation reduced hatchability (87.7 vs. 95.7%), starter feed intake and early body weight, but did not affect final body weight. Synbiotic supplementation improved overall feed conversion ratio. Under optimal incubation conditions, synbiotic supplementation increased body weight gain and duodenal villus height, whereas, following embryonic thermal manipulation, it increased tibial phosphorus content but reduced villus height.5. Neither embryonic thermal manipulation nor synbiotic supplementation affected gait score, latency-to-lie or caecal bacteria. Footpad dermatitis and hock burn scores increased only in synbiotic-supplemented broilers incubated at optimal temperature.6. Embryonic thermal manipulation altered the response to post-hatch synbiotic supplementation, shifting the benefits from enhanced intestinal morphology and growth performance to improved tibial mineralisation. These findings underscored the importance of incubation conditions when devising nutritional strategies for broiler production.",
+   "abstract": "1. This study investigated the effects of embryonic thermal manipulation and post-hatch synbiotic supplementation on growth performance, intestinal morphology, foot health, leg strength and tibial characteristics of broiler chickens reared in tropical conditions.2. A total of 840 fertile Ross 308 eggs were incubated at either the optimal temperature (37.5°C) or subjected to embryonic thermal manipulation (38.5°C from embryonic days (ED) 8 to 14). After hatch, chicks received either a basal diet or a basal diet supplemented with a synbiotic (1 g/kg) until 42 d of age.3. From d 21-28 all birds experienced an outbreak of leucocytozoonosis and received identical antiparasitic treatment, enabling comparisons of treatments under disease challenge.4. Embryonic thermal manipulation reduced hatchability (87.7 vs. 95.7%), starter feed intake and early body weight, but did not affect final body weight. Synbiotic supplementation improved overall feed conversion ratio. Under optimal incubation conditions, synbiotic supplementation increased body weight gain and duodenal villus height, whereas, following embryonic thermal manipulation, it increased tibial phosphorus content but reduced villus height.5. Neither embryonic thermal manipulation nor synbiotic supplementation affected gait score, latency-to-lie or caecal bacteria. Footpad dermatitis and hock burn scores increased only in synbiotic-supplemented broilers incubated at optimal temperature.6. Embryonic thermal manipulation altered the response to post-hatch synbiotic supplementation, shifting the benefits from enhanced intestinal morphology and growth performance to improved tibial mineralisation. These findings underscored the importance of incubation conditions when devising nutritional strategies for broiler production.",
    "authors": [
     "A. A. Jupilin",
     "C. A. H. C. Ab Ghani",
@@ -1482,6 +1482,34 @@
     "genetic diversity",
     "breeding",
     "livestock"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233747",
+   "title": "Anti-Mycotoxin Agents in Poultry Production Through the Lens of Circular Economy and Life Cycle Assessment: A Narrative Review",
+   "abstract": "A ten-year global survey of feed and feed raw materials, not specific to poultry, detected at least one mycotoxin in 88% of samples; however, detection does not imply harmful concentrations. Aflatoxin B1, ochratoxin A, deoxynivalenol, T-2/HT-2 toxins, fumonisins, zearalenone and emerging Alternaria toxins such as tenuazonic acid (TeA) impair poultry performance, organ integrity, immunity and egg production, and leave residues in meat and eggs. This narrative review, based on a structured two-database search, synthesizes the mechanisms of adsorbents, biotransforming agents, phytogenic antioxidants and multicomponent agents, and 22 selected, non-exhaustive poultry intervention studies. Seventeen controlled challenge trials, mostly at high doses, showed mainly partial mitigation; within these studies, improvements were more often observed for feed conversion than for body weight. The only commercial-scale evidence identified in the present search, an unreplicated comparison of two broiler flocks, associated a grape- and olive-extract agent with better plasma redox biomarkers and lower semi-quantitative hepatic TeA. A role for these agents in enabling co-product-rich circular diets remains untested. Because feed dominates modeled broiler greenhouse gas emissions, protecting feed efficiency could lower environmental impacts, but illustrative scenarios show that this depends on the assumed efficacy, and no poultry life cycle assessment has measured it; we propose a design to do so.",
+   "authors": [
+    "Zoi Prentza",
+    "Konstantinos Koutoulis",
+    "Labrini V. Athanasiou",
+    "Georgios I. Papakonstantinou",
+    "Nikolaos Tsekouras",
+    "Christos Eliopoulos",
+    "Maria Spilioti",
+    "Dimitrios Arapoglou",
+    "Vasileios G. Papatsiros"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233747",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 22.0,
+   "matched": [
+    "broiler",
+    "feed efficiency",
+    "mycotoxin",
+    "poultry"
    ],
    "abstract_zh": ""
   },
@@ -2545,7 +2573,7 @@
   {
    "doi": "10.1080/00071668.2026.2738152",
    "title": "Pharmacokinetics and plasma protein binding of oxytetracycline in ducks ( Anas platyrhynchos ) following intravenous, intramuscular, subcutaneous and oral administration",
-   "abstract": "1. Tetracyclines are among the most widely used antibiotics in poultry, with oxytetracycline (OTC) playing a key role due to its routine administration via feed and water to treat susceptible bacterial infections. Despite its widespread clinical use, understanding of the pharmacokinetics of OTC in the genus Anas remains remarkably limited. The following study characterised the pharmacokinetic profile of OTC after intravenous (IV), intramuscular (IM), subcutaneous (SC) and oral administration in ducks (Anas platyrhynchos).2. A total of 24 ducks (six per group in a parallel study) were given OTC at a dose of 40 mg/kg via IV, IM, SC and oral routes. Blood samples were collected at various time points ranging from 0 min (control) to 96 h post-administration. The samples were examined by high-performance liquid chromatography (HPLC) and the pharmacokinetic parameters were assessed through non-compartmental analysis.3. Following IV administration, the volume of distribution (2.73 l/kg) suggested extensive tissue penetration. Elimination half-lives were 12.69 h (IM), 13.54 h (SC) and 12.62 h (oral), all slightly longer than after IV dosing (9.72 h) with no significant differences between extravascular routes. Bioavailability was high after parenteral administration (≈90–98%), suggesting near-complete absorption, whereas oral bioavailability was low (≈17%), indicating gastrointestinal absorption as the main limiting factor. Plasma protein binding was high (87–93%).4. Parenteral administration of OTC (40 mg/kg) in ducks can achieve effective exposure against pathogens with minimum inhibitory concentration (MIC) ≤0.5 µg/ml.",
+   "abstract": "1. Tetracyclines are among the most widely used antibiotics in poultry, with oxytetracycline (OTC) playing a key role due to its routine administration via feed and water to treat susceptible bacterial infections. Despite its widespread clinical use, understanding of the pharmacokinetics of OTC in the genus Anas remains remarkably limited. The following study characterised the pharmacokinetic profile of OTC after intravenous (IV), intramuscular (IM), subcutaneous (SC) and oral administration in ducks (Anas platyrhynchos).2. A total of 24 ducks (six per group in a parallel study) were given OTC at a dose of 40 mg/kg via IV, IM, SC and oral routes. Blood samples were collected at various time points ranging from 0 min (control) to 96 h post-administration. The samples were examined by high-performance liquid chromatography (HPLC) and the pharmacokinetic parameters were assessed through non-compartmental analysis.3. Following IV administration, the volume of distribution (2.73 l/kg) suggested extensive tissue penetration. Elimination half-lives were 12.69 h (IM), 13.54 h (SC) and 12.62 h (oral), all slightly longer than after IV dosing (9.72 h) with no significant differences between extravascular routes. Bioavailability was high after parenteral administration (≈90-98%), suggesting near-complete absorption, whereas oral bioavailability was low (≈17%), indicating gastrointestinal absorption as the main limiting factor. Plasma protein binding was high (87-93%).4. Parenteral administration of OTC (40 mg/kg) in ducks can achieve effective exposure against pathogens with minimum inhibitory concentration (MIC) ≤0.5 µg/ml.",
    "authors": [
     "E. Badillo",
     "P. Marín",
@@ -3457,6 +3485,28 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1111/jbg.70089",
+   "title": "Genomic and Pedigree Inbreeding Estimates and Their Association With Sheep Production Traits",
+   "abstract": "Inbreeding increases genome‐wide homozygosity and elevates the risk of expressing deleterious recessive alleles, yet genomic‐based inbreeding metrics and their association with animal performance remain poorly characterised within a large multiple breed sheep population. This study aimed to estimate pedigree‐ and genomic‐based inbreeding across five purebred sheep breeds and evaluate the impact of inbreeding on key production traits. Pedigree, genotype and phenotypic data were sourced from the Irish national sheep database, comprising a dataset of 43,274 genotyped individuals. Each animal had pedigree records equal to ≥ 3 complete generation equivalents and all animals were imputed to a common density of 47,184 SNPs. Pedigree‐based inbreeding was estimated ( F Ped ) and further partitioned into recent and ancient components. Genomic inbreeding was quantified using runs of homozygosity ( F ROH Total ), partitioned into three different metrics based on ROH lengths (≥ 1 Mb, 1–8 Mb, ≥ 8 Mb) and from excess observed homozygosity relative to Hardy–Weinberg expectations (F Hom ). Linear, generalised linear and threshold mixed models were used to estimate inbreeding depression across lambing, lamb and ewe performance and health traits. Across the five breeds investigated, the mean inbreeding levels varied, with the Belclare and Suffolk breeds exhibiting the highest mean pedigree and genomic inbreeding, respectively, whereas the Charollais breed consistently showed the lowest levels across all metrics. Although inbreeding levels were low, a gradual increase in the rate of inbreeding ( F Ped , F ROH Total , F Hom ) per generation was observed across all breeds. Notably, genomic inbreeding estimates substantially exceeded pedigree estimates (mean F ROH Total = 0.09 ± 0.04 vs. mean F Ped = 0.02 ± 0.02); when further decomposed by segment length, the predominance of short ROH segments (1–8 Mb) indicated that ancient inbreeding was the primary contributor to genome‐wide homozygosity across all breeds. Moderate correlations between pedigree‐ and genomic‐based metrics ( r = 0.27–0.70), combined with positive regression intercepts, demonstrated that pedigree‐based inbreeding consistently underestimated true autozygosity. Inbreeding depression was evident across lambing, live weights, body composition and ewe performance traits. For live weights a 1% increase in inbreeding was associated with 0.19% ( F Hom ) to 1.40% ( F Kal old ) reductions in traits mean, depending on the metric used. A 1% increase in F Hom corresponded to a 1.04‐fold (95% CI; 1.01 to 1.07) increase in the odds of the most difficult lambing category and a 1.06‐fold (95% CI; 1.02 to 1.09) increase in the odds of a poorer mothering ability score, respectively. Results show that both pedigree and genomic inbreeding metrics were associated with inbreeding depression across a range of traits in sheep. These findings support incorporating inbreeding measurements into the mating advice and selection decision in the Irish sheep population for long term productivity and sustainability.",
+   "authors": [
+    "Mujibur Rahman",
+    "Deirdre C. Purfield",
+    "Thierry Pabiou",
+    "Pierce Rafter",
+    "Noirin McHugh"
+   ],
+   "journal": "Journal of Animal Breeding and Genetics",
+   "url": "https://doi.org/10.1111/jbg.70089",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 15.0,
+   "matched": [
+    "sheep",
+    "breeding"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s12711-026-01089-y",
    "title": "Correction: Genetic parameters via predictivity in large populations under strong genomic selection",
    "abstract": "",
@@ -3604,7 +3654,7 @@
   {
    "doi": "10.1080/00071668.2026.2738148",
    "title": "Influence of dehydrated orange pomace inclusion and β-glucanase and xylanase supplementation on performance, egg quality and physiological responses of Japanese quails",
-   "abstract": "1. This study evaluated the effects of replacing 10% of the maize in the diet with dehydrated orange pomace (DOP) in Japanese quail. Treatments included supplementation with β-glucanase and xylanase. Data included productive performance, nutrient digestibility, egg quality, serum biochemical profile, pancreatic characteristics and gastrointestinal tract biometry.2. A total of 144 female Japanese quails (Coturnix coturnix japonica) were used, arranged in a completely randomised design with a 2 × 2 factorial layout, consisting of two levels of DOP inclusion (0% and 10%) and two levels of enzyme supplementation (without and with β-glucanase and xylanase), with six replicates and six birds per experimental unit. The experiment lasted 84 d, divided into three experimental cycles of 28 d each. Data were subjected to analysis of variance and means were compared using Tukey’s test at a 5% significance level.3. Supplementation with β-glucanase and xylanase improved feed conversion for egg mass (FCRegg) and increased the nitrogen retention and ether extract digestibility coefficients. The inclusion of 10% DOP increased egg mass, laying percentage and commercial viability, in addition to reducing serum cholesterol concentrations. No negative effects were observed for feed intake, egg quality, pancreatic parameters or development of major gastrointestinal tract organs.4. Under the conditions evaluated in this study, inclusion of 10% DOP showed potential as an alternative feed ingredient for Japanese quail. Supplementation with β-glucanase and xylanase improved aspects of FCRegg and nutrient utilisation.",
+   "abstract": "1. This study evaluated the effects of replacing 10% of the maize in the diet with dehydrated orange pomace (DOP) in Japanese quail. Treatments included supplementation with β-glucanase and xylanase. Data included productive performance, nutrient digestibility, egg quality, serum biochemical profile, pancreatic characteristics and gastrointestinal tract biometry.2. A total of 144 female Japanese quails (Coturnix coturnix japonica) were used, arranged in a completely randomised design with a 2 × 2 factorial layout, consisting of two levels of DOP inclusion (0% and 10%) and two levels of enzyme supplementation (without and with β-glucanase and xylanase), with six replicates and six birds per experimental unit. The experiment lasted 84 d, divided into three experimental cycles of 28 d each. Data were subjected to analysis of variance and means were compared using Tukey's test at a 5% significance level.3. Supplementation with β-glucanase and xylanase improved feed conversion for egg mass (FCRegg) and increased the nitrogen retention and ether extract digestibility coefficients. The inclusion of 10% DOP increased egg mass, laying percentage and commercial viability, in addition to reducing serum cholesterol concentrations. No negative effects were observed for feed intake, egg quality, pancreatic parameters or development of major gastrointestinal tract organs.4. Under the conditions evaluated in this study, inclusion of 10% DOP showed potential as an alternative feed ingredient for Japanese quail. Supplementation with β-glucanase and xylanase improved aspects of FCRegg and nutrient utilisation.",
    "authors": [
     "L. M. de Paulo",
     "J. I. M. Araujo",
@@ -4263,7 +4313,7 @@
   {
    "doi": "10.1080/00071668.2026.2740034",
    "title": "Nutrition-related mucosal adaptations and adipokine immunoreactivity in the chicken gastrointestinal tract",
-   "abstract": "1. This study investigated the distribution and protein profiles of the adipokines chemerin (CHE), asprosin (ASP) and apelin (APE) in the gastrointestinal tissues of 32 commercial broiler chickens (aged 40–45 d). The animals were divided into fasted (n = 16) or fed (n = 16) groups to evaluate mucosal adaptations in the proventriculus, ventriculus, duodenum, jejunum and ileum.2. Histological examination revealed a significant reduction in the number of PAS-positive goblet cells in the duodenum and jejunum tissues under ‘fed’ conditions (p < 0.05). This suggested rapid utilisation of mucins during active digestion.3. Immunohistochemical results demonstrated that ASP immunoreactivity significantly increased in the proventriculus, ventriculus and jejunum in the ‘fed’ group. The CHE immunoreactivity level was markedly elevated across all examined gastrointestinal tissues under ‘fed’ conditions, while APE immunoreactivity showed a significant increase, particularly within the glandular epithelial cells, following food intake.4. In conclusion, nutritional status significantly influenced both mucus production and local adipokine immunoreactivity within the avian gastrointestinal tract. This work provided new insights into the mechanisms of nutrition-related metabolic adaptation and highlighted the essential roles of these adipokines in coordinating gut homoeostasis and digestive efficiency.",
+   "abstract": "1. This study investigated the distribution and protein profiles of the adipokines chemerin (CHE), asprosin (ASP) and apelin (APE) in the gastrointestinal tissues of 32 commercial broiler chickens (aged 40-45 d). The animals were divided into fasted (n = 16) or fed (n = 16) groups to evaluate mucosal adaptations in the proventriculus, ventriculus, duodenum, jejunum and ileum.2. Histological examination revealed a significant reduction in the number of PAS-positive goblet cells in the duodenum and jejunum tissues under 'fed' conditions (p < 0.05). This suggested rapid utilisation of mucins during active digestion.3. Immunohistochemical results demonstrated that ASP immunoreactivity significantly increased in the proventriculus, ventriculus and jejunum in the 'fed' group. The CHE immunoreactivity level was markedly elevated across all examined gastrointestinal tissues under 'fed' conditions, while APE immunoreactivity showed a significant increase, particularly within the glandular epithelial cells, following food intake.4. In conclusion, nutritional status significantly influenced both mucus production and local adipokine immunoreactivity within the avian gastrointestinal tract. This work provided new insights into the mechanisms of nutrition-related metabolic adaptation and highlighted the essential roles of these adipokines in coordinating gut homoeostasis and digestive efficiency.",
    "authors": [
     "M. Ghassan Salahaldeen Altormhale",
     "G. Halıcı Kurt",
@@ -5068,7 +5118,7 @@
   {
    "doi": "10.1080/00071668.2026.2685076",
    "title": "In ovo green light cycles (6 versus 12 hours) modulate embryonic development via hepatic gene expression and amino acid metabolism in ducks",
-   "abstract": "1. While in ovo green lighting (IOL) promotes embryo growth and shortens the incubation period in meat-type ducks, photoperiod effects remain unclear. This study investigated the impact of different IOL photoperiods on embryo development, the hepatic transcriptome and amino acid metabolism.2. A total of 300 fertilised Pekin duck eggs were divided into three groups (n = 100/group) with eight replicates per group and 12–13 eggs per replicate. For the light-treated groups, green LED lamps (520–526 nm, 150 lux) were inserted into the air cells on embryonic day (ED) 9. From ED10 to ED24, eggs were subjected three treatments. 1. Control group conventional total darkness without LED implantation (CON), 6 h/day short-term lighting (STL), or 12 h/day long-term lighting (LTL), both with lights turned on at 07:00 daily. Embryo, heart and liver weights were measured on ED17 and 24, with ED24 livers collected for free amino acid, transcriptomic and PCR analyses.3. Heart and liver weights were unaffected by IOL. However, while embryo weight on ED24 was significantly higher in the LTL group, relative embryonic weight did not differ significantly. Apart from proline, IOL significantly reduced free amino acid levels in the liver, which increased in decline with longer photoperiods. Transcriptomic comparisons between the LTL and CON embryos revealed that light exposure upregulated genes related to energy, lipid and amino acid metabolism, but suppressed extracellular matrix (ECM) genes.4. The 12 h/day green IOL photoperiod altered transcriptomic signatures associated with amino acid utilisation and energy metabolism during the late stages of embryogenesis. This contributed to absolute embryonic biomass accumulation in meat-type ducks.",
+   "abstract": "1. While in ovo green lighting (IOL) promotes embryo growth and shortens the incubation period in meat-type ducks, photoperiod effects remain unclear. This study investigated the impact of different IOL photoperiods on embryo development, the hepatic transcriptome and amino acid metabolism.2. A total of 300 fertilised Pekin duck eggs were divided into three groups (n = 100/group) with eight replicates per group and 12-13 eggs per replicate. For the light-treated groups, green LED lamps (520-526 nm, 150 lux) were inserted into the air cells on embryonic day (ED) 9. From ED10 to ED24, eggs were subjected three treatments. 1. Control group conventional total darkness without LED implantation (CON), 6 h/day short-term lighting (STL), or 12 h/day long-term lighting (LTL), both with lights turned on at 07:00 daily. Embryo, heart and liver weights were measured on ED17 and 24, with ED24 livers collected for free amino acid, transcriptomic and PCR analyses.3. Heart and liver weights were unaffected by IOL. However, while embryo weight on ED24 was significantly higher in the LTL group, relative embryonic weight did not differ significantly. Apart from proline, IOL significantly reduced free amino acid levels in the liver, which increased in decline with longer photoperiods. Transcriptomic comparisons between the LTL and CON embryos revealed that light exposure upregulated genes related to energy, lipid and amino acid metabolism, but suppressed extracellular matrix (ECM) genes.4. The 12 h/day green IOL photoperiod altered transcriptomic signatures associated with amino acid utilisation and energy metabolism during the late stages of embryogenesis. This contributed to absolute embryonic biomass accumulation in meat-type ducks.",
    "authors": [
     "Y. Li",
     "H. Liu",
@@ -5238,6 +5288,27 @@
    "abstract_zh": "飼料發酵會改變瘤胃的甲烷生成，然而較低的每日甲烷產量並不一定代表較低的甲烷產率或有效的減排，因為這可能是由採食量減少或消化受損所導致。這篇關鍵性敘述性文獻回顧搜尋了 Web of Science 核心合輯與 PubMed 資料庫中 2010 年 6 月 1 日至 2026 年 6 月 1 日發表的出版品。經標題、摘要及全文篩選，得出 157 篇候選出版品作為主要文獻庫。其中包括 30 項報告直接甲烷測量的原創研究，其中 13 項評估了發酵飼料介入措施。甲烷主要透過體外瘤胃模擬和動物直接測量進行評估。甲烷的反應在方向和幅度上皆有所差異。在四項回報減少的乳牛驗證研究中，每日甲烷產量減少了 10.7% 至 17.2%。一項使用發酵全混合日糧的 24 小時體外試驗報告甲烷產量減少了 13.7%。這些數值描述了特定的比較結果。其他介入措施則增加了甲烷或產生了無統計顯著性的反應，且部分減少現象伴隨著較差的動物表現。在此一異質性證據基礎上，尚未建立能一致解釋不同飼料原料與發酵工藝中甲烷反應的共同機制。原料替代與基質利用的改變進一步限制了將其歸因於發酵本身的說法。我們建議評估甲烷產量、甲烷產率、基於產品的甲烷強度、以及每單位降解乾物質的甲烷產量，並同時考量採食量、消化率、動物表現與健康。我們亦評估了作物秸桿、農業工業副產物以及中藥渣作為中國發酵飼料基質的潛力。需要進行具備適當對照組的長期動物試驗，以確定是否能在不損害養分利用或動物表現的情況下實現持續的甲烷減排。"
   },
   {
+   "doi": "10.1080/00071668.2026.2738155",
+   "title": "Effects of dietary supplementation with lycopene, curcumin, allicin and sodium butyrate mixture on immunity and jejunal health in laying hens",
+   "abstract": "1. Laying hens are susceptible to various internal and external stressors, which can lead to illness or even death, resulting in significant financial losses. A multifunctional additive can produce synergistic effects. Lycopene (LYZ) is a carotenoid with potent antioxidant properties and this study combined it with other substances to investigate its effects on the jejunum in laying hens.2. Two hundred and seventy laying hens were randomly assigned into one of three groups. The control (CON) group was fed a basic diet; a diet containing a mixture of lycopene, curcumin, allicin and sodium butyrate (CLYC) or a diet containing a mixture of β-carotene, curcumin, allicin and sodium butyrate (CCBA).3. Serum content of lysozyme (LYZ) was significantly higher in the CLYC group compared with the CON birds. Relative expression levels of the Muc2 and CLDN genes in the jejunum of laying hens in the CLYC group, as well as the number of goblet cells, were significantly increased compared with the CON group.4. Firmicutes and Lactobacillus spp. were dominant in the jejunum of laying hens in the CLYC group. The beneficial microbiota Turicibacter and Rothia spp. were significantly enriched in the CLYC group.5. Dietary supplementation with a mixture of lycopene, curcumin, allicin and sodium butyrate enhanced the relative expression of junctional-complex genes and promoted the growth of beneficial microbiota, thereby supporting jejunal health in laying hens.",
+   "authors": [
+    "M. Chen",
+    "Z. Xu",
+    "J. Pan",
+    "X. Zhang",
+    "X. Zheng"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2738155",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 10.0,
+   "matched": [
+    "laying hen"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16223662",
    "title": "Effects of Succinic Acid Supplementation in Corn Silage-Based Total Mixed Ration on Growth Performance, Carcass Traits, and Meat Quality of Hainan Black Goats",
    "abstract": "This study investigated the effects of succinic acid (SA) supplementation in a total mixed ration based on corn stalk silage on the growth performance, carcass traits, and meat quality in Hainan Black goats. A total of 105 three-month-old male Hainan Black goats (initial body weight 14.53 ± 0.26 kg) were randomly allocated to five dietary treatment groups, with three replicate pens per treatment and seven goats per pen (21 goats per treatment; pen was the experimental unit): a basal control diet (CON, alfalfa-based total mixed ration), a total mixed ration based on corn stalk silage (CS), and three CS-based diets supplemented with 0.5%, 1.0%, or 1.5% SA. Growth performance analysis showed that the 1% SA group exhibited the greatest average daily gain (ADG; p &lt; 0.05) and final body weight (FBW; p &lt; 0.05). The 1% SA diet increased carcass weight and fat thickness at the 12th rib (GR; p &lt; 0.05), elevated meat redness (p &lt; 0.05) and crude protein, and lowered muscle moisture and ash without affecting instrumental shear force (p &gt; 0.05). Relative to CON group, CS and 1% SA groups both reduced saturated fatty acid concentrations and elevated the ratio of polyunsaturated fatty acids (PUFAs) to saturated fatty acids (SFAs; p &lt; 0.05). Notably, 1% SA upregulated C20:3n-6 (p &lt; 0.001) and altered the relative internal standard (IS)-equivalent abundance of lipid-derived volatiles, particularly aldehydes (e.g., hexanal, heptanal) and ketones, compared with CS. Collectively, these findings indicate that 1% succinic acid supplementation improved selected nutritional and meat quality traits and altered the semi-quantitative IS-equivalent volatile profile of goat meat.",
@@ -5388,6 +5459,54 @@
    "matched": [
     "bovine",
     "oocyte"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233760",
+   "title": "A miRNA-Driven Temporal Regulatory Network Across Embryonic Hair Follicle Morphogenesis and Adult Telogen Skin in Chinese Merino Fine-Wool Sheep",
+   "abstract": "Hair follicle development determines wool-producing performance in fine-wool sheep, yet its post-transcriptional regulation remains incompletely understood. In this study, we profiled skin microRNAs (miRNAs) across three embryonic stages (E50, E90, E120) and the adult telogen phase in Chinese Merino fine-wool sheep. Small-RNA sequencing was performed on skin samples with three biological replicates for each group, followed by miRNA identification, differential expression analysis, and K-means trend-based clustering. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were conducted using high-confidence target genes predicted for differentially expressed miRNAs. In total, 1579 miRNAs were identified, among which 365 displayed significant differential expression across the examined stages. K-means clustering yielded six miRNA expression clusters that were grouped into four stage-specific temporal patterns: E50-initiation (Clusters 1/3/5, high expression at E50 with subsequent decline), E90-primary-follicle (Cluster 6, expression peaking at E90), E120-secondary-follicle (Clusters 2/4, expression rising toward E120), and adult telogen-maintenance (Clusters 2/4, sustained high expression in adulthood). Representative stage-associated miRNAs included miR-218-5p for the E50 stage, miR-133 for the E90 stage, miR-152 and miR-338-5p for the E120 stage, as well as let-7, miR-200 and miR-29a for adult telogen skin. Collectively, these stage-related miRNAs represent candidate resources for future evaluation as molecular markers in sheep breeding and offer a testable theoretical framework for exploring mammalian skin appendage morphogenesis using embryonic and adult telogen skin samples.",
+   "authors": [
+    "Mengsi Xu",
+    "Peng Yang",
+    "Ping Zhou",
+    "Limin Wang",
+    "Rong Dai",
+    "Yiyuan Zhang",
+    "Yang Yang",
+    "Tao Huang",
+    "Shangquan Gan"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233760",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 10.0,
+   "matched": [
+    "sheep",
+    "breeding",
+    "microrna"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233746",
+   "title": "Do SNP Arrays Provide Accurate and Reliable Information About Chicken Genome Regarding Runs of Homozygosity (ROH) and Heterozygosity-Rich Regions (HRR)?",
+   "abstract": "This research assesses the agreement between ROH and HRR data derived from SNP arrays and WGS in chickens. Comparative analysis of ROH and HRR data was conducted between two lines of Cornish chickens, CB1 and CB2, using both a 60K SNP iSelect BeadChip and WGS. ROH and HRR segments were found to be unevenly distributed across chromosomes. While ROH segment density did not correlate with chromosome length, HRR segment density exhibited such a relationship. ROH islands identified by SNP arrays contained heterozygous SNPs, with percentages ranging from 0.75% to 11.6%. The results also indicate that ROH islands in the CB1 and CB2 lines are enriched for homozygous genotypes. However, at corresponding genomic locations, their homozygosity levels are statistically indistinguishable from those in non-ROH regions of the other line, suggesting a shared selection history. Heterozygous SNPs within ROH islands tended to display a bimodal distribution. A partial overlap of ROH islands, only on chromosome 5, was detected between SNP array and WGS analyses. HRR islands identified using SNP arrays demonstrated enrichment for heterozygosity (0.45 ± 0.032 for CB1 and 0.41 ± 0.035 for CB2) compared to the genomic mean of 0.351 ± 0.001. Significance was observed only for the CB1 line (p &lt; 0.01). Genes potentially under selection within ROH islands were identified by integrating SNP array and WGS genotyping with Tajima’s D test. The capacity to detect fully homozygous or heterozygous islands is exclusive to WGS, indicating a fundamental difference in results between SNP array and WGS genotyping. Discrepancies in the genomic locations of ROH and HRR islands were also noted between the CB1 and CB2 lines when analyzed with SNP arrays versus WGS. Therefore, interpretations of ROH and HRR data derived from SNP arrays require careful consideration. In chicken cryopreservation and selection programs, the limitations of SNP-array methods should be acknowledged, as they may fail to detect fully homozygous ROH islands and HRR islands with high levels of heterozygosity. This could lead to imprecise estimations of genome-wide homozygosity and heterozygosity in chickens, potentially impeding the thorough identification of selection signatures.",
+   "authors": [
+    "Natalia V. Dementieva",
+    "Yuri S. Shcherbakov",
+    "Anna L. Modina",
+    "Elena G. Chugunova",
+    "Michael G. Smaragdov"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233746",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 10.0,
+   "matched": [
+    "chicken"
    ],
    "abstract_zh": ""
   },
@@ -5687,7 +5806,7 @@
   {
    "doi": "10.1080/00071668.2026.2733989",
    "title": "Effects of environmental enrichments applied to pasture areas on free-range laying hens: 1. Performance and egg quality",
-   "abstract": "1. This study assessed the effects of environmental range enrichments, bird age and their interactions on laying performance and egg quality from Lohmann Brown hens.2. In total, 900 hens (25 weeks old) were randomly divided into three groups (control, object [OE] and tree [TE] enrichment) with three pen replicates each (100 hens/pen). Each pen was a closed shelter with pasture access nearby. Variously rectangular, square, cylindrical and triangle shaped, red, orange and yellow-coloured boxes, pipes, buckets and structures were used for the OE group, whereas tall and broad-leaved plants and Thuja trees were used for the tree enrichment group.3. Laying performance and egg quality traits were measured at 25–32, 33–40, 41–48 and 49–56 weeks of age.4. Significant differences in egg production were found amongst all groups (p < 0.01) due to differences in mortality at the start of the experimental period (p <<0.001). There were no significant differences between treatments in hen-day egg production. Environmental enrichment significantly decreased the albumen index and affected dirty egg ratio, shell thickness (p < 0.01) and shell weight (p < 0.05). Shell weight showed an interaction between enrichment and age (p < 0.01).5. Age had a significant effect on all performance and egg quality traits (p < 0.05), with 48-week-old hens generating the highest egg mass and hen-day and hen-housed egg production levels (p < 0.01).6. Although environmental enrichment can potentially increase egg production slightly, TE and OE resulted in fewer clean eggs. However, positive effects on albumen and shell quality traits were evident in the OE group.",
+   "abstract": "1. This study assessed the effects of environmental range enrichments, bird age and their interactions on laying performance and egg quality from Lohmann Brown hens.2. In total, 900 hens (25 weeks old) were randomly divided into three groups (control, object [OE] and tree [TE] enrichment) with three pen replicates each (100 hens/pen). Each pen was a closed shelter with pasture access nearby. Variously rectangular, square, cylindrical and triangle shaped, red, orange and yellow-coloured boxes, pipes, buckets and structures were used for the OE group, whereas tall and broad-leaved plants and Thuja trees were used for the tree enrichment group.3. Laying performance and egg quality traits were measured at 25-32, 33-40, 41-48 and 49-56 weeks of age.4. Significant differences in egg production were found amongst all groups (p < 0.01) due to differences in mortality at the start of the experimental period (p <<0.001). There were no significant differences between treatments in hen-day egg production. Environmental enrichment significantly decreased the albumen index and affected dirty egg ratio, shell thickness (p < 0.01) and shell weight (p < 0.05). Shell weight showed an interaction between enrichment and age (p < 0.01).5. Age had a significant effect on all performance and egg quality traits (p < 0.05), with 48-week-old hens generating the highest egg mass and hen-day and hen-housed egg production levels (p < 0.01).6. Although environmental enrichment can potentially increase egg production slightly, TE and OE resulted in fewer clean eggs. However, positive effects on albumen and shell quality traits were evident in the OE group.",
    "authors": [
     "M. Gündüz",
     "A. İpek"
@@ -7115,6 +7234,54 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1186/s12711-026-01119-9",
+   "title": "Host genomic analyses of gut microbial community structure in rabbits using an expanded mixed model to account for community interdependencies",
+   "abstract": "Background Host genetic variation is increasingly recognized as an important determinant of gut microbial community structure, yet accurate quantification of genetic effects remains challenging because microbial abundance data are inherently compositional and interdependent among taxa. In this study, we investigated the host genetic architecture of gut microbial community structure in domestic rabbits using 16​S rRNA sequencing data integrated with single-step genomic best linear unbiased prediction models and genome-wide association analyses. To address the compositional nature of microbiome data, we proposed an expanded modeling framework that incorporates the community background as an additional random effect after centered log-ratio transformation. Results The expanded mixed model substantially improved model fit and revealed that community background effects accounted for more than 40% of phenotypic variance on average, leading to more conservative estimates of heritability. After accounting for community background effects, 146 amplicon sequence variants exhibited moderate-to-high heritabilities, with maximum and median estimates (± standard error) of 0.59 ± 0.07 and 0.15 ± 0.04, respectively. These heritable variants were non-randomly distributed across phylogenetic lineages and enriched in mucosa-associated groups, including members of Bacteroidales , Akkermansia , and Phascolarctobacterium . Association analyses identified 367 relevant genomic regions harboring 1293 positional candidate genes that were enriched in pathways related to epithelial barrier integrity, developmental signaling, immune regulation, and lipid metabolism, suggesting that host genetic effects on gut microbial community may operate through modification of the intestinal habitat and host-microbe interface. Conclusions Together, these findings demonstrate measurable host genetic effects on gut microbial community structure and provide an expanded mixed model for variance partitioning of community background effects in microbiome quantitative genetics.",
+   "authors": [
+    "Junkun Zhou",
+    "Xinyang Tian",
+    "Wenqiang Sun",
+    "Yinghe Qin",
+    "Xianbo Jia",
+    "Shi-Yi Chen"
+   ],
+   "journal": "Genetics Selection Evolution",
+   "url": "https://doi.org/10.1186/s12711-026-01119-9",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 7.0,
+   "matched": [
+    "rabbit",
+    "heritability"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233756",
+   "title": "Occurrence and Genetic Diversity of Giardia duodenalis, Blastocystis spp., and Cryptosporidium spp. in Yaks from High-Altitude Tibet, China",
+   "abstract": "Giardia duodenalis, Blastocystis spp., and Cryptosporidium spp. are three common zoonotic intestinal pathogens, with a broad host range that encompasses humans, livestock, companion animals, and wildlife globally. The yak (Bos grunniens) serves as a cornerstone of pastoralist livelihoods, contributing meat, milk, fibre and hides. The aim of the present study was to investigate the prevalence and genetic characteristics of G. duodenalis, Blastocystis spp., and Cryptosporidium spp. in yaks in Tibet. In August 2025, a total of 300 fresh fecal samples were collected from nine yak farms in Lhasa (six farms) and Nagqu (three farms). Total genomic DNA was extracted from all specimens. Blastocystis spp. and Cryptosporidium spp. were identified by PCR amplification of the small subunit ribosomal RNA (SSU rRNA) gene (single-round and nested PCR, respectively), whereas G. duodenalis was detected by nested PCR targeting the gdh, tpi, and bg genes. The overall prevalence of G. duodenalis, Blastocystis spp., and Cryptosporidium spp. was 9.67% (29/300), 18.33% (55/300), and 4.33% (13/300), respectively. The corresponding prevalences were 11.0% (22/200), 13.0% (26/200), and 1.5% (3/200) in Lhasa, and 7.0% (7/100), 29.0% (29/100), and 10.0% (10/100) in Nagqu. Four Blastocystis subtypes were identified: ST10 (n = 46), ST14 (n = 3), ST21 (n = 2), and ST26 (n = 4). ST10 was the predominant subtype, accounting for 83.64% (46/55) of the positive samples. A total of 34 G. duodenalis sequences were obtained (18 gdh, 9 bg, and 7 tpi), with five samples positive at two loci. All positive samples were identified as assemblages A and E. Assemblage E predominated, representing 79.3% (23/29) of the positive samples, while assemblage A accounted for the remaining 20.7% (6/29). Two Cryptosporidium species were identified: Cryptosporidium andersoni was the predominant species, accounting for 76.9% (10/13) of the positive samples, followed by Cryptosporidium ryanae at 23.1% (3/13). This study provides baseline data for the epidemiological surveillance and control of intestinal protozoa in yaks in Tibet.",
+   "authors": [
+    "Qiaoyu Li",
+    "Kaisheng Lin",
+    "Guanxi Lin",
+    "Baihong Lin",
+    "Mingxin Lyu",
+    "Wenjing Zeng",
+    "Fuqiang Huang",
+    "Xingang Yu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233756",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 7.0,
+   "matched": [
+    "genetic diversity",
+    "livestock"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s40104-026-01500-0",
    "title": "Decoding the lncRNA landscape in bovine mastitis: insights into immune regulation and gene networks underlying host response",
    "abstract": "Background Long non-coding RNAs (lncRNAs) are critical regulatory elements of gene expression and play a crucial role in immune regulation of disease, such as bovine mastitis. With this study we evaluated expression profile of lncRNAs in subclinical intramammary infection (sIMI) from two pathogens: Streptococcus agalactiae ( S. agalactiae ; Sa+) and Prototheca spp. (P+) and predicted their interaction with protein coding genes in 31 Holstein cows. Quantitative trait loci (QTL) annotation and enrichment analysis was carried out on the lncRNAs partner genes for a comprehensive overview of their potential association with phenotypic traits. Finally, Partial Correlation and Information Theory (PCIT) and Regulatory Impact Factor (RIF) algorithms were adopted to assess co-expression network of differentially expressed lncRNAs (DELs) and genes (DEGs). Results A total of 211, 146, 353 and 184 DELs were identified when comparing Sa+ vs. Neg, P+ vs. Neg, Sa+ vs. P+, and uninfected vs. infected animals (Mast vs. Neg), respectively. Most of these DELs were mainly located within genic regions, and 78% had not been previously annotated in the bovine reference genome. Overall S. agalactiae infection modulated both immune and metabolic pathways (lipid metabolism, extracellular matrix synthesis), whereas Prototheca spp. infection activated immune signaling networks (B-cell and innate immunity). Unique lncRNAs induced by Sa+ were predicted to target genes controlling fatty acid synthesis and milk fat QTLs, while P+-induced lncRNAs were found associated mostly with immune genes and somatic cell count QTLs. The co-expression network also revealed shared lncRNAs between the two types of infection suggesting a core response: both infections converge on common hub genes (e.g., EBF1 , BTLA ), indicating potential conserved host-defense mechanisms. Conclusions These results suggest that, despite distinct lncRNA expression patterns, the downstream regulatory pathways—particularly those linked to immune function—may converge toward a shared host response during subclinical intramammary infections. Together, these findings underscore the complexity of lncRNA-mediated regulation in the bovine mammary gland and highlight the need for functional studies to clarify the biological roles of these novel transcripts.",
@@ -7397,7 +7564,7 @@
   {
    "doi": "10.1080/00071668.2026.2751450",
    "title": "Dietary astaxanthin enhances egg yolk redness and carotenoid deposition in laying hens fed β-apo-8′-carotenoic acid ethyl ester and canthaxanthin",
-   "abstract": "1. This study evaluated the effects of dietary astaxanthin supplementation on yolk pigmentation, carotenoid deposition and yolk quality in laying hens fed diets containing β-apo-8′-carotenoic acid ethyl ester (apo-ester) and canthaxanthin.2. A total of 168 NovoColor hens (71 weeks of age) were assigned to one of 14 dietary treatments. Treatments included a low-pigment control (CON), canthaxanthin-only (CAN), an apo-ester (AE) plus canthaxanthin treatment, with graded levels of astaxanthin (AX) supplementation (from 5 to 100 mg/kg). Each treatment consisted of six replicates of two individually housed hens. The study lasted for 4 weeks. Egg production performance, yolk colour, carotenoid deposition and yolk index were determined.3. Dietary treatments did not affect laying performance (p > 0.05). Increasing dietary AX supplementation increased yolk concentrations of AE, CAN and AX and improved yolk pigmentation (p < 0.05). Both CAN and AX deposition efficiencies showed both linear and quadratic responses to increasing AX inclusion, whereas AE deposition responded quadratically (p < 0.05), with AE and CAN deposition peaking at 50 mg/kg astaxanthin.4. Yolk pigmentation increased rapidly after dietary introduction and reached a plateau by d 8. Eggs from carotenoid-supplemented hens had higher yolk index values than eggs from CON hens (p < 0.05), while yolk index decreased with storage duration.5. In conclusion, dietary AX enhanced yolk pigmentation and carotenoid deposition without compromising laying performance, supporting its use as a complementary red pigment in layer diets. The higher egg yolk index from hens fed carotenoid-containing diets may contribute to maintaining yolk quality during ambient storage.",
+   "abstract": "1. This study evaluated the effects of dietary astaxanthin supplementation on yolk pigmentation, carotenoid deposition and yolk quality in laying hens fed diets containing β-apo-8'-carotenoic acid ethyl ester (apo-ester) and canthaxanthin.2. A total of 168 NovoColor hens (71 weeks of age) were assigned to one of 14 dietary treatments. Treatments included a low-pigment control (CON), canthaxanthin-only (CAN), an apo-ester (AE) plus canthaxanthin treatment, with graded levels of astaxanthin (AX) supplementation (from 5 to 100 mg/kg). Each treatment consisted of six replicates of two individually housed hens. The study lasted for 4 weeks. Egg production performance, yolk colour, carotenoid deposition and yolk index were determined.3. Dietary treatments did not affect laying performance (p > 0.05). Increasing dietary AX supplementation increased yolk concentrations of AE, CAN and AX and improved yolk pigmentation (p < 0.05). Both CAN and AX deposition efficiencies showed both linear and quadratic responses to increasing AX inclusion, whereas AE deposition responded quadratically (p < 0.05), with AE and CAN deposition peaking at 50 mg/kg astaxanthin.4. Yolk pigmentation increased rapidly after dietary introduction and reached a plateau by d 8. Eggs from carotenoid-supplemented hens had higher yolk index values than eggs from CON hens (p < 0.05), while yolk index decreased with storage duration.5. In conclusion, dietary AX enhanced yolk pigmentation and carotenoid deposition without compromising laying performance, supporting its use as a complementary red pigment in layer diets. The higher egg yolk index from hens fed carotenoid-containing diets may contribute to maintaining yolk quality during ambient storage.",
    "authors": [
     "H. Liu",
     "M. Umar Faruk",
@@ -7490,7 +7657,7 @@
   {
    "doi": "10.1080/00071668.2026.2751461",
    "title": "Effects of environmental enrichments applied to pasture areas on free-range laying hens: 2. Pasture use, behaviour and welfare",
-   "abstract": "1. This study assessed the effects of environmental enrichment on outdoor ranges for birds aged either 25, 36, 48 and 56 weeks on pasture use, behaviour and welfare of free-range laying hens. In total, 900 hens (25 weeks old) were randomly divided into three groups (control, object enrichment and tree enrichment) with three pens each (100 hens/pen). Each group was provided with a closed shelter and pasture range nearby.2. A control (CON) group of birds was maintained without any extra enrichment. Various rectangular, square, cylindrical and triangle shaped boxes, pipes, buckets and structures in yellow, red and orange colour were used for the ‘object’ (OBJ) enrichment treatment, whereas tall and broad-leaved plants and Thuja trees were used for the ‘tree’ (TREE) enrichment treatment.3. The use of total pasture area in hens was not different amongst enrichment treatment groups or bird age. While the proportion of OBJ hens using the inner zone of the pasture was higher (p < 0.01), CON and TREE hen groups were found more in the outer zone of the pasture (p < 0.01).4. Enrichment treatment and age did not affect blood heterophil, lymphocyte and heterophil/lymphocyte (H/L) ratio. Feeding, drinking, walking, foraging, resting/laying, perching, scratching/preening and pecking behaviours were not different between enrichment treatment groups. Hens exhibited more feeding, drinking, walking, foraging and less perching, scratching/preening and pecking behaviours with age (p < 0.01).5. There were no differences in feather condition, comb wounds, foot pad dermatitis, keel bone damage, duration of tonic immobility or induction number amongst the enrichment groups. Older hens were showed significant deterioration in feather condition, increased occurrence of comb wounds, footpad dermatitis, hock burns and keel bone damage (p < 0.01). These findings indicated that environmental enrichment can increase the use of a specific area of the pasture where objects are used for enrichment.",
+   "abstract": "1. This study assessed the effects of environmental enrichment on outdoor ranges for birds aged either 25, 36, 48 and 56 weeks on pasture use, behaviour and welfare of free-range laying hens. In total, 900 hens (25 weeks old) were randomly divided into three groups (control, object enrichment and tree enrichment) with three pens each (100 hens/pen). Each group was provided with a closed shelter and pasture range nearby.2. A control (CON) group of birds was maintained without any extra enrichment. Various rectangular, square, cylindrical and triangle shaped boxes, pipes, buckets and structures in yellow, red and orange colour were used for the 'object' (OBJ) enrichment treatment, whereas tall and broad-leaved plants and Thuja trees were used for the 'tree' (TREE) enrichment treatment.3. The use of total pasture area in hens was not different amongst enrichment treatment groups or bird age. While the proportion of OBJ hens using the inner zone of the pasture was higher (p < 0.01), CON and TREE hen groups were found more in the outer zone of the pasture (p < 0.01).4. Enrichment treatment and age did not affect blood heterophil, lymphocyte and heterophil/lymphocyte (H/L) ratio. Feeding, drinking, walking, foraging, resting/laying, perching, scratching/preening and pecking behaviours were not different between enrichment treatment groups. Hens exhibited more feeding, drinking, walking, foraging and less perching, scratching/preening and pecking behaviours with age (p < 0.01).5. There were no differences in feather condition, comb wounds, foot pad dermatitis, keel bone damage, duration of tonic immobility or induction number amongst the enrichment groups. Older hens were showed significant deterioration in feather condition, increased occurrence of comb wounds, footpad dermatitis, hock burns and keel bone damage (p < 0.01). These findings indicated that environmental enrichment can increase the use of a specific area of the pasture where objects are used for enrichment.",
    "authors": [
     "M. Gündüz",
     "A. İpek"
@@ -7663,27 +7830,6 @@
    "abstract_zh": "本研究探討在最終育肥期於飼糧中添加共軛亞麻油酸（CLA），對去勢公豬與母豬之瑞典長白豬（Swedish Landrace）的生長、屠體性狀、背脂及屠體組織組成之影響。試驗共使用 112 頭豬隻，採 2 × 2 因子設計，以飼糧（對照組或 CLA 組）及性別為因子。在 130 至 175 日齡期間，豬隻餵食對照飼糧或以 0.5% CLA 油（約 0.3% CLA）替代部分大豆油之試驗飼糧。隨機選取 60 頭屠體（每組 15 頭）之左半部進行解剖，分為肌肉、皮下脂肪、肌間脂肪、皮膚與骨骼。結果顯示，CLA 對最終體重、日增重、屠體重或屠宰率皆無顯著影響。若以欄位作為試驗單位，在不考慮屠宰體重的情況下，CLA 降低了平均背脂厚度（主要終點，p = 0.008）與皮下脂肪百分比（p = 0.021），並增加了肌肉百分比（p = 0.036）以及肌肉與脂肪之比率（p = 0.018）。在個體豬隻分析中，四個部位的背脂亦皆降低（p ≤ 0.045），總脂肪百分比亦然（p = 0.015）。全屠體之「飼糧 × 性別」交戶作用並不顯著，且腹部中有兩個名義上顯著的部位層級交戶作用，在經多重檢定校正後不再顯著。解剖結果顯示，CLA 降低了所有十個部位的皮下脂肪（其中七個部位在經多重檢定校正後達顯著差異），並使屠體組成朝向肌肉化發展，且不影響生長或屠宰產率。本研究未顯示出具性別特異性之反應。"
   },
   {
-   "doi": "10.1080/00071668.2026.2738155",
-   "title": "Effects of dietary supplementation with lycopene, curcumin, allicin and sodium butyrate mixture on immunity and jejunal health in laying hens",
-   "abstract": "spp. were significantly enriched in the CLYC group.5. Dietary supplementation with a mixture of lycopene, curcumin, allicin and sodium butyrate enhanced the relative expression of junctional-complex genes and promoted the growth of beneficial microbiota, thereby supporting jejunal health in laying hens.",
-   "authors": [
-    "M. Chen",
-    "Z. Xu",
-    "J. Pan",
-    "X. Zhang",
-    "X. Zheng"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2738155",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "score": 6.0,
-   "matched": [
-    "laying hen"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16223654",
    "title": "Brazilian Challenges and Perspectives on Klebsiella pneumoniae Antimicrobial Resistance: A One Health Narrative Review",
    "abstract": "The escalating complexity of interactions among humans, animals, and the environment has driven the global adoption of the One Health framework as a strategic framework to address health threats that transcend disciplinary boundaries. This is especially the case in Brazil, a country of global relevance where high rates of antimicrobial resistance (AMR) in Klebsiella pneumoniae intersect with structural limitations in veterinary practice, public health governance, and environmental surveillance. This narrative review synthesizes the existing literature to explore the evolution of the One Health concept, from its historical roots to its current recognition, reinforced by health emergencies such as the COVID-19 pandemic. Fundamental pillars of the approach—interdisciplinarity, cross-sectoral collaboration, and integrated surveillance—were discussed in light of the essential role of veterinarians in mitigating such threats. The discussion deepens the understanding of AMR within a multisectoral context, reinforcing the need for coordinated, preemptive actions rather than reactive responses. We advocate that the implementation of a robust One Health agenda, supported by advanced tools like metagenomics, is fundamental to ensuring population health, economic sustainability, and global security.",
@@ -7772,6 +7918,37 @@
    "score": 6.0,
    "matched": [
     "broiler"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/00071668.2026.2759289",
+   "title": "Assessing the relation between broiler meat quality and husbandry conditions using a machine learning approach",
+   "abstract": "",
+   "authors": [
+    "Z. Fendor",
+    "A. J. Carnoli",
+    "R. G. Hobé",
+    "W. Hoenderdaal",
+    "I. C. de Jong",
+    "H. Louton",
+    "L. Quirin",
+    "J. Marchewka",
+    "P. Sztandarski",
+    "A. Ludwiczak",
+    "S. W. Erasmus",
+    "S. Yigitturk",
+    "M. Schou Grønbeck",
+    "E. D. van Asselt"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2759289",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 6.0,
+   "matched": [
+    "broiler",
+    "meat quality"
    ],
    "abstract_zh": ""
   },
@@ -8737,6 +8914,28 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233754",
+   "title": "Spatio-Temporal Dynamics of African Swine Fever Virus and Factors Associated with Viral Detection in Wild Boar and Domestic Pigs in North-Eastern Romania",
+   "abstract": "African swine fever virus (ASFV) remains a major challenge for domestic pig production and wild boar management in Europe, particularly in regions where viral circulation persists despite declining numbers of detected cases. This study investigated the epidemiological dynamics of the causative agent of ASF in wild boar and domestic pigs from Iași, Neamț, and Vaslui counties, northeastern Romania. Surveillance data included 3139 wild boar sampled between 2021 and 2026 and 6450 domestic pigs sampled between 2022 and 2026. Surveillance data for 2026 were limited to the period covered by the available records at the time of data extraction and therefore did not encompass the entire calendar year. Temporal and seasonal patterns, demographic and surveillance-related factors associated with real-time polymerase chain reaction (qPCR) positivity, spatial distribution, serological findings, and short-term temporal projections were evaluated. Overall ASFV real-time polymerase chain reaction positivity was 5.30% (154/2904) in wild boar and 1.78% (115/6450) in domestic pigs, while wild boar seropositivity was 1.59% (34/2133). Among wild boar, individuals found dead exhibited substantially higher odds of qPCR positivity compared with hunted individuals, while age, sex, season, and geographical location were also associated with ASFV detection. In domestic pigs, real-time polymerase chain reaction positivity varied according to age, season, surveillance category, and geographical location. Positive detections declined substantially during the study period, particularly in domestic pigs, where no real-time polymerase chain reaction-positive animals were detected in 2026. In wild boar, however, the decline was less uniform, with positive detections increasing from four in 2025 to 12 in 2026. Spatial analyses revealed heterogeneous geographical patterns in both host populations. Forecasting models projected continued reductions in positive detections but indicated a higher probability of future ASFV detection in wild boar than in domestic pigs. These findings demonstrate distinct epidemiological patterns in the two host populations and show that declining detection should not be considered equivalent to interruption of viral circulation. Sustained passive surveillance of wild boar, together with continued domestic-pig monitoring and spatially targeted investigation, remains important during periods of low apparent ASF events.",
+   "authors": [
+    "Roxana Lazăr",
+    "Mircea Lazăr",
+    "Ioana Acornicesei",
+    "Anderco Ștefania",
+    "Iulian Stoleriu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233754",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 5.0,
+   "matched": [
+    "pig",
+    "swine"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70207",
    "title": "Genome‐Wide SNP Discovery and Population Genomic Characterisation in Indian Major Carp Labeo catla (Hamilton, 1822) Through Low‐Depth Whole‐Genome Resequencing",
    "abstract": "Single nucleotide polymorphisms (SNPs) are key markers for population and conservation genetics in aquaculture species. Using low‐depth whole‐genome resequencing of 35 Labeo catla individuals from seven populations (three wild riverine, four hatchery), we generated the first genome‐wide SNP catalogue for this Indian major carp. Filtering against the L. catla reference genome (GCA_012976165.1) yielded 2.05 million high‐quality bi‐allelic SNPs (467 291–1 221 268 per population), with 27 000 shared across all populations. Heterozygosity (He = 0.4477–0.4532) and nucleotide diversity ( π = 0.4703–0.4816) were broadly comparable across populations. Pairwise F ST (0.079–0.106) and UPGMA clustering resolved Cauvery as most divergent population, grouping the remaining six into two clusters (PCA: PC1 = 21.4%, PC2 = 16.8%). A differentiation scan identified 270 candidate high‐differentiation SNPs (top 1%; score &gt; 0.222) enriched for missense variants (~2.05‐fold; p = 0.021), implicating cell‐adhesion, extracellular‐matrix and muscle‐development genes in population differentiation. An independent chi‐square test of allele‐frequency heterogeneity, corrected for multiple testing ( q &lt; 0.05), retained 114 of these 270 SNPs, mapping to 30 genes whose GO profile (endosome, granule and endolysosome lumen) differed from the broader 270‐SNP set indicating exploratory, hypothesis generating candidates rather than confirmed selection targets. Genome‐wide annotation of 2 521 013 SNPs classified 108 113 (1.14%) as moderate‐impact missense and 5266 (0.06%) as high‐impact variants. These findings align with prior genotyping‐by‐sequencing data but extend marker density ~200‐fold, providing the first genome‐wide diversity, differentiation and functional profile for L. catla . The dataset (BioProject PRJNA1441081; Figshare doi: https://doi.org/10.6084/m9.figshare.31829770 ) supports SNP array design, GWAS and conservation monitoring of Catla riverine stocks.",
@@ -9443,29 +9642,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233724",
-   "title": "Optimum Dietary Protein and Fish Oil Levels for Long-Whiskered Catfish (Mystus gulio) Fry to Fingerling",
-   "abstract": "This study evaluated responses of long-whiskered catfish (Mystus gulio) fry and fingerlings to graded fish-oil inclusion under two fixed crude-protein (CP) levels and compared monosex culture (MC) with normal culture (NC) under sequential feeding conditions. In Part 1, seven added fish-oil levels (0, 10, 20, 30, 40, 50, and 60 g/kg) were assigned to three replicate earthen ponds per treatment. At the start of the 42% CP phase, 10,500 fry (0.12 ± 0.08 g; 500 fish/pond) were reared for 60 days; after density adjustment, the same treatment series continued for 30 days at 35% CP from an initial phase weight of 4.85 ± 0.58 g. In Part 2, 1800 fish (0.35 ± 0.14 g; 300 fish/pond; three ponds per culture type) received 42% CP with 50 g/kg added fish oil for 60 days and then 35% CP with 40 g/kg added fish oil for 30 days. Growth, feed utilization, whole-body composition, FAS, ACC, Ac-CoA, tissue histomorphology, and growth-related gene expression (gh, igf-1, and igf-2) were evaluated. In Part 1, weight gain and specific growth rate increased and feed conversion ratio decreased toward the highest tested fish-oil inclusion, whereas whole-body protein and growth-related gene expression were highest at intermediate treatments. Viscerosomatic and hepatosomatic indices and hepatic fatty-cell area increased toward the upper end of the diet gradient. MC-NC differences were phase-specific. Because increasing fish oil displaced wheat flour, dietary lipid, carbohydrate, and gross energy changed concurrently; isolated fish-oil effects therefore cannot be inferred. The design characterizes treatment responses under two fixed protein conditions but does not independently estimate the protein requirement of M. gulio.",
-   "authors": [
-    "Phunsin Kantha",
-    "Kritchavat Songdum",
-    "Suwaree Kitikiew",
-    "Natthapong Paankhao",
-    "Chun-Hung Liu",
-    "Anurak Uchuwittayakul",
-    "Sahabhop Dokkaew"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233724",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 4.0,
-   "matched": [
-    "feed conversion ratio"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16233713",
    "title": "Comparative Cranial Morphology and Sex-Related Variation in the Domestic Yak (Bos grunniens)",
    "abstract": "This study aimed to compare cranial size and shape among domestic yak (Bos grunniens), domestic cattle, water buffalo, and European bison, and to describe the regional anatomical differences among them. It also assessed whether shape differences persisted after accounting for size and whether size–shape relationships differed among taxa. As the domestic yak was the primary focus of the study, sex-related variation in cranial size, mean shape, and allometry was specifically investigated in a balanced sample of one-year-old female and male yaks. A total of 137 skulls were examined, comprising 38 yaks, 39 domestic cattle, 20 water buffalo, and 40 European bison. The skulls were digitized using structured-light three-dimensional scanning (EinScan Pro 2X), and 23 homologous anatomical landmarks were manually recorded on each surface model. Landmark coordinates were used to calculate centroid size and, following generalized Procrustes alignment, to assess cranial shape and allometry using principal component analysis and permutation-based statistical models. In the four-taxon comparison, the mean centroid size was 670.84 mm in yaks, 745.30 mm in domestic cattle, 741.29 mm in water buffalo, and 806.37 mm in European bison. Descriptive comparisons characterized the yak skull by relative rostral elongation, intermediate breadth across the caudal orbital margins, and a comparatively narrow mastoid region. Cranial differentiation among taxa persisted after accounting for size, and allometric relationships varied among groups. In the separate analysis restricted to one-year-old yaks, females and males showed closely similar cranial configurations, with no significant difference in overall mean shape in the unadjusted comparison. Male yaks had a greater mean centroid size than females (689.50 vs. 652.18 mm; difference: 37.32 mm), while allometric analyses revealed modest sex-related variation. These findings characterize the comparative cranial anatomy of yaks and indicate that sexual differentiation primarily concerns size, with limited differences in overall shape. These findings provide useful reference data for comparative veterinary anatomy, anatomical education, and the assessment of bovine cranial morphology in osteological collections.",
@@ -9490,6 +9666,29 @@
    "matched": [
     "cattle",
     "bovine"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233724",
+   "title": "Optimum Dietary Protein and Fish Oil Levels for Long-Whiskered Catfish (Mystus gulio) Fry to Fingerling",
+   "abstract": "This study evaluated responses of long-whiskered catfish (Mystus gulio) fry and fingerlings to graded fish-oil inclusion under two fixed crude-protein (CP) levels and compared monosex culture (MC) with normal culture (NC) under sequential feeding conditions. In Part 1, seven added fish-oil levels (0, 10, 20, 30, 40, 50, and 60 g/kg) were assigned to three replicate earthen ponds per treatment. At the start of the 42% CP phase, 10,500 fry (0.12 ± 0.08 g; 500 fish/pond) were reared for 60 days; after density adjustment, the same treatment series continued for 30 days at 35% CP from an initial phase weight of 4.85 ± 0.58 g. In Part 2, 1800 fish (0.35 ± 0.14 g; 300 fish/pond; three ponds per culture type) received 42% CP with 50 g/kg added fish oil for 60 days and then 35% CP with 40 g/kg added fish oil for 30 days. Growth, feed utilization, whole-body composition, FAS, ACC, Ac-CoA, tissue histomorphology, and growth-related gene expression (gh, igf-1, and igf-2) were evaluated. In Part 1, weight gain and specific growth rate increased and feed conversion ratio decreased toward the highest tested fish-oil inclusion, whereas whole-body protein and growth-related gene expression were highest at intermediate treatments. Viscerosomatic and hepatosomatic indices and hepatic fatty-cell area increased toward the upper end of the diet gradient. MC-NC differences were phase-specific. Because increasing fish oil displaced wheat flour, dietary lipid, carbohydrate, and gross energy changed concurrently; isolated fish-oil effects therefore cannot be inferred. The design characterizes treatment responses under two fixed protein conditions but does not independently estimate the protein requirement of M. gulio.",
+   "authors": [
+    "Phunsin Kantha",
+    "Kritchavat Songdum",
+    "Suwaree Kitikiew",
+    "Natthapong Paankhao",
+    "Chun-Hung Liu",
+    "Anurak Uchuwittayakul",
+    "Sahabhop Dokkaew"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233724",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 4.0,
+   "matched": [
+    "feed conversion ratio"
    ],
    "abstract_zh": ""
   },
@@ -9530,6 +9729,29 @@
     "nutrition",
     "methane",
     "feeding behavior"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/00071668.2026.2759283",
+   "title": "Association analysis of KIAA0825 and SESN3 gene polymorphisms with liver performance in Landes geese",
+   "abstract": "",
+   "authors": [
+    "M. Zhao",
+    "R. Su",
+    "Y. Liu",
+    "H. Zhao",
+    "J. Wang",
+    "D. Gong",
+    "L. Liu"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2759283",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 4.0,
+   "matched": [
+    "geese"
    ],
    "abstract_zh": ""
   },
@@ -11223,6 +11445,28 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233758",
+   "title": "Proteomic Profiling Reveals Molecular Changes Associated with the Ameliorative Effects of Melatonin on LPS-Induced Mastitis in Mice",
+   "abstract": "Mastitis is a major inflammatory disease that affects dairy cattle health and milk production. Therefore, identifying safe and effective approaches to alleviate mastitis-associated inflammatory injury is of considerable importance. This study aimed to investigate the ameliorative effects of melatonin (MT) on mastitis-associated injury and to characterize the molecular changes associated with these effects. A total of 56 lactating female mice were randomly assigned to four groups (n = 14 per group): the control group (CON), LPS-induced mastitis group (LPS), low-dose melatonin group (MT1; 1 mg/kg BW/day), and high-dose melatonin group (MT2; 2 mg/kg BW/day). Seven mice in each group were assigned to the 7-day experimental cohort, and the remaining seven were assigned to the 14-day experimental cohort. Melatonin was administered by oral gavage before intramammary LPS administration, followed by mammary tissue collection for subsequent analyses. Histopathological examination, assessments of inflammatory cytokines and oxidative stress, and data-dependent acquisition (DDA)-based proteomic analysis were performed. Proteomic data were analyzed using principal component analysis (PCA), exploratory orthogonal partial least squares-discriminant analysis (OPLS-DA), and differential protein abundance analysis. The identified differentially expressed proteins (DEPs) were further characterized using Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses and protein–protein interaction (PPI) network analysis. LPS challenge induced mammary tissue damage and inflammatory cell infiltration, enhanced inflammatory responses and oxidative stress, and reduced anti-inflammatory and antioxidant responses, whereas melatonin treatment partially reversed these alterations. Proteomic analysis showed that proteins altered following melatonin treatment were mainly associated with inflammatory and immune responses, oxidative stress, mitochondrial function, and extracellular matrix organization. PPI network analysis identified C3, Apoe, Ltf, Mpo, Vtn, Cp, Prdx3, and Nduf family proteins as highly connected nodes within the candidate interaction network. Collectively, melatonin alleviated LPS-induced inflammatory injury and oxidative stress in mouse mammary tissue, with the higher dose (2 mg/kg BW/day) producing greater improvements than the lower dose (1 mg/kg BW/day) in inflammatory responses, including MPO activity and inflammatory cytokine levels, as well as in oxidative stress-related parameters at both time points.",
+   "authors": [
+    "Jing Li",
+    "Yaqi Qiu",
+    "Jinping Dai",
+    "Changjiang Zang",
+    "Yingying Yu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233758",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 2.0,
+   "matched": [
+    "cattle",
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s40104-026-01504-w",
    "title": "ZBED6 deletion activates FNDC1-mediated PI3K/AKT and MAPK/ERK1/2 signaling pathways to promote myogenesis in pigs",
    "abstract": "Background Myogenesis is a tightly regulated biological process that is essential for skeletal muscle growth, regeneration, and livestock production. Although the transcription factor ZBED6 is a key regulator of skeletal muscle development, the downstream molecular mechanisms through which it controls myogenesis remain incompletely understood. Here, using ZBED6-deficient pigs and primary porcine skeletal muscle satellite cells, we sought to identify novel downstream targets of ZBED6 and elucidate the molecular mechanisms underlying ZBED6-mediated regulation of myogenesis. Results By integrating transcriptomic, quantitative proteomic, and ChIP-seq datasets, we identified fibronectin type III domain-containing protein 1 (FNDC1), a muscle-derived secreted factor, as a previously unrecognized direct transcriptional target of ZBED6. ChIP-qPCR and dual-luciferase reporter assays showed that ZBED6 directly binds to the FNDC1 promoter and represses its transcription. Functional analyses in primary porcine skeletal muscle satellite cells showed that ZBED6 knockdown markedly promoted myoblast proliferation, differentiation, and myotube formation, whereas FNDC1 knockdown partially attenuated these effects. Conversely, FNDC1 overexpression partially rescued the impaired myogenesis caused by ZBED6 overexpression. Mechanistically, ZBED6 deficiency promoted porcine myoblast proliferation and differentiation, at least in part, through FNDC1 -mediated activation of the PI3K/AKT and MAPK/ERK1/2 signaling pathways. Consistently, pharmacological inhibition of either pathway significantly attenuated the enhanced porcine myoblast proliferation and differentiation induced by ZBED6 deficiency, supporting that activation of these signaling pathways contributes in part to the pro-myogenic effects mediated by the ZBED6-FNDC1 regulatory axis in porcine myoblasts. Conclusions This study identifies FNDC1 as a novel direct transcriptional target of ZBED6, supporting the ZBED6-FNDC1 axis as a regulatory mechanism contributing to porcine myoblast proliferation and differentiation. These findings expand the current understanding of the ZBED6 regulatory network and provide a cellular framework for future studies investigating skeletal muscle growth in vivo.",
@@ -12172,6 +12416,26 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233742",
+   "title": "Dietary Supplementation Enhances Antler Development in Semi-Wild Fallow Deer (Dama dama), but Economic Benefits Depend on Developmental Stage",
+   "abstract": "Antler development in cervids is strongly influenced by nutrition, yet the biological and economic benefits of commercial dietary supplements remain poorly quantified under practical game-enclosure conditions. We evaluated antler development and the economic implications of dietary supplementation in fallow deer (Dama dama) maintained under two feeding regimes in a game enclosure in central Slovakia during 2023–2024. A total of 130 naturally shed antlers from supplemented and control enclosure sections were classified into four morphological stages. Antler length, basal circumference, distal circumference, and mass were analyzed using generalized additive mixed models, while economic returns were estimated from predicted trophy values and additional feeding costs. Antler development was generally greater under the supplemented regime, although responses varied among traits and morphological stages. Basal circumference was consistently greater across all stages, whereas antler mass showed the strongest differences in early palmated (+122.5 g) and fully palmated (+213.2 g) males. Economic simulations revealed that only fully palmated males consistently generated positive projected net returns, averaging €904–925 per individual under the evaluated cost scenarios. Returns for early and partially palmated males were less certain, while supplementation was economically unfavorable for spikers. These findings suggest that commercial dietary supplementation can enhance antler development under practical game-enclosure conditions, but improvements in antler characteristics do not necessarily translate into economic profitability. The economic value of supplementation depends primarily on developmental stage, trophy valuation, and feeding costs.",
+   "authors": [
+    "Peter Smolko",
+    "Tibor Lebocký",
+    "Stanislava Krieková",
+    "Rudolf Kropil"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233742",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 1.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233743",
    "title": "Isolation and Genomic Characterization of a Frog Virus 3-like Ranavirus from Apparently Healthy Farmed Brown Frogs (Rana uenoi) in Korea",
    "abstract": "Infection with ranaviruses is a WOAH-listed amphibian disease, and infected animals may show no clinical signs. In May 2024, during active surveillance, 24 post-metamorphic juvenile frogs and eight tadpoles without clinical signs were sampled from a brown frog (Rana uenoi) farm in Korea, where deaths had been reported during metamorphosis. All tissue pools were positive by two WOAH major capsid protein (MCP) PCR assays and by real-time PCR (mean pool values, 4.79 and 5.14 log10 genome copies mg−1, respectively). Batrachochytrium dendrobatidis and B. salamandrivorans were not detected. Juvenile frogs had no virus-associated lesions, and basophilic intracytoplasmic inclusion bodies were found in the liver and spleen of one tadpole. Virus was isolated in cell culture from both stages. Electron microscopy of infected cells showed cytoplasmic icosahedral virions (163.1 ± 8.9 nm) in assembly sites and paracrystalline arrays, and budding virions. Partial MCP sequences from both stages were identical and frog virus 3 (FV3)-like. The complete genome of isolate 24BFJF (106,054 bp; 91 ORFs) clustered within the Asian FV3-like clade. To the best of our knowledge, this is the first report of ranaviruses in farmed R. uenoi. Clinically normal farmed frogs can carry infectious ranaviruses and may spread the infection when moved or released; therefore, continuous ranavirus surveillance, including molecular testing, and a strengthened biosecurity system are needed on amphibian farms in Korea.",
@@ -12195,26 +12459,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233742",
-   "title": "Dietary Supplementation Enhances Antler Development in Semi-Wild Fallow Deer (Dama dama), but Economic Benefits Depend on Developmental Stage",
-   "abstract": "Antler development in cervids is strongly influenced by nutrition, yet the biological and economic benefits of commercial dietary supplements remain poorly quantified under practical game-enclosure conditions. We evaluated antler development and the economic implications of dietary supplementation in fallow deer (Dama dama) maintained under two feeding regimes in a game enclosure in central Slovakia during 2023–2024. A total of 130 naturally shed antlers from supplemented and control enclosure sections were classified into four morphological stages. Antler length, basal circumference, distal circumference, and mass were analyzed using generalized additive mixed models, while economic returns were estimated from predicted trophy values and additional feeding costs. Antler development was generally greater under the supplemented regime, although responses varied among traits and morphological stages. Basal circumference was consistently greater across all stages, whereas antler mass showed the strongest differences in early palmated (+122.5 g) and fully palmated (+213.2 g) males. Economic simulations revealed that only fully palmated males consistently generated positive projected net returns, averaging €904–925 per individual under the evaluated cost scenarios. Returns for early and partially palmated males were less certain, while supplementation was economically unfavorable for spikers. These findings suggest that commercial dietary supplementation can enhance antler development under practical game-enclosure conditions, but improvements in antler characteristics do not necessarily translate into economic profitability. The economic value of supplementation depends primarily on developmental stage, trophy valuation, and feeding costs.",
-   "authors": [
-    "Peter Smolko",
-    "Tibor Lebocký",
-    "Stanislava Krieková",
-    "Rudolf Kropil"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233742",
-   "date": "2026-11-24",
-   "first_seen": "2026-11-25",
-   "score": 1.0,
-   "matched": [
-    "nutrition"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16233730",
    "title": "Anaesthetic Management and 48-Hour Outcomes in Dogs with Gastric Dilatation-Volvulus: A Multicentre Cohort Study",
    "abstract": "This secondary analysis of the prospective COMPLRED cohort describes anaesthetic management and outcomes in 185 dogs with confirmed gastric dilatation-volvulus from 50 centres in nine countries. The study protocol specified outcome recording from premedication until 48 h after extubation. Partial intravenous anaesthesia (PIVA) was used in 129 dogs, inhalational maintenance without a continuous intravenous adjunct (INH) in 51 and parenteral-only anaesthesia in five. Mechanical ventilation was used in 112 dogs and locoregional anaesthesia in 49. Outcomes were ALIVE (n = 159), anaesthesia-related or potentially related death (DEAD; n = 11), euthanasia (EUT; n = 14) and surgery- or disease-attributed death (SURG; n = 1). All-cause non-survival was 26/185 (14.1%; exact 95% CI, 9.4–19.9%), and the full-cohort DEAD proportion was 11/185 (5.9%; exact 95% CI, 3.0–10.4%). The conditional DEAD-versus-ALIVE comparison excluded EUT and SURG and included 170 dogs. Associations for both outcome definitions were explored using Firth logistic regression with ordinal ASA physical status adjustment and nominal 95% confidence intervals. Nine DEAD outcomes informed the INH/PIVA comparison and five the within-PIVA comparison. Sparse events, treatment selection, uncertain exposure timing and limited within-centre overlap restricted interpretation of these associations. The study provides a multicentre description of anaesthetic practice and 48 h outcomes in dogs with gastric dilatation-volvulus.",
@@ -12229,6 +12473,75 @@
    "url": "https://doi.org/10.3390/ani16233730",
    "date": "2026-11-24",
    "first_seen": "2026-11-25",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233755",
+   "title": "Immersion Pretreatment with Brevibacillus laterosporus X2 Improves Survival and Reduces Liver Injury in Black-Spotted Frogs Challenged with Elizabethkingia miricola",
+   "abstract": "Elizabethkingia miricola causes severe disease in cultured black-spotted frogs (Pelophylax nigromaculatus). We evaluated Brevibacillus laterosporus X2 using survival, liver histopathology, pathogen DNA quantification, RNA sequencing (RNA-seq) and reverse-transcription quantitative PCR (RT-qPCR). Four groups were compared: controls (C), X2 alone (X), pathogen alone (E) and X2 pretreatment before challenge (P). A 24 h X2 immersion pretreatment increased estimated seven-day survival from 19.01 ± 6.28% to 69.46 ± 6.53% (relative percent survival, 62.3%). Liver lesion scores were 44–75% lower in P than in E at 6–24 h, while X2-only frogs maintained low scores. At 24 h, tissue pathogen DNA loads were 20.6–36.8-fold lower in P than in E. Sequencing of liver, kidney, skin and spleen generated 48 libraries and 46,970 reconstructed gene loci. P/E comparisons identified 4749, 4000, 3289 and 4323 differentially expressed genes in kidney, liver, skin and spleen, respectively. Enrichment analysis identified inflammatory, lysosomal, complement and cell-cycle responses. RT-qPCR supported all RNA-seq directions across 11 tissue–gene combinations (adjusted q &lt; 0.001). These findings associate improved survival and reduced liver injury with tissue-specific transcriptional responses following X2 pretreatment.",
+   "authors": [
+    "Geng Chen",
+    "Bin Xu",
+    "Dan Wang",
+    "Xiaosong Luo",
+    "Fangyuan Peng",
+    "Yingbing Su",
+    "Jin Xu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233755",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233751",
+   "title": "Prevalence and Clinical Associations of Precontrast Renal Crest Hyperattenuation on Computed Tomography in Cats",
+   "abstract": "Precontrast renal crest hyperattenuation (RCH) on computed tomography (CT) has been documented in dogs but not in cats. This retrospective study aimed to determine the prevalence of RCH in cats undergoing abdominal CT and to assess its association with urine specific gravity (USG), urinary pH, proteinuria, nephrolithiasis, and chronic kidney disease (CKD) status. Precontrast abdominal CT images of 59 cats from two referral hospitals were reviewed. RCH was defined as increased precontrast attenuation of the renal crest in at least one kidney and was evaluated subjectively and by Hounsfield unit measurements. RCH was present in 61.0% of cats (36/59; 95% CI, 48.3–72.4), bilaterally in 29 and unilaterally in 7. Cats with RCH had a higher median USG than cats without RCH (1.042 [IQR, 1.022–1.050] vs. 1.023 [IQR, 1.018–1.035]; p = 0.003), and CKD was less frequent in RCH-positive (4/36; 11.1%) than in RCH-negative cats (10/23; 43.5%) (OR = 0.17; 95% CI, 0.03–0.71; p = 0.010); both variables remained associated with RCH after mutual adjustment in a multivariable model. RCH was not significantly associated with nephrolithiasis, urinary pH, or proteinuria. RCH is a common finding in cats, associated with higher USG and less frequent in cats with CKD, suggesting a possible relationship with urine concentration; however, it should not be interpreted as an independent indicator of normal renal function.",
+   "authors": [
+    "Luiza Bielawiec",
+    "Jimmy Saunders",
+    "Kaatje Kromhout",
+    "Luc Duchateau",
+    "Géraldine Bolen",
+    "Emmelie Stock"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233751",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233745",
+   "title": "Spatial and Temporal Niche Partitioning of Sympatric Canids in the Eastern Qinghai–Tibet Plateau",
+   "abstract": "Understanding how sympatric carnivores coexist in alpine ecosystems is essential for biodiversity conservation and wildlife management. This study investigated spatiotemporal niche differentiation among three sympatric canids, the Tibetan fox (Vulpes ferrilata), red fox (Vulpes vulpes), and wolf (Canis lupus), in Shiqu County on the eastern Qinghai–Tibet Plateau. Based on camera-trapping data from 267 camera traps deployed between June 2023 and June 2025 and field survey records, habitat suitability was predicted using MaxEnt models, while spatial niche overlap and diel activity patterns were assessed. The results showed that suitable habitat areas were 4273.55 km2 for Tibetan foxes, 9189.14 km2 for red foxes, and 7024.09 km2 for wolves. Spatial niche overlap was high among species pairs, with Schoener’s D and Hellinger’s I values of 0.710 and 0.929 between wolves and Tibetan foxes, 0.739 and 0.935 between wolves and red foxes, and 0.659 and 0.900 between Tibetan foxes and red foxes. Shared suitable habitats were mainly concentrated in the western and central regions of the study area. Temporal overlap (Δ4) varied among species pairs, with the highest overlap observed between wolves and Tibetan foxes (Δ4 = 0.761), followed by Tibetan foxes and red foxes (Δ4 = 0.699), whereas wolves and red foxes showed the lowest overlap (Δ4 = 0.500). Co-occurrence analyses further revealed asymmetric temporal responses: red foxes showed significant shifts in diel activity patterns when co-occurring with wolves (Δ4 = 0.778, p = 0.0215) and Tibetan foxes (Δ4 = 0.747, p = 0.0006), whereas wolves showed some variation in activity patterns when co-occurring with Tibetan foxes (Δ4 = 0.650, p = 0.1416), although this difference was not statistically significant. In contrast, Tibetan foxes maintained relatively stable activity patterns regardless of co-occurrence with wolves or red foxes (adjusted p &gt; 0.05). These results suggest that the three sympatric canids coexist through extensive spatial niche overlap combined with species-specific temporal differentiation, which may reduce direct interspecific competition. This study provides quantitative evidence for understanding coexistence mechanisms among alpine carnivores and offers valuable insights for wildlife conservation and zoonotic disease risk management on the Qinghai–Tibet Plateau.",
+   "authors": [
+    "Hongyang Mao",
+    "Bin Feng",
+    "Shuai Yang",
+    "Jiahao Yan",
+    "Lu Hu",
+    "Zilin Liu",
+    "Guang Yang",
+    "Wenke Bai"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233745",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
    "score": 1.0,
    "matched": [
     "disease"
@@ -14789,19 +15102,6 @@
    "abstract_zh": "欲了解最新資訊，請造訪網站上的行事曆 (www.wpsa.com)。WVEPAH 是「歐洲獸醫專科學會」(European Association for Veterinary Specialization, EAVS) 的分支機構，EAVS 是一個非營利組織……"
   },
   {
-   "doi": "10.1080/00439339.2026.2750663",
-   "title": "Calendar",
-   "abstract": "",
-   "authors": [],
-   "journal": "World's Poultry Science Journal",
-   "url": "https://doi.org/10.1080/00439339.2026.2750663",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-11",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "欲獲取最新資訊，請造訪網站上的行事曆（www.wpsa.com）。2027年2月1日至3日澳洲雪梨雪梨大學第38屆澳洲家禽科學研討會（APSS）20..."
-  },
-  {
    "doi": "10.1080/00439339.2026.2750660",
    "title": "Sponsorship",
    "abstract": "",
@@ -14813,6 +15113,19 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "下列公司與組織分為三大類，目前正以財務贊助的方式支持《世界家禽科學期刊》（World’s Poultry Science Journal）。在此致上萬分謝意……"
+  },
+  {
+   "doi": "10.1080/00439339.2026.2750663",
+   "title": "Calendar",
+   "abstract": "",
+   "authors": [],
+   "journal": "World's Poultry Science Journal",
+   "url": "https://doi.org/10.1080/00439339.2026.2750663",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "欲獲取最新資訊，請造訪網站上的行事曆（www.wpsa.com）。2027年2月1日至3日澳洲雪梨雪梨大學第38屆澳洲家禽科學研討會（APSS）20..."
   },
   {
    "doi": "10.3390/ani16223553",
@@ -15977,17 +16290,15 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233721",
-   "title": "A Review of Rice-Field Fisheries, Aquatic Animal Production, and Pollution Governance in the Lower Mekong Basin: Evidence from the Vietnamese Mekong Delta",
-   "abstract": "The Mekong Delta of Vietnam is one of Southeast Asia’s most important food-producing regions, supporting intensive rice cultivation, globally significant aquaculture, and diverse inland and rice-field fisheries that contribute to food security, rural livelihoods, and ecosystem functioning. However, hydraulic engineering, agricultural intensification, aquaculture expansion, urbanization, upstream river development, and climate-related pressures have progressively altered the hydrological and ecological processes sustaining these interconnected systems. This review synthesizes evidence on the transformation of rice-field fisheries and aquatic animal production in the Lower Mekong Basin, with particular emphasis on the Mekong Delta, and evaluates how effectively pollution governance addresses cumulative pressures on aquatic ecosystems. Peer-reviewed studies, official statistics, policy and legal documents, Mekong River Commission reports, and international institutional publications were assessed through a systematic critical review combining evidence mapping with structured narrative synthesis. The synthesis reveals a marked transition from hydrologically connected, multispecies production landscapes toward increasingly specialized rice and aquaculture systems. In the Mekong Delta region, recorded inland wild-fish catch declined from approximately 165,000 tonnes in 1995 to 30,000 tonnes in 2024, while aquaculture production increased more than eightfold, from approximately 78,000 to 650,000 tonnes, and rice production more than doubled, from 3.5 to 7.6 million tonnes. These contrasting trends coincided with high-dyke development, reduced floodplain connectivity, altered sediment and flow regimes, habitat modification, and greater agrochemical dependence. Major pollution pressures include nutrient and organic enrichment, pesticides, pharmaceuticals, domestic and industrial wastewater, micro-plastics, and acid-sulfate-soil drainage. Nevertheless, fishery decline cannot be attributed to pollution alone, because hydropower development, migration barriers, fishing pressure, habitat fragmentation, altered flood pulses, sediment deficits, and interact across spatial and temporal scales. Although Vietnam has established increasingly comprehensive fisheries, environment, water-resource, regional-planning, and climate-adaptation frameworks, implementation remains fragmented. Priority actions include integrated basin-to-field monitoring, cumulative-risk assessment, pollution prevention at source, stronger discharge controls, restoration of seasonal floodplain connectivity, protection of aquatic refuges, community co-management, and wider adoption of context-appropriate floating-rice, rice–fish, and rice–shrimp systems in this Delta region.",
+   "doi": "10.3390/ani16233727",
+   "title": "Spatiotemporal Standardization of Chub Mackerel (Scomber japonicus) Catch per Unit Effort in the Korean Large Purse Seine Fishery, 2000–2025",
+   "abstract": "Catch per unit effort (CPUE) of chub mackerel (Scomber japonicus) in the Korean large purse seine fishery informs stock assessment, but also reflects where and when the fleet fishes. We standardized it for the first time with a spatiotemporal species distribution model, fitted in sdmTMB to sampled fishing-operation reports for 2000–2025. Catch was related to sea surface temperature, chlorophyll a, mixed layer depth and bottom depth, with spatial and spatiotemporal random fields. Among six candidates, eligibility checks, the Akaike information criterion and leave-future-out cross-validation selected a delta-gamma model with autoregressive spatiotemporal fields, and a bias-corrected index was summed over a fixed grid that includes cells the fleet no longer fishes. Mixed layer depth showed the largest contrast in predicted catch, largely a seasonal one. The standardized index reached its three highest values in 2023–2025 (1.72 times the series mean in 2025), a rise that persisted on restricted grids, but 67.6% of the density predicted for 2025 lay in cells not fished that year. A hindcast fitted to 2000–2020 under-predicted every year of 2021–2025, although retrospective peels changed little (Mohn’s rho −0.023). The index can serve stock assessment as a standardized catch rate for the consistently fished grounds, proportional to abundance only if catchability is stable, but its recent rise, coinciding with contracting grounds, is not evidence that the stock grew.",
    "authors": [
-    "Chau Thi Da",
-    "Thai Huynh Phuong Lan",
-    "Nguyen Thanh Tam",
-    "Hakan Berg"
+    "Heejoong Kang",
+    "Moo-Jin Kim"
    ],
    "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233721",
+   "url": "https://doi.org/10.3390/ani16233727",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -16009,6 +16320,115 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16233702",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233708",
+   "title": "Traumatic Injuries in 157 Loggerhead Sea Turtles (Caretta caretta): Clinical Presentation, Diagnostic Imaging, Microbiology, and Outcomes",
+   "abstract": "Traumatic injuries cause morbidity and mortality in Mediterranean loggerhead sea turtles (Caretta caretta). This retrospective study evaluated 157 turtles at the University of Bari Sea Turtle Clinic from 2015 to 2022; these represented 7.74% of 2028 turtles evaluated. Injuries were classified by site, severity, and chronicity. All turtles underwent radiography; multidetector computed tomography (MDCT) was performed in selected cases. Each wound was swabbed for aerobic bacterial culture and antimicrobial susceptibility testing. Injuries involved a single site in 115 turtles (73.2%) and multiple sites in 42 (26.8%); the carapace, flippers, and head were most frequently affected. MDCT characterized cranial and skeletal injuries and residual flipper vascularization. Cultures yielded 121 bacterial isolates, of which 76 (63%) exhibited a multidrug-resistant phenotype. Overall, 137 turtles (87.3%) were released, 17 (10.8%) died, and 3 (1.9%) were euthanized. In single-site cases, injury severity was associated with outcome (p = 0.045), whereas anatomical site was not. In multiple-site cases, neither severity nor site was associated with outcome; associations with hook and fishing-line ingestion were exploratory. These findings indicate that outcome may reflect the combined effects of injury severity and concurrent clinical conditions and support the use of advanced imaging, microbiological investigation, and targeted therapeutic management in sea turtle rehabilitation.",
+   "authors": [
+    "Delia Franchini",
+    "Ilaria Laino",
+    "Carmela Valastro",
+    "Stefano Ciccarelli",
+    "Marcello Siniscalchi",
+    "Elisabetta D’Elia",
+    "Marialaura Corrente",
+    "Davide Nicola Bellomo",
+    "Serena Paci",
+    "Pasquale Salvemini",
+    "Alessandro Guarracino",
+    "Antonio V. F. Di Bello"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233708",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233723",
+   "title": "Sex and Individual Identification of Dholes (Cuon alpinus) Based on Fecal Metagenomic Shotgun Sequencing",
+   "abstract": "To verify that fecal metagenomic shotgun sequencing can provide valuable sex, habitat, and individual information, a total of 26 dhole (Cuon alpinus) fecal samples from 4 individuals for modeling and 24 samples from 14 individuals for externally verifying were metagenomic-sequenced. Our results showed that reads mapped to the reference genome in feces accounted for 18.36 ± 19.07% of the total reads in the samples. Bacteria, viruses, eukaryota, and archaea accounted for 95.40 ± 1.06%, 3.01 ± 0.82%, 1.36 ± 0.27%, and 0.23 ± 0.05%, respectively. Using Xcov/Acov, Christensenella massiliensis, Streptococcus agalactiae, Ureibacillus massiliensis, Parabacteroides sp. CT06, Clostridium argentinense, Escherichia fergusonii, and Pseudomonas chlororaphis, we constructed a generalized linear model (GLM) that showed potential for identifying dhole sexes. Using all microbial species with significant differences between pens, we constructed a GLM that showed potential for identifying dhole pens. The GLM constructed based on the fecal microbial species and host genomic information showed potential for identification of dhole individuals, achieving a high accuracy (100% and 91.67% for modeling and verifying samples). These results proved that GLMs constructed though integrating fecal microbial species and host genomic information exhibit potential for identifying sex, pen, and individual dholes, providing a potential method for the subsequent investigation of the ecological characteristics of wild dholes through fecal metagenomic sequencing.",
+   "authors": [
+    "Shu Wu",
+    "Qinxi Hou",
+    "Zhisong Yang",
+    "Jiajia Ni"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233723",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233706",
+   "title": "Differential Physiological, Biochemical and Metabolic Effects of Warming and Dietary Composition in Two Freshwater Turtle Species",
+   "abstract": "The physiological and metabolic performance of animals can be shaped by various factors, such as temperature and dietary composition. In this study, hatchlings of two freshwater turtle species, Trachemys scripta elegans and Mauremys sinensis, were maintained under different thermal regimes and dietary treatments to investigate physiological and metabolic responses to warming and high-protein diet level in turtles. Warming and a high-protein diet generally promoted growth, and increased serum glucose, cholesterol, and triglyceride levels in both species, with more pronounced effects in T. scripta elegans. Compared with M. sinensis, more extensive metabolic adjustments could be observed in T. scripta elegans under warming and high-protein diet treatments, including significantly altered expressions of genes related to gluconeogenesis, lipid metabolism and energy sensing, and enriched metabolic pathways related to energy metabolism, pyruvate metabolism, and purine metabolism. The expressions of selected genes and metabolomic responses were relatively mild in M. sinensis. Our study revealed that invasive T. scripta elegans might adopt a highly flexible, energy-centered metabolic strategy, whereas native M. sinensis exhibits more conservative and stable responses. It can be reasonably inferred that physiological and metabolic plasticity may contribute to species-specific responses to environmental changes and potentially facilitate the persistence of invasive species across heterogeneous environments.",
+   "authors": [
+    "Luo-Xin Cui",
+    "Huo-Bin Tang",
+    "Min-Cheng Zhu",
+    "Peng Liu",
+    "Hong-Liang Lu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233706",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233721",
+   "title": "A Review of Rice-Field Fisheries, Aquatic Animal Production, and Pollution Governance in the Lower Mekong Basin: Evidence from the Vietnamese Mekong Delta",
+   "abstract": "The Mekong Delta of Vietnam is one of Southeast Asia’s most important food-producing regions, supporting intensive rice cultivation, globally significant aquaculture, and diverse inland and rice-field fisheries that contribute to food security, rural livelihoods, and ecosystem functioning. However, hydraulic engineering, agricultural intensification, aquaculture expansion, urbanization, upstream river development, and climate-related pressures have progressively altered the hydrological and ecological processes sustaining these interconnected systems. This review synthesizes evidence on the transformation of rice-field fisheries and aquatic animal production in the Lower Mekong Basin, with particular emphasis on the Mekong Delta, and evaluates how effectively pollution governance addresses cumulative pressures on aquatic ecosystems. Peer-reviewed studies, official statistics, policy and legal documents, Mekong River Commission reports, and international institutional publications were assessed through a systematic critical review combining evidence mapping with structured narrative synthesis. The synthesis reveals a marked transition from hydrologically connected, multispecies production landscapes toward increasingly specialized rice and aquaculture systems. In the Mekong Delta region, recorded inland wild-fish catch declined from approximately 165,000 tonnes in 1995 to 30,000 tonnes in 2024, while aquaculture production increased more than eightfold, from approximately 78,000 to 650,000 tonnes, and rice production more than doubled, from 3.5 to 7.6 million tonnes. These contrasting trends coincided with high-dyke development, reduced floodplain connectivity, altered sediment and flow regimes, habitat modification, and greater agrochemical dependence. Major pollution pressures include nutrient and organic enrichment, pesticides, pharmaceuticals, domestic and industrial wastewater, micro-plastics, and acid-sulfate-soil drainage. Nevertheless, fishery decline cannot be attributed to pollution alone, because hydropower development, migration barriers, fishing pressure, habitat fragmentation, altered flood pulses, sediment deficits, and interact across spatial and temporal scales. Although Vietnam has established increasingly comprehensive fisheries, environment, water-resource, regional-planning, and climate-adaptation frameworks, implementation remains fragmented. Priority actions include integrated basin-to-field monitoring, cumulative-risk assessment, pollution prevention at source, stronger discharge controls, restoration of seasonal floodplain connectivity, protection of aquatic refuges, community co-management, and wider adoption of context-appropriate floating-rice, rice–fish, and rice–shrimp systems in this Delta region.",
+   "authors": [
+    "Chau Thi Da",
+    "Thai Huynh Phuong Lan",
+    "Nguyen Thanh Tam",
+    "Håkan Berg"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233721",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233720",
+   "title": "Itaconic Acid Ameliorates Ammonia-Induced Lung Injury in Chicks via Suppression of cGAS-STING-Mediated Pyroptosis",
+   "abstract": "Ammonia (NH3), a pervasive environmental pollutant, poses significant health risks to humans and animals primarily through respiratory exposure. This study conducted a comprehensive analysis of the pulmonary toxicity mechanism of NH3 through network toxicology. The analysis confirmed that NH3 primarily induces lung damage through inflammation and oxidative stress. Itaconic acid (ITA), a tricarboxylic acid (TCA) cycle-derived metabolite, exhibits antioxidative, anti-inflammatory, and immunomodulatory properties. However, its protective mechanisms against NH3-induced lung injury in chicks remain unexplored. In this study, 120 7-day-old Hy-Line gray chicks were assigned to four experimental groups, including a control group (NH3 &lt;5 ppm), an NH3-exposed group (40–50 ppm), and two NH3-exposed groups supplemented with 4.0 or 6.0 g/kg ITA, respectively, for a period of 45 days. The results revealed that ITA dose-dependently ameliorated NH3-induced growth retardation, feed intake reduction, and pulmonary histopathological alterations, including alveolar deformation, epithelial disorganization, and interstitial fibrosis. Ultrastructural analysis revealed ITA-mediated preservation of nuclear membrane integrity and mitochondrial morphology. Mechanistically, ITA enhanced antioxidant capacity, as evidenced by upregulated antioxidase activity and reduced lipid peroxidation (MDA) level, along with Nrf2 pathway activation. Crucially, ITA suppressed pyroptosis by inhibiting the NLRP3/caspase-1/GSDMD axis and attenuated cGAS-STING-driven NF-κB activation, thereby mitigating inflammatory cytokine release. Correlation analyses confirmed interplay among pyroptosis, oxidative stress, and cGAS-STING signaling. These findings establish ITA as a novel therapeutic candidate for NH3-associated lung injury through dual modulation of the antioxidant pathway and cGAS-STING-mediated pyroptosis, providing critical insights into avian toxicology and immunometabolism.",
+   "authors": [
+    "Yang Hu",
+    "Chun Zeng",
+    "Panpan Cao",
+    "Jianyun Yuan",
+    "Qingpeng Wu",
+    "Yanqing Wang",
+    "Zhongtao Li",
+    "Xingyang Lin",
+    "Dan Wu",
+    "Xiaoquan Guo",
+    "Huabin Cao",
+    "Guoliang Hu",
+    "Wenjing Pu",
+    "Yu Zhuang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233720",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -16080,97 +16500,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233723",
-   "title": "Sex and Individual Identification of Dholes (Cuon alpinus) Based on Fecal Metagenomic Shotgun Sequencing",
-   "abstract": "To verify that fecal metagenomic shotgun sequencing can provide valuable sex, habitat, and individual information, a total of 26 dhole (Cuon alpinus) fecal samples from 4 individuals for modeling and 24 samples from 14 individuals for externally verifying were metagenomic-sequenced. Our results showed that reads mapped to the reference genome in feces accounted for 18.36 ± 19.07% of the total reads in the samples. Bacteria, viruses, eukaryota, and archaea accounted for 95.40 ± 1.06%, 3.01 ± 0.82%, 1.36 ± 0.27%, and 0.23 ± 0.05%, respectively. Using Xcov/Acov, Christensenella massiliensis, Streptococcus agalactiae, Ureibacillus massiliensis, Parabacteroides sp. CT06, Clostridium argentinense, Escherichia fergusonii, and Pseudomonas chlororaphis, we constructed a generalized linear model (GLM) that showed potential for identifying dhole sexes. Using all microbial species with significant differences between pens, we constructed a GLM that showed potential for identifying dhole pens. The GLM constructed based on the fecal microbial species and host genomic information showed potential for identification of dhole individuals, achieving a high accuracy (100% and 91.67% for modeling and verifying samples). These results proved that GLMs constructed though integrating fecal microbial species and host genomic information exhibit potential for identifying sex, pen, and individual dholes, providing a potential method for the subsequent investigation of the ecological characteristics of wild dholes through fecal metagenomic sequencing.",
-   "authors": [
-    "Shu Wu",
-    "Qinxi Hou",
-    "Zhisong Yang",
-    "Jiajia Ni"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233723",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16233706",
-   "title": "Differential Physiological, Biochemical and Metabolic Effects of Warming and Dietary Composition in Two Freshwater Turtle Species",
-   "abstract": "The physiological and metabolic performance of animals can be shaped by various factors, such as temperature and dietary composition. In this study, hatchlings of two freshwater turtle species, Trachemys scripta elegans and Mauremys sinensis, were maintained under different thermal regimes and dietary treatments to investigate physiological and metabolic responses to warming and high-protein diet level in turtles. Warming and a high-protein diet generally promoted growth, and increased serum glucose, cholesterol, and triglyceride levels in both species, with more pronounced effects in T. scripta elegans. Compared with M. sinensis, more extensive metabolic adjustments could be observed in T. scripta elegans under warming and high-protein diet treatments, including significantly altered expressions of genes related to gluconeogenesis, lipid metabolism and energy sensing, and enriched metabolic pathways related to energy metabolism, pyruvate metabolism, and purine metabolism. The expressions of selected genes and metabolomic responses were relatively mild in M. sinensis. Our study revealed that invasive T. scripta elegans might adopt a highly flexible, energy-centered metabolic strategy, whereas native M. sinensis exhibits more conservative and stable responses. It can be reasonably inferred that physiological and metabolic plasticity may contribute to species-specific responses to environmental changes and potentially facilitate the persistence of invasive species across heterogeneous environments.",
-   "authors": [
-    "Luo-Xin Cui",
-    "Huo-Bin Tang",
-    "Min-Cheng Zhu",
-    "Peng Liu",
-    "Hong-Liang Lu"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233706",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16233708",
-   "title": "Traumatic Injuries in 157 Loggerhead Sea Turtles (Caretta caretta): Clinical Presentation, Diagnostic Imaging, Microbiology, and Outcomes",
-   "abstract": "Traumatic injuries cause morbidity and mortality in Mediterranean loggerhead sea turtles (Caretta caretta). This retrospective study evaluated 157 turtles at the University of Bari Sea Turtle Clinic from 2015 to 2022; these represented 7.74% of 2028 turtles evaluated. Injuries were classified by site, severity, and chronicity. All turtles underwent radiography; multidetector computed tomography (MDCT) was performed in selected cases. Each wound was swabbed for aerobic bacterial culture and antimicrobial susceptibility testing. Injuries involved a single site in 115 turtles (73.2%) and multiple sites in 42 (26.8%); the carapace, flippers, and head were most frequently affected. MDCT characterized cranial and skeletal injuries and residual flipper vascularization. Cultures yielded 121 bacterial isolates, of which 76 (63%) exhibited a multidrug-resistant phenotype. Overall, 137 turtles (87.3%) were released, 17 (10.8%) died, and 3 (1.9%) were euthanized. In single-site cases, injury severity was associated with outcome (p = 0.045), whereas anatomical site was not. In multiple-site cases, neither severity nor site was associated with outcome; associations with hook and fishing-line ingestion were exploratory. These findings indicate that outcome may reflect the combined effects of injury severity and concurrent clinical conditions and support the use of advanced imaging, microbiological investigation, and targeted therapeutic management in sea turtle rehabilitation.",
-   "authors": [
-    "Delia Franchini",
-    "Ilaria Laino",
-    "Carmela Valastro",
-    "Stefano Ciccarelli",
-    "Marcello Siniscalchi",
-    "Elisabetta D’Elia",
-    "Marialaura Corrente",
-    "Davide Nicola Bellomo",
-    "Serena Paci",
-    "Pasquale Salvemini",
-    "Alessandro Guarracino",
-    "Antonio V. F. Di Bello"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233708",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16233720",
-   "title": "Itaconic Acid Ameliorates Ammonia-Induced Lung Injury in Chicks via Suppression of cGAS-STING-Mediated Pyroptosis",
-   "abstract": "Ammonia (NH3), a pervasive environmental pollutant, poses significant health risks to humans and animals primarily through respiratory exposure. This study conducted a comprehensive analysis of the pulmonary toxicity mechanism of NH3 through network toxicology. The analysis confirmed that NH3 primarily induces lung damage through inflammation and oxidative stress. Itaconic acid (ITA), a tricarboxylic acid (TCA) cycle-derived metabolite, exhibits antioxidative, anti-inflammatory, and immunomodulatory properties. However, its protective mechanisms against NH3-induced lung injury in chicks remain unexplored. In this study, 120 7-day-old Hy-Line gray chicks were assigned to four experimental groups, including a control group (NH3 &lt;5 ppm), an NH3-exposed group (40–50 ppm), and two NH3-exposed groups supplemented with 4.0 or 6.0 g/kg ITA, respectively, for a period of 45 days. The results revealed that ITA dose-dependently ameliorated NH3-induced growth retardation, feed intake reduction, and pulmonary histopathological alterations, including alveolar deformation, epithelial disorganization, and interstitial fibrosis. Ultrastructural analysis revealed ITA-mediated preservation of nuclear membrane integrity and mitochondrial morphology. Mechanistically, ITA enhanced antioxidant capacity, as evidenced by upregulated antioxidase activity and reduced lipid peroxidation (MDA) level, along with Nrf2 pathway activation. Crucially, ITA suppressed pyroptosis by inhibiting the NLRP3/caspase-1/GSDMD axis and attenuated cGAS-STING-driven NF-κB activation, thereby mitigating inflammatory cytokine release. Correlation analyses confirmed interplay among pyroptosis, oxidative stress, and cGAS-STING signaling. These findings establish ITA as a novel therapeutic candidate for NH3-associated lung injury through dual modulation of the antioxidant pathway and cGAS-STING-mediated pyroptosis, providing critical insights into avian toxicology and immunometabolism.",
-   "authors": [
-    "Yang Hu",
-    "Chun Zeng",
-    "Panpan Cao",
-    "Jianyun Yuan",
-    "Qingpeng Wu",
-    "Yanqing Wang",
-    "Zhongtao Li",
-    "Xingyang Lin",
-    "Dan Wu",
-    "Xiaoquan Guo",
-    "Huabin Cao",
-    "Guoliang Hu",
-    "Wenjing Pu",
-    "Yu Zhuang"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233720",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16233717",
    "title": "Effects of Rumen-Protected Methionine Supplementation on Cashmere Growth, Skin Hair Follicle Morphology, IGF-1 Concentration and mRNA Expression in Liaoning Cashmere Goats",
    "abstract": "This study evaluated the effects of dietary rumen-protected methionine (RP-Met) supplementation on cashmere growth, skin hair follicle morphology, and the concentration and mRNA expression of insulin-like growth factor-1 (IGF-1) in Liaoning cashmere goats during the rapid cashmere fiber growth period. Twenty-four 1.5-year-old male cashmere goats, with an initial body weight of 35.41 ± 1.13 kg, were randomly assigned to four treatment groups. The goats were fed a basal diet (25% concentrate and 75% forage on a dry matter basis) ad libitum and supplemented with 0 (control), 1, 2, or 3 g/kg of RP-Met, respectively. The experiment lasted 16 weeks. At the end of the experiment, primary and secondary follicle widths in the groups supplemented with 1 and 2 g/kg of RP-Met were significantly greater than those in the control group, corresponding to increases of 21 μm (p &lt; 0.001) and 9.5 μm (p = 0.005), respectively. Quadratic trends were also observed for follicle depth (primary: p = 0.052; secondary: p = 0.093) and follicle density (primary: p = 0.096; secondary: p = 0.051). Plasma concentrations of growth hormone increased linearly with RP-Met supplementation (p &lt; 0.001). Although plasma IGF-1 concentration was unaffected, skin IGF-1 mRNA was significantly upregulated (treatment p = 0.007; linear p = 0.022), with the highest expression at the 2 g/kg RP-Met; IGF-1R mRNA showed a marginal treatment effect (p = 0.058) with a significant linear contrast (p = 0.030). In conclusion, dietary RP-Met supplementation stimulated skin follicle development and was associated with upregulated local IGF-1, without significant improvements in cashmere fiber length, diameter, or yield during the observation period. A supplementation level of 2 g/kg of RP-Met was suggested.",
@@ -16186,22 +16515,6 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16233717",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16233727",
-   "title": "Spatiotemporal Standardization of Chub Mackerel (Scomber japonicus) Catch per Unit Effort in the Korean Large Purse Seine Fishery, 2000–2025",
-   "abstract": "Catch per unit effort (CPUE) of chub mackerel (Scomber japonicus) in the Korean large purse seine fishery informs stock assessment, but also reflects where and when the fleet fishes. We standardized it for the first time with a spatiotemporal species distribution model, fitted in sdmTMB to sampled fishing-operation reports for 2000–2025. Catch was related to sea surface temperature, chlorophyll a, mixed layer depth and bottom depth, with spatial and spatiotemporal random fields. Among six candidates, eligibility checks, the Akaike information criterion and leave-future-out cross-validation selected a delta-gamma model with autoregressive spatiotemporal fields, and a bias-corrected index was summed over a fixed grid that includes cells the fleet no longer fishes. Mixed layer depth showed the largest contrast in predicted catch, largely a seasonal one. The standardized index reached its three highest values in 2023–2025 (1.72 times the series mean in 2025), a rise that persisted on restricted grids, but 67.6% of the density predicted for 2025 lay in cells not fished that year. A hindcast fitted to 2000–2020 under-predicted every year of 2021–2025, although retrospective peels changed little (Mohn’s rho −0.023). The index can serve stock assessment as a standardized catch rate for the consistently fished grounds, proportional to abundance only if catchability is stable, but its recent rise, coinciding with contracting grounds, is not evidence that the stock grew.",
-   "authors": [
-    "Heejoong Kang",
-    "Moo-Jin Kim"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233727",
    "date": "2026-11-23",
    "first_seen": "2026-11-24",
    "score": 0.0,
@@ -16332,24 +16645,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233732",
-   "title": "Sugarcane-Derived Polyphenols May Inhibit Spore Germination of Enterocytozoon hepatopenaei in Penaeus vannamei In Vitro",
-   "abstract": "Background: Enterocytozoon hepatopenaei (EHP) is a microsporidian pathogen that causes hepatopancreatic microsporidiosis, reduces the growth of farmed Penaeus vannamei, and contributes to economic losses in shrimp aquaculture. As no effective treatment is currently available, this study evaluated the in vitro effect of Polygain™, a sugarcane-derived polyphenol extract, on EHP spore germination. Methods: Spores from two batches (Batch 1, 20 ppt; Batch 2, 10 ppt source salinity) were incubated with Polygain™ at 0.1–0.6% (v/v) for 5–60 min. Germination was assessed microscopically as the percentage of spores exhibiting polar tube extrusion. Treatments were compared with the control within each batch using ANOVA followed by Dunnett’s test. Results: Exposure to Polygain™ was associated with a concentration-dependent reduction in polar tube extrusion in both batches. At concentrations of 0.4% and 0.6%, extrusion was significantly lower than in the controls at all incubation times (adjusted p &lt; 0.05). At 0.6%, extrusion decreased from 88.33% (Batch 1) and 86.67% (Batch 2) in the controls to 3.00% and 10.00% after 5 min, and to 1.00% and 2.67% after 60 min. Conclusions: Polygain™ may inhibit EHP spore germination in vitro without causing visible structural damage. Further in vivo studies are required to evaluate its efficacy and delivery in shrimp aquaculture.",
-   "authors": [
-    "Thalia M. Llalla Vidal",
-    "Ornchuma Itsathitphaisarn",
-    "Kallaya Sritunyalucksana",
-    "Matthew Flavel"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233732",
-   "date": "2026-11-24",
-   "first_seen": "2026-11-25",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16233735",
    "title": "Engineering Control: Media Discourses on Biotechnological Solutions for Managing Animal Populations in Nature",
    "abstract": "Historically, biotechnological interventions on nonhuman animals have been developed primarily within the medical and agricultural sectors to secure human benefits. More recently, as global conservation agendas have intensified, conservation biotechnologies applied to free-roaming animal populations have been increasingly promoted as technofixes for contemporary conservation challenges. Drawing on Science and Technology Studies and Critical Animal Studies, our research examines how media discourses surrounding conservation biotechnologies applied to free-roaming animal populations—focusing in particular on invasive species and pest control, and de-extinction—construct and naturalise particular understandings of these interventions and whose interests these configurations ultimately serve. Through a Critical Discourse Analysis of a corpus of international English-language newspaper articles published between 2016 and 2026, this study first maps the recurring arguments deployed to legitimate or contest biotechnological interventions affecting animal populations in nature; it then examines how the dialogic organisation of media texts opens the space for critical perspectives; finally, it analyses the ethical concerns raised in relation to these interventions and examines the extent to which the interests and welfare of nonhuman animals are centred or marginalised within media discourse. The findings reveal that the media discourses analysed recurrently framed support for biotechnological interventions through instrumental arguments, whereas opposition was more commonly framed through appeals on expert authority. Overall, media discourse privileged pro-biotechnology perspectives and scientific expertise, systematically underrepresenting animal welfare concerns and prioritising human interests over those of nonhuman animals.",
@@ -16382,6 +16677,189 @@
    "url": "https://doi.org/10.3390/ani16233734",
    "date": "2026-11-24",
    "first_seen": "2026-11-25",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233732",
+   "title": "Sugarcane-Derived Polyphenols May Inhibit Spore Germination of Enterocytozoon hepatopenaei in Penaeus vannamei In Vitro",
+   "abstract": "Background: Enterocytozoon hepatopenaei (EHP) is a microsporidian pathogen that causes hepatopancreatic microsporidiosis, reduces the growth of farmed Penaeus vannamei, and contributes to economic losses in shrimp aquaculture. As no effective treatment is currently available, this study evaluated the in vitro effect of Polygain™, a sugarcane-derived polyphenol extract, on EHP spore germination. Methods: Spores from two batches (Batch 1, 20 ppt; Batch 2, 10 ppt source salinity) were incubated with Polygain™ at 0.1–0.6% (v/v) for 5–60 min. Germination was assessed microscopically as the percentage of spores exhibiting polar tube extrusion. Treatments were compared with the control within each batch using ANOVA followed by Dunnett’s test. Results: Exposure to Polygain™ was associated with a concentration-dependent reduction in polar tube extrusion in both batches. At concentrations of 0.4% and 0.6%, extrusion was significantly lower than in the controls at all incubation times (adjusted p &lt; 0.05). At 0.6%, extrusion decreased from 88.33% (Batch 1) and 86.67% (Batch 2) in the controls to 3.00% and 10.00% after 5 min, and to 1.00% and 2.67% after 60 min. Conclusions: Polygain™ may inhibit EHP spore germination in vitro without causing visible structural damage. Further in vivo studies are required to evaluate its efficacy and delivery in shrimp aquaculture.",
+   "authors": [
+    "Thalia M. Llalla Vidal",
+    "Ornchuma Itsathitphaisarn",
+    "Kallaya Sritunyalucksana",
+    "Matthew Flavel"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233732",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233761",
+   "title": "Modeled Potential Larval Connectivity of Crown-of-Thorns Starfish Among Reef Regions of the South China Sea",
+   "abstract": "Periodic outbreaks of crown-of-thorns starfish (CoTS) are a principal threat to coral reefs in the South China Sea (SCS). Studies in this region have, however, concentrated on documenting outbreak events, and the mechanistic details of larval sources and dispersal remain largely unknown. We used a Lagrangian particle-tracking model to simulate larval transport and to assess modeled potential connectivity among nine SCS regions during the spawning seasons of 2000–2021. The results revealed that most regions in the SCS exhibited strong local larval retention, and the simulated network separated into two well-connected modules centered on the Xisha and Nansha Islands. Exchange between the modules was concentrated on a few specific routes, particularly from Vietnam to Nansha. The northeastern Nansha and Palawan areas were identified as potential larval dispersal hotspots. These findings indicate that large-scale CoTS outbreaks in the SCS may arise through a combination of the accumulation of locally retained larvae and external larval supply from neighboring regions (e.g., Vietnam), a scenario that is broadly consistent with the historical CoTS outbreak records in this region. This simulated physical connectivity also offers a plausible mechanism that is qualitatively consistent with the lack of significant genetic differentiation observed among CoTS populations. These findings provide a foundation for understanding CoTS outbreak mechanisms across the SCS, specifically the interplay between local retention and external larval supply, thereby offering valuable insights for designing transboundary, cross-regional management strategies.",
+   "authors": [
+    "Junpeng Zhang",
+    "Baohong Chen",
+    "Jiaguang Xiao",
+    "Peng Tian",
+    "Fuwen Qiu",
+    "Yun Qiu",
+    "Chunsheng Jing",
+    "Longshan Lin",
+    "Wei Wang",
+    "Fangfang Kuang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233761",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233759",
+   "title": "Respiratory Rate and Back Surface Temperature of Alpine Dairy Goats in Relation to Temperature–Humidity Index and Sun or Shade Exposure at Pasture",
+   "abstract": "Summer heat exposure can challenge thermoregulation in dairy goats. This study aimed to characterize respiratory rate (RR) and back surface temperature (BST), measured as maximum (BST max) and average (BST aver), in Alpine dairy goats exposed to thermal variations at pasture. Generalized additive models were applied to data from 17 goats monitored over four summer days, using Temperature–Humidity Index (THI) and sun/shade exposure as explanatory variables. RR showed a significant association only with THI, with the fitted smooth suggesting some degree of curvature (p &lt; 0.001). BST max was also associated with THI, with some degree of curvature (p &lt; 0.001). However, after accounting for sun/shade exposure, the fitted relationship appeared approximately linear (p &lt; 0.001). BST aver showed a significant association with THI, with a curved relationship (p &lt; 0.001), which retained some degree of curvature after accounting for sun/shade exposure (p &lt; 0.001). Sun exposure was associated with a 10.2 °C higher BST max and a 4.8 °C higher BST aver than shade (p &lt; 0.001). These results highlight the distinct patterns of RR and BST in relation to environmental thermal variation in dairy goats kept on pasture.",
+   "authors": [
+    "Martina Zappaterra",
+    "Naod Thomas Masebo",
+    "Chiara Zangoli",
+    "Valeria Bocchi",
+    "Marilena Bolcato",
+    "Martina Felici",
+    "Barbara Padalino",
+    "Leonardo Nanni Costa"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233759",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233757",
+   "title": "Developmental Patterns of Mandibular Incisor Growth and Wear in Three Rodent Species",
+   "abstract": "Background: Rodent incisors grow continuously, but whether different species exhibit similar developmental patterns in the balance between growth and wear remains unclear. This study compared mandibular incisor growth and wear from adolescence to adulthood in Brandt’s voles (Lasiopodomys brandtii Radde, 1861), Reed voles (Alexandromys fortis Büchner, 1889), and Wistar rats (Rattus norvegicus Berkenhout, 1769) and examined associated histological and transcriptional changes. Results: All three species attained stable mandibular incisor lengths in adulthood through a dynamic balance between growth and wear. However, the developmental changes underlying this balance differed among species. In Brandt’s voles, wear rate increased significantly from adolescence to adulthood, whereas growth rate remained stable. In Reed voles and Wistar rats, growth rate decreased significantly, whereas wear rate remained stable. Histological analysis revealed decreased pulp cell density in Brandt’s voles; increased dentin, enamel, and ameloblast layer thicknesses in Reed voles; and increased dentin and enamel thicknesses but decreased ameloblast layer thickness in Wistar rats. These changes were accompanied by distinct transcriptional patterns. Adult Brandt’s voles showed increased expression of Amtn, Klk4, Odam, and Amelx, whereas Reed voles showed decreased expression of Trpm7, Amtn, Klk4, and Odam, and Wistar rats showed decreased expression of Ambn. Functional enrichment analysis identified extracellular matrix (ECM)–receptor interaction in Brandt’s voles, odontogenesis of dentin-containing tooth and adherens junction in Reed voles, and structural constituent of tooth enamel in Wistar rats. Conclusions: The three rodent species exhibited distinct developmental patterns in attaining mandibular incisor homeostasis. Brandt’s voles maintained growth as wear increased, whereas Reed voles and Wistar rats showed reduced growth with relatively stable wear. These patterns were accompanied by species-specific histological and transcriptional changes and may reflect differences in functional demands associated with their ecological backgrounds and husbandry histories. These findings provide a basis for exploring the ecological significance of interspecific variation in continuously growing teeth.",
+   "authors": [
+    "Qiu-Yi Shen",
+    "Shu-Qi Zhou",
+    "Jing-Yi Zhu",
+    "Sheng-Mei Yang",
+    "Wan-Hong Wei",
+    "Xin Dai"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233757",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233753",
+   "title": "Potency-Informed Fixed-Ratio Phytochemical Formulations Enhance Antioxidant Activity and Attenuate Inflammatory Injury Across Cellular and Ex Vivo Equine Whole-Blood Models",
+   "abstract": "Oxidative stress and inflammation contribute to cellular damage. This study developed two phytochemical formulations with fixed ratios—based on the experimentally determined potencies of their constituents—and evaluated their antioxidant, cytoprotective, and anti-inflammatory effects. Formulation A combined a preparation of Lycium barbarum fruit, an extract of Punica granatum fruit, and reduced glutathione, while Formulation B contained an extract of Silybum marianum seeds, an extract of Cynara scolymus leaves, and reduced glutathione. The proportions of the constituents were established using half-maximal inhibitory concentrations (IC50) derived from an intracellular reactive oxygen species assay. Combination index analysis, supported by an assessment based on the Bliss independence model, indicated predominantly synergistic interactions at low-to-intermediate effect levels, which approached additivity at higher concentrations. Both formulations reduced oxidative damage, membrane damage, apoptosis-related responses, and the expression of inflammatory mediators in L929 fibroblasts treated with hydrogen peroxide or lipopolysaccharide. In HepG2 cells exposed to ethanol, they reduced oxidative stress, lipid peroxidation, the nuclear translocation of the nuclear factor kappa B (NF-κB) p65 subunit, and pro-inflammatory responses, while partially restoring interleukin-10 levels. In an exploratory model using equine whole blood, both formulations reduced oxidative responses induced by hydrogen peroxide and attenuated the lipopolysaccharide-associated increases in prostaglandin E2, tumor necrosis factor-alpha, and myeloperoxidase. These findings support the design of potency-based formulations as a strategy to enhance the protective effects of phytochemical combinations in cellular and ex vivo models, while further studies are required to establish safety and efficacy in vivo.",
+   "authors": [
+    "Gianluca Antonio Franco",
+    "Claudia Caratozzolo",
+    "Francesca Inferrera",
+    "Rosalia Crupi",
+    "Enrico Gugliandolo"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233753",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233748",
+   "title": "Diet Composition and Forage Selectivity of Creole Goats Across Five Herd-Grazing Territories in a Peruvian Semi-Arid Andean Shrubland",
+   "abstract": "This study assessed the relative effect of animal-intrinsic factors (AIF, age category, body condition, and height at withers) and herd-grazing territory (HGT)on botanical composition of the diet (BCD) and forage selectivity of Creole goats in a semi-arid Andean shrubland of Peru. The BCD employed a microhistological technique using fecal samples from 40 non-gestating goats (five herds). Distance-based redundancy analysis and Permutational multivariate analysis of variance (PERMANOVA) were utilized. The Jacobs selectivity index was calculated using a mixed linear model. The AIF and HGT explained 31.8% of the variation in BCD, with predominant variation in HGT (p &lt; 0.01). PERMANOVA confirmed that BCD differed significantly among HGTs (p &lt; 0.01), but not among the AIF (p &gt; 0.05). Vachellia macracantha obtained the highest frequency of occurrence (100%) and relative contribution (46.96%) to the diet, followed by Croton collinus (97.5%; 16.96%), Senna incarnata (97.5%; 6.79%), Bouteloua disticha (82.5%; 5.70%), and Chloris radiata (80.0%; 5.41%). Vachellia macracantha obtained positive selectivity indices (0.31–0.86), while Croton collinus (−0.60 to −0.22) and Senna incarnata (−0.67 to −0.26) remained negative. In conclusion, diet composition differed among HG, but we detected no significant associations with the measured animal-intrinsic factors.",
+   "authors": [
+    "Jorge Salinas-Marcos",
+    "Deysi Ruiz-Llontop",
+    "José Antonio Haro-Reyes",
+    "José Millan-Ramírez",
+    "Lucinda Tafur-Gutiérrez",
+    "José Ruiz-Chamorro",
+    "Juancarlos Cruz-Luis",
+    "Danny Julio Cruz"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233748",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233752",
+   "title": "Effects of Fishmeal Replacement with Corn Gluten Meal on Growth, Feed Utilization, Nutrient Composition, Serum Biochemistry, Digestive Enzyme Activities and Intestinal Morphology in Juvenile Hybrid Sturgeon (Huso dauricus ♀ × Acipenser schrenckii ♂)",
+   "abstract": "Sturgeon feeds depend heavily on fishmeal (FM), and cheaper plant-protein alternatives are needed. This study evaluated graded replacement of dietary FM with corn gluten meal (CGM), supplemented with crystalline lysine and arginine, in juvenile hybrid sturgeon (Huso dauricus ♀ × Acipenser schrenckii ♂). Fish (130.09 ± 0.71 g) were fed for 8 weeks with five isonitrogenous and isolipidic diets in which 0%, 15%, 30%, 45%, or 60% of dietary FM was replaced by CGM (CGM0–CGM60; three tanks per diet). Weight gain rate and specific growth rate (SGR) responded quadratically and were highest in CGM45, whereas feed intake was unaffected. Protein retention rate, serum superoxide dismutase activity and malondialdehyde concentration showed quadratic responses, with the most favourable values in CGM30. Serum low-density lipoprotein cholesterol decreased linearly. Mid-intestinal villus height and muscle layer thickness decreased linearly (p &lt; 0.05), by about 32% at 30% replacement, whereas goblet cell number per villus was unaffected. Quadratic regression placed maximum SGR at about 32% replacement (95% CI 25–39%). Under these conditions, supplemented CGM replaced up to 30% of dietary FM without impairing growth or feed utilization, but intestinal morphology was not significantly altered, only at 15%, and replacement above 45% is not recommended.",
+   "authors": [
+    "Zhipeng Chu",
+    "Huan Ye",
+    "Rui Ruan",
+    "Jiali Jin",
+    "Chuangju Li",
+    "Huamei Yue"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233752",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233750",
+   "title": "Acid–Base, Electrolyte, and Echocardiographic Profiles in Cats with Stage C Hypertrophic Cardiomyopathy and Their Association with Cardiac Mortality",
+   "abstract": "This study compared venous blood gas, lactate, and electrolyte profiles between healthy cats and cats with Stage C hypertrophic cardiomyopathy (HCM) and investigated their relationships with echocardiographic findings and three-month cardiac mortality. Fifty client-owned cats (40 with Stage C HCM and cardiogenic pulmonary edema; 10 healthy controls) were prospectively enrolled. Laboratory and echocardiographic variables were compared between groups, and factors associated with mortality were evaluated. Cats with HCM had lower venous pH and higher PvCO2 than controls, whereas other laboratory variables did not differ significantly. Left atrial enlargement, impaired diastolic indices, and higher LVOT Vmax were observed in HCM cats, while no laboratory–echocardiographic correlations remained significant after correction for multiple comparisons. Fourteen cats died of cardiac causes during follow-up, and arterial thromboembolism (ATE) was associated with higher mortality (OR, 7.56; p = 0.007). In the primary multivariable model, lower HCO3− and higher LVOT Vmax were associated with mortality. After adjustment for concurrent ATE, LVOT Vmax remained associated with mortality (p = 0.007), whereas the association with HCO3− was attenuated (p = 0.067). Cats with Stage C HCM exhibited altered venous pH and PvCO2, while HCO3− showed an ATE-dependent association with mortality and LVOT Vmax remained a potentially useful prognostic indicator.",
+   "authors": [
+    "Amir Naseri",
+    "Merve Ider",
+    "Hatice Betul Sahin",
+    "Seyhun Selcen Ozvar",
+    "Murat Kaan Durgut",
+    "Suleyman Serhat Iyigun",
+    "Berra Balci",
+    "Enes Akyuz"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233750",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233749",
+   "title": "When Routines Changed: Human–Dog Relationships and Perceived Canine Adjustment Among College Students During COVID-19",
+   "abstract": "The COVID-19 pandemic abruptly reorganized college students’ daily routines and increased time spent at home with companion dogs. This study examined how that disruption affected human–dog relationships, with particular attention to shared routines, caregiving, and students’ perceptions of canine adjustment. Open-ended survey responses from 146 college students were analyzed using an iterative thematic approach. Three themes were identified: changes in shared routines and increased co-presence; perceived canine responsiveness and adjustment; and reciprocal support, caregiving, and responsibility. Students often described dogs as sources of companionship, activity, structure, and purpose, but these benefits were frequently connected to the responsibilities of caring for the dog. Participants also reported perceived changes in attachment, attention-seeking, anxiety, and behavior. Increased co-presence may have produced actual behavioral change, increased owners’ opportunities to observe behavior, or both; the data cannot distinguish these processes. The findings therefore extend beyond whether dogs benefited students during COVID-19. They show how abrupt changes in human routines can reorganize shared human–dog life, alter caregiving demands, and change how owners perceive canine behavior. These processes may be relevant to other major changes in household routine and warrant further study using direct measures of canine behavior and welfare.",
+   "authors": [
+    "David M. Simpson",
+    "Sandra E. Sephton"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233749",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
