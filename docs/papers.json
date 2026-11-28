@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:43:06+00:00",
+ "updated": "2026-11-28T04:35:20+00:00",
  "papers": [
   {
    "doi": "10.1186/s12711-026-01108-y",
@@ -680,6 +680,39 @@
     "omics"
    ],
    "abstract_zh": "肉牛與乳牛雜交（Beef-on-dairy, BoD）是指刻意將肉牛公牛配種至乳牛母牛的繁殖策略，近年來其規模不斷擴大，旨在提升乳源犢牛的價值，同時維持牛群更新的需求。本篇文獻綜述批判性地綜合了自2016年以來發表、涵蓋六個互聯維度的研究：遺傳與基因體學、管理與生產效率、屠體性能與肉質、農場經濟、環境永續性以及動物福祉。現有證據顯示，BoD可以提高犢牛市場價值並改善特定的生長與屠體性狀，儘管這些效應的大小隨公牛遺傳價值、乳牛品種、繁殖性能、犢牛管理和育肥條件而異。遺傳選擇涉及平衡分娩難易度與其他功能性性狀，以及生長後期的表現與屠體優勢。經濟效益不僅取決於犢牛價格，還取決於精液成本、繁殖效率、牛群更新需求以及飼養和育肥開銷；因此，單一生產性狀的改善並不必然轉化為更高的全場獲利能力。環境績效同樣取決於具體情境，需要明確考量系統邊界、功能單位、排放強度以及潛在的土壤碳匯。動物福祉也必須在整個生產鏈中進行評估，而不應僅從生產表現來推斷。現有證據的一大限制是其集中於集約與半集約生產系統，這限制了其對永久牧場環境的適用性。未來研究應優先進行從出生到屠宰、在特定放牧條件下的縱向農場層級評估，將遺傳與管理決策整合至生產、經濟、環境與福祉等各項結果中。"
+  },
+  {
+   "doi": "10.3390/poultry5060082",
+   "title": "Association of Semen Quality Parameters in Relation to Fertility Potential Using Four Different Chicken Genetic Lines",
+   "abstract": "Rooster fertility depends on semen quality, but conventional laboratory tests still lack sufficient capability to predict semen fertility. At 46 and 48 weeks of age, 385 roosters from 4 distinct genetic lines were selected to assess semen quality and reproductive potential after artificial insemination. The evaluated breeds comprised Rhode Island Red (RIR; n = 138) roosters, White Leghorn (WL; n = 90) roosters, Colombian Rock (CR; n = 101) roosters, and Barred Rock (BR; n = 56) roosters. RIR roosters showed higher ejaculate semen volume (VOL), sperm motility (MOT), sperm viability (VIA), and sperm plasma membrane integrity (HOST) values than WL, CR, and BR lines (p &lt; 0.01). However, RIR roosters had lower semen pH and total spermatozoa abnormalities (TSA) than the other three lines (p &lt; 0.01). Pearson’s correlation analysis showed that HOST scores were significantly correlated with total fertility (TF), semen quality, and sperm kinematics across all chicken genetic groups. Using factor analysis, the study identified three distinct trait combinations that account for more than 65% of variance across chicken genetic lines. These variables successfully grouped the whole population into three independent clusters. The findings highlight that intact sperm plasma membrane integrity is significantly correlated with roosters’ fertilization potential.",
+   "authors": [
+    "Hailai Hagos Tesfay",
+    "Yunlei Li",
+    "Aixin Ni",
+    "Yi Zhao",
+    "Zhong Ma",
+    "Xiaoke Zhang",
+    "Xiaolong Huang",
+    "Hanhan Yang",
+    "Yunhe Zong",
+    "Chao Chen",
+    "Jingwei Yuan",
+    "Hui Ma",
+    "Yanyan Sun",
+    "Jilan Chen"
+   ],
+   "journal": "Poultry",
+   "url": "https://doi.org/10.3390/poultry5060082",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 31.0,
+   "matched": [
+    "chicken",
+    "fertility",
+    "artificial insemination",
+    "semen"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.3390/ani16213472",
@@ -3560,6 +3593,26 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/poultry5060083",
+   "title": "Measuring Stress in Poultry: A Scoping Review of Endocrine, Neurochemical, Haematological, Physiological, Behavioural and Sensor-Based Indicators",
+   "abstract": "Stress is invoked throughout poultry science, yet it is operationalised through a heterogeneous set of indicators that respond to different stressors on different timescales. Existing reviews address single stressors, single technologies or, most recently, the neurotransmitter systems underlying affective state; none treats the measurement of stress itself as its subject across all indicator families. Following a PRISMA-ScR-guided search of PubMed, Web of Science, scite and Google Scholar (2045 reports included, 1735 of them added by exhaustive screening of PubMed and Web of Science in revision and charted from titles and abstracts), this scoping review maps available indicators into seven families: hypothalamic–pituitary–adrenal (HPA) outputs, chiefly corticosterone and cortisol in plasma, feathers, eggs, droppings and claws; neurochemical measures, including serotonin, dopamine, noradrenaline, the tryptophan–kynurenine pathway, endocannabinoids and the nonapeptides mesotocin and vasotocin; haematological and immune indicators such as the heterophil-to-lymphocyte (H/L) ratio, acute-phase proteins and humoral and cell-mediated immune function; autonomic, thermal and metabolic indicators, including blood acid–base, electrolyte and metabolite panels and plasma biochemistry; growth, organ weight and gut morphology outcomes; behavioural tests, fluctuating and composite asymmetry and welfare outcomes; and sensor-based indices from precision livestock farming. For each, we summarise validation status, sensitivity to acute versus chronic stress, confounders and practical constraints. No single indicator is adequate. Feather glucocorticoids are the most extensively validated non-invasive measure of chronic glucocorticoid exposure, but they have not been validated as indicators of chronic stress or impaired welfare; sensor-derived behaviour allows continuous flock-level monitoring but remains at an early stage of validation; neurochemical measures can provide mechanistic insight into links between stressors, the gut–brain axis and injurious behaviour but are currently research tools and are not direct measures of affective state; the endocannabinoid and mesotocin systems are characterised in birds but have not been validated as stress or welfare indicators in poultry. We propose a conceptual decision framework matching indicator to stressor type, timescale and setting, together with a minimum reporting checklist (the Poultry Stress Indicator Reporting, PSIR, checklist) benchmarked against ARRIVE 2.0, and identify validation of feather glucocorticoids and avian-specific tryptophan pathway markers as research priorities, with endocannabinoids and mesotocin as unvalidated candidate biomarkers for exploratory work.",
+   "authors": [
+    "Gregory S. Archer",
+    "Emily Jiral"
+   ],
+   "journal": "Poultry",
+   "url": "https://doi.org/10.3390/poultry5060083",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 15.0,
+   "matched": [
+    "precision livestock farming",
+    "poultry",
+    "livestock"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s12711-026-01089-y",
    "title": "Correction: Genetic parameters via predictivity in large populations under strong genomic selection",
    "abstract": "",
@@ -4435,6 +4488,33 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233798",
+   "title": "Community Perceptions Surrounding Current and Emerging Canine Fertility Control Practices in Rabies-Endemic and Rabies-Free Environments: Evidence from Zanzibar and Mauritius",
+   "abstract": "Large free-roaming dog populations in low- and middle-income countries (LMICs) present significant challenges for animal welfare and disease control, highlighting the need for effective dog population management (DPM). Immunocontraceptive vaccines (IVs) theoretically offer a humane, cost-effective alternative to surgical sterilization in resource-limited settings. The success of such interventions depends both on biological efficacy and community acceptance. Knowledge, attitudes and practices (KAP) surveys were conducted among dog owners in Zanzibar (n = 414) and Mauritius (n = 587) to assess community perceptions of dog fertility control and potential IV usage. Both islands exhibited large free-roaming dog populations and high fertility control awareness (76.1% in Zanzibar and 84.2% in Mauritius), but acceptance of fertility control differed significantly. Sterilization participation among respondents who did not want puppies was lower in Zanzibar compared to Mauritius (12.1% vs. 56.9%). Willingness to use IVs was 57.5% in Zanzibar and 21.7% in Mauritius, with limited knowledge and safety concerns as the main barriers. Our findings suggest IVs could provide a socially acceptable alternative to surgical sterilization where conventional DPM strategies are impractical or unsustainable. Island comparisons highlight the importance of context-specific DPM strategies rather than standardized approaches, aiding policymakers and stakeholders in providing DPM that balances public acceptance, animal welfare and disease prevention.",
+   "authors": [
+    "Sirisha Bhawanideen",
+    "Andre Coetzer",
+    "Talib S. Suleiman",
+    "Khadija N. Omar",
+    "Hemant Bhoobun",
+    "Christophe Genevieve",
+    "Ishana Mahadeo",
+    "Pitambarsing Beeharry",
+    "Louis Nel",
+    "Nicolette Wright"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233798",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 12.0,
+   "matched": [
+    "fertility",
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70203",
    "title": "Mitogenome Insights Into the Domestication and Phylogeography of Zebu Cattle: A Focus on Pakistani Breeds and Asian Lineages",
    "abstract": "Zebu cattle ( Bos indicus ) represent a critical livestock resource in the arid and semi‐arid regions, known for their disease resistance, heat tolerance and physiological hardiness. Despite their agricultural importance, the precise matrilineal evolutionary history, genetic diversity and demographic trajectory remain incompletely resolved within the broader context of South Asian cattle domestication. This study explores the phylogeographic patterns and maternal lineage diversity of zebu cattle through complete mitochondrial genomes (mtDNA), the D‐loop, and hypervariable regions from 50 individuals of 10 indigenous Pakistani breeds. These breeds were classified into three regions: North Pakistan, Central Pakistan/Punjab (Indus Valley region) and South Pakistan (the site of Mohenjo‐Daro). Our data include 183 newly generated sequences and are supplemented with comparative datasets from 19 countries. Analysis reveals South Pakistan, especially the Mehrgarh area, as a key potential domestication epicentre, exhibiting highest nucleotide diversity ( π = 0.01480) across Asian zebu populations, accompanied by ancient maternal lineages estimated to date back approximately 2.17 million years. Highest haplotype diversity was observed in Punjab (0.901 ± 0.014) followed by Southern Pakistan (0.893 ± 0.026). Phylogenetic and demographic analyses (mismatch distribution, Fu's Fs) further support an early dispersal scenario (I1 haplogroup) originating in Mehrgarh and radiating through the Indus Valley into broader Asian lineages. These findings enhance our understanding of the domestication origins of Bos indicus , its implications for breed conservation and sustainable livestock management.",
@@ -4782,37 +4862,6 @@
    "score": 11.0,
    "matched": [
     "chicken",
-    "meat quality"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/00071668.2026.2759289",
-   "title": "Assessing the relation between broiler meat quality and husbandry conditions using a machine learning approach",
-   "abstract": "1. Broilers originating from conventional EU farming systems are characterised by high intensification. The following study traced husbandry conditions (i.e. genetics, diet, environmental enrichment and stocking density) from intrinsic meat quality using machine learning.2. The SHapley Additive exPlanations (SHAP) was used to explain the reasoning of the applied black‑box machine-learning models. The machine learning models were trained to classify the level of extensiveness of the condition from the sensory attributes and physicochemical properties of the meat.3. Machine learning revealed the strongest links for husbandry condition ‘genetics’ (fast-growing, male-layer, dual-purpose, slower-growing) and for animal welfare (high, low) with the physicochemical and sensory quality of meat.4. The SHAP explanations showed that skin saltiness and crispiness, hardness of breast meat and meat colour b*, cooking loss, colour a* and BMORS shear energy were most important for classifying welfare. The models considered the sensory features crispiness skin, colour skin and saltiness skin and the physicochemical features colour a*, colour b* and BMORS shear energy to be most important for distinguishing between slower-growing, dual-purpose and fast-growing broilers.",
-   "authors": [
-    "Z. Fendor",
-    "A. J. Carnoli",
-    "R. G. Hobé",
-    "W. Hoenderdaal",
-    "I. C. de Jong",
-    "H. Louton",
-    "L. Quirin",
-    "J. Marchewka",
-    "P. Sztandarski",
-    "A. Ludwiczak",
-    "S. W. Erasmus",
-    "S. Yigitturk",
-    "M. Schou Grønbeck",
-    "E. D. van Asselt"
-   ],
-   "journal": "British Poultry Science",
-   "url": "https://doi.org/10.1080/00071668.2026.2759289",
-   "date": "2026-11-25",
-   "first_seen": "2026-11-26",
-   "score": 11.0,
-   "matched": [
-    "broiler",
     "meat quality"
    ],
    "abstract_zh": ""
@@ -5694,6 +5743,29 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233793",
+   "title": "Chicken MHC-B-Linked TRIM27.2 Restricts ALV-J Replication and Modulates Interferon-Related Antiviral Signaling Through Its Interaction with USP19",
+   "abstract": "Avian leukosis virus subgroup J (ALV-J) causes tumors and immunosuppression in chickens. However, the host factors involved in resistance to ALV-J remain poorly understood. We first examined the transcriptional responses of seven TRIM genes located in the chicken MHC-B region following ALV-J infection. Several TRIM genes showed time-dependent changes, and TRIM27.2 was selected for further study because of its clear response to infection and unknown antiviral function. Overexpression of TRIM27.2 significantly reduced ALV-J RNA levels, viral titers, and Env protein expression in HD11 cells. Transcriptome analysis showed that TRIM27.2 increased the expression of antiviral genes, including MDA5, OASL, MX1, STAT1, and SAMD9L. It also enhanced TBK1- and IRF7-induced IFN-β promoter activity. Deletion of the RING domain markedly reduced the effects of TRIM27.2 on MDA5 and IFN-β expression. Immunoprecipitation followed by mass spectrometry identified USP19 as a TRIM27.2-interacting protein, and their association was supported by co-immunoprecipitation and cytoplasmic colocalization. TRIM27.2 increased the K48-linked ubiquitination of USP19 and reduced its protein level, whereas the proteasome inhibitor MG132 partially restored USP19 expression. Furthermore, USP19 knockdown inhibited ALV-J replication and enhanced TRIM27.2-induced MDA5–IFN-β signaling. These findings show that chicken TRIM27.2 overexpression restricts ALV-J replication in HD11 cells and support a proposed association between USP19 regulation and enhanced interferon-related antiviral responses; the endogenous function and causal pathway remain to be established.",
+   "authors": [
+    "Shihao Chen",
+    "Qingqing Cai",
+    "Qiangzhou Wang",
+    "Na Yin",
+    "Jiaxing Wang",
+    "Yulin Bi",
+    "Guobin Chang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233793",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 10.0,
+   "matched": [
+    "chicken"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s40104-026-01503-x",
    "title": "Chestnut–quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production",
    "abstract": "Background Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, diarrhea occurrence, gut metagenome, and fecal metabolome in piglets reared under two commercial farm conditions. A total of 160 weaned piglets (initial body weight 6.53 ± 0.13 kg) were assigned to a 2 × 2 factorial design comprising 2 weaning units (W1 and W2) and 2 dietary treatments (control diet or control diet + 2 g/kg tannin blend; 40 piglets per treatment × farm). The trial lasted 76 d, with weighings at T0 (entry into weaning, median 28 d), T1 (d 35), T2 (d 49), and T3 (d 76). Fecal scores and samples were collected at T1, T2, and T3 for shotgun metagenomics (155 samples per time point) and untargeted metabolomics, and targeted urolithin quantification was performed in tannin-treated piglets at T1 and T2. Results Tannin supplementation did not affect overall growth performance throughout the weaning phase, but reduced diarrhea occurrence at T2 in W2 ( P = 0.032). Species-level beta diversity was consistently affected by treatment across time points ( R 2 = 0.01–0.03; P &lt; 0.01), whereas alpha diversity was mainly farm-driven during the early post-weaning phase. Linear discriminant analysis effect size identified farm-dependent taxonomic markers, including Escherichia coli in control pigs from W1 at T1 and Megasphaera elsdenii , Faecalibacterium prausnitzii , and Lactobacillus amylovorus in tannin-treated pigs at later time points. Untargeted metabolomics revealed treatment-related fecal signatures, with isourolithin A and urolithin B among the most discriminant metabolites in treated pigs, especially in W2. Targeted analysis identified 3 urolithin metabotypes (metabotype B in 50.0% of samples), with higher isourolithin A, urolithin B, and urolithin A in W2 than W1 at T2 ( P &lt; 0.01). Network integration identified candidate cooperative microbial consortia associated with urolithin production, including Ellagibacter isourolithinifaciens ; these co-abundance associations are correlative and remain to be functionally validated. Conclusions Overall, chestnut–quebracho tannins were associated with a farm-dependent reduction in post-weaning diarrhea and modulated the gut ecosystem through microbiota-dependent polyphenol metabolism.",
@@ -6144,6 +6216,37 @@
     "bovine",
     "amino acid",
     "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/00071668.2026.2759289",
+   "title": "Assessing the relation between broiler meat quality and husbandry conditions using a machine learning approach",
+   "abstract": ". genetics, diet, environmental enrichment and stocking density) from intrinsic meat quality using machine learning.2. The SHapley Additive exPlanations (SHAP) was used to explain the reasoning of the applied black‑box machine-learning models. The machine learning models were trained to classify the level of extensiveness of the condition from the sensory attributes and physicochemical properties of the meat.3. Machine learning revealed the strongest links for husbandry condition 'genetics' (fast-growing, male-layer, dual-purpose, slower-growing) and for animal welfare (high, low) with the physicochemical and sensory quality of meat.4. The SHAP explanations showed that skin saltiness and crispiness, hardness of breast meat and meat colour b*, cooking loss, colour a* and BMORS shear energy were most important for classifying welfare. The models considered the sensory features crispiness skin, colour skin and saltiness skin and the physicochemical features colour a*, colour b* and BMORS shear energy to be most important for distinguishing between slower-growing, dual-purpose and fast-growing broilers.",
+   "authors": [
+    "Z. Fendor",
+    "A. J. Carnoli",
+    "R. G. Hobé",
+    "W. Hoenderdaal",
+    "I. C. de Jong",
+    "H. Louton",
+    "L. Quirin",
+    "J. Marchewka",
+    "P. Sztandarski",
+    "A. Ludwiczak",
+    "S. W. Erasmus",
+    "S. Yigitturk",
+    "M. Schou Grønbeck",
+    "E. D. van Asselt"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2759289",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 9.0,
+   "matched": [
+    "broiler",
+    "meat quality"
    ],
    "abstract_zh": ""
   },
@@ -8202,30 +8305,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233781",
-   "title": "Plasma Free Amino Acid Profiles Following an Acute Adrenaline Challenge in Iberian and Landrace Pigs: An Exploratory Study",
-   "abstract": "The Iberian pig and modern lean breeds differ greatly in growth rate, body composition and metabolic characteristics. Understanding how these breeds respond to physiological stress signals may help characterize their distinct metabolic phenotypes. In this study, Iberian and Landrace pigs were subjected to an adrenaline challenge, a model used to simulate an acute stress response. Blood samples were collected repeatedly to evaluate plasma metabolites and free amino acid concentrations. We detected no statistically significant changes in plasma free amino acid concentrations over the 105 min after adrenaline injection. Across this period, Iberian pigs had higher average plasma tryptophan and tyrosine concentrations and lower average plasma creatinine concentrations than Landrace pigs. These differences remained statistically significant after accounting for multiple comparisons. These findings suggest distinct circulating metabolite and amino acid profiles in the two breeds. Because plasma concentrations reflect the net balance of several unmeasured processes, they do not identify differences in amino acid utilization, protein turnover, or tissue function.",
-   "authors": [
-    "Manuel Lachica",
-    "Consolación García-Contreras",
-    "Andreea Román",
-    "José Miguel Rodríguez-López",
-    "Lucrecia González-Valero",
-    "Rosa Nieto",
-    "Ignacio Fernández-Fígares"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233781",
-   "date": "2026-11-26",
-   "first_seen": "2026-11-27",
-   "score": 6.0,
-   "matched": [
-    "pig",
-    "amino acid"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16233765",
    "title": "Effects of Pennisetum giganteum on Serum Biochemistry, Meat Quality, Lipid Metabolism, and Antioxidant Function in Congjiang Pigs",
    "abstract": "Developing unconventional feed resources is important for sustainable pig production. This study investigated the effects of partially replacing the basal diet with fresh Pennisetum giganteum at two inclusion levels on serum biochemistry, meat quality, lipid metabolism, and antioxidant capacity in finishing Congjiang pigs. Thirty 6-month-old Congjiang pigs (15 males and 15 females) of similar initial body weight were randomly assigned to three groups (n = 5 replicates per group; 2 pigs per replicate). The control group (CON) received the basal diet. The PG10 and PG20 groups received diets in which 10% and 20% of the basal diet dry matter was replaced with Pennisetum giganteum dry matter, respectively. Following a 7-day pre-feeding period, the feeding trial lasted 90 days. Blood samples were collected on day 90, and meat quality traits, lipid metabolism gene expression, and antioxidant indices in liver and longissimus dorsi muscle were determined after slaughter. Compared with CON, serum total cholesterol (TCHO) was significantly lower in PG10 and PG20 (p &lt; 0.05). Serum glucose (GLU) and blood urea nitrogen (BUN), as well as marbling score, were significantly lower in PG20 relative to CON (p &lt; 0.05). In the longissimus dorsi muscle, compared with CON, PG10 upregulated LPL and ACC mRNA expression, whereas PG20 downregulated FAS and ACC and upregulated FABP4 mRNA expression (p &lt; 0.05). Compared with CON, PG10 increased the activities of SOD and HRSC, the GSH content and GSH/GSSG ratio in longissimus dorsi muscle, and elevated hepatic SOD activity and GSH content; meanwhile, PG10 upregulated the mRNA expression of hepatic SOD1, and muscular HO1 and GCLC; PG20 increased muscular SOD activity and GCLC expression and hepatic NRF2 expression. In conclusion, dietary Pennisetum giganteum induced differential metabolic responses depending on inclusion level: 10% inclusion improved lipid turnover and antioxidant status, whereas 20% inclusion reduced serum glucose and cholesterol concentrations and suppressed lipogenic gene expression. These findings support Pennisetum giganteum as a sustainable feed resource for indigenous pig production.",
@@ -9232,6 +9311,54 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233781",
+   "title": "Plasma Free Amino Acid Profiles Following an Acute Adrenaline Challenge in Iberian and Landrace Pigs: An Exploratory Study",
+   "abstract": "Breeding for faster growth, more efficient feed use and greater lean tissue accretion has improved productivity in modern pig breeds [...]",
+   "authors": [
+    "Manuel Lachica",
+    "Consolación García-Contreras",
+    "Andreea Román",
+    "José Miguel Rodríguez-López",
+    "Lucrecia González-Valero",
+    "Rosa Nieto",
+    "Ignacio Fernández-Fígares"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233781",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-27",
+   "score": 5.0,
+   "matched": [
+    "pig",
+    "breeding",
+    "amino acid"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233791",
+   "title": "Effects of Mycotoxin-Degrading Enzymes on Growth Performance, Intestinal Health and Mitochondrial Function in Piglets",
+   "abstract": "This study aimed to investigate the effects of mycotoxin-degrading enzymes (MDE), consisting of a mixture of four specific degrading enzymes for aflatoxin B1 (AFB1), deoxynivalenol (DON), zearalenone (ZEN), and fumonisins (FB), on growth performance, intestinal health and mitochondrial function in piglets. A total of 144 piglets with an initial body weight of 11.92 kg were randomly assigned to four groups: a control group (CON), a mixed mycotoxin-contaminated diet group (MM), and the MM diet supplemented with MDE at 200 g/t (MDE1) or 400 g/t (MDE2). The MM diet contained AFB1 (2.9 μg/kg), DON (414.1 μg/kg), ZEN (104.8 μg/kg), and FB (1069.4 μg/kg), and the feeding trial lasted for 28 days. The results revealed that, compared with the CON group, the MM group exhibited a 7.03% decrease in average daily gain and a 6.35% increase in feed-to-gain ratio, alongside a 105.17% higher diarrhea rate, and also exhibited increased intestinal permeability, induced intestinal oxidative stress, and damaged mitochondrial ultrastructure and function. Supplementation with MDE at 200 g/t and 400 g/t significantly increased average daily gain, reduced diarrhea rate, optimized intestinal microvillus morphology, alleviated intestinal inflammation and oxidative stress, decreased intestinal permeability, repaired mitochondrial ultrastructure, and restored mitochondrial function. In conclusion, MDE supplementation effectively alleviated the adverse effects of mixed mycotoxin contamination in piglets, with benefits evident in growth performance, intestinal health, and mitochondrial function.",
+   "authors": [
+    "Jia-Hui Li",
+    "Yu-Hao Ge",
+    "Jia-Qi Hao",
+    "Li-Li Li",
+    "Li-Jia Guo",
+    "Jun Li",
+    "Caihong Hu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233791",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 5.0,
+   "matched": [
+    "mycotoxin"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70207",
    "title": "Genome‐Wide SNP Discovery and Population Genomic Characterisation in Indian Major Carp Labeo catla (Hamilton, 1822) Through Low‐Depth Whole‐Genome Resequencing",
    "abstract": "Single nucleotide polymorphisms (SNPs) are key markers for population and conservation genetics in aquaculture species. Using low‐depth whole‐genome resequencing of 35 Labeo catla individuals from seven populations (three wild riverine, four hatchery), we generated the first genome‐wide SNP catalogue for this Indian major carp. Filtering against the L. catla reference genome (GCA_012976165.1) yielded 2.05 million high‐quality bi‐allelic SNPs (467 291–1 221 268 per population), with 27 000 shared across all populations. Heterozygosity (He = 0.4477–0.4532) and nucleotide diversity ( π = 0.4703–0.4816) were broadly comparable across populations. Pairwise F ST (0.079–0.106) and UPGMA clustering resolved Cauvery as most divergent population, grouping the remaining six into two clusters (PCA: PC1 = 21.4%, PC2 = 16.8%). A differentiation scan identified 270 candidate high‐differentiation SNPs (top 1%; score &gt; 0.222) enriched for missense variants (~2.05‐fold; p = 0.021), implicating cell‐adhesion, extracellular‐matrix and muscle‐development genes in population differentiation. An independent chi‐square test of allele‐frequency heterogeneity, corrected for multiple testing ( q &lt; 0.05), retained 114 of these 270 SNPs, mapping to 30 genes whose GO profile (endosome, granule and endolysosome lumen) differed from the broader 270‐SNP set indicating exploratory, hypothesis generating candidates rather than confirmed selection targets. Genome‐wide annotation of 2 521 013 SNPs classified 108 113 (1.14%) as moderate‐impact missense and 5266 (0.06%) as high‐impact variants. These findings align with prior genotyping‐by‐sequencing data but extend marker density ~200‐fold, providing the first genome‐wide diversity, differentiation and functional profile for L. catla . The dataset (BioProject PRJNA1441081; Figshare doi: https://doi.org/10.6084/m9.figshare.31829770 ) supports SNP array design, GWAS and conservation monitoring of Catla riverine stocks.",
@@ -10084,6 +10211,86 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1080/00071668.2026.2749056",
+   "title": "Coriander seeds, pumpkin seeds and red clover as anti-parasitic feed intervention for Ascaridia galli infection in chickens",
+   "abstract": "",
+   "authors": [
+    "A. S. Feix",
+    "R. Kjærup",
+    "R. Molberg Rotovnik",
+    "K. Papanikolaou",
+    "G. Pan",
+    "A. R. Williams",
+    "A. Permin",
+    "H. Mejer",
+    "S. M. Thamsborg",
+    "T. Dalgaard"
+   ],
+   "journal": "British Poultry Science",
+   "url": "https://doi.org/10.1080/00071668.2026.2749056",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 4.0,
+   "matched": [
+    "chicken"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233786",
+   "title": "Concurrent Multi-Domain Field Monitoring of Heat-Stress-Associated Indicators in Mediterranean Dairy Cows: An Exploratory Observational Study",
+   "abstract": "Heat stress is a major constraint on dairy production in Mediterranean climates, yet its concurrent effects across behavioural, biochemical, histological and production parameters are rarely quantified simultaneously under commercial conditions. This exploratory, longitudinal observational study described associations among the Temperature–Humidity Index (THI, derived from two regional meteorological stations and interpreted as an outdoor, farm-level heat-load proxy), rumination activity, milk quality, oxidative status, skin histology and animal welfare in three commercial Holstein-Friesian dairy farms in Greece. The measurement components were collected as parallel modules within the same farms and period and were not all linked at the individual-animal level. Severe heat stress (THI ≥ 82) occurred during July in Farms A and B, with a maximum hourly THI of 84.2; Farm C reached a maximum of 81.7. Milk fat percentage declined from 4.36% to 3.65% between January and July (r = −0.613, p &lt; 0.001, n = 36 farm-months), and the association was also observed within the farm with a separate environmental record (r = −0.65, p = 0.022); somatic cell count rose by approximately 84% between January and June, with no statistically significant pooled correlation between THI and SCC (r = +0.374, p = 0.071, n = 24). A cow-level mixed-effects model based on all three farms (30 cows, 5490 cow-days), showed a significant negative association between daily mean THI and rumination time (β = −1.044 min/day per THI unit, 95% CI −1.171 to −0.917, p &lt; 0.001; marginal R2 = 0.043), replicated individually in all 30 monitored cows and confirmed by a GEE sensitivity model (β = −0.983, p &lt; 0.001). Oxidative-stress biomarkers showed farm-specific temporal patterns, with a marked transient decline in antioxidant capacity observed in Farm A during July. In a purposively selected exploratory subset (n = 15), skin histology showed apoptotic keratinocytes and dermal microhaemorrhages; without thermoneutral controls, these preliminary observations are compatible with, but not specific to, heat-related tissue stress. No welfare indicator was associated with THI after false-discovery-rate (FDR) correction, either at the farm-month level (n = 12; Distressed r = −0.62, unadjusted p = 0.031, FDR-adjusted p = 0.44) or at the cow level (n = 120 cow-months; FDR-adjusted p ≥ 0.13). Concurrent multi-domain field monitoring therefore appears to be a promising framework for heat-stress surveillance, but this study did not test whether combining indicators improves heat-stress detection compared with single indicators. Given the single-season design, shared environmental exposure between Farms A and B, partial confounding between THI and calendar season, the small number of independent environmental exposure profiles, and incomplete individual-animal cross-domain linkage, associations should be regarded as hypothesis-generating pending confirmatory, adequately powered studies.",
+   "authors": [
+    "Konstantina Dimoveli",
+    "Vasileios G. Papatsiros",
+    "Dimitra Psalla",
+    "Georgios I. Papakonstantinou",
+    "Evangelos-Georgios Stampinas",
+    "Christos Eliopoulos",
+    "Nikoleta Polychronidou",
+    "Irene Valasi",
+    "Eleftherios Chourdakis",
+    "George Tsegas",
+    "Dimitrios Arapoglou",
+    "Zisis Tsiropoulos",
+    "Labrini V. Athanasiou",
+    "Christos Vlachokostas",
+    "Dimitrios Gougoulis"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233786",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 4.0,
+   "matched": [
+    "heat stress"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233787",
+   "title": "Proteomic and Metabolomic Characterization of Gonadotropin-Responsive Dominant and Cystic Follicles in Yorkshire Sows",
+   "abstract": "Ovarian cysts arising under gonadotropin (ovulation induction) stimulation reduce fertility in sows, yet their follicular and metabolic characteristics remain poorly characterized. We profiled ovarian tissue proteomes and follicular fluid metabolomes from gonadotropin-treated Yorkshire sows with enlarged, unruptured cystic follicles and from sows with normally developed dominant follicles (ovarian tissue: 4 vs. 12 samples from 16 sows; follicular fluid: 5 vs. 14 samples). Under |log2FC| &gt; 1 and Benjamini–Hochberg (BH)-adjusted p &lt; 0.05, 103 proteins and 535 metabolites differed between the two follicle states. Pathway annotation highlighted cytoskeleton- and immune-related features in the proteome and steroid hormone biosynthesis among metabolites, and reaction-based integration identified 29 protein–metabolite edges that remained significant after BH correction, most of which were purine/nucleotide-related. A candidate set of 8 proteins and 12 metabolites, including MSMB and MVK, is reported as a prioritized list for independent validation rather than as a diagnostic signature. MSMB is a secreted protein of the reproductive tract, and MVK is an enzyme of the mevalonate pathway, making both plausible reporters of the cystic follicular environment. Together, these results characterize the molecular differences between gonadotropin-associated cystic follicles and dominant follicles in sows and provide a reference for cystic-follicle research and sow reproductive physiology. Because the groups were small, these candidates remain exploratory and require independent validation.",
+   "authors": [
+    "Chang Huang",
+    "Ruoyun Zhang",
+    "Lehong Jiang",
+    "Jingruo Xu",
+    "Nengshui Ding",
+    "Guoyun Wu"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233787",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 4.0,
+   "matched": [
+    "fertility",
+    "ovulation"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1002/age.70217",
    "title": "Breed Composition and Heterozygosity in Brangus and Braford Composite Cattle Breeds",
    "abstract": "Composite cattle breeds are developed to combine favorable traits from parental populations and to exploit heterosis across diverse production environments. However, their genomic structure becomes progressively more complex across generations, and it remains unclear to what extent patterns of local ancestry and heterozygosity are conserved across breeds. The objective of this study was to characterize genomic breed composition in Argentine Brangus and Braford at both global and local levels, and to identify shared genomic segments with extreme values of indicine ancestry and heterozygosity. A total of 783 animals from six breeds were analyzed using SNP data. Global ancestry proportions were estimated using STRUCTURE, whereas local ancestry was inferred through haplotype phasing (Shapeit5) and local ancestry inference using LOTER. Deviations between observed and expected breed composition and heterozygosity were evaluated at the SNP level using chi‐square tests with multiple testing correction. Shared genomic segments were defined as contiguous genomic intervals composed of SNPs showing significant deviations in both breeds. Brangus and Braford showed lower indicine proportions than the expected 37.5%, with reductions of 1.2% and 7.1%, respectively. Local ancestry analysis revealed heterogeneous genomic patterns, with shared segments enriched for indicine ancestry on chromosomes 3, 6, 20, and 28. In contrast, segments with reduced indicine ancestry were more broadly distributed. No SNP exceeded the expected heterozygosity; however, multiple regions showed significant reductions, particularly on chromosome 18. These results demonstrate that Brangus and Braford exhibit complex and heterogeneous genomic architectures, with shared genomic regions showing extreme patterns of ancestry and heterozygosity.",
@@ -10735,6 +10942,28 @@
     "bovine",
     "disease",
     "livestock"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233788",
+   "title": "A Retrospective Oxford Nanopore Metagenomic Investigation of Unexplained Mortality in Cape Fur Seals (Arctocephalus pusillus pusillus) in Namibia",
+   "abstract": "Cape fur seals (Arctocephalus pusillus pusillus) periodically experience large mortality events along the Namibian coast, some of which remain etiologically unresolved despite routine diagnostic investigations. This retrospective study investigated archived lung samples collected from six Cape fur seals found dead between 2020 and 2022, including five animals recovered during the major 2020 mortality event, using molecular assays and Oxford Nanopore shotgun metagenomic sequencing. A total of 1,430,814 reads were generated, of which 81.8% were taxonomically classified. Notably, the most relevant putative pathogens detected in this study were identified in animals originating from the previously unexplained 2020 mortality event. The strongest finding was the detection of California sea lion adenovirus 1 (CSLAdV-1; Mastadenovirus otariidae) in two seals, allowing complete viral genome reconstruction. The two genomes were highly similar to each other and to the reference CSLAdV-1 genome, retained all 30 coding sequences, and showed only limited amino-acid variation, mainly within the low-complexity region of the Fiber protein. Other potentially relevant microorganisms detected in seals from the same mortality event included Toxoplasma gondii, Clostridium septicum, Clostridium perfringens, Paraclostridium sordellii, and Cryptococcus spp. However, because samples were collected post-mortem and several years before metagenomic analysis, and because histopathological and targeted confirmatory investigations were unavailable, the causal contribution of these agents to mortality should not be overinterpreted. To our knowledge, this study provides the first complete-genome characterization of CSLAdV-1 in wild Cape fur seals and demonstrates the value of retrospective metagenomics for identifying plausible infectious candidates in previously unresolved wildlife mortality events.",
+   "authors": [
+    "Juliet Kabajani",
+    "Lauren Coetzee",
+    "Ellini Hamunyela",
+    "Umberto Molini",
+    "Claudia Maria Tucciarone",
+    "Giovanni Franzo"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233788",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 3.0,
+   "matched": [
+    "omics"
    ],
    "abstract_zh": ""
   },
@@ -11821,6 +12050,58 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233795",
+   "title": "Effect of Scutellaria baicalensis Extract–Aluminum Complex on Growth, Cell Wall Permeability, Enterotoxin Level and Transcriptome of Enterotoxigenic Escherichia coli In Vitro",
+   "abstract": "Diarrhea is a devastating disease in piglets that causes severe economic losses to the global swine industry, including US$145 million direct losses in China [...]",
+   "authors": [
+    "Junjie Guo",
+    "Xingyue Li",
+    "Ruizhi Li",
+    "Yinsheng Qiu",
+    "Zhongyuan Wu",
+    "Qiaona Wang",
+    "Chun Ye"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233795",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 2.0,
+   "matched": [
+    "swine",
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233790",
+   "title": "Association Between Hyperketonemia and Gas Emissions Measured Using the GreenFeed System in Early-Lactation Dairy Cows",
+   "abstract": "Hyperketonemia is a common metabolic alteration in early-lactation dairy cows, but its association with enteric gas emissions remains poorly understood. This study investigated methane (CH4), carbon dioxide (CO2), and hydrogen (H2) emissions in relation to hyperketonemia using complementary analytical approaches. Sixty Holstein–Friesian cows underwent blood β-hydroxybutyrate (BHB) assessment at approximately 7, 14, 21, and 28 days in milk (DIM), while gas emissions were monitored using GreenFeed from 3 to 28 DIM. Cows were classified as controls (CTR; n = 43) or hyperketonemic (HYK; n = 17) based on whether BHB reached ≥1.0 mmol/L at least once. Longitudinally, HYK cows exhibited higher CH4 production (+163.8 g/day), despite lower dry matter intake, alongside reduced CO2 (−1182 g/day) and H2 (−1.02 g/day) emissions. Higher CH4 intensity and CH4 yield were also observed in HYK cows. Temporal analyses revealed variations in CH4 emissions surrounding the first detected hyperketonemic event. Overall, these findings highlight an association between metabolic phenotype and enteric gas emissions during early lactation. Further studies are needed to clarify underlying mechanisms and establish generalizability.",
+   "authors": [
+    "Giorgia Taio",
+    "Anastasia Lisuzzo",
+    "Erminio Trevisi",
+    "Fiorenzo Piccioli-Cappelli",
+    "Francesca Arfuso",
+    "Elisabetta Giudice",
+    "Giulia Sisia",
+    "Federico Froldi",
+    "Francesca Cecchini",
+    "Matteo Gianesella",
+    "Michele Berlanda",
+    "Enrico Fiore"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233790",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 2.0,
+   "matched": [
+    "methane"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1186/s40104-026-01504-w",
    "title": "ZBED6 deletion activates FNDC1-mediated PI3K/AKT and MAPK/ERK1/2 signaling pathways to promote myogenesis in pigs",
    "abstract": "Background Myogenesis is a tightly regulated biological process that is essential for skeletal muscle growth, regeneration, and livestock production. Although the transcription factor ZBED6 is a key regulator of skeletal muscle development, the downstream molecular mechanisms through which it controls myogenesis remain incompletely understood. Here, using ZBED6-deficient pigs and primary porcine skeletal muscle satellite cells, we sought to identify novel downstream targets of ZBED6 and elucidate the molecular mechanisms underlying ZBED6-mediated regulation of myogenesis. Results By integrating transcriptomic, quantitative proteomic, and ChIP-seq datasets, we identified fibronectin type III domain-containing protein 1 (FNDC1), a muscle-derived secreted factor, as a previously unrecognized direct transcriptional target of ZBED6. ChIP-qPCR and dual-luciferase reporter assays showed that ZBED6 directly binds to the FNDC1 promoter and represses its transcription. Functional analyses in primary porcine skeletal muscle satellite cells showed that ZBED6 knockdown markedly promoted myoblast proliferation, differentiation, and myotube formation, whereas FNDC1 knockdown partially attenuated these effects. Conversely, FNDC1 overexpression partially rescued the impaired myogenesis caused by ZBED6 overexpression. Mechanistically, ZBED6 deficiency promoted porcine myoblast proliferation and differentiation, at least in part, through FNDC1 -mediated activation of the PI3K/AKT and MAPK/ERK1/2 signaling pathways. Consistently, pharmacological inhibition of either pathway significantly attenuated the enhanced porcine myoblast proliferation and differentiation induced by ZBED6 deficiency, supporting that activation of these signaling pathways contributes in part to the pro-myogenic effects mediated by the ZBED6-FNDC1 regulatory axis in porcine myoblasts. Conclusions This study identifies FNDC1 as a novel direct transcriptional target of ZBED6, supporting the ZBED6-FNDC1 axis as a regulatory mechanism contributing to porcine myoblast proliferation and differentiation. These findings expand the current understanding of the ZBED6 regulatory network and provide a cellular framework for future studies investigating skeletal muscle growth in vivo.",
@@ -12857,6 +13138,28 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233751",
+   "title": "Prevalence and Clinical Associations of Precontrast Renal Crest Hyperattenuation on Computed Tomography in Cats",
+   "abstract": "Precontrast renal crest hyperattenuation (RCH) on computed tomography (CT) has been documented in dogs but not in cats. This retrospective study aimed to determine the prevalence of RCH in cats undergoing abdominal CT and to assess its association with urine specific gravity (USG), urinary pH, proteinuria, nephrolithiasis, and chronic kidney disease (CKD) status. Precontrast abdominal CT images of 59 cats from two referral hospitals were reviewed. RCH was defined as increased precontrast attenuation of the renal crest in at least one kidney and was evaluated subjectively and by Hounsfield unit measurements. RCH was present in 61.0% of cats (36/59; 95% CI, 48.3–72.4), bilaterally in 29 and unilaterally in 7. Cats with RCH had a higher median USG than cats without RCH (1.042 [IQR, 1.022–1.050] vs. 1.023 [IQR, 1.018–1.035]; p = 0.003), and CKD was less frequent in RCH-positive (4/36; 11.1%) than in RCH-negative cats (10/23; 43.5%) (OR = 0.17; 95% CI, 0.03–0.71; p = 0.010); both variables remained associated with RCH after mutual adjustment in a multivariable model. RCH was not significantly associated with nephrolithiasis, urinary pH, or proteinuria. RCH is a common finding in cats, associated with higher USG and less frequent in cats with CKD, suggesting a possible relationship with urine concentration; however, it should not be interpreted as an independent indicator of normal renal function.",
+   "authors": [
+    "Luiza Bielawiec",
+    "Jimmy Saunders",
+    "Kaatje Kromhout",
+    "Luc Duchateau",
+    "Géraldine Bolen",
+    "Emmelie Stock"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233751",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233745",
    "title": "Spatial and Temporal Niche Partitioning of Sympatric Canids in the Eastern Qinghai–Tibet Plateau",
    "abstract": "Understanding how sympatric carnivores coexist in alpine ecosystems is essential for biodiversity conservation and wildlife management. This study investigated spatiotemporal niche differentiation among three sympatric canids, the Tibetan fox (Vulpes ferrilata), red fox (Vulpes vulpes), and wolf (Canis lupus), in Shiqu County on the eastern Qinghai–Tibet Plateau. Based on camera-trapping data from 267 camera traps deployed between June 2023 and June 2025 and field survey records, habitat suitability was predicted using MaxEnt models, while spatial niche overlap and diel activity patterns were assessed. The results showed that suitable habitat areas were 4273.55 km2 for Tibetan foxes, 9189.14 km2 for red foxes, and 7024.09 km2 for wolves. Spatial niche overlap was high among species pairs, with Schoener’s D and Hellinger’s I values of 0.710 and 0.929 between wolves and Tibetan foxes, 0.739 and 0.935 between wolves and red foxes, and 0.659 and 0.900 between Tibetan foxes and red foxes. Shared suitable habitats were mainly concentrated in the western and central regions of the study area. Temporal overlap (Δ4) varied among species pairs, with the highest overlap observed between wolves and Tibetan foxes (Δ4 = 0.761), followed by Tibetan foxes and red foxes (Δ4 = 0.699), whereas wolves and red foxes showed the lowest overlap (Δ4 = 0.500). Co-occurrence analyses further revealed asymmetric temporal responses: red foxes showed significant shifts in diel activity patterns when co-occurring with wolves (Δ4 = 0.778, p = 0.0215) and Tibetan foxes (Δ4 = 0.747, p = 0.0006), whereas wolves showed some variation in activity patterns when co-occurring with Tibetan foxes (Δ4 = 0.650, p = 0.1416), although this difference was not statistically significant. In contrast, Tibetan foxes maintained relatively stable activity patterns regardless of co-occurrence with wolves or red foxes (adjusted p &gt; 0.05). These results suggest that the three sympatric canids coexist through extensive spatial niche overlap combined with species-specific temporal differentiation, which may reduce direct interspecific competition. This study provides quantitative evidence for understanding coexistence mechanisms among alpine carnivores and offers valuable insights for wildlife conservation and zoonotic disease risk management on the Qinghai–Tibet Plateau.",
@@ -12872,28 +13175,6 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16233745",
-   "date": "2026-11-25",
-   "first_seen": "2026-11-26",
-   "score": 1.0,
-   "matched": [
-    "disease"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16233751",
-   "title": "Prevalence and Clinical Associations of Precontrast Renal Crest Hyperattenuation on Computed Tomography in Cats",
-   "abstract": "Precontrast renal crest hyperattenuation (RCH) on computed tomography (CT) has been documented in dogs but not in cats. This retrospective study aimed to determine the prevalence of RCH in cats undergoing abdominal CT and to assess its association with urine specific gravity (USG), urinary pH, proteinuria, nephrolithiasis, and chronic kidney disease (CKD) status. Precontrast abdominal CT images of 59 cats from two referral hospitals were reviewed. RCH was defined as increased precontrast attenuation of the renal crest in at least one kidney and was evaluated subjectively and by Hounsfield unit measurements. RCH was present in 61.0% of cats (36/59; 95% CI, 48.3–72.4), bilaterally in 29 and unilaterally in 7. Cats with RCH had a higher median USG than cats without RCH (1.042 [IQR, 1.022–1.050] vs. 1.023 [IQR, 1.018–1.035]; p = 0.003), and CKD was less frequent in RCH-positive (4/36; 11.1%) than in RCH-negative cats (10/23; 43.5%) (OR = 0.17; 95% CI, 0.03–0.71; p = 0.010); both variables remained associated with RCH after mutual adjustment in a multivariable model. RCH was not significantly associated with nephrolithiasis, urinary pH, or proteinuria. RCH is a common finding in cats, associated with higher USG and less frequent in cats with CKD, suggesting a possible relationship with urine concentration; however, it should not be interpreted as an independent indicator of normal renal function.",
-   "authors": [
-    "Luiza Bielawiec",
-    "Jimmy Saunders",
-    "Kaatje Kromhout",
-    "Luc Duchateau",
-    "Géraldine Bolen",
-    "Emmelie Stock"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233751",
    "date": "2026-11-25",
    "first_seen": "2026-11-26",
    "score": 1.0,
@@ -12921,6 +13202,121 @@
    "score": 1.0,
    "matched": [
     "bovine"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233794",
+   "title": "Longitudinal Plasma cfDNA and Genomic Profiling During Chemotherapy in Canine Multicentric Lymphoma: A Pilot Study",
+   "abstract": "Serial plasma DNA profiling offers a minimally invasive approach for investigating molecular changes during treatment of canine multicentric lymphoma. In this exploratory pilot study, longitudinal plasma cell-free DNA (cfDNA) concentrations and genomic variants were evaluated in seven dogs with B-cell multicentric lymphoma receiving a vincristine–L-asparaginase–doxorubicin-based chemotherapy protocol. Samples were collected before treatment (T0), approximately 7 days after treatment initiation (T1), and, when available, approximately 30 days after initiation (T2); one dog was additionally sampled at documented relapse (Tx). Targeted sequencing of 140 cancer-related genes was performed with matched buffy coat filtering and a 0.5% variant allele frequency (VAF) inclusion threshold. Longitudinal analysis tracked all eligible T0-defined plasma variants for each dog across subsequent samples. Five dogs contributed T0–T2 comparisons, and plasma cfDNA decreased in all five (10.4–99.9%; median decrease, 64.1%). Longitudinal variant trajectories also changed during treatment, with decreases in mean VAF of the baseline-defined variant set in several responding dogs. In the single relapse-associated sample, cfDNA increased by 755.6% relative to T2, accompanied by increases in several tracked variant signals and clinical progression. These observations support the feasibility of serial plasma genomic profiling and provide preliminary evidence that within-dog molecular changes can accompany clinical disease dynamics. Larger prospective cohorts with additional relapse sampling and tumor-matched or orthogonal molecular confirmation will be needed to determine the clinical monitoring value of these longitudinal molecular changes.",
+   "authors": [
+    "Feng-Ming Lin",
+    "Jia-Hui Lin",
+    "Szu-Hung Lu",
+    "Fang-Chi Hsieh",
+    "Kevin Chen",
+    "Yuan-Chieh Ku",
+    "Shang-Lin Wang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233794",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 1.0,
+   "matched": [
+    "disease"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233797",
+   "title": "Reference Intervals for Haematological and Biochemical Blood Parameters in One- and Twenty-One-Day-Old Piglets: Association with Farm, Sex and Dam Genotype",
+   "abstract": "Reference intervals (RIs) for haematological and biochemical parameters in neonatal piglets remain insufficiently characterised, particularly regarding the influence of farm conditions, sex and dam genotype. This study aimed to establish age-specific RIs for 19 blood parameters in one- and 21-day-old piglets and to investigate the associations of these factors and litter-level variability with the measured parameters. Blood samples were collected from piglets on three commercial farms on days 1 (n = 572) and 21 (n = 487) of life. RIs were calculated using a non-parametric method (2.5th–97.5th percentiles), with 90% confidence intervals. Differences between groups were evaluated using non-parametric tests and two-way analysis of variance based on litter means, while intraclass correlation coefficients (ICCs) were estimated to assess litter-related variability. Age-specific RIs were established for all 19 parameters, with notable differences in several haematological and biochemical profiles between sampling ages (RIs for leukocytes, erythrocytes, haemoglobin and total protein were 4.43–20.30 and 5.12–24.01 × 109/L, 2.41–5.92 and 3.52–7.64 × 1012/L, 40.75–105.85 and 43.04–145.45 g/L, and 39.00–76.68 and 45.36–89.42 g/L on days 1 and 21, respectively). Farm was significantly associated with 12 parameters on day 1 and 13 on day 21, whereas sex showed no significant association. Dam genotype affected alanine aminotransferase on day 21 and, marginally, aspartate aminotransferase on day 1 (p = 0.0495), and no farm × genotype interaction was detected. ICC values were ≥0.30 for five parameters at each age. These findings provide population-specific RIs for neonatal piglets and highlight the importance of considering age, farm conditions, litter effects and analytical platform when interpreting laboratory results in commercial pig production.",
+   "authors": [
+    "Mile Mirkov",
+    "Ivan Radović",
+    "Marko Cincović",
+    "Miroslava Polovinski Horvatović",
+    "Dejan Beuković"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233797",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 1.0,
+   "matched": [
+    "pig"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233789",
+   "title": "Comparative Effects of Coffee Pulp and Citrus Pectins on Safety, Nutrient Digestibility, and Fecal Microbiota in Adult Dogs",
+   "abstract": "Coffee pulp, a major by-product of coffee production, is a novel and sustainable source of dietary pectin. This study evaluated the safety of coffee pulp pectin (CP) compared with citrus pectin (CT) based on clinical parameters, nutrient digestibility, and fecal microbiota responses in healthy adult dogs. Thirty-two dogs were randomly assigned to four dietary treatments for 28 days: control, 1%CT, 2%CT, or 2%CP (n = 8/group). No adverse effects were observed following CP or CT supplementation (p &gt; 0.05). Alpha diversity remained unchanged, whereas beta diversity was significantly influenced by treatment (R2 = 0.049, p = 0.006) and sampling time (R2 = 0.066, p = 0.001). Selected bacterial taxa showed source-dependent differences. LEfSe identified Escherichia–Shigella as a bacterial biomarker in the coffee pulp pectin group, with no clinical abnormalities observed; however, its higher abundance at baseline suggests pre-existing differences rather than a supplementation effect. Bifidobacterium was identified as a biomarker in the 1%CT group and at day 14 in the 2%CT group. Despite distinct microbial responses compared with citrus pectin, CP was well tolerated without substantial changes in alpha diversity. These findings support coffee pulp as a promising novel and sustainable source of dietary pectin for canine nutrition.",
+   "authors": [
+    "Surangkhalak Khamma",
+    "Attawit Kovitvadhi",
+    "Preecha Patumcharoenpol",
+    "Sathita Areerat",
+    "Pipatpong Chundang",
+    "Nattaphong Akrimajirachoote",
+    "Urai Pongchairerk",
+    "Pornsucha Palaseweenun"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233789",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 1.0,
+   "matched": [
+    "nutrition"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233792",
+   "title": "Postpartum Uterine Health in Dairy Cows: Longitudinal Endometrial Expression Patterns and Exploratory Citrus-Flavonoid Target Analysis",
+   "abstract": "The postpartum bovine uterus undergoes extensive tissue remodeling following placental separation, tissue injury, and microbial exposure during calving [...]",
+   "authors": [
+    "Meihe Zhao",
+    "Jinghui Wang",
+    "Shuai Jiang",
+    "Liyin Du",
+    "Qinghua Deng",
+    "Jingdong Mao",
+    "Zhenwei Jia",
+    "Yuming Zhang"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233792",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 1.0,
+   "matched": [
+    "bovine"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233784",
+   "title": "Development of a Duplex TaqMan qPCR Method with MGB Probe for Differential Detection of Canine Parvovirus and Feline Panleukopenia Virus",
+   "abstract": "Canine parvovirus (CPV) and feline parvovirus (FPV) are important pathogens causing diarrhea and panleukopenia in dogs, cats, and wildlife, and their differential diagnosis is essential for comprehensive disease control. Existing MGB probe-based qPCR assays enable CPV/FPV differentiation but are poorly compatible with currently circulating strains, especially Asian-type CPV variants. Here, we developed an improved duplex MGB probe-based qPCR assay targeting a conserved G239A single nucleotide polymorphism in the VP2 gene. This assay exhibited high specificity, with no cross-reactivity against other major canine and feline pathogens, and broad inclusivity for diverse FPV strains and CPV subtypes. The 95% limits of detection were 10.45 copies/μL (31.35 copies/reaction) for CPV and 5.0 copies/μL (15.0 copies/reaction) for FPV, with both intra- and inter-assay coefficients of variation below 2%. Among 127 clinical samples tested, 34 canine CPV-positive, 6 feline CPV-positive, 29 feline FPV-positive, and 1 feline co-infection case were identified. VP2 gene sequencing verified the assay’s accurate differentiation performance. Phylogenetic analysis revealed FPV-G1 (harboring 91Ser) and Asian-type CPV-2c (harboring 267Tyr, 324Ile and 370Arg) as the dominant circulating strains in this survey. This rapid, sensitive, specific, and reliable method shows substantial potential for epidemiological investigation and differential diagnosis of CPV and FPV.",
+   "authors": [
+    "Jiangting Niu",
+    "Wei Li",
+    "Dan Wu",
+    "Baishuang Yin",
+    "Wei Lian",
+    "Han Zhao",
+    "Shushuai Yi"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233784",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 1.0,
+   "matched": [
+    "disease"
    ],
    "abstract_zh": ""
   },
@@ -17142,6 +17538,47 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.3390/ani16233748",
+   "title": "Diet Composition and Forage Selectivity of Creole Goats Across Five Herd-Grazing Territories in a Peruvian Semi-Arid Andean Shrubland",
+   "abstract": "This study assessed the relative effect of animal-intrinsic factors (AIF, age category, body condition, and height at withers) and herd-grazing territory (HGT) on botanical composition of the diet (BCD) and forage selectivity of Creole goats in a semi-arid Andean shrubland of Peru. The BCD employed a microhistological technique using fecal samples from 40 non-gestating goats (five herds). Distance-based redundancy analysis and Permutational multivariate analysis of variance (PERMANOVA) were utilized. The Jacobs selectivity index was calculated using a mixed linear model. The AIF and HGT explained 31.8% of the variation in BCD, with predominant variation in HGT (p &lt; 0.01). PERMANOVA confirmed that BCD differed significantly among HGTs (p &lt; 0.01), but not among the AIF (p &gt; 0.05). Vachellia macracantha obtained the highest frequency of occurrence (100%) and relative contribution (46.96%) to the diet, followed by Croton collinus (97.5%; 16.96%), Senna incarnata (97.5%; 6.79%), Bouteloua disticha (82.5%; 5.70%), and Chloris radiata (80.0%; 5.41%). Vachellia macracantha obtained positive selectivity indices (0.31–0.86), while Croton collinus (−0.60 to −0.22) and Senna incarnata (−0.67 to −0.26) remained negative. In conclusion, diet composition differed among HG, but we detected no significant associations with the measured animal-intrinsic factors.",
+   "authors": [
+    "Jorge Salinas-Marcos",
+    "Deysi Ruiz-Llontop",
+    "José Antonio Haro-Reyes",
+    "José Millan-Ramírez",
+    "Lucinda Tafur-Gutiérrez",
+    "José Ruiz-Chamorro",
+    "Juancarlos Cruz-Luis",
+    "Danny Julio Cruz"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233748",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233753",
+   "title": "Potency-Informed Fixed-Ratio Phytochemical Formulations Enhance Antioxidant Activity and Attenuate Inflammatory Injury Across Cellular and Ex Vivo Equine Whole-Blood Models",
+   "abstract": "Oxidative stress and inflammation contribute to cellular damage. This study developed two phytochemical formulations with fixed ratios—based on the experimentally determined potencies of their constituents—and evaluated their antioxidant, cytoprotective, and anti-inflammatory effects. Formulation A combined a preparation of Lycium barbarum fruit, an extract of Punica granatum fruit, and reduced glutathione, while Formulation B contained an extract of Silybum marianum seeds, an extract of Cynara scolymus leaves, and reduced glutathione. The proportions of the constituents were established using half-maximal inhibitory concentrations (IC50) derived from an intracellular reactive oxygen species assay. Combination index analysis, supported by an assessment based on the Bliss independence model, indicated predominantly synergistic interactions at low-to-intermediate effect levels, which approached additivity at higher concentrations. Both formulations reduced oxidative damage, membrane damage, apoptosis-related responses, and the expression of inflammatory mediators in L929 fibroblasts treated with hydrogen peroxide or lipopolysaccharide. In HepG2 cells exposed to ethanol, they reduced oxidative stress, lipid peroxidation, the nuclear translocation of the nuclear factor kappa B (NF-κB) p65 subunit, and pro-inflammatory responses, while partially restoring interleukin-10 levels. In an exploratory model using equine whole blood, both formulations reduced oxidative responses induced by hydrogen peroxide and attenuated the lipopolysaccharide-associated increases in prostaglandin E2, tumor necrosis factor-alpha, and myeloperoxidase. These findings support the design of potency-based formulations as a strategy to enhance the protective effects of phytochemical combinations in cellular and ex vivo models, while further studies are required to establish safety and efficacy in vivo.",
+   "authors": [
+    "Gianluca Antonio Franco",
+    "Claudia Caratozzolo",
+    "Francesca Inferrera",
+    "Rosalia Crupi",
+    "Enrico Gugliandolo"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233753",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-26",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.3390/ani16233752",
    "title": "Effects of Fishmeal Replacement with Corn Gluten Meal on Growth, Feed Utilization, Nutrient Composition, Serum Biochemistry, Digestive Enzyme Activities and Intestinal Morphology in Juvenile Hybrid Sturgeon (Huso dauricus ♀ × Acipenser schrenckii ♂)",
    "abstract": "Sturgeon feeds depend heavily on fishmeal (FM), and cheaper plant-protein alternatives are needed. This study evaluated graded replacement of dietary FM with corn gluten meal (CGM), supplemented with crystalline lysine and arginine, in juvenile hybrid sturgeon (Huso dauricus ♀ × Acipenser schrenckii ♂). Fish (130.09 ± 0.71 g) were fed for 8 weeks with five isonitrogenous and isolipidic diets in which 0%, 15%, 30%, 45%, or 60% of dietary FM was replaced by CGM (CGM0–CGM60; three tanks per diet). Weight gain rate and specific growth rate (SGR) responded quadratically and were highest in CGM45, whereas feed intake was unaffected. Protein retention rate, serum superoxide dismutase activity and malondialdehyde concentration showed quadratic responses, with the most favourable values in CGM30. Serum low-density lipoprotein cholesterol decreased linearly. Mid-intestinal villus height and muscle layer thickness decreased linearly (p &lt; 0.05), by about 32% at 30% replacement, whereas goblet cell number per villus was unaffected. Quadratic regression placed maximum SGR at about 32% replacement (95% CI 25–39%). Under these conditions, supplemented CGM replaced up to 30% of dietary FM without impairing growth or feed utilization, but intestinal morphology was not significantly altered, only at 15%, and replacement above 45% is not recommended.",
@@ -17178,28 +17615,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233748",
-   "title": "Diet Composition and Forage Selectivity of Creole Goats Across Five Herd-Grazing Territories in a Peruvian Semi-Arid Andean Shrubland",
-   "abstract": "This study assessed the relative effect of animal-intrinsic factors (AIF, age category, body condition, and height at withers) and herd-grazing territory (HGT) on botanical composition of the diet (BCD) and forage selectivity of Creole goats in a semi-arid Andean shrubland of Peru. The BCD employed a microhistological technique using fecal samples from 40 non-gestating goats (five herds). Distance-based redundancy analysis and Permutational multivariate analysis of variance (PERMANOVA) were utilized. The Jacobs selectivity index was calculated using a mixed linear model. The AIF and HGT explained 31.8% of the variation in BCD, with predominant variation in HGT (p &lt; 0.01). PERMANOVA confirmed that BCD differed significantly among HGTs (p &lt; 0.01), but not among the AIF (p &gt; 0.05). Vachellia macracantha obtained the highest frequency of occurrence (100%) and relative contribution (46.96%) to the diet, followed by Croton collinus (97.5%; 16.96%), Senna incarnata (97.5%; 6.79%), Bouteloua disticha (82.5%; 5.70%), and Chloris radiata (80.0%; 5.41%). Vachellia macracantha obtained positive selectivity indices (0.31–0.86), while Croton collinus (−0.60 to −0.22) and Senna incarnata (−0.67 to −0.26) remained negative. In conclusion, diet composition differed among HG, but we detected no significant associations with the measured animal-intrinsic factors.",
-   "authors": [
-    "Jorge Salinas-Marcos",
-    "Deysi Ruiz-Llontop",
-    "José Antonio Haro-Reyes",
-    "José Millan-Ramírez",
-    "Lucinda Tafur-Gutiérrez",
-    "José Ruiz-Chamorro",
-    "Juancarlos Cruz-Luis",
-    "Danny Julio Cruz"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233748",
-   "date": "2026-11-25",
-   "first_seen": "2026-11-26",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16233750",
    "title": "Acid–Base, Electrolyte, and Echocardiographic Profiles in Cats with Stage C Hypertrophic Cardiomyopathy and Their Association with Cardiac Mortality",
    "abstract": "This study compared venous blood gas, lactate, and electrolyte profiles between healthy cats and cats with Stage C hypertrophic cardiomyopathy (HCM) and investigated their relationships with echocardiographic findings and three-month cardiac mortality. Fifty client-owned cats (40 with Stage C HCM and cardiogenic pulmonary edema; 10 healthy controls) were prospectively enrolled. Laboratory and echocardiographic variables were compared between groups, and factors associated with mortality were evaluated. Cats with HCM had lower venous pH and higher PvCO2 than controls, whereas other laboratory variables did not differ significantly. Left atrial enlargement, impaired diastolic indices, and higher LVOT Vmax were observed in HCM cats, while no laboratory–echocardiographic correlations remained significant after correction for multiple comparisons. Fourteen cats died of cardiac causes during follow-up, and arterial thromboembolism (ATE) was associated with higher mortality (OR, 7.56; p = 0.007). In the primary multivariable model, lower HCO3− and higher LVOT Vmax were associated with mortality. After adjustment for concurrent ATE, LVOT Vmax remained associated with mortality (p = 0.007), whereas the association with HCO3− was attenuated (p = 0.067). Cats with Stage C HCM exhibited altered venous pH and PvCO2, while HCO3− showed an ATE-dependent association with mortality and LVOT Vmax remained a potentially useful prognostic indicator.",
@@ -17215,25 +17630,6 @@
    ],
    "journal": "Animals",
    "url": "https://doi.org/10.3390/ani16233750",
-   "date": "2026-11-25",
-   "first_seen": "2026-11-26",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.3390/ani16233753",
-   "title": "Potency-Informed Fixed-Ratio Phytochemical Formulations Enhance Antioxidant Activity and Attenuate Inflammatory Injury Across Cellular and Ex Vivo Equine Whole-Blood Models",
-   "abstract": "Oxidative stress and inflammation contribute to cellular damage. This study developed two phytochemical formulations with fixed ratios—based on the experimentally determined potencies of their constituents—and evaluated their antioxidant, cytoprotective, and anti-inflammatory effects. Formulation A combined a preparation of Lycium barbarum fruit, an extract of Punica granatum fruit, and reduced glutathione, while Formulation B contained an extract of Silybum marianum seeds, an extract of Cynara scolymus leaves, and reduced glutathione. The proportions of the constituents were established using half-maximal inhibitory concentrations (IC50) derived from an intracellular reactive oxygen species assay. Combination index analysis, supported by an assessment based on the Bliss independence model, indicated predominantly synergistic interactions at low-to-intermediate effect levels, which approached additivity at higher concentrations. Both formulations reduced oxidative damage, membrane damage, apoptosis-related responses, and the expression of inflammatory mediators in L929 fibroblasts treated with hydrogen peroxide or lipopolysaccharide. In HepG2 cells exposed to ethanol, they reduced oxidative stress, lipid peroxidation, the nuclear translocation of the nuclear factor kappa B (NF-κB) p65 subunit, and pro-inflammatory responses, while partially restoring interleukin-10 levels. In an exploratory model using equine whole blood, both formulations reduced oxidative responses induced by hydrogen peroxide and attenuated the lipopolysaccharide-associated increases in prostaglandin E2, tumor necrosis factor-alpha, and myeloperoxidase. These findings support the design of potency-based formulations as a strategy to enhance the protective effects of phytochemical combinations in cellular and ex vivo models, while further studies are required to establish safety and efficacy in vivo.",
-   "authors": [
-    "Gianluca Antonio Franco",
-    "Claudia Caratozzolo",
-    "Francesca Inferrera",
-    "Rosalia Crupi",
-    "Enrico Gugliandolo"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233753",
    "date": "2026-11-25",
    "first_seen": "2026-11-26",
    "score": 0.0,
@@ -17300,27 +17696,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.3390/ani16233769",
-   "title": "Urination Behaviour of Dairy Cows Grazing Standard and Diverse Pastures Under Contemporary and Regenerative Management in Spring",
-   "abstract": "Urinary nitrogen (UN) is the primary source of nitrogen (N) leaching from dairy grazing systems in New Zealand (NZ). This pilot study aimed to evaluate the urination behaviour of dairy cows grazing on three different pasture farmlets: standard pasture under contemporary management (Std-Con), diverse pasture under regenerative management (Div-Reg), and diverse pasture under contemporary management (Div-Con), with each pasture farmlet represented by a single farmlet. The study took place on Massey University Dairy Farm 1 in Palmerston North, NZ, during spring 2024. There were 30, 24, and 24 cows in Std-Con, Div-Reg, and Div-Con farmlets, respectively, corresponding to stocking rates of 2.5, 2.0, and 2.0 cows per ha. Cows were milked once daily and rotationally grazed on pasture without supplementation during the trial period. The concentrations of UN, ammonia and uric acid in spot urine samples of the individual cows were measured on the first day of the trial, whereas urination frequency and volume were monitored continuously over 4 consecutive days from 21 to 24 October using lightweight, non-invasive acoustic sensors on 77 cows. The results indicated that cows had an average of 12.64 ± 2.97 urination events within a 24 h period, with an average urination volume of 3.04 ± 0.09 L/event across the three farmlets. The results from one-spot urine samples indicated that the observed mean UN concentration was 0.27%, with values ranging from 0.26% to 0.28% across the three monitored farmlets. While this pilot study provides preliminary information on the urination behaviour of dairy cows grazing under different pasture farmlets in spring, further studies across seasons and multiple urine collections are essential to better understand dairy cows’ urination characteristics and their implications for environmental N losses.",
-   "authors": [
-    "Nguyen Thi Mui",
-    "Nicholas W. Sneddon",
-    "Daniel J. Donaghy",
-    "Amelia Almeida",
-    "Lucy L. Burkitt",
-    "Samuel S. Wilson",
-    "Andrew D. Cartmill"
-   ],
-   "journal": "Animals",
-   "url": "https://doi.org/10.3390/ani16233769",
-   "date": "2026-11-26",
-   "first_seen": "2026-11-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.3390/ani16233766",
    "title": "Peritoneal Epithelioid Mesothelioma in a Virginia Opossum (Didelphis virginiana) from Wisconsin, USA",
    "abstract": "Reports of neoplasia in wildlife are increasing. Here, we present a unique case of an epithelioid mesothelioma with cutaneous metastasis in a Virginia opossum (Didelphis virginiana) from Wisconsin, USA diagnosed via necropsy, histopathology, and immunohistochemistry. Significant gross findings included the absence of subcutaneous, visceral, peri-renal and epicardial adipose stores, subcutaneous edema, ascites, shaggy to nodular tan material on the surface of the diaphragm, abdominal wall, omentum, mesentery, liver, spleen, kidney and adrenal glands, a 7.5 cm × 4 cm cutaneous mass on the left flank and enlarged abdominal lymph nodes. Histopathology showed neoplastic mesothelial cells in the diaphragm, spleen, liver, kidney, adrenal gland, mesentery, lymph node, and skin. Neoplastic cells showed immunoreactivity with calretinin, Wilms’ tumor 1, cytokeratin AE1/AE3 and vimentin V9. The spread of the neoplasm to the skin likely occurred through the abdominal wall. Though exposure to asbestos is associated with mesothelioma in humans, its role in the development of mesothelioma in wildlife is not well understood. This report adds to the species range of mesotheliomas in wildlife and to the literature describing neoplasia in opossums.",
@@ -17378,6 +17753,113 @@
    "url": "https://doi.org/10.3390/ani16233776",
    "date": "2026-11-26",
    "first_seen": "2026-11-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233769",
+   "title": "Urination Behaviour of Dairy Cows Grazing Standard and Diverse Pastures Under Contemporary and Regenerative Management in Spring",
+   "abstract": "Urinary nitrogen (UN) is the primary source of nitrogen (N) leaching from dairy grazing systems in New Zealand (NZ). This pilot study aimed to evaluate the urination behaviour of dairy cows grazing on three different pasture farmlets: standard pasture under contemporary management (Std-Con), diverse pasture under regenerative management (Div-Reg), and diverse pasture under contemporary management (Div-Con), with each pasture farmlet represented by a single farmlet. The study took place on Massey University Dairy Farm 1 in Palmerston North, NZ, during spring 2024. There were 30, 24, and 24 cows in Std-Con, Div-Reg, and Div-Con farmlets, respectively, corresponding to stocking rates of 2.5, 2.0, and 2.0 cows per ha. Cows were milked once daily and rotationally grazed on pasture without supplementation during the trial period. The concentrations of UN, ammonia and uric acid in spot urine samples of the individual cows were measured on the first day of the trial, whereas urination frequency and volume were monitored continuously over 4 consecutive days from 21 to 24 October using lightweight, non-invasive acoustic sensors on 77 cows. The results indicated that cows had an average of 12.64 ± 2.97 urination events within a 24 h period, with an average urination volume of 3.04 ± 0.09 L/event across the three farmlets. The results from one-spot urine samples indicated that the observed mean UN concentration was 0.27%, with values ranging from 0.26% to 0.28% across the three monitored farmlets. While this pilot study provides preliminary information on the urination behaviour of dairy cows grazing under different pasture farmlets in spring, further studies across seasons and multiple urine collections are essential to better understand dairy cows’ urination characteristics and their implications for environmental N losses.",
+   "authors": [
+    "Nguyen Thi Mui",
+    "Nicholas W. Sneddon",
+    "Daniel J. Donaghy",
+    "Amelia Almeida",
+    "Lucy L. Burkitt",
+    "Samuel S. Wilson",
+    "Andrew D. Cartmill"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233769",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233799",
+   "title": "Influence of Different Dissolved Oxygen Regimes on Embryonic Developmental Timing and Egg Morphometry in Striped Catfish Pangasianodon hypophthalmus",
+   "abstract": "Dissolved oxygen (DO) has been identified as one of the most significant and poorly controlled incubation variables in fish hatcheries. The objective of this study was to compare the effects of four incubation systems with varying DO concentrations on embryonic development of Pangasianodon hypophthalmus. Eggs from hormonally induced spawns were subjected to incubation under four different dissolved oxygen (DO) regimes: T1 (4.51 ± 0.46 mg L−1), T2 (5.46 ± 0.08 mg L−1), T3 (7.39 ± 0.07 mg L−1), and T4 (8.12 ± 0.10 mg L−1). No significant differences were observed between the treatments in terms of temperature, pH, or conductivity. However, it is possible that differences in incubation system configuration may have contributed to the developmental responses observed. The development of the subjects was significantly delayed by higher DO levels, as evidenced by the T1 group hatching at 1841 ± 24 min, while the T4 group hatched at 2186 ± 5 min. In contrast, elevated DO levels resulted in significant increases in egg diameter, volume, and surface area, with increases of up to 46%, 215%, and 114%, respectively. These findings are consistent with increased perivitelline hydration, although water uptake and gas-exchange efficiency were not measured in this study. All treatments exhibited developmental abnormalities, indicating that oxygen is not the sole morphogenetic stressor. The findings revealed discrepancies in embryonic development and egg morphometry between the various incubation systems with differing dissolved oxygen levels. This will facilitate evidence-based hatchery management. The aerated hatching jar system (T4; 7.99–8.27 mg L−1) yielded the largest eggs and the slowest development in the four systems that were tested. The findings of this study provide a valuable foundation for the enhancement of hatchery incubation operations. However, further validation is required to ensure the robustness of the conclusions.",
+   "authors": [
+    "Maryam Nadeem",
+    "Farwa Arif",
+    "Saeed Akram Khan",
+    "Shahid Sherzada",
+    "Amina Ayub",
+    "Muhammad Saad Sattar",
+    "Muhammad Mahd Nazir",
+    "Rabia Yaseen",
+    "Abdallah Tageldein Mansour",
+    "Sania Riaz",
+    "Talib Hussain",
+    "Muhammad Bilal Bhatti",
+    "Dariusz Kucharczyk",
+    "Joanna Nowosad"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233799",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233796",
+   "title": "Nonlinear Dynamics of a Transboundary Arctic Polar Bear Population Under Habitat Change and Harvesting",
+   "abstract": "A nonlinear differential equation model is developed for the Chukchi Sea polar bear (Ursus maritimus) subpopulation using published population-specific demographic estimates. The initial population size is assumed to be 2937 bears. Two demographic parameterizations (rMNPL = 0.02 and 0.04 yr−1 at maximum net productivity) are mapped to a theta-logistic model; relative density at that point (xMNPL) determines its shape, and rMNPL sets its intrinsic growth scale. Harvest is represented as a constant annual number of bears, assumed to be demographically representative, while habitat deterioration reduced environmental carrying capacity. At the reference harvest of 44.4 bears yr−1 and a 3% decline in carrying capacity per decade, the population after 35 years numbered 3171 bears in the lower-growth case and 3614 bears in the higher-growth case; under a 9% decline, the corresponding values are 2720 and 2950 bears. Increasing habitat deterioration from 3% to 9% reduced the harvest threshold for returning to the initial population size from 54.5 to 20.0 bears yr−1 and from 109.0 to 47.1 bears yr−1, respectively; the lower-growth 9%-decline threshold is additionally sensitive to the calibration target, ranging from 20.0 to 35.9 bears yr−1 depending on whether θ is calibrated to the published relative density or to the published growth-rate ratio. Sensitivity analyses identified growth at maximum net productivity and initial relative density (N0/K0) as important determinants. These thresholds are conditional deterministic outputs of the reference calibration and a representative-harvest assumption; they apply only to the modelled scenarios and should not be interpreted as sustainable-harvest levels or management recommendations.",
+   "authors": [
+    "Evgeniia Lavrenteva",
+    "Michael Binns"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233796",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233785",
+   "title": "Histological Structure and Cytomorphometric Characteristics of the Heart of the African Sharptooth Catfish (Clarias gariepinus)",
+   "abstract": "The histological organization of the heart of the African sharptooth catfish (Clarias gariepinus) remains insufficiently characterized. This study examined the atrial and ventricular myocardium of ten sexually mature, clinically healthy females using hematoxylin-and-eosin-stained sections and morphometric analysis. Results are expressed as mean ± standard error (n = 10 fish). The ventricular myocardium exhibited a predominantly spongy, trabecular architecture with interconnected muscular bundles. Small-, medium-, and large-caliber bundles measured 26.13 ± 3.02, 42.37 ± 1.30, and 63.07 ± 1.70 μm, respectively. Separately assessed estimates of muscle and connective tissue representation were 72.03 ± 1.14% and 28.60 ± 1.55%, respectively; these values were not normalized as complementary fractions of a common myocardial area. Cardiomyocyte widths across three descriptive size categories were 7.63 ± 0.46, 11.27 ± 0.43, and 12.90 ± 0.38 μm; corresponding calculated nuclear volumes were 42.13 ± 1.74, 52.07 ± 2.11, and 66.90 ± 2.72 μm3. The atrial myocardium was thinner and more loosely organized, with spindle-shaped cells and cells exhibiting sarcoplasmic vacuolization. Their functional identity could not be established using routine histology. These findings provide baseline cardiac morphometric data for future comparative studies.",
+   "authors": [
+    "Leonid Horalskyi",
+    "Oleksandr Ovdiiuk",
+    "Ruslana Romaniuk",
+    "Bogdan Gutyj",
+    "Maksym Rahulia",
+    "Olena Honcharova",
+    "Viktor Brygadyrenko",
+    "Tetiana Martyshuk",
+    "Vasyl Poliukhovych",
+    "Vasyl Todoriuk"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233785",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.3390/ani16233783",
+   "title": "The Cost Implications of Feeding Dogs Plant-Based Versus Meat-Based Dry Commercial Diets in the United Kingdom",
+   "abstract": "Plant-based dog food is sometimes costlier than meat-based food. This can be a barrier to adoption. However, some studies report that dogs fed commercial plant-based diets have a lower prevalence of illness indicators, which could mean lower veterinary expenditure. This study calculated the average combined (diet and illness) annual costs to UK pet carers of feeding meat-based and plant-based dry canine diets. To our knowledge, this is the first study to apply the cost-of-illness framework to compare pet diets. The annual cost of a plant-based dry diet for a medium-sized dog (£475.94) exceeded that of a meat-based dry diet (£306.91) by £169.03 (55%). Prevalence data for three illness indicators (veterinary visits, non-routine medication usage, and reported veterinary health assessment) were drawn from a prior survey which included 1706 dogs fed conventional meat-based or plant-based diets. Illness costs were then calculated using two proxies: (1) combining veterinary visits and medication usage, and (2) using veterinary assessment of being unwell. Accounting for these illness cost differentials (£45.31 and £198.78 respectively) reduced the plant-based cost premium from £3.24 to £2.37 per week, or reversed it to £0.57 per week, in favour of plant-based diets. Hence, once potential reductions in veterinary costs are accounted for, the effective cost premium of plant-based canine diets fell to around half the price of a coffee per week, or reversed entirely, depending on the method used to calculate veterinary costs associated with illness.",
+   "authors": [
+    "Billy Nicholles",
+    "Anastasia Pseiridis",
+    "Alexander Bauer",
+    "Andrew Knight"
+   ],
+   "journal": "Animals",
+   "url": "https://doi.org/10.3390/ani16233783",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-28",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
